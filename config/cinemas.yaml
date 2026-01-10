@@ -1,0 +1,30 @@
+# Polish cinema chains to scrape
+cinemas:
+  - name: Multikino
+    base_url: https://multikino.pl
+    enabled: true
+
+  - name: Cinema City
+    base_url: https://www.cinema-city.pl
+    enabled: true
+
+  - name: Helios
+    base_url: https://www.helios.pl
+    enabled: true
+
+  - name: Kino Muranów
+    base_url: https://kinomuranow.pl
+    enabled: false
+
+  - name: Kino Atlantic
+    base_url: https://kinoatlantic.pl
+    enabled: false
+
+# Cities to scrape by default
+default_cities:
+  - Warszawa
+  - Kraków
+  - Wrocław
+  - Poznań
+  - Gdańsk
+  - Łódź
