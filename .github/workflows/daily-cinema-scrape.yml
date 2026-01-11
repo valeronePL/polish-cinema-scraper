@@ -73,7 +73,8 @@ jobs:
         run: |
           mkdir -p ~/.config/gspread
           echo "$GOOGLE_SERVICE_ACCOUNT" > ~/.config/gspread/service_account.json
-          python3 src/sheets_updater.py --csv data/daily/*.csv
+          CSV_FILE=$(ls -t data/daily/*.csv | head -1)
+          python3 src/sheets_updater.py --csv "$CSV_FILE"
 
       - name: Generate summary
         run: |
