@@ -67,7 +67,6 @@ jobs:
           mv cinema_data/*.csv data/daily/ 2>/dev/null || true
 
       - name: Update Google Sheets
-        if: ${{ secrets.GOOGLE_SERVICE_ACCOUNT && secrets.GOOGLE_SPREADSHEET_ID }}
         env:
           GOOGLE_SERVICE_ACCOUNT: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
           GOOGLE_SPREADSHEET_ID: ${{ secrets.GOOGLE_SPREADSHEET_ID }}
