@@ -103,9 +103,7 @@ jobs:
             echo "No changes to commit"
           else
             COMMIT_DATE=$(date +%Y-%m-%d)
-            git commit -m "📊 Daily scrape: $COMMIT_DATE
-
-Co-Authored-By: GitHub Actions <actions@github.com>"
+            git commit -m "Daily scrape: $COMMIT_DATE"
             git push
           fi
 
