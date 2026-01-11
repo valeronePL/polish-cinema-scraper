@@ -9,12 +9,27 @@ venv/
 # Data
 data/*.json
 data/*.csv
+cinema_data/
 *.db
+
+# Credentials (never commit!)
+service_account.json
+*credentials*.json
 
 # IDE
 .idea/
 .vscode/
 *.swp
+
+# macOS
+.DS_Store
+
+# Local tools
+.beads/
+.claude-flow/
+
+# Excel exports (use CSV/JSON instead)
+*.xlsx
 
 # Testing
 .pytest_cache/

@@ -1,0 +1,118 @@
+# .github/workflows/daily-cinema-scrape.yml
+# Automated daily scraping of Polish cinema schedules from kino.coigdzie.pl
+# Runs at 6:00 AM CET (5:00 AM UTC) every day
+
+name: Daily Cinema Scrape
+
+on:
+  schedule:
+    # Every day at 5:00 AM UTC (6:00 AM CET)
+    - cron: '0 5 * * *'
+
+  workflow_dispatch:
+    inputs:
+      date:
+        description: 'Specific date (YYYY-MM-DD), leave empty for today'
+        required: false
+        default: ''
+
+concurrency:
+  group: cinema-scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests beautifulsoup4 pandas lxml gspread
+
+      - name: Create data directories
+        run: mkdir -p data/daily cinema_data
+
+      - name: Run cinema scraper
+        id: scrape
+        working-directory: ${{ github.workspace }}
+        env:
+          PYTHONPATH: src
+          INPUT_DATE: ${{ github.event.inputs.date }}
+        run: |
+          if [ -z "$INPUT_DATE" ]; then
+            SCRAPE_DATE=$(date +%Y-%m-%d)
+          else
+            SCRAPE_DATE="$INPUT_DATE"
+          fi
+          echo "Scraping for date: $SCRAPE_DATE"
+          echo "scrape_date=$SCRAPE_DATE" >> "$GITHUB_OUTPUT"
+
+          python3 src/kino_scraper_v2.py
+
+          # Move outputs to data folder
+          mv cinema_data/*.json data/daily/ 2>/dev/null || true
+          mv cinema_data/*.csv data/daily/ 2>/dev/null || true
+
+      - name: Update Google Sheets
+        if: ${{ secrets.GOOGLE_SERVICE_ACCOUNT && secrets.GOOGLE_SPREADSHEET_ID }}
+        env:
+          GOOGLE_SERVICE_ACCOUNT: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
+          GOOGLE_SPREADSHEET_ID: ${{ secrets.GOOGLE_SPREADSHEET_ID }}
+        run: |
+          mkdir -p ~/.config/gspread
+          echo "$GOOGLE_SERVICE_ACCOUNT" > ~/.config/gspread/service_account.json
+          python3 src/sheets_updater.py --csv data/daily/*.csv
+
+      - name: Generate summary
+        run: |
+          echo "## 🎬 Cinema Scrape Summary" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+
+          CSV_FILE=$(ls data/daily/*.csv 2>/dev/null | head -1)
+          if [ -f "$CSV_FILE" ]; then
+            ROWS=$(wc -l < "$CSV_FILE")
+            CITIES=$(cut -d',' -f3 "$CSV_FILE" | tail -n +2 | sort -u | wc -l)
+            MOVIES=$(cut -d',' -f4 "$CSV_FILE" | tail -n +2 | sort -u | wc -l)
+            echo "| Metric | Count |" >> "$GITHUB_STEP_SUMMARY"
+            echo "|--------|-------|" >> "$GITHUB_STEP_SUMMARY"
+            echo "| Screenings | $ROWS |" >> "$GITHUB_STEP_SUMMARY"
+            echo "| Cities | $CITIES |" >> "$GITHUB_STEP_SUMMARY"
+            echo "| Movies | $MOVIES |" >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Commit results
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+
+          git add data/
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            COMMIT_DATE=$(date +%Y-%m-%d)
+            git commit -m "📊 Daily scrape: $COMMIT_DATE
+
+Co-Authored-By: GitHub Actions <actions@github.com>"
+            git push
+          fi
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: cinema-data-${{ steps.scrape.outputs.scrape_date }}
+          path: data/daily/
+          retention-days: 90
