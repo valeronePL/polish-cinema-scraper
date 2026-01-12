@@ -1,5 +1,9 @@
 # .github/workflows/daily-cinema-scrape.yml
-# Automated daily scraping of Polish cinema schedules from kino.coigdzie.pl
+# Automated daily scraping of Polish cinema schedules
+# Sources:
+#   - kino.coigdzie.pl (aggregator - all chains)
+#   - helios.pl (special events: pre-premieres, kids)
+#   - Cinema City API (official API with seat availability)
 # Runs at 6:00 AM CET (5:00 AM UTC) every day
 
 name: Daily Cinema Scrape
@@ -23,7 +27,7 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     permissions:
       contents: write
 
@@ -47,24 +51,50 @@ jobs:
       - name: Create data directories
         run: mkdir -p data/daily cinema_data
 
-      - name: Run cinema scraper
-        id: scrape
-        working-directory: ${{ github.workspace }}
-        env:
-          PYTHONPATH: src
-          INPUT_DATE: ${{ github.event.inputs.date }}
+      - name: Determine scrape date
+        id: date
         run: |
-          if [ -z "$INPUT_DATE" ]; then
+          if [ -z "${{ github.event.inputs.date }}" ]; then
             SCRAPE_DATE=$(date +%Y-%m-%d)
           else
-            SCRAPE_DATE="$INPUT_DATE"
+            SCRAPE_DATE="${{ github.event.inputs.date }}"
           fi
           echo "Scraping for date: $SCRAPE_DATE"
           echo "scrape_date=$SCRAPE_DATE" >> "$GITHUB_OUTPUT"
 
+      - name: Run main scraper (kino.coigdzie.pl)
+        working-directory: ${{ github.workspace }}
+        env:
+          PYTHONPATH: src
+        run: |
+          echo "🎬 Scraping kino.coigdzie.pl..."
           python3 src/kino_scraper_v2.py
 
-          # Move outputs to data folder
+      - name: Run Helios events scraper
+        working-directory: ${{ github.workspace }}
+        env:
+          PYTHONPATH: src
+        run: |
+          echo "🎭 Scraping Helios special events..."
+          python3 src/helios_scraper.py || echo "Helios scraper completed with warnings"
+
+      - name: Run Cinema City API scraper
+        working-directory: ${{ github.workspace }}
+        env:
+          PYTHONPATH: src
+        run: |
+          echo "🎬 Scraping Cinema City API..."
+          python3 src/cinema_city_scraper.py || echo "Cinema City scraper completed with warnings"
+
+      - name: Merge all cinema data
+        working-directory: ${{ github.workspace }}
+        env:
+          PYTHONPATH: src
+        run: |
+          echo "🔄 Merging data sources..."
+          python3 src/merge_and_update.py --dates ${{ steps.date.outputs.scrape_date }} --no-sheets
+
+          # Move merged output to data/daily
           mv cinema_data/*.json data/daily/ 2>/dev/null || true
           mv cinema_data/*.csv data/daily/ 2>/dev/null || true
 
@@ -75,24 +105,45 @@ jobs:
         run: |
           mkdir -p ~/.config/gspread
           echo "$GOOGLE_SERVICE_ACCOUNT" > ~/.config/gspread/service_account.json
-          CSV_FILE=$(ls -t data/daily/*.csv | head -1)
-          python3 src/sheets_updater.py --csv "$CSV_FILE"
+
+          # Find the merged CSV for today
+          SCRAPE_DATE=${{ steps.date.outputs.scrape_date }}
+          CSV_FILE="data/daily/cinema_${SCRAPE_DATE}.csv"
+
+          if [ ! -f "$CSV_FILE" ]; then
+            # Fallback to most recent CSV
+            CSV_FILE=$(ls -t data/daily/*.csv | head -1)
+          fi
+
+          echo "Uploading to Google Sheets: $CSV_FILE"
+          python3 src/sheets_updater.py --csv "$CSV_FILE" --date "$SCRAPE_DATE"
 
       - name: Generate summary
         run: |
           echo "## 🎬 Cinema Scrape Summary" >> "$GITHUB_STEP_SUMMARY"
           echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "**Date:** ${{ steps.date.outputs.scrape_date }}" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
 
-          CSV_FILE=$(ls data/daily/*.csv 2>/dev/null | head -1)
+          CSV_FILE="data/daily/cinema_${{ steps.date.outputs.scrape_date }}.csv"
+          if [ ! -f "$CSV_FILE" ]; then
+            CSV_FILE=$(ls -t data/daily/*.csv 2>/dev/null | head -1)
+          fi
+
           if [ -f "$CSV_FILE" ]; then
             ROWS=$(wc -l < "$CSV_FILE")
             CITIES=$(cut -d',' -f3 "$CSV_FILE" | tail -n +2 | sort -u | wc -l)
             MOVIES=$(cut -d',' -f4 "$CSV_FILE" | tail -n +2 | sort -u | wc -l)
+            HELIOS=$(grep -ic "helios" "$CSV_FILE" || echo "0")
+            CINEMA_CITY=$(grep -ic "cinema city\|cinema-city" "$CSV_FILE" || echo "0")
+
             echo "| Metric | Count |" >> "$GITHUB_STEP_SUMMARY"
             echo "|--------|-------|" >> "$GITHUB_STEP_SUMMARY"
-            echo "| Screenings | $ROWS |" >> "$GITHUB_STEP_SUMMARY"
+            echo "| Total Screenings | $ROWS |" >> "$GITHUB_STEP_SUMMARY"
             echo "| Cities | $CITIES |" >> "$GITHUB_STEP_SUMMARY"
             echo "| Movies | $MOVIES |" >> "$GITHUB_STEP_SUMMARY"
+            echo "| Helios Entries | $HELIOS |" >> "$GITHUB_STEP_SUMMARY"
+            echo "| Cinema City Entries | $CINEMA_CITY |" >> "$GITHUB_STEP_SUMMARY"
           fi
 
       - name: Commit results
@@ -100,19 +151,19 @@ jobs:
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
 
-          git add data/
+          git add data/ src/
 
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            COMMIT_DATE=$(date +%Y-%m-%d)
-            git commit -m "Daily scrape: $COMMIT_DATE"
+            COMMIT_DATE=${{ steps.date.outputs.scrape_date }}
+            git commit -m "Daily scrape: $COMMIT_DATE (incl. Helios events)"
             git push
           fi
 
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: cinema-data-${{ steps.scrape.outputs.scrape_date }}
+          name: cinema-data-${{ steps.date.outputs.scrape_date }}
           path: data/daily/
           retention-days: 90
