@@ -380,6 +380,13 @@ class CinemaCityScraper:
 
 def main():
     """Main entry point"""
+    import argparse
+
+    parser = argparse.ArgumentParser(description='Cinema City Poland API Scraper')
+    parser.add_argument('--date', type=str, help='Date to scrape (YYYY-MM-DD), defaults to today')
+    parser.add_argument('--dates', nargs='+', help='Multiple dates to scrape')
+    args = parser.parse_args()
+
     print("""
     ╔═══════════════════════════════════════════════════════╗
     ║     🎬 Cinema City Poland API Scraper 🎬              ║
@@ -388,14 +395,30 @@ def main():
 
     scraper = CinemaCityScraper()
 
-    # Scrape for today
-    today = datetime.now().strftime("%Y-%m-%d")
-    screenings = scraper.scrape_all_for_date(today)
+    # Determine dates to scrape
+    if args.dates:
+        dates = args.dates
+    elif args.date:
+        dates = [args.date]
+    else:
+        dates = [datetime.now().strftime("%Y-%m-%d")]
 
-    if screenings:
-        csv_path = scraper.to_csv(screenings)
+    # Scrape each date
+    all_screenings = []
+    for date in dates:
+        print(f"\n📅 Scraping Cinema City for {date}...")
+        screenings = scraper.scrape_all_for_date(date)
+        all_screenings.extend(screenings)
+
+    if all_screenings:
+        # Use first date for filename if single, otherwise use range
+        if len(dates) == 1:
+            filename = f"cinema_city_{dates[0]}_{datetime.now().strftime('%H%M%S')}.csv"
+        else:
+            filename = f"cinema_city_{dates[0]}_to_{dates[-1]}.csv"
+        csv_path = scraper.to_csv(all_screenings, filename)
         scraper.print_stats()
-        print(f"✅ Saved {len(screenings)} Cinema City screenings to {csv_path}")
+        print(f"✅ Saved {len(all_screenings)} Cinema City screenings to {csv_path}")
     else:
         print("❌ No screenings found")
         scraper.print_stats()

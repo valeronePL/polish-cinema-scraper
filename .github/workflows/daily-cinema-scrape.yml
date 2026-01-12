@@ -1,24 +1,39 @@
 # .github/workflows/daily-cinema-scrape.yml
 # Automated daily scraping of Polish cinema schedules
+#
 # Sources:
-#   - kino.coigdzie.pl (aggregator - all chains)
+#   - kino.coigdzie.pl (aggregator - all chains, NO historical data)
 #   - helios.pl (special events: pre-premieres, kids)
-#   - Cinema City API (official API with seat availability)
-# Runs at 6:00 AM CET (5:00 AM UTC) every day
+#   - Cinema City API (official API with seat availability, HAS historical data)
+#
+# Schedule:
+#   - 9:00 AM CET (8:00 UTC): Full scrape - all sources for TODAY
+#   - 9:00 PM CET (20:00 UTC): Archive - Cinema City API for YESTERDAY
 
 name: Daily Cinema Scrape
 
 on:
   schedule:
-    # Every day at 5:00 AM UTC (6:00 AM CET)
-    - cron: '0 5 * * *'
+    # Morning: 8:00 AM UTC (9:00 AM CET) - today's schedules
+    - cron: '0 8 * * *'
+    # Evening: 20:00 UTC (21:00 CET) - archive previous day
+    - cron: '0 20 * * *'
 
   workflow_dispatch:
     inputs:
       date:
-        description: 'Specific date (YYYY-MM-DD), leave empty for today'
+        description: 'Specific date (YYYY-MM-DD), leave empty for auto'
         required: false
         default: ''
+      mode:
+        description: 'Run mode'
+        required: false
+        default: 'today'
+        type: choice
+        options:
+          - today
+          - yesterday
+          - both
 
 concurrency:
   group: cinema-scrape
@@ -54,15 +69,52 @@ jobs:
       - name: Determine scrape date
         id: date
         run: |
-          if [ -z "${{ github.event.inputs.date }}" ]; then
-            SCRAPE_DATE=$(date +%Y-%m-%d)
-          else
+          # Manual dispatch with specific date
+          if [ -n "${{ github.event.inputs.date }}" ]; then
             SCRAPE_DATE="${{ github.event.inputs.date }}"
+            echo "Manual date specified: $SCRAPE_DATE"
+          # Manual dispatch with mode
+          elif [ -n "${{ github.event.inputs.mode }}" ]; then
+            MODE="${{ github.event.inputs.mode }}"
+            if [ "$MODE" = "yesterday" ]; then
+              SCRAPE_DATE=$(date -d "yesterday" +%Y-%m-%d 2>/dev/null || date -v-1d +%Y-%m-%d)
+            elif [ "$MODE" = "both" ]; then
+              SCRAPE_DATE=$(date +%Y-%m-%d)
+              YESTERDAY=$(date -d "yesterday" +%Y-%m-%d 2>/dev/null || date -v-1d +%Y-%m-%d)
+              echo "scrape_yesterday=$YESTERDAY" >> "$GITHUB_OUTPUT"
+            else
+              SCRAPE_DATE=$(date +%Y-%m-%d)
+            fi
+          # Scheduled run - check time to determine mode
+          else
+            HOUR=$(date -u +%H)
+            if [ "$HOUR" -ge 18 ]; then
+              # Evening run (after 18:00 UTC) - archive yesterday
+              SCRAPE_DATE=$(date -d "yesterday" +%Y-%m-%d 2>/dev/null || date -v-1d +%Y-%m-%d)
+              echo "Evening run - archiving yesterday: $SCRAPE_DATE"
+            else
+              # Morning run - today's schedules
+              SCRAPE_DATE=$(date +%Y-%m-%d)
+              echo "Morning run - today: $SCRAPE_DATE"
+            fi
           fi
           echo "Scraping for date: $SCRAPE_DATE"
           echo "scrape_date=$SCRAPE_DATE" >> "$GITHUB_OUTPUT"
 
+      - name: Detect run mode
+        id: mode
+        run: |
+          HOUR=$(date -u +%H)
+          if [ "$HOUR" -ge 18 ]; then
+            echo "is_evening=true" >> "$GITHUB_OUTPUT"
+            echo "📅 Evening archive mode - will only scrape Cinema City API (has historical data)"
+          else
+            echo "is_evening=false" >> "$GITHUB_OUTPUT"
+            echo "☀️ Morning mode - full scrape (all sources)"
+          fi
+
       - name: Run main scraper (kino.coigdzie.pl)
+        if: steps.mode.outputs.is_evening != 'true'
         working-directory: ${{ github.workspace }}
         env:
           PYTHONPATH: src
@@ -71,6 +123,7 @@ jobs:
           python3 src/kino_scraper_v2.py
 
       - name: Run Helios events scraper
+        if: steps.mode.outputs.is_evening != 'true'
         working-directory: ${{ github.workspace }}
         env:
           PYTHONPATH: src
@@ -83,8 +136,9 @@ jobs:
         env:
           PYTHONPATH: src
         run: |
-          echo "🎬 Scraping Cinema City API..."
-          python3 src/cinema_city_scraper.py || echo "Cinema City scraper completed with warnings"
+          SCRAPE_DATE="${{ steps.date.outputs.scrape_date }}"
+          echo "🎬 Scraping Cinema City API for $SCRAPE_DATE..."
+          python3 src/cinema_city_scraper.py --date "$SCRAPE_DATE" || echo "Cinema City scraper completed with warnings"
 
       - name: Merge all cinema data
         working-directory: ${{ github.workspace }}
@@ -122,6 +176,12 @@ jobs:
         run: |
           echo "## 🎬 Cinema Scrape Summary" >> "$GITHUB_STEP_SUMMARY"
           echo "" >> "$GITHUB_STEP_SUMMARY"
+
+          if [ "${{ steps.mode.outputs.is_evening }}" = "true" ]; then
+            echo "**Mode:** 🌙 Evening Archive (Cinema City API only)" >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "**Mode:** ☀️ Morning Full Scrape (all sources)" >> "$GITHUB_STEP_SUMMARY"
+          fi
           echo "**Date:** ${{ steps.date.outputs.scrape_date }}" >> "$GITHUB_STEP_SUMMARY"
           echo "" >> "$GITHUB_STEP_SUMMARY"
 
