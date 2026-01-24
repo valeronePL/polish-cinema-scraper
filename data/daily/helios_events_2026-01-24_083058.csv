@@ -1,0 +1,145 @@
+date,city,movie_title,cinema_name,time,format,language,event_type,scraped_at
+2026-01-10,warszawa,Miss Moxy. Kocia ekipa (dubbing),Helios Warszawa Blue City,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701059
+2026-01-10,warszawa,Miss Moxy. Kocia ekipa (dubbing),Helios Warszawa Blue City,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701072
+2026-01-10,lodz,Miss Moxy. Kocia ekipa (dubbing),Helios Lodz,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701076
+2026-01-10,lodz,Miss Moxy. Kocia ekipa (dubbing),Helios Lodz,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701079
+2026-01-10,wroclaw,Miss Moxy. Kocia ekipa (dubbing),Helios Wroclaw Magnolia Park,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701083
+2026-01-10,wroclaw,Miss Moxy. Kocia ekipa (dubbing),Helios Wroclaw Magnolia Park,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701086
+2026-01-10,wroclaw,Miss Moxy. Kocia ekipa (dubbing),Helios Wroclaw Aleja Bielany,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701091
+2026-01-10,wroclaw,Miss Moxy. Kocia ekipa (dubbing),Helios Wroclaw Aleja Bielany,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701093
+2026-01-10,gdansk,Miss Moxy. Kocia ekipa (dubbing),Helios Gdansk Alfa Centrum,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701098
+2026-01-10,gdansk,Miss Moxy. Kocia ekipa (dubbing),Helios Gdansk Alfa Centrum,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701100
+2026-01-10,gdansk,Miss Moxy. Kocia ekipa (dubbing),Helios Gdansk Forum,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701103
+2026-01-10,gdansk,Miss Moxy. Kocia ekipa (dubbing),Helios Gdansk Forum,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701105
+2026-01-10,bialystok,Miss Moxy. Kocia ekipa (dubbing),Helios Bialystok Alfa,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701108
+2026-01-10,bialystok,Miss Moxy. Kocia ekipa (dubbing),Helios Bialystok Alfa,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701109
+2026-01-10,bialystok,Miss Moxy. Kocia ekipa (dubbing),Helios Bialystok Galeria Biala,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701113
+2026-01-10,bialystok,Miss Moxy. Kocia ekipa (dubbing),Helios Bialystok Galeria Biala,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701115
+2026-01-10,bialystok,Miss Moxy. Kocia ekipa (dubbing),Helios Bialystok Galeria Jurowiecka,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701118
+2026-01-10,bialystok,Miss Moxy. Kocia ekipa (dubbing),Helios Bialystok Galeria Jurowiecka,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701120
+2026-01-10,szczecin,Miss Moxy. Kocia ekipa (dubbing),Helios Szczecin Outlet Park,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701123
+2026-01-10,szczecin,Miss Moxy. Kocia ekipa (dubbing),Helios Szczecin Outlet Park,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701125
+2026-01-10,szczecin,Miss Moxy. Kocia ekipa (dubbing),Helios Szczecin Kupiec,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701128
+2026-01-10,szczecin,Miss Moxy. Kocia ekipa (dubbing),Helios Szczecin Kupiec,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701129
+2026-01-10,katowice,Miss Moxy. Kocia ekipa (dubbing),Helios Katowice,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701132
+2026-01-10,katowice,Miss Moxy. Kocia ekipa (dubbing),Helios Katowice,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701134
+2026-01-10,krakow,Miss Moxy. Kocia ekipa (dubbing),Helios Krakow,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701137
+2026-01-10,krakow,Miss Moxy. Kocia ekipa (dubbing),Helios Krakow,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701139
+2026-01-10,poznan,Miss Moxy. Kocia ekipa (dubbing),Helios Poznan Arena,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701141
+2026-01-10,poznan,Miss Moxy. Kocia ekipa (dubbing),Helios Poznan Arena,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701143
+2026-01-10,poznan,Miss Moxy. Kocia ekipa (dubbing),Helios Poznan Pestka,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701145
+2026-01-10,poznan,Miss Moxy. Kocia ekipa (dubbing),Helios Poznan Pestka,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701147
+2026-01-10,opole,Miss Moxy. Kocia ekipa (dubbing),Helios Opole Solaris,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701150
+2026-01-10,opole,Miss Moxy. Kocia ekipa (dubbing),Helios Opole Solaris,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701151
+2026-01-10,opole,Miss Moxy. Kocia ekipa (dubbing),Helios Opole Karolinka,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701154
+2026-01-10,opole,Miss Moxy. Kocia ekipa (dubbing),Helios Opole Karolinka,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701156
+2026-01-10,olsztyn,Miss Moxy. Kocia ekipa (dubbing),Helios Olsztyn,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701158
+2026-01-10,olsztyn,Miss Moxy. Kocia ekipa (dubbing),Helios Olsztyn,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701160
+2026-01-10,torun,Miss Moxy. Kocia ekipa (dubbing),Helios Torun,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701162
+2026-01-10,torun,Miss Moxy. Kocia ekipa (dubbing),Helios Torun,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701164
+2026-01-10,kielce,Miss Moxy. Kocia ekipa (dubbing),Helios Kielce,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701166
+2026-01-10,kielce,Miss Moxy. Kocia ekipa (dubbing),Helios Kielce,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701168
+2026-01-10,rzeszow,Miss Moxy. Kocia ekipa (dubbing),Helios Rzeszow,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701174
+2026-01-10,rzeszow,Miss Moxy. Kocia ekipa (dubbing),Helios Rzeszow,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701176
+2026-01-10,lublin,Miss Moxy. Kocia ekipa (dubbing),Helios Lublin Plaza,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701180
+2026-01-10,lublin,Miss Moxy. Kocia ekipa (dubbing),Helios Lublin Plaza,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701181
+2026-01-10,bydgoszcz,Miss Moxy. Kocia ekipa (dubbing),Helios Bydgoszcz Focus,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701184
+2026-01-10,bydgoszcz,Miss Moxy. Kocia ekipa (dubbing),Helios Bydgoszcz Focus,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701186
+2026-01-10,czestochowa,Miss Moxy. Kocia ekipa (dubbing),Helios Czestochowa Galeria Jurajska,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701206
+2026-01-10,czestochowa,Miss Moxy. Kocia ekipa (dubbing),Helios Czestochowa Galeria Jurajska,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701208
+2026-01-10,radom,Miss Moxy. Kocia ekipa (dubbing),Helios Radom,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701211
+2026-01-10,radom,Miss Moxy. Kocia ekipa (dubbing),Helios Radom,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701214
+2026-01-10,gliwice,Miss Moxy. Kocia ekipa (dubbing),Helios Gliwice Arena,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701217
+2026-01-10,gliwice,Miss Moxy. Kocia ekipa (dubbing),Helios Gliwice Arena,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701219
+2026-01-10,sosnowiec,Miss Moxy. Kocia ekipa (dubbing),Helios Sosnowiec Plaza,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701221
+2026-01-10,sosnowiec,Miss Moxy. Kocia ekipa (dubbing),Helios Sosnowiec Plaza,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701223
+2026-01-10,siedlce,Miss Moxy. Kocia ekipa (dubbing),Helios Siedlce,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701225
+2026-01-10,siedlce,Miss Moxy. Kocia ekipa (dubbing),Helios Siedlce,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701227
+2026-01-10,plock,Miss Moxy. Kocia ekipa (dubbing),Helios Plock Galeria Wisla,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701230
+2026-01-10,plock,Miss Moxy. Kocia ekipa (dubbing),Helios Plock Galeria Wisla,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701231
+2026-01-10,legnica,Miss Moxy. Kocia ekipa (dubbing),Helios Legnica,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701234
+2026-01-10,legnica,Miss Moxy. Kocia ekipa (dubbing),Helios Legnica,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701236
+2026-01-10,gorzow-wielkopolski,Miss Moxy. Kocia ekipa (dubbing),Helios Gorzow Wielkopolski Askana,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701239
+2026-01-10,gorzow-wielkopolski,Miss Moxy. Kocia ekipa (dubbing),Helios Gorzow Wielkopolski Askana,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701240
+2026-01-11,warszawa,Miss Moxy. Kocia ekipa (dubbing),Helios Warszawa Blue City,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701244
+2026-01-11,warszawa,Miss Moxy. Kocia ekipa (dubbing),Helios Warszawa Blue City,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701245
+2026-01-11,lodz,Miss Moxy. Kocia ekipa (dubbing),Helios Lodz,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701248
+2026-01-11,lodz,Miss Moxy. Kocia ekipa (dubbing),Helios Lodz,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701250
+2026-01-11,wroclaw,Miss Moxy. Kocia ekipa (dubbing),Helios Wroclaw Magnolia Park,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701253
+2026-01-11,wroclaw,Miss Moxy. Kocia ekipa (dubbing),Helios Wroclaw Magnolia Park,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701254
+2026-01-11,wroclaw,Miss Moxy. Kocia ekipa (dubbing),Helios Wroclaw Aleja Bielany,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701257
+2026-01-11,wroclaw,Miss Moxy. Kocia ekipa (dubbing),Helios Wroclaw Aleja Bielany,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701258
+2026-01-11,gdansk,Miss Moxy. Kocia ekipa (dubbing),Helios Gdansk Alfa Centrum,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701261
+2026-01-11,gdansk,Miss Moxy. Kocia ekipa (dubbing),Helios Gdansk Alfa Centrum,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701263
+2026-01-11,gdansk,Miss Moxy. Kocia ekipa (dubbing),Helios Gdansk Forum,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701265
+2026-01-11,gdansk,Miss Moxy. Kocia ekipa (dubbing),Helios Gdansk Forum,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701267
+2026-01-11,bialystok,Miss Moxy. Kocia ekipa (dubbing),Helios Bialystok Alfa,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701269
+2026-01-11,bialystok,Miss Moxy. Kocia ekipa (dubbing),Helios Bialystok Alfa,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701271
+2026-01-11,bialystok,Miss Moxy. Kocia ekipa (dubbing),Helios Bialystok Galeria Biala,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701273
+2026-01-11,bialystok,Miss Moxy. Kocia ekipa (dubbing),Helios Bialystok Galeria Biala,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701275
+2026-01-11,bialystok,Miss Moxy. Kocia ekipa (dubbing),Helios Bialystok Galeria Jurowiecka,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701278
+2026-01-11,bialystok,Miss Moxy. Kocia ekipa (dubbing),Helios Bialystok Galeria Jurowiecka,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701280
+2026-01-11,szczecin,Miss Moxy. Kocia ekipa (dubbing),Helios Szczecin Outlet Park,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701282
+2026-01-11,szczecin,Miss Moxy. Kocia ekipa (dubbing),Helios Szczecin Outlet Park,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701286
+2026-01-11,szczecin,Miss Moxy. Kocia ekipa (dubbing),Helios Szczecin Kupiec,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701288
+2026-01-11,szczecin,Miss Moxy. Kocia ekipa (dubbing),Helios Szczecin Kupiec,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701290
+2026-01-11,katowice,Miss Moxy. Kocia ekipa (dubbing),Helios Katowice,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701292
+2026-01-11,katowice,Miss Moxy. Kocia ekipa (dubbing),Helios Katowice,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701294
+2026-01-11,krakow,Miss Moxy. Kocia ekipa (dubbing),Helios Krakow,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701296
+2026-01-11,krakow,Miss Moxy. Kocia ekipa (dubbing),Helios Krakow,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701298
+2026-01-11,poznan,Miss Moxy. Kocia ekipa (dubbing),Helios Poznan Arena,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701300
+2026-01-11,poznan,Miss Moxy. Kocia ekipa (dubbing),Helios Poznan Arena,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701302
+2026-01-11,poznan,Miss Moxy. Kocia ekipa (dubbing),Helios Poznan Pestka,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701306
+2026-01-11,poznan,Miss Moxy. Kocia ekipa (dubbing),Helios Poznan Pestka,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701308
+2026-01-11,opole,Miss Moxy. Kocia ekipa (dubbing),Helios Opole Solaris,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701311
+2026-01-11,opole,Miss Moxy. Kocia ekipa (dubbing),Helios Opole Solaris,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701312
+2026-01-11,opole,Miss Moxy. Kocia ekipa (dubbing),Helios Opole Karolinka,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701315
+2026-01-11,opole,Miss Moxy. Kocia ekipa (dubbing),Helios Opole Karolinka,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701317
+2026-01-11,olsztyn,Miss Moxy. Kocia ekipa (dubbing),Helios Olsztyn,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701319
+2026-01-11,olsztyn,Miss Moxy. Kocia ekipa (dubbing),Helios Olsztyn,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701321
+2026-01-11,torun,Miss Moxy. Kocia ekipa (dubbing),Helios Torun,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701325
+2026-01-11,torun,Miss Moxy. Kocia ekipa (dubbing),Helios Torun,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701327
+2026-01-11,kielce,Miss Moxy. Kocia ekipa (dubbing),Helios Kielce,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701329
+2026-01-11,kielce,Miss Moxy. Kocia ekipa (dubbing),Helios Kielce,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701331
+2026-01-11,rzeszow,Miss Moxy. Kocia ekipa (dubbing),Helios Rzeszow,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701333
+2026-01-11,rzeszow,Miss Moxy. Kocia ekipa (dubbing),Helios Rzeszow,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701334
+2026-01-11,lublin,Miss Moxy. Kocia ekipa (dubbing),Helios Lublin Plaza,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701337
+2026-01-11,lublin,Miss Moxy. Kocia ekipa (dubbing),Helios Lublin Plaza,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701339
+2026-01-11,bydgoszcz,Miss Moxy. Kocia ekipa (dubbing),Helios Bydgoszcz Focus,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701341
+2026-01-11,bydgoszcz,Miss Moxy. Kocia ekipa (dubbing),Helios Bydgoszcz Focus,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701343
+2026-01-11,czestochowa,Miss Moxy. Kocia ekipa (dubbing),Helios Czestochowa Galeria Jurajska,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701345
+2026-01-11,czestochowa,Miss Moxy. Kocia ekipa (dubbing),Helios Czestochowa Galeria Jurajska,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701347
+2026-01-11,radom,Miss Moxy. Kocia ekipa (dubbing),Helios Radom,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701349
+2026-01-11,radom,Miss Moxy. Kocia ekipa (dubbing),Helios Radom,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701351
+2026-01-11,gliwice,Miss Moxy. Kocia ekipa (dubbing),Helios Gliwice Arena,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701353
+2026-01-11,gliwice,Miss Moxy. Kocia ekipa (dubbing),Helios Gliwice Arena,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701355
+2026-01-11,sosnowiec,Miss Moxy. Kocia ekipa (dubbing),Helios Sosnowiec Plaza,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701357
+2026-01-11,sosnowiec,Miss Moxy. Kocia ekipa (dubbing),Helios Sosnowiec Plaza,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701359
+2026-01-11,siedlce,Miss Moxy. Kocia ekipa (dubbing),Helios Siedlce,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701361
+2026-01-11,siedlce,Miss Moxy. Kocia ekipa (dubbing),Helios Siedlce,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701363
+2026-01-11,plock,Miss Moxy. Kocia ekipa (dubbing),Helios Plock Galeria Wisla,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701366
+2026-01-11,plock,Miss Moxy. Kocia ekipa (dubbing),Helios Plock Galeria Wisla,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701367
+2026-01-11,legnica,Miss Moxy. Kocia ekipa (dubbing),Helios Legnica,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701369
+2026-01-11,legnica,Miss Moxy. Kocia ekipa (dubbing),Helios Legnica,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701371
+2026-01-11,gorzow-wielkopolski,Miss Moxy. Kocia ekipa (dubbing),Helios Gorzow Wielkopolski Askana,10:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701374
+2026-01-11,gorzow-wielkopolski,Miss Moxy. Kocia ekipa (dubbing),Helios Gorzow Wielkopolski Askana,12:30,2D,dubbing,helios-dla-dzieci,2026-01-24T08:30:58.701376
+2026-01-10,warszawa,Mała Amelia,Helios Warszawa Blue City,15:00,2D,dubbing,helios-anime,2026-01-24T08:30:58.701379
+2026-01-10,lodz,Mała Amelia,Helios Lodz,15:00,2D,dubbing,helios-anime,2026-01-24T08:30:58.701382
+2026-01-10,wroclaw,Mała Amelia,Helios Wroclaw Magnolia Park,15:00,2D,dubbing,helios-anime,2026-01-24T08:30:58.701385
+2026-01-10,wroclaw,Mała Amelia,Helios Wroclaw Aleja Bielany,15:00,2D,dubbing,helios-anime,2026-01-24T08:30:58.701387
+2026-01-10,gdansk,Mała Amelia,Helios Gdansk Alfa Centrum,15:00,2D,dubbing,helios-anime,2026-01-24T08:30:58.701390
+2026-01-10,gdansk,Mała Amelia,Helios Gdansk Forum,15:00,2D,dubbing,helios-anime,2026-01-24T08:30:58.701392
+2026-01-10,bialystok,Mała Amelia,Helios Bialystok Alfa,15:00,2D,dubbing,helios-anime,2026-01-24T08:30:58.701395
+2026-01-10,bialystok,Mała Amelia,Helios Bialystok Galeria Biala,15:00,2D,dubbing,helios-anime,2026-01-24T08:30:58.701403
+2026-01-10,bialystok,Mała Amelia,Helios Bialystok Galeria Jurowiecka,15:00,2D,dubbing,helios-anime,2026-01-24T08:30:58.701406
+2026-01-10,szczecin,Mała Amelia,Helios Szczecin Outlet Park,15:00,2D,dubbing,helios-anime,2026-01-24T08:30:58.701409
+2026-01-11,warszawa,Mała Amelia,Helios Warszawa Blue City,15:00,2D,dubbing,helios-anime,2026-01-24T08:30:58.701411
+2026-01-11,lodz,Mała Amelia,Helios Lodz,15:00,2D,dubbing,helios-anime,2026-01-24T08:30:58.701414
+2026-01-11,wroclaw,Mała Amelia,Helios Wroclaw Magnolia Park,15:00,2D,dubbing,helios-anime,2026-01-24T08:30:58.701416
+2026-01-11,wroclaw,Mała Amelia,Helios Wroclaw Aleja Bielany,15:00,2D,dubbing,helios-anime,2026-01-24T08:30:58.701419
+2026-01-11,gdansk,Mała Amelia,Helios Gdansk Alfa Centrum,15:00,2D,dubbing,helios-anime,2026-01-24T08:30:58.701421
+2026-01-11,gdansk,Mała Amelia,Helios Gdansk Forum,15:00,2D,dubbing,helios-anime,2026-01-24T08:30:58.701423
+2026-01-11,bialystok,Mała Amelia,Helios Bialystok Alfa,15:00,2D,dubbing,helios-anime,2026-01-24T08:30:58.701426
+2026-01-11,bialystok,Mała Amelia,Helios Bialystok Galeria Biala,15:00,2D,dubbing,helios-anime,2026-01-24T08:30:58.701428
+2026-01-11,bialystok,Mała Amelia,Helios Bialystok Galeria Jurowiecka,15:00,2D,dubbing,helios-anime,2026-01-24T08:30:58.701431
+2026-01-11,szczecin,Mała Amelia,Helios Szczecin Outlet Park,15:00,2D,dubbing,helios-anime,2026-01-24T08:30:58.701433
