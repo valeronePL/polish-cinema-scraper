@@ -45,10 +45,26 @@ def load_existing_data(date: str) -> pd.DataFrame:
             if matches:
                 path = matches[0]
                 print(f"📂 Loading: {path}")
-                return pd.read_csv(path)
+                try:
+                    df = pd.read_csv(path)
+                    if df.empty:
+                        print(f"⚠️  Empty CSV: {path}")
+                        continue
+                    return df
+                except pd.errors.EmptyDataError:
+                    print(f"⚠️  Empty CSV (no columns): {path}")
+                    continue
         elif pattern.exists():
             print(f"📂 Loading: {pattern}")
-            return pd.read_csv(pattern)
+            try:
+                df = pd.read_csv(pattern)
+                if df.empty:
+                    print(f"⚠️  Empty CSV: {pattern}")
+                    continue
+                return df
+            except pd.errors.EmptyDataError:
+                print(f"⚠️  Empty CSV (no columns): {pattern}")
+                continue
 
     print(f"⚠️  No existing data found for {date}")
     return pd.DataFrame()
@@ -56,7 +72,11 @@ def load_existing_data(date: str) -> pd.DataFrame:
 
 def load_helios_data(csv_path: str) -> pd.DataFrame:
     """Load Helios events data"""
-    df = pd.read_csv(csv_path)
+    try:
+        df = pd.read_csv(csv_path)
+    except pd.errors.EmptyDataError:
+        print(f"⚠️  Empty Helios CSV: {csv_path}")
+        return pd.DataFrame()
     print(f"📂 Loaded {len(df)} Helios events from {csv_path}")
     return df
 
@@ -70,7 +90,11 @@ def load_cinema_city_data(csv_path: str = None) -> pd.DataFrame:
             if matches:
                 path = max(matches, key=lambda p: p.stat().st_mtime)
         if path.exists():
-            df = pd.read_csv(path)
+            try:
+                df = pd.read_csv(path)
+            except pd.errors.EmptyDataError:
+                print(f"⚠️  Empty Cinema City CSV: {path}")
+                return pd.DataFrame()
             print(f"📂 Loaded {len(df)} Cinema City screenings from {path}")
             return df
 
@@ -78,7 +102,11 @@ def load_cinema_city_data(csv_path: str = None) -> pd.DataFrame:
     cinema_city_files = list(CINEMA_DATA_DIR.glob("cinema_city_*.csv"))
     if cinema_city_files:
         latest = max(cinema_city_files, key=lambda p: p.stat().st_mtime)
-        df = pd.read_csv(latest)
+        try:
+            df = pd.read_csv(latest)
+        except pd.errors.EmptyDataError:
+            print(f"⚠️  Empty Cinema City CSV: {latest}")
+            return pd.DataFrame()
         print(f"📂 Auto-detected Cinema City CSV: {latest} ({len(df)} screenings)")
         return df
 
