@@ -1,0 +1,1823 @@
+date,day_name,city,movie_title,cinema_name,time,format,language,event_type,scraped_at
+2026-03-06,,bielsko-biała,Hopnięci,Bielsko-Biała,10:00,2D,original,regular,2026-03-06T08:42:10.646283
+2026-03-06,,bielsko-biała,Szybcy i sprytni,Bielsko-Biała,10:00,2D,,regular,2026-03-06T08:42:10.646313
+2026-03-06,,bielsko-biała,Wielka mała koza,Bielsko-Biała,10:00,2D,,regular,2026-03-06T08:42:10.646328
+2026-03-06,,bielsko-biała,Kicia Kocia w podróży,Bielsko-Biała,10:00,2D,,regular,2026-03-06T08:42:10.646340
+2026-03-06,,bielsko-biała,Piep*zyć Mickiewicza 3,Bielsko-Biała,10:00,2D,original,regular,2026-03-06T08:42:10.646352
+2026-03-06,,bielsko-biała,Za duży na bajki 3,Bielsko-Biała,10:30,2D,original,regular,2026-03-06T08:42:10.646363
+2026-03-06,,bielsko-biała,Panna młoda!,Bielsko-Biała,10:40,2D,original,regular,2026-03-06T08:42:10.646376
+2026-03-06,,bielsko-biała,Zmiennokształtni 2,Bielsko-Biała,10:40,2D,,regular,2026-03-06T08:42:10.646393
+2026-03-06,,bielsko-biała,Zwierzogród 2,Bielsko-Biała,10:50,2D,original,regular,2026-03-06T08:42:10.646408
+2026-03-06,,bielsko-biała,Hopnięci,Bielsko-Biała,11:00,2D,original,regular,2026-03-06T08:42:10.646420
+2026-03-06,,bielsko-biała,Kicia Kocia w podróży,Bielsko-Biała,11:30,2D,,regular,2026-03-06T08:42:10.646430
+2026-03-06,,bielsko-biała,Piep*zyć Mickiewicza 3,Bielsko-Biała,12:00,2D,original,regular,2026-03-06T08:42:10.646439
+2026-03-06,,bielsko-biała,Szybcy i sprytni,Bielsko-Biała,12:10,2D,,regular,2026-03-06T08:42:10.646449
+2026-03-06,,bielsko-biała,Wielka mała koza,Bielsko-Biała,12:15,2D,,regular,2026-03-06T08:42:10.646458
+2026-03-06,,bielsko-biała,Hopnięci,Bielsko-Biała,12:30,2D,original,regular,2026-03-06T08:42:10.646469
+2026-03-06,,bielsko-biała,Za duży na bajki 3,Bielsko-Biała,12:40,2D,original,regular,2026-03-06T08:42:10.646478
+2026-03-06,,bielsko-biała,Kicia Kocia w podróży,Bielsko-Biała,13:00,2D,,regular,2026-03-06T08:42:10.646487
+2026-03-06,,bielsko-biała,Moon: Panda i ja,Bielsko-Biała,13:10,2D,,regular,2026-03-06T08:42:10.646497
+2026-03-06,,bielsko-biała,Zwierzogród 2,Bielsko-Biała,13:20,2D,original,regular,2026-03-06T08:42:10.646508
+2026-03-06,,bielsko-biała,Hopnięci,Bielsko-Biała,13:30,2D,original,regular,2026-03-06T08:42:10.646518
+2026-03-06,,bielsko-biała,Panna młoda!,Bielsko-Biała,13:30,2D,original,regular,2026-03-06T08:42:10.646528
+2026-03-06,,bielsko-biała,Scarlet,Bielsko-Biała,14:10,2D,original,regular,2026-03-06T08:42:10.646539
+2026-03-06,,bielsko-biała,Krzyk 7,Bielsko-Biała,14:10,2D,original,regular,2026-03-06T08:42:10.646549
+2026-03-06,,bielsko-biała,Wielka mała koza,Bielsko-Biała,14:30,2D,,regular,2026-03-06T08:42:10.646580
+2026-03-06,,bielsko-biała,Hopnięci,Bielsko-Biała,14:30,2D,original,regular,2026-03-06T08:42:10.646590
+2026-03-06,,bielsko-biała,Za duży na bajki 3,Bielsko-Biała,14:50,2D,original,regular,2026-03-06T08:42:10.646599
+2026-03-06,,bielsko-biała,Hopnięci,Bielsko-Biała,15:00,2D,original,regular,2026-03-06T08:42:10.646610
+2026-03-06,,bielsko-biała,Hopnięci,Bielsko-Biała,15:30,2D,original,regular,2026-03-06T08:42:10.646620
+2026-03-06,,bielsko-biała,Dobry chłopiec,Bielsko-Biała,15:50,2D,original,regular,2026-03-06T08:42:10.646630
+2026-03-06,,bielsko-biała,Hopnięci,Bielsko-Biała,16:00,2D,original,regular,2026-03-06T08:42:10.646640
+2026-03-06,,bielsko-biała,Panna młoda!,Bielsko-Biała,16:20,2D,original,regular,2026-03-06T08:42:10.646650
+2026-03-06,,bielsko-biała,Pojedynek,Bielsko-Biała,16:40,2D,original,regular,2026-03-06T08:42:10.646659
+2026-03-06,,bielsko-biała,Wielka mała koza,Bielsko-Biała,16:45,2D,,regular,2026-03-06T08:42:10.646668
+2026-03-06,,bielsko-biała,Piep*zyć Mickiewicza 3,Bielsko-Biała,16:50,2D,original,regular,2026-03-06T08:42:10.646677
+2026-03-06,,bielsko-biała,Za duży na bajki 3,Bielsko-Biała,17:00,2D,original,regular,2026-03-06T08:42:10.646686
+2026-03-06,,bielsko-biała,Wichrowe wzgórza,Bielsko-Biała,17:10,2D,original,regular,2026-03-06T08:42:10.646696
+2026-03-06,,bielsko-biała,Hopnięci,Bielsko-Biała,17:30,2D,original,regular,2026-03-06T08:42:10.646706
+2026-03-06,,bielsko-biała,"Kopnęłabym cię, gdybym mogła",Bielsko-Biała,18:00,2D,original,regular,2026-03-06T08:42:10.646716
+2026-03-06,,bielsko-biała,Dobry chłopiec,Bielsko-Biała,18:20,2D,original,regular,2026-03-06T08:42:10.646726
+2026-03-06,,bielsko-biała,Hopnięci,Bielsko-Biała,18:30,2D,original,regular,2026-03-06T08:42:10.646735
+2026-03-06,,bielsko-biała,F1,Bielsko-Biała,19:00,2D,original,regular,2026-03-06T08:42:10.646744
+2026-03-06,,bielsko-biała,Wartość sentymentalna,Bielsko-Biała,19:00,2D,original,regular,2026-03-06T08:42:10.646755
+2026-03-06,,bielsko-biała,Za duży na bajki 3,Bielsko-Biała,19:10,2D,original,regular,2026-03-06T08:42:10.646763
+2026-03-06,,bielsko-biała,Panna młoda!,Bielsko-Biała,19:10,2D,original,regular,2026-03-06T08:42:10.646773
+2026-03-06,,bielsko-biała,EPiC: Elvis Presley in Concert,Bielsko-Biała,19:20,2D,original,regular,2026-03-06T08:42:10.646783
+2026-03-06,,bielsko-biała,Hopnięci,Bielsko-Biała,20:00,2D,original,regular,2026-03-06T08:42:10.646794
+2026-03-06,,bielsko-biała,Krzyk 7,Bielsko-Biała,20:10,2D,original,regular,2026-03-06T08:42:10.646803
+2026-03-06,,bielsko-biała,Wichrowe wzgórza,Bielsko-Biała,20:40,2D,original,regular,2026-03-06T08:42:10.646813
+2026-03-06,,bielsko-biała,Dobry chłopiec,Bielsko-Biała,20:50,2D,original,regular,2026-03-06T08:42:10.646822
+2026-03-06,,bielsko-biała,Piep*zyć Mickiewicza 3,Bielsko-Biała,21:00,2D,original,regular,2026-03-06T08:42:10.646832
+2026-03-06,,bielsko-biała,Wielki Marty,Bielsko-Biała,21:20,2D,original,regular,2026-03-06T08:42:10.646841
+2026-03-06,,bielsko-biała,Czy mnie słychać?,Bielsko-Biała,21:40,2D,original,regular,2026-03-06T08:42:10.646850
+2026-03-06,,bielsko-biała,Wartość sentymentalna,Bielsko-Biała,21:50,2D,original,regular,2026-03-06T08:42:10.646859
+2026-03-06,,bielsko-biała,Panna młoda!,Bielsko-Biała,22:00,2D,original,regular,2026-03-06T08:42:10.646869
+2026-03-06,,bydgoszcz,Hopnięci,Bydgoszcz,10:00,2D,original,regular,2026-03-06T08:42:12.270092
+2026-03-06,,bydgoszcz,Zmiennokształtni 2,Bydgoszcz,10:00,2D,,regular,2026-03-06T08:42:12.270116
+2026-03-06,,bydgoszcz,Za duży na bajki 3,Bydgoszcz,10:00,2D,original,regular,2026-03-06T08:42:12.270127
+2026-03-06,,bydgoszcz,Avatar: Ogień i popiół,Bydgoszcz,10:00,2D,original,regular,2026-03-06T08:42:12.270139
+2026-03-06,,bydgoszcz,Za duży na bajki 3,Bydgoszcz,10:30,2D,original,regular,2026-03-06T08:42:12.270148
+2026-03-06,,bydgoszcz,Hopnięci,Bydgoszcz,10:30,2D,original,regular,2026-03-06T08:42:12.270159
+2026-03-06,,bydgoszcz,Kicia Kocia w podróży,Bydgoszcz,10:40,2D,,regular,2026-03-06T08:42:12.270168
+2026-03-06,,bydgoszcz,Hopnięci,Bydgoszcz,11:00,4DX,original,regular,2026-03-06T08:42:12.270176
+2026-03-06,,bydgoszcz,Panna młoda!,Bydgoszcz,11:00,2D,original,regular,2026-03-06T08:42:12.270187
+2026-03-06,,bydgoszcz,Piep*zyć Mickiewicza 3,Bydgoszcz,11:00,2D,original,regular,2026-03-06T08:42:12.270196
+2026-03-06,,bydgoszcz,Szybcy i sprytni,Bydgoszcz,11:10,2D,,regular,2026-03-06T08:42:12.270207
+2026-03-06,,bydgoszcz,Hopnięci,Bydgoszcz,11:30,2D,original,regular,2026-03-06T08:42:12.270218
+2026-03-06,,bydgoszcz,Wielka mała koza,Bydgoszcz,11:50,2D,,regular,2026-03-06T08:42:12.270228
+2026-03-06,,bydgoszcz,Kicia Kocia w podróży,Bydgoszcz,12:10,2D,,regular,2026-03-06T08:42:12.270237
+2026-03-06,,bydgoszcz,Czy mnie słychać?,Bydgoszcz,12:20,2D,original,regular,2026-03-06T08:42:12.270247
+2026-03-06,,bydgoszcz,Najświętsze serce,Bydgoszcz,12:20,2D,original,regular,2026-03-06T08:42:12.270256
+2026-03-06,,bydgoszcz,Hopnięci,Bydgoszcz,12:30,2D,original,regular,2026-03-06T08:42:12.270266
+2026-03-06,,bydgoszcz,Za duży na bajki 3,Bydgoszcz,12:40,2D,original,regular,2026-03-06T08:42:12.270275
+2026-03-06,,bydgoszcz,Hopnięci ukraiński dubbing,Bydgoszcz,13:00,2D,dubbing,regular,2026-03-06T08:42:12.270284
+2026-03-06,,bydgoszcz,Piep*zyć Mickiewicza 3,Bydgoszcz,13:15,2D,original,regular,2026-03-06T08:42:12.270293
+2026-03-06,,bydgoszcz,Wartość sentymentalna,Bydgoszcz,13:20,2D,original,regular,2026-03-06T08:42:12.270303
+2026-03-06,,bydgoszcz,Hopnięci,Bydgoszcz,13:30,4DX,original,regular,2026-03-06T08:42:12.270311
+2026-03-06,,bydgoszcz,Kicia Kocia w podróży,Bydgoszcz,13:40,2D,,regular,2026-03-06T08:42:12.270320
+2026-03-06,,bydgoszcz,Panna młoda!,Bydgoszcz,13:50,2D,original,regular,2026-03-06T08:42:12.270330
+2026-03-06,,bydgoszcz,Hopnięci,Bydgoszcz,14:00,2D,original,regular,2026-03-06T08:42:12.270340
+2026-03-06,,bydgoszcz,Wielka mała koza,Bydgoszcz,14:15,2D,,regular,2026-03-06T08:42:12.270349
+2026-03-06,,bydgoszcz,Najświętsze serce,Bydgoszcz,14:40,2D,original,regular,2026-03-06T08:42:12.270358
+2026-03-06,,bydgoszcz,Za duży na bajki 3,Bydgoszcz,14:50,2D,original,regular,2026-03-06T08:42:12.270367
+2026-03-06,,bydgoszcz,Hopnięci,Bydgoszcz,15:00,2D,original,regular,2026-03-06T08:42:12.270377
+2026-03-06,,bydgoszcz,Wichrowe wzgórza,Bydgoszcz,15:10,2D,original,regular,2026-03-06T08:42:12.270386
+2026-03-06,,bydgoszcz,Scarlet,Bydgoszcz,15:20,2D,original,regular,2026-03-06T08:42:12.270396
+2026-03-06,,bydgoszcz,Hopnięci,Bydgoszcz,15:30,2D,original,regular,2026-03-06T08:42:12.270406
+2026-03-06,,bydgoszcz,Dobry chłopiec,Bydgoszcz,15:30,2D,original,regular,2026-03-06T08:42:12.270416
+2026-03-06,,bydgoszcz,Krzyk 7,Bydgoszcz,15:40,2D,original,regular,2026-03-06T08:42:12.270425
+2026-03-06,,bydgoszcz,Hopnięci,Bydgoszcz,16:00,4DX,original,regular,2026-03-06T08:42:12.270433
+2026-03-06,,bydgoszcz,Wartość sentymentalna,Bydgoszcz,16:20,2D,original,regular,2026-03-06T08:42:12.270442
+2026-03-06,,bydgoszcz,Hopnięci,Bydgoszcz,16:30,2D,original,regular,2026-03-06T08:42:12.270452
+2026-03-06,,bydgoszcz,Panna młoda!,Bydgoszcz,16:40,2D,original,regular,2026-03-06T08:42:12.270462
+2026-03-06,,bydgoszcz,Wielka mała koza,Bydgoszcz,16:40,2D,,regular,2026-03-06T08:42:12.270471
+2026-03-06,,bydgoszcz,Za duży na bajki 3,Bydgoszcz,17:00,2D,original,regular,2026-03-06T08:42:12.270480
+2026-03-06,,bydgoszcz,Wichrowe wzgórza,Bydgoszcz,17:00,2D,original,regular,2026-03-06T08:42:12.270490
+2026-03-06,,bydgoszcz,Hopnięci,Bydgoszcz,17:30,2D,original,regular,2026-03-06T08:42:12.270500
+2026-03-06,,bydgoszcz,Panna młoda! ukraiński dubbing,Bydgoszcz,18:00,2D,dubbing,regular,2026-03-06T08:42:12.270509
+2026-03-06,,bydgoszcz,EPiC: Elvis Presley in Concert,Bydgoszcz,18:00,2D,original,regular,2026-03-06T08:42:12.270519
+2026-03-06,,bydgoszcz,Dobry chłopiec,Bydgoszcz,18:00,2D,original,regular,2026-03-06T08:42:12.270529
+2026-03-06,,bydgoszcz,Piep*zyć Mickiewicza 3,Bydgoszcz,18:10,2D,original,regular,2026-03-06T08:42:12.270538
+2026-03-06,,bydgoszcz,Krzyk 7,Bydgoszcz,18:20,2D,original,regular,2026-03-06T08:42:12.270546
+2026-03-06,,bydgoszcz,Panna młoda!,Bydgoszcz,18:30,4DX,original,regular,2026-03-06T08:42:12.270568
+2026-03-06,,bydgoszcz,Hopnięci,Bydgoszcz,19:00,2D,original,regular,2026-03-06T08:42:12.270579
+2026-03-06,,bydgoszcz,F1,Bydgoszcz,19:00,2D,original,regular,2026-03-06T08:42:12.270587
+2026-03-06,,bydgoszcz,Za duży na bajki 3,Bydgoszcz,19:10,2D,original,regular,2026-03-06T08:42:12.270596
+2026-03-06,,bydgoszcz,Wielki Marty,Bydgoszcz,19:20,2D,original,regular,2026-03-06T08:42:12.270606
+2026-03-06,,bydgoszcz,Panna młoda!,Bydgoszcz,19:30,2D,original,regular,2026-03-06T08:42:12.270615
+2026-03-06,,bydgoszcz,Wichrowe wzgórza,Bydgoszcz,19:50,2D,original,regular,2026-03-06T08:42:12.270625
+2026-03-06,,bydgoszcz,Hopnięci,Bydgoszcz,20:00,2D,original,regular,2026-03-06T08:42:12.270635
+2026-03-06,,bydgoszcz,Czy mnie słychać?,Bydgoszcz,20:15,2D,original,regular,2026-03-06T08:42:12.270644
+2026-03-06,,bydgoszcz,Piep*zyć Mickiewicza 3,Bydgoszcz,20:20,2D,original,regular,2026-03-06T08:42:12.270653
+2026-03-06,,bydgoszcz,Dobry chłopiec,Bydgoszcz,20:30,2D,original,regular,2026-03-06T08:42:12.270663
+2026-03-06,,bydgoszcz,Pojedynek,Bydgoszcz,20:45,2D,original,regular,2026-03-06T08:42:12.270672
+2026-03-06,,bydgoszcz,Krzyk 7,Bydgoszcz,21:00,2D,original,regular,2026-03-06T08:42:12.270681
+2026-03-06,,bydgoszcz,Panna młoda!,Bydgoszcz,21:20,4DX,original,regular,2026-03-06T08:42:12.270688
+2026-03-06,,bydgoszcz,Wichrowe wzgórza,Bydgoszcz,21:20,2D,original,regular,2026-03-06T08:42:12.270698
+2026-03-06,,bydgoszcz,Wartość sentymentalna,Bydgoszcz,21:30,2D,original,regular,2026-03-06T08:42:12.270707
+2026-03-06,,bydgoszcz,Krzyk 7,Bydgoszcz,22:10,2D,original,regular,2026-03-06T08:42:12.270716
+2026-03-06,,bydgoszcz,Panna młoda!,Bydgoszcz,22:20,2D,original,regular,2026-03-06T08:42:12.270725
+2026-03-06,,bydgoszcz,Dobry chłopiec,Bydgoszcz,22:20,2D,original,regular,2026-03-06T08:42:12.270735
+2026-03-06,,bydgoszcz,Piep*zyć Mickiewicza 3,Bydgoszcz,22:20,2D,original,regular,2026-03-06T08:42:12.270743
+2026-03-06,,bytom,Za duży na bajki 3,Bytom,10:30,2D,original,regular,2026-03-06T08:42:14.145213
+2026-03-06,,bytom,Kicia Kocia w podróży,Bytom,10:30,2D,,regular,2026-03-06T08:42:14.145240
+2026-03-06,,bytom,Wielka mała koza,Bytom,10:40,2D,,regular,2026-03-06T08:42:14.145256
+2026-03-06,,bytom,Hopnięci,Bytom,11:00,2D,original,regular,2026-03-06T08:42:14.145270
+2026-03-06,,bytom,Kicia Kocia w podróży,Bytom,12:00,2D,,regular,2026-03-06T08:42:14.145282
+2026-03-06,,bytom,Panna młoda!,Bytom,12:10,2D,original,regular,2026-03-06T08:42:14.145296
+2026-03-06,,bytom,Piep*zyć Mickiewicza 3,Bytom,12:20,2D,original,regular,2026-03-06T08:42:14.145309
+2026-03-06,,bytom,Zwierzogród 2,Bytom,12:30,2D,original,regular,2026-03-06T08:42:14.145325
+2026-03-06,,bytom,Kicia Kocia w podróży,Bytom,12:30,2D,,regular,2026-03-06T08:42:14.145338
+2026-03-06,,bytom,Za duży na bajki 3,Bytom,12:40,2D,original,regular,2026-03-06T08:42:14.145351
+2026-03-06,,bytom,Wielka mała koza,Bytom,13:00,2D,,regular,2026-03-06T08:42:14.145363
+2026-03-06,,bytom,Hopnięci,Bytom,13:30,2D,original,regular,2026-03-06T08:42:14.145374
+2026-03-06,,bytom,"Kopnęłabym cię, gdybym mogła",Bytom,13:40,2D,original,regular,2026-03-06T08:42:14.145386
+2026-03-06,,bytom,Hopnięci,Bytom,14:00,2D,original,regular,2026-03-06T08:42:14.145396
+2026-03-06,,bytom,Dobry chłopiec,Bytom,14:40,2D,original,regular,2026-03-06T08:42:14.145407
+2026-03-06,,bytom,Za duży na bajki 3,Bytom,14:50,2D,original,regular,2026-03-06T08:42:14.145416
+2026-03-06,,bytom,Panna młoda!,Bytom,15:00,2D,original,regular,2026-03-06T08:42:14.145427
+2026-03-06,,bytom,Krzyk 7,Bytom,15:00,2D,original,regular,2026-03-06T08:42:14.145437
+2026-03-06,,bytom,Wielka mała koza,Bytom,15:20,2D,,regular,2026-03-06T08:42:14.145446
+2026-03-06,,bytom,Hopnięci,Bytom,16:00,2D,original,regular,2026-03-06T08:42:14.145457
+2026-03-06,,bytom,Scarlet,Bytom,16:15,2D,original,regular,2026-03-06T08:42:14.145468
+2026-03-06,,bytom,Hopnięci,Bytom,16:30,2D,original,regular,2026-03-06T08:42:14.145478
+2026-03-06,,bytom,Za duży na bajki 3,Bytom,17:00,2D,original,regular,2026-03-06T08:42:14.145487
+2026-03-06,,bytom,Wichrowe wzgórza,Bytom,17:20,2D,original,regular,2026-03-06T08:42:14.145497
+2026-03-06,,bytom,Krzyk 7,Bytom,17:40,2D,original,regular,2026-03-06T08:42:14.145507
+2026-03-06,,bytom,Piep*zyć Mickiewicza 3,Bytom,17:40,2D,original,regular,2026-03-06T08:42:14.145516
+2026-03-06,,bytom,Panna młoda!,Bytom,17:50,2D,original,regular,2026-03-06T08:42:14.145526
+2026-03-06,,bytom,Hopnięci,Bytom,18:30,2D,original,regular,2026-03-06T08:42:14.145537
+2026-03-06,,bytom,EPiC: Elvis Presley in Concert,Bytom,18:45,2D,original,regular,2026-03-06T08:42:14.145548
+2026-03-06,,bytom,F1,Bytom,19:00,2D,original,regular,2026-03-06T08:42:14.145573
+2026-03-06,,bytom,Za duży na bajki 3,Bytom,19:10,2D,original,regular,2026-03-06T08:42:14.145583
+2026-03-06,,bytom,Wartość sentymentalna,Bytom,20:00,2D,original,regular,2026-03-06T08:42:14.145594
+2026-03-06,,bytom,Krzyk 7,Bytom,20:20,2D,original,regular,2026-03-06T08:42:14.145603
+2026-03-06,,bytom,Dobry chłopiec,Bytom,20:20,2D,original,regular,2026-03-06T08:42:14.145613
+2026-03-06,,bytom,Panna młoda!,Bytom,20:40,2D,original,regular,2026-03-06T08:42:14.145623
+2026-03-06,,bytom,Hopnięci,Bytom,21:00,2D,original,regular,2026-03-06T08:42:14.145634
+2026-03-06,,bytom,Pojedynek,Bytom,21:00,2D,original,regular,2026-03-06T08:42:14.145644
+2026-03-06,,bytom,Czy mnie słychać?,Bytom,21:20,2D,original,regular,2026-03-06T08:42:14.145654
+2026-03-06,,cieszyn,Kicia Kocia w podróży,Cieszyn,13:00,2D,,regular,2026-03-06T08:42:16.133849
+2026-03-06,,cieszyn,Hopnięci,Cieszyn,13:30,2D,original,regular,2026-03-06T08:42:16.133879
+2026-03-06,,cieszyn,Scarlet,Cieszyn,13:50,2D,original,regular,2026-03-06T08:42:16.133896
+2026-03-06,,cieszyn,Za duży na bajki 3,Cieszyn,14:30,2D,original,regular,2026-03-06T08:42:16.133909
+2026-03-06,,cieszyn,Panna młoda!,Cieszyn,14:50,2D,original,regular,2026-03-06T08:42:16.133925
+2026-03-06,,cieszyn,Hopnięci,Cieszyn,16:00,2D,original,regular,2026-03-06T08:42:16.133939
+2026-03-06,,cieszyn,Pojedynek,Cieszyn,16:20,2D,original,regular,2026-03-06T08:42:16.133952
+2026-03-06,,cieszyn,Za duży na bajki 3,Cieszyn,16:40,2D,original,regular,2026-03-06T08:42:16.133964
+2026-03-06,,cieszyn,Panna młoda!,Cieszyn,17:40,2D,original,regular,2026-03-06T08:42:16.133978
+2026-03-06,,cieszyn,Hopnięci,Cieszyn,18:30,2D,original,regular,2026-03-06T08:42:16.133992
+2026-03-06,,cieszyn,Dobry chłopiec,Cieszyn,18:50,2D,original,regular,2026-03-06T08:42:16.134006
+2026-03-06,,cieszyn,F1,Cieszyn,19:00,2D,original,regular,2026-03-06T08:42:16.134019
+2026-03-06,,cieszyn,Panna młoda!,Cieszyn,20:30,2D,original,regular,2026-03-06T08:42:16.134032
+2026-03-06,,cieszyn,Krzyk 7,Cieszyn,20:50,2D,original,regular,2026-03-06T08:42:16.134046
+2026-03-06,,cieszyn,Wartość sentymentalna,Cieszyn,21:20,2D,original,regular,2026-03-06T08:42:16.134062
+2026-03-06,,cieszyn,EPiC: Elvis Presley in Concert,Cieszyn,22:10,2D,original,regular,2026-03-06T08:42:16.134075
+2026-03-06,,częstochowa,Hopnięci,Częstochowa - Galeria Jurajska,10:30,2D,original,regular,2026-03-06T08:42:17.463538
+2026-03-06,,częstochowa,Zwierzogród 2,Częstochowa - Galeria Jurajska,11:00,2D,original,regular,2026-03-06T08:42:17.463587
+2026-03-06,,częstochowa,Hopnięci,Częstochowa - Galeria Jurajska,11:15,2D,original,regular,2026-03-06T08:42:17.463600
+2026-03-06,,częstochowa,Panna młoda!,Częstochowa - Galeria Jurajska,11:30,2D,original,regular,2026-03-06T08:42:17.463612
+2026-03-06,,częstochowa,Za duży na bajki 3,Częstochowa - Galeria Jurajska,11:50,2D,original,regular,2026-03-06T08:42:17.463622
+2026-03-06,,częstochowa,EPiC: Elvis Presley in Concert,Częstochowa - Galeria Jurajska,12:10,2D,original,regular,2026-03-06T08:42:17.463633
+2026-03-06,,częstochowa,Kicia Kocia w podróży,Częstochowa - Galeria Jurajska,12:20,2D,,regular,2026-03-06T08:42:17.463643
+2026-03-06,,częstochowa,Scarlet,Częstochowa - Galeria Jurajska,12:30,2D,original,regular,2026-03-06T08:42:17.463653
+2026-03-06,,częstochowa,Hopnięci,Częstochowa - Galeria Jurajska,13:00,2D,original,regular,2026-03-06T08:42:17.463663
+2026-03-06,,częstochowa,Wielka mała koza,Częstochowa - Galeria Jurajska,13:30,2D,,regular,2026-03-06T08:42:17.463673
+2026-03-06,,częstochowa,Kicia Kocia w podróży,Częstochowa - Galeria Jurajska,13:40,2D,,regular,2026-03-06T08:42:17.463682
+2026-03-06,,częstochowa,Hopnięci,Częstochowa - Galeria Jurajska,13:50,2D,original,regular,2026-03-06T08:42:17.463691
+2026-03-06,,częstochowa,Za duży na bajki 3,Częstochowa - Galeria Jurajska,14:00,2D,original,regular,2026-03-06T08:42:17.463700
+2026-03-06,,częstochowa,Panna młoda!,Częstochowa - Galeria Jurajska,14:20,2D,original,regular,2026-03-06T08:42:17.463709
+2026-03-06,,częstochowa,Zwierzogród 2,Częstochowa - Galeria Jurajska,14:30,2D,original,regular,2026-03-06T08:42:17.463720
+2026-03-06,,częstochowa,Krzyk 7,Częstochowa - Galeria Jurajska,15:00,2D,original,regular,2026-03-06T08:42:17.463729
+2026-03-06,,częstochowa,Piep*zyć Mickiewicza 3,Częstochowa - Galeria Jurajska,15:15,2D,original,regular,2026-03-06T08:42:17.463738
+2026-03-06,,częstochowa,Hopnięci,Częstochowa - Galeria Jurajska,15:30,2D,original,regular,2026-03-06T08:42:17.463748
+2026-03-06,,częstochowa,Wichrowe wzgórza,Częstochowa - Galeria Jurajska,16:00,2D,original,regular,2026-03-06T08:42:17.463758
+2026-03-06,,częstochowa,Za duży na bajki 3,Częstochowa - Galeria Jurajska,16:10,2D,original,regular,2026-03-06T08:42:17.463766
+2026-03-06,,częstochowa,Hopnięci,Częstochowa - Galeria Jurajska,16:20,2D,original,regular,2026-03-06T08:42:17.463776
+2026-03-06,,częstochowa,Pojedynek,Częstochowa - Galeria Jurajska,17:00,2D,original,regular,2026-03-06T08:42:17.463785
+2026-03-06,,częstochowa,Panna młoda!,Częstochowa - Galeria Jurajska,17:10,2D,original,regular,2026-03-06T08:42:17.463795
+2026-03-06,,częstochowa,Piep*zyć Mickiewicza 3,Częstochowa - Galeria Jurajska,17:30,2D,original,regular,2026-03-06T08:42:17.463804
+2026-03-06,,częstochowa,Krzyk 7,Częstochowa - Galeria Jurajska,17:40,2D,original,regular,2026-03-06T08:42:17.463813
+2026-03-06,,częstochowa,Hopnięci,Częstochowa - Galeria Jurajska,18:00,2D,original,regular,2026-03-06T08:42:17.463822
+2026-03-06,,częstochowa,Za duży na bajki 3,Częstochowa - Galeria Jurajska,18:20,2D,original,regular,2026-03-06T08:42:17.463831
+2026-03-06,,częstochowa,Dobry chłopiec,Częstochowa - Galeria Jurajska,18:45,2D,original,regular,2026-03-06T08:42:17.463841
+2026-03-06,,częstochowa,F1,Częstochowa - Galeria Jurajska,19:00,2D,original,regular,2026-03-06T08:42:17.463850
+2026-03-06,,częstochowa,Pojedynek,Częstochowa - Galeria Jurajska,19:30,2D,original,regular,2026-03-06T08:42:17.463858
+2026-03-06,,częstochowa,Wartość sentymentalna,Częstochowa - Galeria Jurajska,19:45,2D,original,regular,2026-03-06T08:42:17.463868
+2026-03-06,,częstochowa,Panna młoda!,Częstochowa - Galeria Jurajska,20:00,2D,original,regular,2026-03-06T08:42:17.463878
+2026-03-06,,częstochowa,Krzyk 7,Częstochowa - Galeria Jurajska,20:15,2D,original,regular,2026-03-06T08:42:17.463887
+2026-03-06,,częstochowa,Hopnięci,Częstochowa - Galeria Jurajska,20:30,2D,original,regular,2026-03-06T08:42:17.463897
+2026-03-06,,częstochowa,Wichrowe wzgórza,Częstochowa - Galeria Jurajska,20:40,2D,original,regular,2026-03-06T08:42:17.463906
+2026-03-06,,częstochowa,Dobry chłopiec,Częstochowa - Galeria Jurajska,21:15,2D,original,regular,2026-03-06T08:42:17.463916
+2026-03-06,,częstochowa,Dźwięk śmierci,Częstochowa - Galeria Jurajska,22:00,2D,original,regular,2026-03-06T08:42:17.463925
+2026-03-06,,częstochowa,Hopnięci,Częstochowa - Wolność,09:30,2D,original,regular,2026-03-06T08:42:19.337894
+2026-03-06,,częstochowa,Psoty,Częstochowa - Wolność,10:15,2D,original,regular,2026-03-06T08:42:19.337921
+2026-03-06,,częstochowa,Panna młoda!,Częstochowa - Wolność,11:00,2D,original,regular,2026-03-06T08:42:19.337938
+2026-03-06,,częstochowa,Za duży na bajki 3,Częstochowa - Wolność,11:10,2D,original,regular,2026-03-06T08:42:19.337950
+2026-03-06,,częstochowa,Najświętsze serce,Częstochowa - Wolność,11:10,2D,original,regular,2026-03-06T08:42:19.337963
+2026-03-06,,częstochowa,Kicia Kocia w podróży,Częstochowa - Wolność,11:20,2D,,regular,2026-03-06T08:42:19.337975
+2026-03-06,,częstochowa,Zmiennokształtni 2,Częstochowa - Wolność,12:00,2D,,regular,2026-03-06T08:42:19.337987
+2026-03-06,,częstochowa,Hopnięci,Częstochowa - Wolność,12:30,2D,original,regular,2026-03-06T08:42:19.338000
+2026-03-06,,częstochowa,Wielka mała koza,Częstochowa - Wolność,12:30,2D,,regular,2026-03-06T08:42:19.338013
+2026-03-06,,częstochowa,Wielki Marty,Częstochowa - Wolność,12:50,2D,original,regular,2026-03-06T08:42:19.338025
+2026-03-06,,częstochowa,Hopnięci,Częstochowa - Wolność,13:20,2D,original,regular,2026-03-06T08:42:19.338039
+2026-03-06,,częstochowa,Czy mnie słychać?,Częstochowa - Wolność,13:30,2D,original,regular,2026-03-06T08:42:19.338052
+2026-03-06,,częstochowa,Panna młoda!,Częstochowa - Wolność,13:50,2D,original,regular,2026-03-06T08:42:19.338066
+2026-03-06,,częstochowa,Hopnięci ukraiński dubbing,Częstochowa - Wolność,14:30,2D,dubbing,regular,2026-03-06T08:42:19.338079
+2026-03-06,,częstochowa,Scarlet,Częstochowa - Wolność,14:40,2D,original,regular,2026-03-06T08:42:19.338091
+2026-03-06,,częstochowa,Za duży na bajki 3,Częstochowa - Wolność,14:50,2D,original,regular,2026-03-06T08:42:19.338101
+2026-03-06,,częstochowa,Hopnięci,Częstochowa - Wolność,15:00,2D,original,regular,2026-03-06T08:42:19.338111
+2026-03-06,,częstochowa,Hopnięci,Częstochowa - Wolność,15:50,2D,original,regular,2026-03-06T08:42:19.338122
+2026-03-06,,częstochowa,Pojedynek,Częstochowa - Wolność,16:10,2D,original,regular,2026-03-06T08:42:19.338132
+2026-03-06,,częstochowa,Dobry chłopiec,Częstochowa - Wolność,16:20,2D,original,regular,2026-03-06T08:42:19.338142
+2026-03-06,,częstochowa,Panna młoda!,Częstochowa - Wolność,16:40,2D,original,regular,2026-03-06T08:42:19.338153
+2026-03-06,,częstochowa,Za duży na bajki 3,Częstochowa - Wolność,17:00,2D,original,regular,2026-03-06T08:42:19.338163
+2026-03-06,,częstochowa,Panna młoda! ukraiński dubbing,Częstochowa - Wolność,17:00,2D,dubbing,regular,2026-03-06T08:42:19.338173
+2026-03-06,,częstochowa,Piep*zyć Mickiewicza 3,Częstochowa - Wolność,17:10,2D,original,regular,2026-03-06T08:42:19.338183
+2026-03-06,,częstochowa,Hopnięci,Częstochowa - Wolność,17:30,2D,original,regular,2026-03-06T08:42:19.338194
+2026-03-06,,częstochowa,Hopnięci,Częstochowa - Wolność,18:20,2D,original,regular,2026-03-06T08:42:19.338204
+2026-03-06,,częstochowa,Krzyk 7,Częstochowa - Wolność,18:50,2D,original,regular,2026-03-06T08:42:19.338214
+2026-03-06,,częstochowa,F1,Częstochowa - Wolność,19:00,2D,original,regular,2026-03-06T08:42:19.338224
+2026-03-06,,częstochowa,Za duży na bajki 3,Częstochowa - Wolność,19:10,2D,original,regular,2026-03-06T08:42:19.338233
+2026-03-06,,częstochowa,Wichrowe wzgórza,Częstochowa - Wolność,19:20,2D,original,regular,2026-03-06T08:42:19.338243
+2026-03-06,,częstochowa,Panna młoda!,Częstochowa - Wolność,19:30,2D,original,regular,2026-03-06T08:42:19.338254
+2026-03-06,,częstochowa,Wartość sentymentalna,Częstochowa - Wolność,19:45,2D,original,regular,2026-03-06T08:42:19.338264
+2026-03-06,,częstochowa,Hopnięci,Częstochowa - Wolność,20:00,2D,original,regular,2026-03-06T08:42:19.338275
+2026-03-06,,częstochowa,Dobry chłopiec,Częstochowa - Wolność,20:50,2D,original,regular,2026-03-06T08:42:19.338285
+2026-03-06,,częstochowa,EPiC: Elvis Presley in Concert,Częstochowa - Wolność,21:20,2D,original,regular,2026-03-06T08:42:19.338295
+2026-03-06,,częstochowa,Krzyk 7,Częstochowa - Wolność,21:30,2D,original,regular,2026-03-06T08:42:19.338305
+2026-03-06,,częstochowa,Dźwięk śmierci,Częstochowa - Wolność,22:10,2D,original,regular,2026-03-06T08:42:19.338314
+2026-03-06,,częstochowa,Panna młoda!,Częstochowa - Wolność,22:20,2D,original,regular,2026-03-06T08:42:19.338325
+2026-03-06,,częstochowa,Piep*zyć Mickiewicza 3,Częstochowa - Wolność,22:20,2D,original,regular,2026-03-06T08:42:19.338334
+2026-03-06,,częstochowa,Skażenie,Częstochowa - Wolność,22:30,2D,original,regular,2026-03-06T08:42:19.338345
+2026-03-06,,elbląg,Scarlet,Elbląg,12:00,2D,original,regular,2026-03-06T08:42:20.795038
+2026-03-06,,elbląg,Hopnięci,Elbląg,12:10,2D,original,regular,2026-03-06T08:42:20.795068
+2026-03-06,,elbląg,Zwierzogród 2,Elbląg,12:20,2D,original,regular,2026-03-06T08:42:20.795085
+2026-03-06,,elbląg,Kicia Kocia w podróży,Elbląg,12:30,2D,,regular,2026-03-06T08:42:20.795099
+2026-03-06,,elbląg,Hopnięci,Elbląg,13:30,2D,original,regular,2026-03-06T08:42:20.795112
+2026-03-06,,elbląg,Za duży na bajki 3,Elbląg,13:40,2D,original,regular,2026-03-06T08:42:20.795124
+2026-03-06,,elbląg,Wielka mała koza,Elbląg,14:00,2D,,regular,2026-03-06T08:42:20.795136
+2026-03-06,,elbląg,EPiC: Elvis Presley in Concert,Elbląg,14:40,2D,original,regular,2026-03-06T08:42:20.795149
+2026-03-06,,elbląg,Dobry chłopiec,Elbląg,14:40,2D,original,regular,2026-03-06T08:42:20.795162
+2026-03-06,,elbląg,Panna młoda!,Elbląg,14:50,2D,original,regular,2026-03-06T08:42:20.795174
+2026-03-06,,elbląg,Za duży na bajki 3,Elbląg,15:50,2D,original,regular,2026-03-06T08:42:20.795185
+2026-03-06,,elbląg,Hopnięci,Elbląg,16:00,2D,original,regular,2026-03-06T08:42:20.795197
+2026-03-06,,elbląg,Pojedynek,Elbląg,16:20,2D,original,regular,2026-03-06T08:42:20.795208
+2026-03-06,,elbląg,Wichrowe wzgórza,Elbląg,17:00,2D,original,regular,2026-03-06T08:42:20.795219
+2026-03-06,,elbląg,Krzyk 7,Elbląg,17:20,2D,original,regular,2026-03-06T08:42:20.795231
+2026-03-06,,elbląg,Panna młoda!,Elbląg,17:40,2D,original,regular,2026-03-06T08:42:20.795242
+2026-03-06,,elbląg,Za duży na bajki 3,Elbląg,18:00,2D,original,regular,2026-03-06T08:42:20.795253
+2026-03-06,,elbląg,Hopnięci,Elbląg,18:30,2D,original,regular,2026-03-06T08:42:20.795266
+2026-03-06,,elbląg,F1,Elbląg,19:00,2D,original,regular,2026-03-06T08:42:20.795277
+2026-03-06,,elbląg,Piep*zyć Mickiewicza 3,Elbląg,19:50,2D,original,regular,2026-03-06T08:42:20.795289
+2026-03-06,,elbląg,Krzyk 7,Elbląg,20:00,2D,original,regular,2026-03-06T08:42:20.795300
+2026-03-06,,elbląg,Dobry chłopiec,Elbląg,20:20,2D,original,regular,2026-03-06T08:42:20.795311
+2026-03-06,,elbląg,Panna młoda!,Elbląg,20:30,2D,original,regular,2026-03-06T08:42:20.795323
+2026-03-06,,elbląg,Wartość sentymentalna,Elbląg,20:50,2D,original,regular,2026-03-06T08:42:20.795335
+2026-03-06,,elbląg,Panna młoda!,Elbląg,21:50,2D,original,regular,2026-03-06T08:42:20.795347
+2026-03-06,,gliwice,Piep*zyć Mickiewicza 3,Gliwice,09:30,2D,original,regular,2026-03-06T08:42:22.733257
+2026-03-06,,gliwice,Hopnięci,Gliwice,10:00,2D,original,regular,2026-03-06T08:42:22.733287
+2026-03-06,,gliwice,Pojedynek,Gliwice,10:00,2D,original,regular,2026-03-06T08:42:22.733301
+2026-03-06,,gliwice,Piep*zyć Mickiewicza 3,Gliwice,10:20,2D,original,regular,2026-03-06T08:42:22.733315
+2026-03-06,,gliwice,Za duży na bajki 3,Gliwice,10:30,2D,original,regular,2026-03-06T08:42:22.733328
+2026-03-06,,gliwice,Wielki Marty,Gliwice,10:30,2D,original,regular,2026-03-06T08:42:22.733341
+2026-03-06,,gliwice,Piep*zyć Mickiewicza 3,Gliwice,10:45,2D,original,regular,2026-03-06T08:42:22.733352
+2026-03-06,,gliwice,Hopnięci,Gliwice,11:00,2D,original,regular,2026-03-06T08:42:22.733366
+2026-03-06,,gliwice,Panna młoda!,Gliwice,11:00,2D,original,regular,2026-03-06T08:42:22.733380
+2026-03-06,,gliwice,Wielka mała koza,Gliwice,11:00,2D,,regular,2026-03-06T08:42:22.733393
+2026-03-06,,gliwice,Kicia Kocia w podróży,Gliwice,11:15,2D,,regular,2026-03-06T08:42:22.733405
+2026-03-06,,gliwice,Zwierzogród 2,Gliwice,11:30,2D,original,regular,2026-03-06T08:42:22.733420
+2026-03-06,,gliwice,Orzełek Iggy,Gliwice,11:40,2D,,regular,2026-03-06T08:42:22.733434
+2026-03-06,,gliwice,Hopnięci,Gliwice,11:40,2D,original,regular,2026-03-06T08:42:22.733447
+2026-03-06,,gliwice,Hopnięci,Gliwice,12:30,2D,original,regular,2026-03-06T08:42:22.733460
+2026-03-06,,gliwice,Moon: Panda i ja,Gliwice,12:30,2D,,regular,2026-03-06T08:42:22.733472
+2026-03-06,,gliwice,Za duży na bajki 3,Gliwice,12:40,2D,original,regular,2026-03-06T08:42:22.733484
+2026-03-06,,gliwice,Kicia Kocia w podróży,Gliwice,12:45,2D,,regular,2026-03-06T08:42:22.733496
+2026-03-06,,gliwice,Zmiennokształtni 2,Gliwice,12:50,2D,,regular,2026-03-06T08:42:22.733508
+2026-03-06,,gliwice,Piep*zyć Mickiewicza 3,Gliwice,13:10,2D,original,regular,2026-03-06T08:42:22.733519
+2026-03-06,,gliwice,Wielka mała koza,Gliwice,13:20,2D,,regular,2026-03-06T08:42:22.733531
+2026-03-06,,gliwice,Hopnięci,Gliwice,13:30,2D,original,regular,2026-03-06T08:42:22.733544
+2026-03-06,,gliwice,Wartość sentymentalna,Gliwice,13:40,2D,original,regular,2026-03-06T08:42:22.733576
+2026-03-06,,gliwice,Krzyk 7,Gliwice,13:40,2D,original,regular,2026-03-06T08:42:22.733589
+2026-03-06,,gliwice,Panna młoda!,Gliwice,13:50,2D,original,regular,2026-03-06T08:42:22.733603
+2026-03-06,,gliwice,Zwierzogród 2,Gliwice,13:50,2D,original,regular,2026-03-06T08:42:22.733616
+2026-03-06,,gliwice,Piep*zyć Mickiewicza 3,Gliwice,14:10,2D,original,regular,2026-03-06T08:42:22.733627
+2026-03-06,,gliwice,Kicia Kocia w podróży,Gliwice,14:15,2D,,regular,2026-03-06T08:42:22.733639
+2026-03-06,,gliwice,Za duży na bajki 3,Gliwice,14:50,2D,original,regular,2026-03-06T08:42:22.733650
+2026-03-06,,gliwice,Hopnięci,Gliwice,15:00,2D,original,regular,2026-03-06T08:42:22.733666
+2026-03-06,,gliwice,Najświętsze serce,Gliwice,15:00,2D,original,regular,2026-03-06T08:42:22.733679
+2026-03-06,,gliwice,Dalej jazda 2,Gliwice,15:20,2D,original,regular,2026-03-06T08:42:22.733691
+2026-03-06,,gliwice,Hopnięci,Gliwice,15:30,2D,original,regular,2026-03-06T08:42:22.733706
+2026-03-06,,gliwice,Zwierzogród 2,Gliwice,15:40,2D,original,regular,2026-03-06T08:42:22.733720
+2026-03-06,,gliwice,Wielka mała koza,Gliwice,15:40,2D,,regular,2026-03-06T08:42:22.733732
+2026-03-06,,gliwice,Hopnięci,Gliwice,16:00,2D,original,regular,2026-03-06T08:42:22.733746
+2026-03-06,,gliwice,Dobry chłopiec,Gliwice,16:20,2D,original,regular,2026-03-06T08:42:22.733759
+2026-03-06,,gliwice,Krzyk 7,Gliwice,16:20,2D,original,regular,2026-03-06T08:42:22.733771
+2026-03-06,,gliwice,Piep*zyć Mickiewicza 3,Gliwice,16:20,2D,original,regular,2026-03-06T08:42:22.733782
+2026-03-06,,gliwice,Wartość sentymentalna,Gliwice,16:30,2D,original,regular,2026-03-06T08:42:22.733795
+2026-03-06,,gliwice,Panna młoda!,Gliwice,16:40,2D,original,regular,2026-03-06T08:42:22.733809
+2026-03-06,,gliwice,Za duży na bajki 3,Gliwice,17:00,2D,original,regular,2026-03-06T08:42:22.733820
+2026-03-06,,gliwice,Najświętsze serce,Gliwice,17:20,2D,original,regular,2026-03-06T08:42:22.733832
+2026-03-06,,gliwice,Hopnięci,Gliwice,17:30,2D,original,regular,2026-03-06T08:42:22.733846
+2026-03-06,,gliwice,Czy mnie słychać?,Gliwice,17:45,2D,original,regular,2026-03-06T08:42:22.733859
+2026-03-06,,gliwice,EPiC: Elvis Presley in Concert,Gliwice,18:00,2D,original,regular,2026-03-06T08:42:22.733872
+2026-03-06,,gliwice,Pojedynek,Gliwice,18:00,2D,original,regular,2026-03-06T08:42:22.733884
+2026-03-06,,gliwice,Krzyk 7,Gliwice,18:10,2D,original,regular,2026-03-06T08:42:22.733895
+2026-03-06,,gliwice,Hopnięci,Gliwice,18:30,2D,original,regular,2026-03-06T08:42:22.733908
+2026-03-06,,gliwice,Piep*zyć Mickiewicza 3,Gliwice,18:40,2D,original,regular,2026-03-06T08:42:22.733919
+2026-03-06,,gliwice,Dobry chłopiec,Gliwice,18:50,2D,original,regular,2026-03-06T08:42:22.733931
+2026-03-06,,gliwice,F1,Gliwice,19:00,2D,original,regular,2026-03-06T08:42:22.733943
+2026-03-06,,gliwice,Za duży na bajki 3,Gliwice,19:10,2D,original,regular,2026-03-06T08:42:22.733954
+2026-03-06,,gliwice,Wartość sentymentalna,Gliwice,19:20,2D,original,regular,2026-03-06T08:42:22.733967
+2026-03-06,,gliwice,Panna młoda!,Gliwice,19:30,2D,original,regular,2026-03-06T08:42:22.733980
+2026-03-06,,gliwice,Wichrowe wzgórza,Gliwice,19:40,2D,original,regular,2026-03-06T08:42:22.733993
+2026-03-06,,gliwice,Hopnięci,Gliwice,20:00,2D,original,regular,2026-03-06T08:42:22.734006
+2026-03-06,,gliwice,Scarlet,Gliwice,20:05,2D,original,regular,2026-03-06T08:42:22.734019
+2026-03-06,,gliwice,"Kopnęłabym cię, gdybym mogła",Gliwice,20:30,2D,original,regular,2026-03-06T08:42:22.734033
+2026-03-06,,gliwice,Pojedynek,Gliwice,20:45,2D,original,regular,2026-03-06T08:42:22.734045
+2026-03-06,,gliwice,Krzyk 7,Gliwice,20:50,2D,original,regular,2026-03-06T08:42:22.734058
+2026-03-06,,gliwice,Wichrowe wzgórza,Gliwice,21:00,2D,original,regular,2026-03-06T08:42:22.734072
+2026-03-06,,gliwice,Piep*zyć Mickiewicza 3,Gliwice,21:00,2D,original,regular,2026-03-06T08:42:22.734083
+2026-03-06,,gliwice,Dobry chłopiec,Gliwice,21:20,2D,original,regular,2026-03-06T08:42:22.734094
+2026-03-06,,gliwice,Wielki Marty,Gliwice,21:20,2D,original,regular,2026-03-06T08:42:22.734104
+2026-03-06,,gliwice,Wartość sentymentalna,Gliwice,22:10,2D,original,regular,2026-03-06T08:42:22.734115
+2026-03-06,,gliwice,Krzyk 7,Gliwice,22:15,2D,original,regular,2026-03-06T08:42:22.734126
+2026-03-06,,gliwice,Panna młoda!,Gliwice,22:20,2D,original,regular,2026-03-06T08:42:22.734137
+2026-03-06,,gliwice,Dźwięk śmierci,Gliwice,22:30,2D,original,regular,2026-03-06T08:42:22.734148
+2026-03-06,,gliwice,Dobry chłopiec,Gliwice,22:30,2D,original,regular,2026-03-06T08:42:22.734158
+2026-03-06,,gliwice,Samotnik,Gliwice,22:30,2D,original,regular,2026-03-06T08:42:22.734169
+2026-03-06,,katowice,Hubble 3D IMAX,Katowice - Punkt 44,09:45,IMAX,original,regular,2026-03-06T08:42:24.645051
+2026-03-06,,katowice,Piep*zyć Mickiewicza 3,Katowice - Punkt 44,10:00,2D,original,regular,2026-03-06T08:42:24.645076
+2026-03-06,,katowice,Za duży na bajki 3,Katowice - Punkt 44,10:00,2D,original,regular,2026-03-06T08:42:24.645088
+2026-03-06,,katowice,Hopnięci,Katowice - Punkt 44,11:00,2D,original,regular,2026-03-06T08:42:24.645100
+2026-03-06,,katowice,Panna młoda!,Katowice - Punkt 44,11:00,2D,original,regular,2026-03-06T08:42:24.645111
+2026-03-06,,katowice,Zmiennokształtni 2,Katowice - Punkt 44,11:00,2D,,regular,2026-03-06T08:42:24.645122
+2026-03-06,,katowice,Kicia Kocia w podróży,Katowice - Punkt 44,11:00,2D,,regular,2026-03-06T08:42:24.645133
+2026-03-06,,katowice,Dobry chłopiec,Katowice - Punkt 44,11:40,2D,original,regular,2026-03-06T08:42:24.645143
+2026-03-06,,katowice,Kicia Kocia w podróży,Katowice - Punkt 44,11:45,2D,,regular,2026-03-06T08:42:24.645153
+2026-03-06,,katowice,Hopnięci,Katowice - Punkt 44,12:00,2D,original,regular,2026-03-06T08:42:24.645163
+2026-03-06,,katowice,Za duży na bajki 3,Katowice - Punkt 44,12:30,2D,original,regular,2026-03-06T08:42:24.645173
+2026-03-06,,katowice,Wielka mała koza,Katowice - Punkt 44,12:30,2D,,regular,2026-03-06T08:42:24.645183
+2026-03-06,,katowice,Kicia Kocia w podróży,Katowice - Punkt 44,12:40,2D,,regular,2026-03-06T08:42:24.645193
+2026-03-06,,katowice,Hopnięci,Katowice - Punkt 44,12:50,IMAX,original,regular,2026-03-06T08:42:24.645200
+2026-03-06,,katowice,Dalej jazda 2,Katowice - Punkt 44,12:50,2D,original,regular,2026-03-06T08:42:24.645210
+2026-03-06,,katowice,Wichrowe wzgórza,Katowice - Punkt 44,12:50,2D,original,regular,2026-03-06T08:42:24.645220
+2026-03-06,,katowice,Zwierzogród 2,Katowice - Punkt 44,13:10,2D,original,regular,2026-03-06T08:42:24.645232
+2026-03-06,,katowice,Orzełek Iggy,Katowice - Punkt 44,13:20,2D,,regular,2026-03-06T08:42:24.645243
+2026-03-06,,katowice,Hopnięci,Katowice - Punkt 44,13:30,2D,original,regular,2026-03-06T08:42:24.645253
+2026-03-06,,katowice,Panna młoda!,Katowice - Punkt 44,13:50,2D,original,regular,2026-03-06T08:42:24.645264
+2026-03-06,,katowice,Hopnięci ukraiński dubbing,Katowice - Punkt 44,14:00,2D,dubbing,regular,2026-03-06T08:42:24.645274
+2026-03-06,,katowice,Wielki Marty,Katowice - Punkt 44,14:10,2D,original,regular,2026-03-06T08:42:24.645284
+2026-03-06,,katowice,Hopnięci,Katowice - Punkt 44,14:30,2D,original,regular,2026-03-06T08:42:24.645295
+2026-03-06,,katowice,Za duży na bajki 3,Katowice - Punkt 44,14:40,2D,original,regular,2026-03-06T08:42:24.645304
+2026-03-06,,katowice,Wielka mała koza,Katowice - Punkt 44,14:50,2D,,regular,2026-03-06T08:42:24.645314
+2026-03-06,,katowice,Hopnięci,Katowice - Punkt 44,15:20,IMAX,original,regular,2026-03-06T08:42:24.645321
+2026-03-06,,katowice,Czy mnie słychać?,Katowice - Punkt 44,15:20,2D,original,regular,2026-03-06T08:42:24.645331
+2026-03-06,,katowice,Krzyk 7,Katowice - Punkt 44,15:30,2D,original,regular,2026-03-06T08:42:24.645341
+2026-03-06,,katowice,Piep*zyć Mickiewicza 3,Katowice - Punkt 44,15:40,2D,original,regular,2026-03-06T08:42:24.645350
+2026-03-06,,katowice,Wichrowe wzgórza,Katowice - Punkt 44,15:50,2D,original,regular,2026-03-06T08:42:24.645360
+2026-03-06,,katowice,Samotnik,Katowice - Punkt 44,15:50,2D,original,regular,2026-03-06T08:42:24.645370
+2026-03-06,,katowice,Hopnięci,Katowice - Punkt 44,16:00,2D,original,regular,2026-03-06T08:42:24.645380
+2026-03-06,,katowice,Hopnięci,Katowice - Punkt 44,16:30,2D,original,regular,2026-03-06T08:42:24.645391
+2026-03-06,,katowice,Panna młoda!,Katowice - Punkt 44,16:40,2D,original,regular,2026-03-06T08:42:24.645401
+2026-03-06,,katowice,Za duży na bajki 3,Katowice - Punkt 44,16:50,2D,original,regular,2026-03-06T08:42:24.645410
+2026-03-06,,katowice,Hopnięci,Katowice - Punkt 44,17:00,2D,original,regular,2026-03-06T08:42:24.645420
+2026-03-06,,katowice,Hamnet,Katowice - Punkt 44,17:10,2D,original,regular,2026-03-06T08:42:24.645430
+2026-03-06,,katowice,Crime 101,Katowice - Punkt 44,17:10,2D,original,regular,2026-03-06T08:42:24.645441
+2026-03-06,,katowice,Dobry chłopiec,Katowice - Punkt 44,17:30,2D,original,regular,2026-03-06T08:42:24.645451
+2026-03-06,,katowice,Panna młoda!,Katowice - Punkt 44,17:50,IMAX,original,regular,2026-03-06T08:42:24.645459
+2026-03-06,,katowice,Piep*zyć Mickiewicza 3,Katowice - Punkt 44,18:00,2D,original,regular,2026-03-06T08:42:24.645468
+2026-03-06,,katowice,Scarlet,Katowice - Punkt 44,18:10,2D,original,regular,2026-03-06T08:42:24.645478
+2026-03-06,,katowice,Krzyk 7,Katowice - Punkt 44,18:15,2D,original,regular,2026-03-06T08:42:24.645488
+2026-03-06,,katowice,"Kopnęłabym cię, gdybym mogła",Katowice - Punkt 44,18:20,2D,original,regular,2026-03-06T08:42:24.645499
+2026-03-06,,katowice,Hopnięci,Katowice - Punkt 44,18:30,2D,original,regular,2026-03-06T08:42:24.645509
+2026-03-06,,katowice,F1,Katowice - Punkt 44,19:00,2D,original,regular,2026-03-06T08:42:24.645518
+2026-03-06,,katowice,Za duży na bajki 3,Katowice - Punkt 44,19:00,2D,original,regular,2026-03-06T08:42:24.645528
+2026-03-06,,katowice,Panna młoda! ukraiński dubbing,Katowice - Punkt 44,19:10,2D,dubbing,regular,2026-03-06T08:42:24.645538
+2026-03-06,,katowice,Hopnięci,Katowice - Punkt 44,19:30,2D,original,regular,2026-03-06T08:42:24.645548
+2026-03-06,,katowice,Panna młoda!,Katowice - Punkt 44,19:30,2D,original,regular,2026-03-06T08:42:24.645572
+2026-03-06,,katowice,Pojedynek,Katowice - Punkt 44,19:50,2D,original,regular,2026-03-06T08:42:24.645582
+2026-03-06,,katowice,Dobry chłopiec,Katowice - Punkt 44,20:00,2D,original,regular,2026-03-06T08:42:24.645592
+2026-03-06,,katowice,Wartość sentymentalna,Katowice - Punkt 44,20:10,2D,original,regular,2026-03-06T08:42:24.645603
+2026-03-06,,katowice,Piep*zyć Mickiewicza 3,Katowice - Punkt 44,20:20,2D,original,regular,2026-03-06T08:42:24.645613
+2026-03-06,,katowice,Panna młoda!,Katowice - Punkt 44,20:40,IMAX,original,regular,2026-03-06T08:42:24.645620
+2026-03-06,,katowice,EPiC: Elvis Presley in Concert,Katowice - Punkt 44,20:40,2D,original,regular,2026-03-06T08:42:24.645631
+2026-03-06,,katowice,Krzyk 7,Katowice - Punkt 44,20:50,2D,original,regular,2026-03-06T08:42:24.645640
+2026-03-06,,katowice,Samotnik,Katowice - Punkt 44,20:50,2D,original,regular,2026-03-06T08:42:24.645650
+2026-03-06,,katowice,Hopnięci,Katowice - Punkt 44,21:00,2D,original,regular,2026-03-06T08:42:24.645660
+2026-03-06,,katowice,Dźwięk śmierci,Katowice - Punkt 44,21:10,2D,original,regular,2026-03-06T08:42:24.645670
+2026-03-06,,katowice,Skażenie,Katowice - Punkt 44,22:00,2D,original,regular,2026-03-06T08:42:24.645681
+2026-03-06,,katowice,Pillion,Katowice - Punkt 44,22:00,2D,original,regular,2026-03-06T08:42:24.645691
+2026-03-06,,katowice,Krzyk 7,Katowice - Punkt 44,22:10,2D,original,regular,2026-03-06T08:42:24.645701
+2026-03-06,,katowice,Panna młoda!,Katowice - Punkt 44,22:20,2D,original,regular,2026-03-06T08:42:24.645711
+2026-03-06,,katowice,Pojedynek,Katowice - Punkt 44,22:20,2D,original,regular,2026-03-06T08:42:24.645720
+2026-03-06,,katowice,Orzełek Iggy,Katowice - Silesia,10:00,2D,,regular,2026-03-06T08:42:26.583444
+2026-03-06,,katowice,SpongeBob: Klątwa pirata,Katowice - Silesia,10:10,2D,,regular,2026-03-06T08:42:26.583473
+2026-03-06,,katowice,Hopnięci,Katowice - Silesia,10:30,2D,original,regular,2026-03-06T08:42:26.583490
+2026-03-06,,katowice,Kicia Kocia w podróży,Katowice - Silesia,10:30,2D,,regular,2026-03-06T08:42:26.583505
+2026-03-06,,katowice,Za duży na bajki 3,Katowice - Silesia,10:40,2D,original,regular,2026-03-06T08:42:26.583517
+2026-03-06,,katowice,Wichrowe wzgórza,Katowice - Silesia,10:50,2D,original,regular,2026-03-06T08:42:26.583531
+2026-03-06,,katowice,Wielka mała koza,Katowice - Silesia,11:00,2D,,regular,2026-03-06T08:42:26.583545
+2026-03-06,,katowice,Zwierzogród 2,Katowice - Silesia,11:10,2D,original,regular,2026-03-06T08:42:26.583582
+2026-03-06,,katowice,Szybcy i sprytni,Katowice - Silesia,11:20,2D,,regular,2026-03-06T08:42:26.583597
+2026-03-06,,katowice,Hopnięci,Katowice - Silesia,11:30,2D,original,regular,2026-03-06T08:42:26.583612
+2026-03-06,,katowice,Panna młoda!,Katowice - Silesia,11:30,2D,original,regular,2026-03-06T08:42:26.583625
+2026-03-06,,katowice,Zmiennokształtni 2,Katowice - Silesia,11:40,2D,,regular,2026-03-06T08:42:26.583635
+2026-03-06,,katowice,Orzełek Iggy,Katowice - Silesia,12:00,2D,,regular,2026-03-06T08:42:26.583646
+2026-03-06,,katowice,Kicia Kocia w podróży,Katowice - Silesia,12:00,2D,,regular,2026-03-06T08:42:26.583655
+2026-03-06,,katowice,Najświętsze serce,Katowice - Silesia,12:20,2D,original,regular,2026-03-06T08:42:26.583667
+2026-03-06,,katowice,Za duży na bajki 3,Katowice - Silesia,12:50,2D,original,regular,2026-03-06T08:42:26.583679
+2026-03-06,,katowice,Hopnięci,Katowice - Silesia,13:00,2D,original,regular,2026-03-06T08:42:26.583690
+2026-03-06,,katowice,Dobry chłopiec,Katowice - Silesia,13:20,2D,original,regular,2026-03-06T08:42:26.583701
+2026-03-06,,katowice,Wielka mała koza,Katowice - Silesia,13:20,2D,,regular,2026-03-06T08:42:26.583710
+2026-03-06,,katowice,Scarlet,Katowice - Silesia,13:30,2D,original,regular,2026-03-06T08:42:26.583722
+2026-03-06,,katowice,Kicia Kocia w podróży,Katowice - Silesia,13:30,2D,,regular,2026-03-06T08:42:26.583731
+2026-03-06,,katowice,Zwierzogród 2,Katowice - Silesia,13:40,2D,original,regular,2026-03-06T08:42:26.583743
+2026-03-06,,katowice,Crime 101,Katowice - Silesia,13:50,2D,original,regular,2026-03-06T08:42:26.583753
+2026-03-06,,katowice,Hopnięci,Katowice - Silesia,14:00,2D,original,regular,2026-03-06T08:42:26.583764
+2026-03-06,,katowice,Krzyk 7,Katowice - Silesia,14:00,2D,original,regular,2026-03-06T08:42:26.583774
+2026-03-06,,katowice,Wartość sentymentalna,Katowice - Silesia,14:10,2D,original,regular,2026-03-06T08:42:26.583784
+2026-03-06,,katowice,Panna młoda!,Katowice - Silesia,14:20,2D,original,regular,2026-03-06T08:42:26.583796
+2026-03-06,,katowice,Szybcy i sprytni,Katowice - Silesia,14:40,2D,,regular,2026-03-06T08:42:26.583806
+2026-03-06,,katowice,Za duży na bajki 3,Katowice - Silesia,15:00,2D,original,regular,2026-03-06T08:42:26.583815
+2026-03-06,,katowice,Pojedynek,Katowice - Silesia,15:00,2D,original,regular,2026-03-06T08:42:26.583825
+2026-03-06,,katowice,Hopnięci,Katowice - Silesia,15:30,2D,original,regular,2026-03-06T08:42:26.583836
+2026-03-06,,katowice,Wielki Marty,Katowice - Silesia,15:40,2D,original,regular,2026-03-06T08:42:26.583846
+2026-03-06,,katowice,Dobry chłopiec,Katowice - Silesia,15:50,2D,original,regular,2026-03-06T08:42:26.583856
+2026-03-06,,katowice,"Kopnęłabym cię, gdybym mogła",Katowice - Silesia,16:00,2D,original,regular,2026-03-06T08:42:26.583867
+2026-03-06,,katowice,Piep*zyć Mickiewicza 3,Katowice - Silesia,16:20,2D,original,regular,2026-03-06T08:42:26.583877
+2026-03-06,,katowice,Hopnięci,Katowice - Silesia,16:30,2D,original,regular,2026-03-06T08:42:26.583887
+2026-03-06,,katowice,Krzyk 7,Katowice - Silesia,16:40,2D,original,regular,2026-03-06T08:42:26.583897
+2026-03-06,,katowice,Wichrowe wzgórza,Katowice - Silesia,16:50,2D,original,regular,2026-03-06T08:42:26.583907
+2026-03-06,,katowice,Czy mnie słychać?,Katowice - Silesia,16:50,2D,original,regular,2026-03-06T08:42:26.583917
+2026-03-06,,katowice,Hopnięci,Katowice - Silesia,17:00,2D,original,regular,2026-03-06T08:42:26.583928
+2026-03-06,,katowice,Za duży na bajki 3,Katowice - Silesia,17:10,2D,original,regular,2026-03-06T08:42:26.583937
+2026-03-06,,katowice,Panna młoda!,Katowice - Silesia,17:10,2D,original,regular,2026-03-06T08:42:26.583948
+2026-03-06,,katowice,Pojedynek,Katowice - Silesia,17:30,2D,original,regular,2026-03-06T08:42:26.583957
+2026-03-06,,katowice,Hopnięci,Katowice - Silesia,18:00,2D,original,regular,2026-03-06T08:42:26.583968
+2026-03-06,,katowice,Dobry chłopiec,Katowice - Silesia,18:30,2D,original,regular,2026-03-06T08:42:26.583979
+2026-03-06,,katowice,EPiC: Elvis Presley in Concert,Katowice - Silesia,18:30,2D,original,regular,2026-03-06T08:42:26.583990
+2026-03-06,,katowice,Piep*zyć Mickiewicza 3,Katowice - Silesia,18:40,2D,original,regular,2026-03-06T08:42:26.583999
+2026-03-06,,katowice,Hopnięci,Katowice - Silesia,19:00,2D,original,regular,2026-03-06T08:42:26.584010
+2026-03-06,,katowice,F1,Katowice - Silesia,19:00,2D,original,regular,2026-03-06T08:42:26.584019
+2026-03-06,,katowice,Za duży na bajki 3,Katowice - Silesia,19:20,2D,original,regular,2026-03-06T08:42:26.584029
+2026-03-06,,katowice,Krzyk 7,Katowice - Silesia,19:20,2D,original,regular,2026-03-06T08:42:26.584038
+2026-03-06,,katowice,Wartość sentymentalna,Katowice - Silesia,19:30,2D,original,regular,2026-03-06T08:42:26.584049
+2026-03-06,,katowice,Pomoc domowa,Katowice - Silesia,19:40,2D,original,regular,2026-03-06T08:42:26.584059
+2026-03-06,,katowice,Wichrowe wzgórza,Katowice - Silesia,19:50,2D,original,regular,2026-03-06T08:42:26.584069
+2026-03-06,,katowice,Panna młoda!,Katowice - Silesia,20:00,2D,original,regular,2026-03-06T08:42:26.584080
+2026-03-06,,katowice,Samotnik,Katowice - Silesia,20:00,2D,original,regular,2026-03-06T08:42:26.584089
+2026-03-06,,katowice,Hopnięci,Katowice - Silesia,20:30,2D,original,regular,2026-03-06T08:42:26.584101
+2026-03-06,,katowice,Dźwięk śmierci,Katowice - Silesia,20:50,2D,original,regular,2026-03-06T08:42:26.584111
+2026-03-06,,katowice,Piep*zyć Mickiewicza 3,Katowice - Silesia,21:00,2D,original,regular,2026-03-06T08:42:26.584120
+2026-03-06,,katowice,Dobry chłopiec,Katowice - Silesia,21:10,2D,original,regular,2026-03-06T08:42:26.584130
+2026-03-06,,katowice,Pillion,Katowice - Silesia,21:30,2D,original,regular,2026-03-06T08:42:26.584140
+2026-03-06,,katowice,Dalej jazda 2,Katowice - Silesia,21:40,2D,original,regular,2026-03-06T08:42:26.584151
+2026-03-06,,katowice,Krzyk 7,Katowice - Silesia,22:00,2D,original,regular,2026-03-06T08:42:26.584160
+2026-03-06,,katowice,Dźwięk śmierci,Katowice - Silesia,22:10,2D,original,regular,2026-03-06T08:42:26.584169
+2026-03-06,,katowice,Wartość sentymentalna,Katowice - Silesia,22:20,2D,original,regular,2026-03-06T08:42:26.584179
+2026-03-06,,katowice,Samotnik,Katowice - Silesia,22:30,2D,original,regular,2026-03-06T08:42:26.584188
+2026-03-06,,kraków,Hopnięci,Kraków - Bonarka,10:00,2D,original,regular,2026-03-06T08:42:28.060304
+2026-03-06,,kraków,Piep*zyć Mickiewicza 3,Kraków - Bonarka,10:00,2D,original,regular,2026-03-06T08:42:28.060328
+2026-03-06,,kraków,Avatar: Ogień i popiół,Kraków - Bonarka,10:20,3D,original,regular,2026-03-06T08:42:28.060341
+2026-03-06,,kraków,Kicia Kocia w podróży,Kraków - Bonarka,10:20,2D,,regular,2026-03-06T08:42:28.060352
+2026-03-06,,kraków,Szybcy i sprytni,Kraków - Bonarka,10:20,2D,,regular,2026-03-06T08:42:28.060364
+2026-03-06,,kraków,Za duży na bajki 3,Kraków - Bonarka,10:30,2D,original,regular,2026-03-06T08:42:28.060374
+2026-03-06,,kraków,Wielka mała koza,Kraków - Bonarka,10:40,2D,,regular,2026-03-06T08:42:28.060384
+2026-03-06,,kraków,Hopnięci,Kraków - Bonarka,11:00,4DX,original,regular,2026-03-06T08:42:28.060393
+2026-03-06,,kraków,Panna młoda!,Kraków - Bonarka,11:00,2D,original,regular,2026-03-06T08:42:28.060404
+2026-03-06,,kraków,Crime 101,Kraków - Bonarka,11:00,2D,original,regular,2026-03-06T08:42:28.060415
+2026-03-06,,kraków,Zmiennokształtni 2,Kraków - Bonarka,11:00,2D,,regular,2026-03-06T08:42:28.060425
+2026-03-06,,kraków,Krzyk 7,Kraków - Bonarka,11:10,2D,original,regular,2026-03-06T08:42:28.060436
+2026-03-06,,kraków,Kicia Kocia w podróży,Kraków - Bonarka,11:10,2D,,regular,2026-03-06T08:42:28.060445
+2026-03-06,,kraków,Hopnięci,Kraków - Bonarka,11:30,2D,original,regular,2026-03-06T08:42:28.060456
+2026-03-06,,kraków,Piep*zyć Mickiewicza 3,Kraków - Bonarka,11:30,2D,original,regular,2026-03-06T08:42:28.060465
+2026-03-06,,kraków,Wichrowe wzgórza,Kraków - Bonarka,11:40,2D,original,regular,2026-03-06T08:42:28.060476
+2026-03-06,,kraków,Najświętsze serce,Kraków - Bonarka,11:50,2D,original,regular,2026-03-06T08:42:28.060487
+2026-03-06,,kraków,Dobry chłopiec,Kraków - Bonarka,12:20,2D,original,regular,2026-03-06T08:42:28.060497
+2026-03-06,,kraków,Hopnięci,Kraków - Bonarka,12:30,2D,original,regular,2026-03-06T08:42:28.060506
+2026-03-06,,kraków,Za duży na bajki 3,Kraków - Bonarka,12:40,2D,original,regular,2026-03-06T08:42:28.060515
+2026-03-06,,kraków,Dalej jazda 2,Kraków - Bonarka,12:40,2D,original,regular,2026-03-06T08:42:28.060525
+2026-03-06,,kraków,Wielka mała koza,Kraków - Bonarka,13:00,2D,,regular,2026-03-06T08:42:28.060534
+2026-03-06,,kraków,Hopnięci ukraiński dubbing,Kraków - Bonarka,13:00,2D,dubbing,regular,2026-03-06T08:42:28.060544
+2026-03-06,,kraków,Piep*zyć Mickiewicza 3,Kraków - Bonarka,13:10,2D,original,regular,2026-03-06T08:42:28.060566
+2026-03-06,,kraków,Zmiennokształtni 2,Kraków - Bonarka,13:20,2D,,regular,2026-03-06T08:42:28.060576
+2026-03-06,,kraków,Hopnięci,Kraków - Bonarka,13:30,4DX,original,regular,2026-03-06T08:42:28.060584
+2026-03-06,,kraków,Krzyk 7,Kraków - Bonarka,13:45,2D,original,regular,2026-03-06T08:42:28.060594
+2026-03-06,,kraków,Panna młoda!,Kraków - Bonarka,13:50,2D,original,regular,2026-03-06T08:42:28.060603
+2026-03-06,,kraków,Zwierzogród 2,Kraków - Bonarka,13:50,2D,original,regular,2026-03-06T08:42:28.060615
+2026-03-06,,kraków,Hopnięci,Kraków - Bonarka,14:00,2D,original,regular,2026-03-06T08:42:28.060625
+2026-03-06,,kraków,Hamnet,Kraków - Bonarka,14:00,2D,original,regular,2026-03-06T08:42:28.060635
+2026-03-06,,kraków,Panna młoda!,Kraków - Bonarka,14:10,2D,original,regular,2026-03-06T08:42:28.060646
+2026-03-06,,kraków,Najświętsze serce,Kraków - Bonarka,14:10,2D,original,regular,2026-03-06T08:42:28.060656
+2026-03-06,,kraków,Hopnięci,Kraków - Bonarka,14:20,2D,original,regular,2026-03-06T08:42:28.060666
+2026-03-06,,kraków,SpongeBob: Klątwa pirata,Kraków - Bonarka,14:20,2D,,regular,2026-03-06T08:42:28.060676
+2026-03-06,,kraków,Wichrowe wzgórza,Kraków - Bonarka,14:40,2D,original,regular,2026-03-06T08:42:28.060686
+2026-03-06,,kraków,Za duży na bajki 3,Kraków - Bonarka,14:50,2D,original,regular,2026-03-06T08:42:28.060695
+2026-03-06,,kraków,Kicia Kocia w podróży,Kraków - Bonarka,14:50,2D,,regular,2026-03-06T08:42:28.060704
+2026-03-06,,kraków,Hopnięci,Kraków - Bonarka,15:00,2D,original,regular,2026-03-06T08:42:28.060714
+2026-03-06,,kraków,Moon: Panda i ja,Kraków - Bonarka,15:00,2D,,regular,2026-03-06T08:42:28.060724
+2026-03-06,,kraków,Piep*zyć Mickiewicza 3,Kraków - Bonarka,15:10,2D,original,regular,2026-03-06T08:42:28.060733
+2026-03-06,,kraków,Wielka mała koza,Kraków - Bonarka,15:20,2D,,regular,2026-03-06T08:42:28.060743
+2026-03-06,,kraków,Hopnięci ukraiński dubbing,Kraków - Bonarka,15:30,2D,dubbing,regular,2026-03-06T08:42:28.060752
+2026-03-06,,kraków,Piep*zyć Mickiewicza 3,Kraków - Bonarka,15:30,2D,original,regular,2026-03-06T08:42:28.060761
+2026-03-06,,kraków,Samotnik,Kraków - Bonarka,15:40,2D,original,regular,2026-03-06T08:42:28.060770
+2026-03-06,,kraków,Hopnięci,Kraków - Bonarka,16:00,4DX,original,regular,2026-03-06T08:42:28.060779
+2026-03-06,,kraków,Zwierzogród 2,Kraków - Bonarka,16:20,2D,original,regular,2026-03-06T08:42:28.060790
+2026-03-06,,kraków,Kicia Kocia w podróży,Kraków - Bonarka,16:20,2D,,regular,2026-03-06T08:42:28.060799
+2026-03-06,,kraków,Hopnięci,Kraków - Bonarka,16:30,2D,original,regular,2026-03-06T08:42:28.060809
+2026-03-06,,kraków,Krzyk 7,Kraków - Bonarka,16:30,2D,original,regular,2026-03-06T08:42:28.060818
+2026-03-06,,kraków,Wartość sentymentalna,Kraków - Bonarka,16:30,2D,original,regular,2026-03-06T08:42:28.060828
+2026-03-06,,kraków,Panna młoda!,Kraków - Bonarka,16:40,2D,original,regular,2026-03-06T08:42:28.060838
+2026-03-06,,kraków,"Kopnęłabym cię, gdybym mogła",Kraków - Bonarka,16:40,2D,original,regular,2026-03-06T08:42:28.060848
+2026-03-06,,kraków,Hopnięci,Kraków - Bonarka,16:50,2D,original,regular,2026-03-06T08:42:28.060858
+2026-03-06,,kraków,Wielki Marty,Kraków - Bonarka,16:50,2D,original,regular,2026-03-06T08:42:28.060868
+2026-03-06,,kraków,Za duży na bajki 3,Kraków - Bonarka,17:00,2D,original,regular,2026-03-06T08:42:28.060876
+2026-03-06,,kraków,Panna młoda!,Kraków - Bonarka,17:00,2D,original,regular,2026-03-06T08:42:28.060887
+2026-03-06,,kraków,Scarlet,Kraków - Bonarka,17:10,2D,original,regular,2026-03-06T08:42:28.060897
+2026-03-06,,kraków,Hopnięci,Kraków - Bonarka,17:30,2D,original,regular,2026-03-06T08:42:28.060907
+2026-03-06,,kraków,Piep*zyć Mickiewicza 3,Kraków - Bonarka,17:30,2D,original,regular,2026-03-06T08:42:28.060916
+2026-03-06,,kraków,Wichrowe wzgórza,Kraków - Bonarka,17:40,2D,original,regular,2026-03-06T08:42:28.060926
+2026-03-06,,kraków,Panna młoda! ukraiński dubbing,Kraków - Bonarka,17:45,2D,dubbing,regular,2026-03-06T08:42:28.060936
+2026-03-06,,kraków,Piep*zyć Mickiewicza 3,Kraków - Bonarka,17:50,2D,original,regular,2026-03-06T08:42:28.060944
+2026-03-06,,kraków,Dobry chłopiec,Kraków - Bonarka,17:50,2D,original,regular,2026-03-06T08:42:28.060954
+2026-03-06,,kraków,Hopnięci,Kraków - Bonarka,18:00,2D,original,regular,2026-03-06T08:42:28.060964
+2026-03-06,,kraków,Pan Nikt kontra Putin,Kraków - Bonarka,18:10,2D,original,regular,2026-03-06T08:42:28.060973
+2026-03-06,,kraków,Panna młoda!,Kraków - Bonarka,18:30,4DX,original,regular,2026-03-06T08:42:28.060981
+2026-03-06,,kraków,Hopnięci,Kraków - Bonarka,19:00,2D,original,regular,2026-03-06T08:42:28.060991
+2026-03-06,,kraków,F1,Kraków - Bonarka,19:00,2D,original,regular,2026-03-06T08:42:28.061000
+2026-03-06,,kraków,Za duży na bajki 3,Kraków - Bonarka,19:10,2D,original,regular,2026-03-06T08:42:28.061008
+2026-03-06,,kraków,Krzyk 7,Kraków - Bonarka,19:10,2D,original,regular,2026-03-06T08:42:28.061017
+2026-03-06,,kraków,Crime 101,Kraków - Bonarka,19:15,2D,original,regular,2026-03-06T08:42:28.061027
+2026-03-06,,kraków,Krzyk 7,Kraków - Bonarka,19:20,2D,original,regular,2026-03-06T08:42:28.061036
+2026-03-06,,kraków,Wartość sentymentalna,Kraków - Bonarka,19:20,2D,original,regular,2026-03-06T08:42:28.061046
+2026-03-06,,kraków,Panna młoda!,Kraków - Bonarka,19:30,2D,original,regular,2026-03-06T08:42:28.061055
+2026-03-06,,kraków,Wichrowe wzgórza,Kraków - Bonarka,19:40,2D,original,regular,2026-03-06T08:42:28.061065
+2026-03-06,,kraków,Czy mnie słychać?,Kraków - Bonarka,19:40,2D,original,regular,2026-03-06T08:42:28.061075
+2026-03-06,,kraków,Panna młoda!,Kraków - Bonarka,19:50,2D,original,regular,2026-03-06T08:42:28.061085
+2026-03-06,,kraków,Hopnięci,Kraków - Bonarka,20:00,2D,original,regular,2026-03-06T08:42:28.061095
+2026-03-06,,kraków,EPiC: Elvis Presley in Concert,Kraków - Bonarka,20:00,2D,original,regular,2026-03-06T08:42:28.061105
+2026-03-06,,kraków,Piep*zyć Mickiewicza 3,Kraków - Bonarka,20:00,2D,original,regular,2026-03-06T08:42:28.061114
+2026-03-06,,kraków,Pillion,Kraków - Bonarka,20:00,2D,original,regular,2026-03-06T08:42:28.061124
+2026-03-06,,kraków,Dźwięk śmierci,Kraków - Bonarka,20:30,2D,original,regular,2026-03-06T08:42:28.061133
+2026-03-06,,kraków,Dobry chłopiec,Kraków - Bonarka,20:30,2D,original,regular,2026-03-06T08:42:28.061143
+2026-03-06,,kraków,Pojedynek,Kraków - Bonarka,20:30,2D,original,regular,2026-03-06T08:42:28.061152
+2026-03-06,,kraków,Wichrowe wzgórza,Kraków - Bonarka,20:40,2D,original,regular,2026-03-06T08:42:28.061161
+2026-03-06,,kraków,Panna młoda!,Kraków - Bonarka,21:20,4DX,original,regular,2026-03-06T08:42:28.061169
+2026-03-06,,kraków,Hamnet,Kraków - Bonarka,21:20,2D,original,regular,2026-03-06T08:42:28.061178
+2026-03-06,,kraków,Wielki Marty,Kraków - Bonarka,21:30,2D,original,regular,2026-03-06T08:42:28.061187
+2026-03-06,,kraków,Krzyk 7,Kraków - Bonarka,21:50,2D,original,regular,2026-03-06T08:42:28.061196
+2026-03-06,,kraków,Krzyk 7,Kraków - Bonarka,22:00,2D,original,regular,2026-03-06T08:42:28.061205
+2026-03-06,,kraków,EPiC: Elvis Presley in Concert,Kraków - Bonarka,22:10,2D,original,regular,2026-03-06T08:42:28.061214
+2026-03-06,,kraków,Pomocy,Kraków - Bonarka,22:10,2D,original,regular,2026-03-06T08:42:28.061223
+2026-03-06,,kraków,Wartość sentymentalna,Kraków - Bonarka,22:10,2D,original,regular,2026-03-06T08:42:28.061232
+2026-03-06,,kraków,Crime 101,Kraków - Bonarka,22:10,2D,original,regular,2026-03-06T08:42:28.061242
+2026-03-06,,kraków,Piep*zyć Mickiewicza 3,Kraków - Bonarka,22:15,2D,original,regular,2026-03-06T08:42:28.061250
+2026-03-06,,kraków,Panna młoda!,Kraków - Bonarka,22:20,2D,original,regular,2026-03-06T08:42:28.061260
+2026-03-06,,kraków,Skażenie,Kraków - Bonarka,22:20,2D,original,regular,2026-03-06T08:42:28.061271
+2026-03-06,,kraków,Czy mnie słychać?,Kraków - Bonarka,22:20,2D,original,regular,2026-03-06T08:42:28.061281
+2026-03-06,,kraków,Dźwięk śmierci,Kraków - Bonarka,22:20,2D,original,regular,2026-03-06T08:42:28.061290
+2026-03-06,,kraków,Hopnięci,Kraków - Galeria Kazimierz,10:00,2D,original,regular,2026-03-06T08:42:29.616938
+2026-03-06,,kraków,Zmiennokształtni 2,Kraków - Galeria Kazimierz,10:00,2D,,regular,2026-03-06T08:42:29.616960
+2026-03-06,,kraków,Za duży na bajki 3,Kraków - Galeria Kazimierz,10:30,2D,original,regular,2026-03-06T08:42:29.616971
+2026-03-06,,kraków,Kicia Kocia w podróży,Kraków - Galeria Kazimierz,10:45,2D,,regular,2026-03-06T08:42:29.616982
+2026-03-06,,kraków,Crime 101,Kraków - Galeria Kazimierz,10:50,2D,original,regular,2026-03-06T08:42:29.616994
+2026-03-06,,kraków,Panna młoda!,Kraków - Galeria Kazimierz,11:00,2D,original,regular,2026-03-06T08:42:29.617006
+2026-03-06,,kraków,Wielka mała koza,Kraków - Galeria Kazimierz,11:00,2D,,regular,2026-03-06T08:42:29.617017
+2026-03-06,,kraków,Hopnięci,Kraków - Galeria Kazimierz,11:10,2D,original,regular,2026-03-06T08:42:29.617028
+2026-03-06,,kraków,Scarlet,Kraków - Galeria Kazimierz,11:30,2D,original,regular,2026-03-06T08:42:29.617039
+2026-03-06,,kraków,Pan Nikt kontra Putin,Kraków - Galeria Kazimierz,12:10,2D,original,regular,2026-03-06T08:42:29.617049
+2026-03-06,,kraków,Hopnięci,Kraków - Galeria Kazimierz,12:30,2D,original,regular,2026-03-06T08:42:29.617060
+2026-03-06,,kraków,Za duży na bajki 3,Kraków - Galeria Kazimierz,12:40,2D,original,regular,2026-03-06T08:42:29.617070
+2026-03-06,,kraków,Czy mnie słychać?,Kraków - Galeria Kazimierz,12:50,2D,original,regular,2026-03-06T08:42:29.617081
+2026-03-06,,kraków,Kicia Kocia w podróży,Kraków - Galeria Kazimierz,13:00,2D,,regular,2026-03-06T08:42:29.617090
+2026-03-06,,kraków,Piep*zyć Mickiewicza 3,Kraków - Galeria Kazimierz,13:20,2D,original,regular,2026-03-06T08:42:29.617101
+2026-03-06,,kraków,Hopnięci,Kraków - Galeria Kazimierz,13:40,2D,original,regular,2026-03-06T08:42:29.617112
+2026-03-06,,kraków,Panna młoda!,Kraków - Galeria Kazimierz,13:50,2D,original,regular,2026-03-06T08:42:29.617123
+2026-03-06,,kraków,Hopnięci ukraiński dubbing,Kraków - Galeria Kazimierz,14:00,2D,dubbing,regular,2026-03-06T08:42:29.617133
+2026-03-06,,kraków,EPiC: Elvis Presley in Concert,Kraków - Galeria Kazimierz,14:00,2D,original,regular,2026-03-06T08:42:29.617145
+2026-03-06,,kraków,Wartość sentymentalna,Kraków - Galeria Kazimierz,14:20,2D,original,regular,2026-03-06T08:42:29.617155
+2026-03-06,,kraków,"Kopnęłabym cię, gdybym mogła",Kraków - Galeria Kazimierz,14:30,2D,original,regular,2026-03-06T08:42:29.617166
+2026-03-06,,kraków,Za duży na bajki 3,Kraków - Galeria Kazimierz,14:50,2D,original,regular,2026-03-06T08:42:29.617175
+2026-03-06,,kraków,Hopnięci,Kraków - Galeria Kazimierz,15:00,2D,original,regular,2026-03-06T08:42:29.617186
+2026-03-06,,kraków,Pojedynek,Kraków - Galeria Kazimierz,15:40,2D,original,regular,2026-03-06T08:42:29.617196
+2026-03-06,,kraków,Wielka mała koza,Kraków - Galeria Kazimierz,15:40,2D,,regular,2026-03-06T08:42:29.617206
+2026-03-06,,kraków,Hopnięci,Kraków - Galeria Kazimierz,16:10,2D,original,regular,2026-03-06T08:42:29.617217
+2026-03-06,,kraków,Krzyk 7,Kraków - Galeria Kazimierz,16:20,2D,original,regular,2026-03-06T08:42:29.617227
+2026-03-06,,kraków,Hopnięci,Kraków - Galeria Kazimierz,16:30,2D,original,regular,2026-03-06T08:42:29.617238
+2026-03-06,,kraków,Panna młoda!,Kraków - Galeria Kazimierz,16:40,2D,original,regular,2026-03-06T08:42:29.617248
+2026-03-06,,kraków,Za duży na bajki 3,Kraków - Galeria Kazimierz,17:00,2D,original,regular,2026-03-06T08:42:29.617258
+2026-03-06,,kraków,Dobry chłopiec,Kraków - Galeria Kazimierz,17:10,2D,original,regular,2026-03-06T08:42:29.617268
+2026-03-06,,kraków,Wichrowe wzgórza,Kraków - Galeria Kazimierz,17:20,2D,original,regular,2026-03-06T08:42:29.617279
+2026-03-06,,kraków,Hopnięci,Kraków - Galeria Kazimierz,17:30,2D,original,regular,2026-03-06T08:42:29.617290
+2026-03-06,,kraków,Piep*zyć Mickiewicza 3,Kraków - Galeria Kazimierz,18:00,2D,original,regular,2026-03-06T08:42:29.617299
+2026-03-06,,kraków,Pojedynek,Kraków - Galeria Kazimierz,18:15,2D,original,regular,2026-03-06T08:42:29.617309
+2026-03-06,,kraków,Wartość sentymentalna,Kraków - Galeria Kazimierz,18:40,2D,original,regular,2026-03-06T08:42:29.617319
+2026-03-06,,kraków,F1,Kraków - Galeria Kazimierz,19:00,2D,original,regular,2026-03-06T08:42:29.617330
+2026-03-06,,kraków,Panna młoda! ukraiński dubbing,Kraków - Galeria Kazimierz,19:00,2D,dubbing,regular,2026-03-06T08:42:29.617340
+2026-03-06,,kraków,Za duży na bajki 3,Kraków - Galeria Kazimierz,19:10,2D,original,regular,2026-03-06T08:42:29.617349
+2026-03-06,,kraków,Panna młoda!,Kraków - Galeria Kazimierz,19:30,2D,original,regular,2026-03-06T08:42:29.617361
+2026-03-06,,kraków,Dobry chłopiec,Kraków - Galeria Kazimierz,19:40,2D,original,regular,2026-03-06T08:42:29.617370
+2026-03-06,,kraków,Hopnięci,Kraków - Galeria Kazimierz,20:00,2D,original,regular,2026-03-06T08:42:29.617382
+2026-03-06,,kraków,Wichrowe wzgórza,Kraków - Galeria Kazimierz,20:15,2D,original,regular,2026-03-06T08:42:29.617391
+2026-03-06,,kraków,Krzyk 7,Kraków - Galeria Kazimierz,20:20,2D,original,regular,2026-03-06T08:42:29.617400
+2026-03-06,,kraków,Wielki Marty,Kraków - Galeria Kazimierz,20:50,2D,original,regular,2026-03-06T08:42:29.617409
+2026-03-06,,kraków,Czy mnie słychać?,Kraków - Galeria Kazimierz,21:20,2D,original,regular,2026-03-06T08:42:29.617418
+2026-03-06,,kraków,Wartość sentymentalna,Kraków - Galeria Kazimierz,21:40,2D,original,regular,2026-03-06T08:42:29.617427
+2026-03-06,,kraków,Pillion,Kraków - Galeria Kazimierz,21:50,2D,original,regular,2026-03-06T08:42:29.617437
+2026-03-06,,kraków,Dobry chłopiec,Kraków - Galeria Kazimierz,22:10,2D,original,regular,2026-03-06T08:42:29.617446
+2026-03-06,,kraków,Krzyk 7,Kraków - Galeria Kazimierz,22:15,2D,original,regular,2026-03-06T08:42:29.617455
+2026-03-06,,kraków,Panna młoda!,Kraków - Galeria Kazimierz,22:20,2D,original,regular,2026-03-06T08:42:29.617465
+2026-03-06,,kraków,Dźwięk śmierci,Kraków - Galeria Kazimierz,22:30,2D,original,regular,2026-03-06T08:42:29.617475
+2026-03-06,,kraków,Kicia Kocia w podróży,Kraków - Zakopianka,09:30,2D,,regular,2026-03-06T08:42:31.572035
+2026-03-06,,kraków,Za duży na bajki 3,Kraków - Zakopianka,10:00,2D,original,regular,2026-03-06T08:42:31.572058
+2026-03-06,,kraków,Orzełek Iggy,Kraków - Zakopianka,10:00,2D,,regular,2026-03-06T08:42:31.572071
+2026-03-06,,kraków,Hopnięci,Kraków - Zakopianka,11:00,2D,original,regular,2026-03-06T08:42:31.572083
+2026-03-06,,kraków,Kicia Kocia w podróży,Kraków - Zakopianka,11:00,2D,,regular,2026-03-06T08:42:31.572093
+2026-03-06,,kraków,Zwierzogród 2,Kraków - Zakopianka,11:10,2D,original,regular,2026-03-06T08:42:31.572105
+2026-03-06,,kraków,Panna młoda!,Kraków - Zakopianka,11:30,2D,original,regular,2026-03-06T08:42:31.572117
+2026-03-06,,kraków,Kicia Kocia w podróży,Kraków - Zakopianka,11:50,2D,,regular,2026-03-06T08:42:31.572127
+2026-03-06,,kraków,Scarlet,Kraków - Zakopianka,12:20,2D,original,regular,2026-03-06T08:42:31.572139
+2026-03-06,,kraków,"Kopnęłabym cię, gdybym mogła",Kraków - Zakopianka,12:30,2D,original,regular,2026-03-06T08:42:31.572150
+2026-03-06,,kraków,Hopnięci,Kraków - Zakopianka,12:30,2D,original,regular,2026-03-06T08:42:31.572161
+2026-03-06,,kraków,Za duży na bajki 3,Kraków - Zakopianka,12:40,2D,original,regular,2026-03-06T08:42:31.572170
+2026-03-06,,kraków,Hopnięci,Kraków - Zakopianka,12:50,IMAX,original,regular,2026-03-06T08:42:31.572177
+2026-03-06,,kraków,EPiC: Elvis Presley in Concert,Kraków - Zakopianka,12:50,2D,original,regular,2026-03-06T08:42:31.572188
+2026-03-06,,kraków,Krzyk 7,Kraków - Zakopianka,13:20,2D,original,regular,2026-03-06T08:42:31.572198
+2026-03-06,,kraków,Hopnięci,Kraków - Zakopianka,13:30,2D,original,regular,2026-03-06T08:42:31.572208
+2026-03-06,,kraków,Dobry chłopiec,Kraków - Zakopianka,13:40,2D,original,regular,2026-03-06T08:42:31.572219
+2026-03-06,,kraków,Panna młoda!,Kraków - Zakopianka,14:20,2D,original,regular,2026-03-06T08:42:31.572230
+2026-03-06,,kraków,Za duży na bajki 3,Kraków - Zakopianka,14:50,2D,original,regular,2026-03-06T08:42:31.572239
+2026-03-06,,kraków,Piep*zyć Mickiewicza 3,Kraków - Zakopianka,15:00,2D,original,regular,2026-03-06T08:42:31.572248
+2026-03-06,,kraków,Hopnięci,Kraków - Zakopianka,15:00,2D,original,regular,2026-03-06T08:42:31.572259
+2026-03-06,,kraków,Wielka mała koza,Kraków - Zakopianka,15:10,2D,,regular,2026-03-06T08:42:31.572269
+2026-03-06,,kraków,Czy mnie słychać?,Kraków - Zakopianka,15:10,2D,original,regular,2026-03-06T08:42:31.572280
+2026-03-06,,kraków,Hopnięci,Kraków - Zakopianka,15:20,IMAX,original,regular,2026-03-06T08:42:31.572287
+2026-03-06,,kraków,Hopnięci,Kraków - Zakopianka,16:00,2D,original,regular,2026-03-06T08:42:31.572297
+2026-03-06,,kraków,Wichrowe wzgórza,Kraków - Zakopianka,16:00,2D,original,regular,2026-03-06T08:42:31.572308
+2026-03-06,,kraków,Wartość sentymentalna,Kraków - Zakopianka,16:20,2D,original,regular,2026-03-06T08:42:31.572318
+2026-03-06,,kraków,Za duży na bajki 3,Kraków - Zakopianka,17:00,2D,original,regular,2026-03-06T08:42:31.572327
+2026-03-06,,kraków,Panna młoda!,Kraków - Zakopianka,17:10,2D,original,regular,2026-03-06T08:42:31.572338
+2026-03-06,,kraków,Piep*zyć Mickiewicza 3,Kraków - Zakopianka,17:15,2D,original,regular,2026-03-06T08:42:31.572347
+2026-03-06,,kraków,Wielka mała koza,Kraków - Zakopianka,17:30,2D,,regular,2026-03-06T08:42:31.572357
+2026-03-06,,kraków,Krzyk 7,Kraków - Zakopianka,17:30,2D,original,regular,2026-03-06T08:42:31.572366
+2026-03-06,,kraków,Panna młoda!,Kraków - Zakopianka,17:50,IMAX,original,regular,2026-03-06T08:42:31.572374
+2026-03-06,,kraków,Hopnięci,Kraków - Zakopianka,18:00,2D,original,regular,2026-03-06T08:42:31.572384
+2026-03-06,,kraków,Hopnięci,Kraków - Zakopianka,18:30,2D,original,regular,2026-03-06T08:42:31.572394
+2026-03-06,,kraków,F1,Kraków - Zakopianka,19:00,2D,original,regular,2026-03-06T08:42:31.572403
+2026-03-06,,kraków,Za duży na bajki 3,Kraków - Zakopianka,19:10,2D,original,regular,2026-03-06T08:42:31.572412
+2026-03-06,,kraków,Dobry chłopiec,Kraków - Zakopianka,19:20,2D,original,regular,2026-03-06T08:42:31.572423
+2026-03-06,,kraków,Wartość sentymentalna,Kraków - Zakopianka,19:30,2D,original,regular,2026-03-06T08:42:31.572433
+2026-03-06,,kraków,Wichrowe wzgórza,Kraków - Zakopianka,19:50,2D,original,regular,2026-03-06T08:42:31.572442
+2026-03-06,,kraków,Panna młoda!,Kraków - Zakopianka,20:00,2D,original,regular,2026-03-06T08:42:31.572453
+2026-03-06,,kraków,Krzyk 7,Kraków - Zakopianka,20:10,2D,original,regular,2026-03-06T08:42:31.572463
+2026-03-06,,kraków,Pojedynek,Kraków - Zakopianka,20:30,2D,original,regular,2026-03-06T08:42:31.572473
+2026-03-06,,kraków,Panna młoda!,Kraków - Zakopianka,20:40,IMAX,original,regular,2026-03-06T08:42:31.572480
+2026-03-06,,kraków,Hopnięci,Kraków - Zakopianka,21:00,2D,original,regular,2026-03-06T08:42:31.572491
+2026-03-06,,kraków,Samotnik,Kraków - Zakopianka,21:20,2D,original,regular,2026-03-06T08:42:31.572501
+2026-03-06,,kraków,Dobry chłopiec,Kraków - Zakopianka,21:50,2D,original,regular,2026-03-06T08:42:31.572511
+2026-03-06,,lublin,Za duży na bajki 3,Lublin - Felicity,09:30,2D,original,regular,2026-03-06T08:42:33.024858
+2026-03-06,,lublin,Za duży na bajki 3,Lublin - Felicity,10:30,2D,original,regular,2026-03-06T08:42:33.024881
+2026-03-06,,lublin,Hopnięci,Lublin - Felicity,11:00,4DX,original,regular,2026-03-06T08:42:33.024892
+2026-03-06,,lublin,Panna młoda!,Lublin - Felicity,11:00,2D,original,regular,2026-03-06T08:42:33.024905
+2026-03-06,,lublin,Dobry chłopiec,Lublin - Felicity,11:10,2D,original,regular,2026-03-06T08:42:33.024916
+2026-03-06,,lublin,Kicia Kocia w podróży,Lublin - Felicity,11:20,2D,,regular,2026-03-06T08:42:33.024927
+2026-03-06,,lublin,Hopnięci,Lublin - Felicity,11:30,2D,original,regular,2026-03-06T08:42:33.024938
+2026-03-06,,lublin,Zwierzogród 2,Lublin - Felicity,12:00,2D,original,regular,2026-03-06T08:42:33.024950
+2026-03-06,,lublin,Zmiennokształtni 2,Lublin - Felicity,12:20,2D,,regular,2026-03-06T08:42:33.024960
+2026-03-06,,lublin,Hopnięci,Lublin - Felicity,12:30,2D,original,regular,2026-03-06T08:42:33.024971
+2026-03-06,,lublin,Za duży na bajki 3,Lublin - Felicity,12:40,2D,original,regular,2026-03-06T08:42:33.024980
+2026-03-06,,lublin,Wielka mała koza,Lublin - Felicity,12:50,2D,,regular,2026-03-06T08:42:33.024991
+2026-03-06,,lublin,Hopnięci,Lublin - Felicity,13:30,4DX,original,regular,2026-03-06T08:42:33.024999
+2026-03-06,,lublin,Kicia Kocia w podróży,Lublin - Felicity,13:40,2D,,regular,2026-03-06T08:42:33.025009
+2026-03-06,,lublin,Panna młoda!,Lublin - Felicity,13:50,2D,original,regular,2026-03-06T08:42:33.025020
+2026-03-06,,lublin,Hopnięci,Lublin - Felicity,14:00,2D,original,regular,2026-03-06T08:42:33.025030
+2026-03-06,,lublin,Piep*zyć Mickiewicza 3,Lublin - Felicity,14:30,2D,original,regular,2026-03-06T08:42:33.025040
+2026-03-06,,lublin,Krzyk 7,Lublin - Felicity,14:40,2D,original,regular,2026-03-06T08:42:33.025050
+2026-03-06,,lublin,Za duży na bajki 3,Lublin - Felicity,14:50,2D,original,regular,2026-03-06T08:42:33.025059
+2026-03-06,,lublin,Hopnięci,Lublin - Felicity,15:00,2D,original,regular,2026-03-06T08:42:33.025070
+2026-03-06,,lublin,EPiC: Elvis Presley in Concert,Lublin - Felicity,15:00,2D,original,regular,2026-03-06T08:42:33.025081
+2026-03-06,,lublin,Wartość sentymentalna,Lublin - Felicity,15:10,2D,original,regular,2026-03-06T08:42:33.025091
+2026-03-06,,lublin,Hopnięci,Lublin - Felicity,16:00,4DX,original,regular,2026-03-06T08:42:33.025100
+2026-03-06,,lublin,Hopnięci,Lublin - Felicity,16:30,2D,original,regular,2026-03-06T08:42:33.025110
+2026-03-06,,lublin,Panna młoda!,Lublin - Felicity,16:40,2D,original,regular,2026-03-06T08:42:33.025121
+2026-03-06,,lublin,Dalej jazda 2,Lublin - Felicity,16:40,2D,original,regular,2026-03-06T08:42:33.025131
+2026-03-06,,lublin,Za duży na bajki 3,Lublin - Felicity,17:00,2D,original,regular,2026-03-06T08:42:33.025140
+2026-03-06,,lublin,Czy mnie słychać?,Lublin - Felicity,17:10,2D,original,regular,2026-03-06T08:42:33.025151
+2026-03-06,,lublin,Wichrowe wzgórza,Lublin - Felicity,17:20,2D,original,regular,2026-03-06T08:42:33.025161
+2026-03-06,,lublin,Hopnięci,Lublin - Felicity,17:30,2D,original,regular,2026-03-06T08:42:33.025171
+2026-03-06,,lublin,Wartość sentymentalna,Lublin - Felicity,18:00,2D,original,regular,2026-03-06T08:42:33.025182
+2026-03-06,,lublin,Panna młoda!,Lublin - Felicity,18:30,4DX,original,regular,2026-03-06T08:42:33.025190
+2026-03-06,,lublin,F1,Lublin - Felicity,19:00,2D,original,regular,2026-03-06T08:42:33.025199
+2026-03-06,,lublin,Hopnięci,Lublin - Felicity,19:00,2D,original,regular,2026-03-06T08:42:33.025210
+2026-03-06,,lublin,Za duży na bajki 3,Lublin - Felicity,19:10,2D,original,regular,2026-03-06T08:42:33.025219
+2026-03-06,,lublin,Panna młoda!,Lublin - Felicity,19:30,2D,original,regular,2026-03-06T08:42:33.025230
+2026-03-06,,lublin,Pojedynek,Lublin - Felicity,19:50,2D,original,regular,2026-03-06T08:42:33.025240
+2026-03-06,,lublin,Hopnięci,Lublin - Felicity,20:00,2D,original,regular,2026-03-06T08:42:33.025250
+2026-03-06,,lublin,Krzyk 7,Lublin - Felicity,20:20,2D,original,regular,2026-03-06T08:42:33.025260
+2026-03-06,,lublin,Dobry chłopiec,Lublin - Felicity,20:50,2D,original,regular,2026-03-06T08:42:33.025270
+2026-03-06,,lublin,Panna młoda!,Lublin - Felicity,21:20,4DX,original,regular,2026-03-06T08:42:33.025279
+2026-03-06,,lublin,Scarlet,Lublin - Felicity,21:20,2D,original,regular,2026-03-06T08:42:33.025289
+2026-03-06,,lublin,Crime 101,Lublin - Felicity,21:30,2D,original,regular,2026-03-06T08:42:33.025300
+2026-03-06,,lublin,Dźwięk śmierci,Lublin - Felicity,22:10,2D,original,regular,2026-03-06T08:42:33.025310
+2026-03-06,,lublin,Panna młoda!,Lublin - Felicity,22:20,2D,original,regular,2026-03-06T08:42:33.025321
+2026-03-06,,lublin,Pojedynek,Lublin - Felicity,22:20,2D,original,regular,2026-03-06T08:42:33.025330
+2026-03-06,,lublin,Krzyk 7,Lublin - Felicity,22:30,2D,original,regular,2026-03-06T08:42:33.025339
+2026-03-06,,lublin,Za duży na bajki 3,Lublin - Plaza,09:30,2D,original,regular,2026-03-06T08:42:34.882406
+2026-03-06,,lublin,Hopnięci,Lublin - Plaza,10:00,2D,original,regular,2026-03-06T08:42:34.882429
+2026-03-06,,lublin,Zwierzogród 2,Lublin - Plaza,11:00,2D,original,regular,2026-03-06T08:42:34.882442
+2026-03-06,,lublin,Panna młoda!,Lublin - Plaza,11:40,2D,original,regular,2026-03-06T08:42:34.882454
+2026-03-06,,lublin,Psoty,Lublin - Plaza,11:50,2D,original,regular,2026-03-06T08:42:34.882464
+2026-03-06,,lublin,Za duży na bajki 3,Lublin - Plaza,12:10,2D,original,regular,2026-03-06T08:42:34.882474
+2026-03-06,,lublin,Hopnięci,Lublin - Plaza,12:10,2D,original,regular,2026-03-06T08:42:34.882484
+2026-03-06,,lublin,Dobry chłopiec,Lublin - Plaza,12:40,2D,original,regular,2026-03-06T08:42:34.882495
+2026-03-06,,lublin,Hopnięci,Lublin - Plaza,13:00,2D,original,regular,2026-03-06T08:42:34.882504
+2026-03-06,,lublin,Wichrowe wzgórza,Lublin - Plaza,13:25,2D,original,regular,2026-03-06T08:42:34.882514
+2026-03-06,,lublin,Wielka mała koza,Lublin - Plaza,14:00,2D,,regular,2026-03-06T08:42:34.882524
+2026-03-06,,lublin,Za duży na bajki 3,Lublin - Plaza,14:20,2D,original,regular,2026-03-06T08:42:34.882533
+2026-03-06,,lublin,Panna młoda!,Lublin - Plaza,14:30,2D,original,regular,2026-03-06T08:42:34.882543
+2026-03-06,,lublin,Hopnięci,Lublin - Plaza,14:40,2D,original,regular,2026-03-06T08:42:34.882568
+2026-03-06,,lublin,Scarlet,Lublin - Plaza,15:10,2D,original,regular,2026-03-06T08:42:34.882580
+2026-03-06,,lublin,Hopnięci,Lublin - Plaza,15:30,2D,original,regular,2026-03-06T08:42:34.882590
+2026-03-06,,lublin,Hopnięci ukraiński dubbing,Lublin - Plaza,16:20,2D,dubbing,regular,2026-03-06T08:42:34.882600
+2026-03-06,,lublin,Wichrowe wzgórza,Lublin - Plaza,16:20,2D,original,regular,2026-03-06T08:42:34.882610
+2026-03-06,,lublin,Za duży na bajki 3,Lublin - Plaza,16:30,2D,original,regular,2026-03-06T08:42:34.882618
+2026-03-06,,lublin,Hopnięci,Lublin - Plaza,17:10,2D,original,regular,2026-03-06T08:42:34.882628
+2026-03-06,,lublin,Panna młoda!,Lublin - Plaza,17:20,2D,original,regular,2026-03-06T08:42:34.882638
+2026-03-06,,lublin,Piep*zyć Mickiewicza 3,Lublin - Plaza,17:45,2D,original,regular,2026-03-06T08:42:34.882648
+2026-03-06,,lublin,Hopnięci,Lublin - Plaza,18:00,2D,original,regular,2026-03-06T08:42:34.882658
+2026-03-06,,lublin,Za duży na bajki 3,Lublin - Plaza,18:40,2D,original,regular,2026-03-06T08:42:34.882666
+2026-03-06,,lublin,F1,Lublin - Plaza,19:00,2D,original,regular,2026-03-06T08:42:34.882675
+2026-03-06,,lublin,Krzyk 7,Lublin - Plaza,19:20,2D,original,regular,2026-03-06T08:42:34.882684
+2026-03-06,,lublin,Wartość sentymentalna,Lublin - Plaza,19:40,2D,original,regular,2026-03-06T08:42:34.882695
+2026-03-06,,lublin,Dobry chłopiec,Lublin - Plaza,20:00,2D,original,regular,2026-03-06T08:42:34.882704
+2026-03-06,,lublin,Panna młoda!,Lublin - Plaza,20:10,2D,original,regular,2026-03-06T08:42:34.882714
+2026-03-06,,lublin,Hopnięci,Lublin - Plaza,20:30,2D,original,regular,2026-03-06T08:42:34.882724
+2026-03-06,,lublin,Pojedynek,Lublin - Plaza,20:50,2D,original,regular,2026-03-06T08:42:34.882733
+2026-03-06,,lublin,Krzyk 7,Lublin - Plaza,22:00,2D,original,regular,2026-03-06T08:42:34.882743
+2026-03-06,,lublin,EPiC: Elvis Presley in Concert,Lublin - Plaza,22:10,2D,original,regular,2026-03-06T08:42:34.882753
+2026-03-06,,łódź,Piep*zyć Mickiewicza 3,Łódź Manufaktura,09:30,2D,original,regular,2026-03-06T08:42:36.092760
+2026-03-06,,łódź,Ekstremalna Pogoda,Łódź Manufaktura,09:40,4DX,original,regular,2026-03-06T08:42:36.092781
+2026-03-06,,łódź,Hopnięci,Łódź Manufaktura,10:00,2D,original,regular,2026-03-06T08:42:36.092795
+2026-03-06,,łódź,Pomoc domowa,Łódź Manufaktura,10:00,2D,original,regular,2026-03-06T08:42:36.092806
+2026-03-06,,łódź,Wielki Marty,Łódź Manufaktura,10:00,2D,original,regular,2026-03-06T08:42:36.092817
+2026-03-06,,łódź,Za duży na bajki 3,Łódź Manufaktura,10:00,2D,original,regular,2026-03-06T08:42:36.092827
+2026-03-06,,łódź,Wartość sentymentalna,Łódź Manufaktura,10:00,2D,original,regular,2026-03-06T08:42:36.092838
+2026-03-06,,łódź,Piep*zyć Mickiewicza 3,Łódź Manufaktura,10:00,2D,original,regular,2026-03-06T08:42:36.092848
+2026-03-06,,łódź,Hopnięci,Łódź Manufaktura,10:20,IMAX,original,regular,2026-03-06T08:42:36.092855
+2026-03-06,,łódź,Za duży na bajki 3,Łódź Manufaktura,10:30,2D,original,regular,2026-03-06T08:42:36.092864
+2026-03-06,,łódź,Krzyk 7,Łódź Manufaktura,10:30,2D,original,regular,2026-03-06T08:42:36.092873
+2026-03-06,,łódź,Hopnięci,Łódź Manufaktura,11:00,4DX,original,regular,2026-03-06T08:42:36.092881
+2026-03-06,,łódź,Panna młoda!,Łódź Manufaktura,11:00,2D,original,regular,2026-03-06T08:42:36.092892
+2026-03-06,,łódź,Hopnięci,Łódź Manufaktura,11:30,2D,original,regular,2026-03-06T08:42:36.092903
+2026-03-06,,łódź,Zmiennokształtni 2,Łódź Manufaktura,12:20,2D,,regular,2026-03-06T08:42:36.092912
+2026-03-06,,łódź,Hopnięci,Łódź Manufaktura,12:30,2D,original,regular,2026-03-06T08:42:36.092922
+2026-03-06,,łódź,Za duży na bajki 3,Łódź Manufaktura,12:40,2D,original,regular,2026-03-06T08:42:36.092931
+2026-03-06,,łódź,Hopnięci,Łódź Manufaktura,12:50,IMAX,original,regular,2026-03-06T08:42:36.092938
+2026-03-06,,łódź,Czy mnie słychać?,Łódź Manufaktura,13:00,2D,original,regular,2026-03-06T08:42:36.092949
+2026-03-06,,łódź,Kicia Kocia w podróży,Łódź Manufaktura,13:00,2D,,regular,2026-03-06T08:42:36.092959
+2026-03-06,,łódź,Piep*zyć Mickiewicza 3,Łódź Manufaktura,13:00,2D,original,regular,2026-03-06T08:42:36.092968
+2026-03-06,,łódź,Wielka mała koza,Łódź Manufaktura,13:10,2D,,regular,2026-03-06T08:42:36.092978
+2026-03-06,,łódź,Zwierzogród 2,Łódź Manufaktura,13:10,2D,original,regular,2026-03-06T08:42:36.092989
+2026-03-06,,łódź,Wichrowe wzgórza,Łódź Manufaktura,13:10,2D,original,regular,2026-03-06T08:42:36.093000
+2026-03-06,,łódź,Hopnięci,Łódź Manufaktura,13:30,4DX,original,regular,2026-03-06T08:42:36.093008
+2026-03-06,,łódź,Krzyk 7,Łódź Manufaktura,13:30,2D,original,regular,2026-03-06T08:42:36.093016
+2026-03-06,,łódź,Panna młoda!,Łódź Manufaktura,13:50,2D,original,regular,2026-03-06T08:42:36.093027
+2026-03-06,,łódź,Hopnięci,Łódź Manufaktura,14:00,2D,original,regular,2026-03-06T08:42:36.093037
+2026-03-06,,łódź,Kicia Kocia w podróży,Łódź Manufaktura,14:30,2D,,regular,2026-03-06T08:42:36.093046
+2026-03-06,,łódź,Dobry chłopiec,Łódź Manufaktura,14:40,2D,original,regular,2026-03-06T08:42:36.093056
+2026-03-06,,łódź,Za duży na bajki 3,Łódź Manufaktura,14:50,2D,original,regular,2026-03-06T08:42:36.093065
+2026-03-06,,łódź,Hopnięci,Łódź Manufaktura,15:00,2D,original,regular,2026-03-06T08:42:36.093074
+2026-03-06,,łódź,Piep*zyć Mickiewicza 3,Łódź Manufaktura,15:10,2D,original,regular,2026-03-06T08:42:36.093083
+2026-03-06,,łódź,Hopnięci,Łódź Manufaktura,15:20,IMAX,original,regular,2026-03-06T08:42:36.093090
+2026-03-06,,łódź,Hopnięci ukraiński dubbing,Łódź Manufaktura,15:30,2D,dubbing,regular,2026-03-06T08:42:36.093100
+2026-03-06,,łódź,Zwierzogród 2,Łódź Manufaktura,15:30,2D,original,regular,2026-03-06T08:42:36.093110
+2026-03-06,,łódź,Hamnet,Łódź Manufaktura,15:50,2D,original,regular,2026-03-06T08:42:36.093119
+2026-03-06,,łódź,Scarlet,Łódź Manufaktura,15:50,2D,original,regular,2026-03-06T08:42:36.093130
+2026-03-06,,łódź,Hopnięci,Łódź Manufaktura,16:00,4DX,original,regular,2026-03-06T08:42:36.093138
+2026-03-06,,łódź,Wichrowe wzgórza,Łódź Manufaktura,16:00,2D,original,regular,2026-03-06T08:42:36.093147
+2026-03-06,,łódź,Krzyk 7,Łódź Manufaktura,16:10,2D,original,regular,2026-03-06T08:42:36.093156
+2026-03-06,,łódź,Hopnięci,Łódź Manufaktura,16:30,2D,original,regular,2026-03-06T08:42:36.093166
+2026-03-06,,łódź,Panna młoda!,Łódź Manufaktura,16:40,2D,original,regular,2026-03-06T08:42:36.093176
+2026-03-06,,łódź,Za duży na bajki 3,Łódź Manufaktura,17:00,2D,original,regular,2026-03-06T08:42:36.093185
+2026-03-06,,łódź,Dobry chłopiec,Łódź Manufaktura,17:15,2D,original,regular,2026-03-06T08:42:36.093195
+2026-03-06,,łódź,Piep*zyć Mickiewicza 3,Łódź Manufaktura,17:20,2D,original,regular,2026-03-06T08:42:36.093203
+2026-03-06,,łódź,Hopnięci,Łódź Manufaktura,17:30,2D,original,regular,2026-03-06T08:42:36.093213
+2026-03-06,,łódź,Panna młoda!,Łódź Manufaktura,17:50,IMAX,original,regular,2026-03-06T08:42:36.093220
+2026-03-06,,łódź,Zwierzogród 2,Łódź Manufaktura,17:50,2D,original,regular,2026-03-06T08:42:36.093230
+2026-03-06,,łódź,Hopnięci,Łódź Manufaktura,18:00,2D,original,regular,2026-03-06T08:42:36.093240
+2026-03-06,,łódź,Panna młoda!,Łódź Manufaktura,18:30,4DX,original,regular,2026-03-06T08:42:36.093248
+2026-03-06,,łódź,Pojedynek,Łódź Manufaktura,18:30,2D,original,regular,2026-03-06T08:42:36.093258
+2026-03-06,,łódź,Wartość sentymentalna,Łódź Manufaktura,18:40,2D,original,regular,2026-03-06T08:42:36.093268
+2026-03-06,,łódź,Krzyk 7,Łódź Manufaktura,18:50,2D,original,regular,2026-03-06T08:42:36.093277
+2026-03-06,,łódź,Hopnięci,Łódź Manufaktura,19:00,2D,original,regular,2026-03-06T08:42:36.093287
+2026-03-06,,łódź,F1,Łódź Manufaktura,19:00,2D,original,regular,2026-03-06T08:42:36.093296
+2026-03-06,,łódź,Za duży na bajki 3,Łódź Manufaktura,19:10,2D,original,regular,2026-03-06T08:42:36.093304
+2026-03-06,,łódź,Panna młoda!,Łódź Manufaktura,19:30,2D,original,regular,2026-03-06T08:42:36.093315
+2026-03-06,,łódź,Piep*zyć Mickiewicza 3,Łódź Manufaktura,19:30,2D,original,regular,2026-03-06T08:42:36.093323
+2026-03-06,,łódź,Dobry chłopiec,Łódź Manufaktura,19:50,2D,original,regular,2026-03-06T08:42:36.093333
+2026-03-06,,łódź,Hopnięci,Łódź Manufaktura,20:00,2D,original,regular,2026-03-06T08:42:36.093343
+2026-03-06,,łódź,Wichrowe wzgórza,Łódź Manufaktura,20:10,2D,original,regular,2026-03-06T08:42:36.093353
+2026-03-06,,łódź,Panna młoda! ukraiński dubbing,Łódź Manufaktura,20:30,2D,dubbing,regular,2026-03-06T08:42:36.093363
+2026-03-06,,łódź,Panna młoda!,Łódź Manufaktura,20:40,IMAX,original,regular,2026-03-06T08:42:36.093370
+2026-03-06,,łódź,Wielki Marty,Łódź Manufaktura,21:10,2D,original,regular,2026-03-06T08:42:36.093380
+2026-03-06,,łódź,Panna młoda!,Łódź Manufaktura,21:20,4DX,original,regular,2026-03-06T08:42:36.093387
+2026-03-06,,łódź,Dźwięk śmierci,Łódź Manufaktura,21:20,2D,original,regular,2026-03-06T08:42:36.093397
+2026-03-06,,łódź,EPiC: Elvis Presley in Concert,Łódź Manufaktura,21:30,2D,original,regular,2026-03-06T08:42:36.093407
+2026-03-06,,łódź,Krzyk 7,Łódź Manufaktura,21:30,2D,original,regular,2026-03-06T08:42:36.093416
+2026-03-06,,łódź,Wartość sentymentalna,Łódź Manufaktura,21:40,2D,original,regular,2026-03-06T08:42:36.093425
+2026-03-06,,łódź,Crime 101,Łódź Manufaktura,21:50,2D,original,regular,2026-03-06T08:42:36.093435
+2026-03-06,,łódź,Wichrowe wzgórza,Łódź Manufaktura,22:10,2D,original,regular,2026-03-06T08:42:36.093445
+2026-03-06,,łódź,Panna młoda!,Łódź Manufaktura,22:20,2D,original,regular,2026-03-06T08:42:36.093455
+2026-03-06,,łódź,Dobry chłopiec,Łódź Manufaktura,22:20,2D,original,regular,2026-03-06T08:42:36.093465
+2026-03-06,,łódź,Piep*zyć Mickiewicza 3,Łódź Manufaktura,22:30,2D,original,regular,2026-03-06T08:42:36.093475
+2026-03-06,,poznań,Hopnięci,Poznań - Kinepolis,10:00,2D,original,regular,2026-03-06T08:42:37.221481
+2026-03-06,,poznań,Hopnięci,Poznań - Kinepolis,12:00,2D,original,regular,2026-03-06T08:42:37.221509
+2026-03-06,,poznań,Wielka mała koza,Poznań - Kinepolis,12:00,2D,,regular,2026-03-06T08:42:37.221526
+2026-03-06,,poznań,Panna młoda!,Poznań - Kinepolis,12:10,2D,original,regular,2026-03-06T08:42:37.221541
+2026-03-06,,poznań,Zwierzogród 2,Poznań - Kinepolis,12:40,2D,original,regular,2026-03-06T08:42:37.221573
+2026-03-06,,poznań,Za duży na bajki 3,Poznań - Kinepolis,12:50,2D,original,regular,2026-03-06T08:42:37.221585
+2026-03-06,,poznań,Wichrowe wzgórza,Poznań - Kinepolis,12:50,2D,original,regular,2026-03-06T08:42:37.221597
+2026-03-06,,poznań,Hopnięci,Poznań - Kinepolis,13:00,2D,original,regular,2026-03-06T08:42:37.221607
+2026-03-06,,poznań,Kicia Kocia w podróży,Poznań - Kinepolis,13:10,2D,,regular,2026-03-06T08:42:37.221618
+2026-03-06,,poznań,Hopnięci,Poznań - Kinepolis,14:00,2D,original,regular,2026-03-06T08:42:37.221628
+2026-03-06,,poznań,Hopnięci,Poznań - Kinepolis,14:20,2D,original,regular,2026-03-06T08:42:37.221639
+2026-03-06,,poznań,Za duży na bajki 3,Poznań - Kinepolis,14:30,2D,original,regular,2026-03-06T08:42:37.221649
+2026-03-06,,poznań,Krzyk 7,Poznań - Kinepolis,14:40,2D,original,regular,2026-03-06T08:42:37.221660
+2026-03-06,,poznań,Za duży na bajki 3,Poznań - Kinepolis,15:00,2D,original,regular,2026-03-06T08:42:37.221669
+2026-03-06,,poznań,Panna młoda!,Poznań - Kinepolis,15:00,2D,original,regular,2026-03-06T08:42:37.221679
+2026-03-06,,poznań,Panna młoda!,Poznań - Kinepolis,15:20,2D,original,regular,2026-03-06T08:42:37.221690
+2026-03-06,,poznań,Hopnięci,Poznań - Kinepolis,15:30,2D,original,regular,2026-03-06T08:42:37.221701
+2026-03-06,,poznań,Wichrowe wzgórza,Poznań - Kinepolis,15:50,2D,original,regular,2026-03-06T08:42:37.221711
+2026-03-06,,poznań,Hopnięci,Poznań - Kinepolis,16:00,2D,original,regular,2026-03-06T08:42:37.221722
+2026-03-06,,poznań,Piep*zyć Mickiewicza 3,Poznań - Kinepolis,16:00,2D,original,regular,2026-03-06T08:42:37.221731
+2026-03-06,,poznań,Crime 101,Poznań - Kinepolis,16:10,2D,original,regular,2026-03-06T08:42:37.221741
+2026-03-06,,poznań,Wartość sentymentalna,Poznań - Kinepolis,16:10,2D,original,regular,2026-03-06T08:42:37.221752
+2026-03-06,,poznań,Dobry chłopiec,Poznań - Kinepolis,16:20,2D,original,regular,2026-03-06T08:42:37.221762
+2026-03-06,,poznań,Hopnięci,Poznań - Kinepolis,16:30,2D,original,regular,2026-03-06T08:42:37.221772
+2026-03-06,,poznań,Zwierzogród 2,Poznań - Kinepolis,16:30,2D,original,regular,2026-03-06T08:42:37.221783
+2026-03-06,,poznań,Kicia Kocia w podróży,Poznań - Kinepolis,16:40,2D,,regular,2026-03-06T08:42:37.221793
+2026-03-06,,poznań,Avatar: Ogień i popiół,Poznań - Kinepolis,16:45,3D,original,regular,2026-03-06T08:42:37.221802
+2026-03-06,,poznań,Hopnięci,Poznań - Kinepolis,16:50,2D,original,regular,2026-03-06T08:42:37.221813
+2026-03-06,,poznań,Scarlet,Poznań - Kinepolis,16:50,2D,original,regular,2026-03-06T08:42:37.221824
+2026-03-06,,poznań,Pojedynek,Poznań - Kinepolis,17:00,2D,original,regular,2026-03-06T08:42:37.221835
+2026-03-06,,poznań,Za duży na bajki 3,Poznań - Kinepolis,17:10,2D,original,regular,2026-03-06T08:42:37.221844
+2026-03-06,,poznań,Krzyk 7,Poznań - Kinepolis,17:20,2D,original,regular,2026-03-06T08:42:37.221854
+2026-03-06,,poznań,Panna młoda!,Poznań - Kinepolis,17:50,2D,original,regular,2026-03-06T08:42:37.221865
+2026-03-06,,poznań,Hopnięci,Poznań - Kinepolis,18:00,2D,original,regular,2026-03-06T08:42:37.221875
+2026-03-06,,poznań,Panna młoda!,Poznań - Kinepolis,18:10,2D,original,regular,2026-03-06T08:42:37.221886
+2026-03-06,,poznań,Pojedynek,Poznań - Kinepolis,18:10,2D,original,regular,2026-03-06T08:42:37.221895
+2026-03-06,,poznań,Piep*zyć Mickiewicza 3,Poznań - Kinepolis,18:20,2D,original,regular,2026-03-06T08:42:37.221904
+2026-03-06,,poznań,Czy mnie słychać?,Poznań - Kinepolis,18:30,2D,original,regular,2026-03-06T08:42:37.221915
+2026-03-06,,poznań,Dalej jazda 2,Poznań - Kinepolis,18:50,2D,original,regular,2026-03-06T08:42:37.221925
+2026-03-06,,poznań,Dobry chłopiec,Poznań - Kinepolis,18:50,2D,original,regular,2026-03-06T08:42:37.221935
+2026-03-06,,poznań,Hopnięci,Poznań - Kinepolis,19:00,2D,original,regular,2026-03-06T08:42:37.221945
+2026-03-06,,poznań,F1,Poznań - Kinepolis,19:00,2D,original,regular,2026-03-06T08:42:37.221955
+2026-03-06,,poznań,Wichrowe wzgórza,Poznań - Kinepolis,19:00,2D,original,regular,2026-03-06T08:42:37.221965
+2026-03-06,,poznań,Dźwięk śmierci,Poznań - Kinepolis,19:10,2D,original,regular,2026-03-06T08:42:37.221975
+2026-03-06,,poznań,Za duży na bajki 3,Poznań - Kinepolis,19:20,2D,original,regular,2026-03-06T08:42:37.221984
+2026-03-06,,poznań,Piep*zyć Mickiewicza 3,Poznań - Kinepolis,19:20,2D,original,regular,2026-03-06T08:42:37.221994
+2026-03-06,,poznań,Krzyk 7,Poznań - Kinepolis,19:30,2D,original,regular,2026-03-06T08:42:37.222003
+2026-03-06,,poznań,Dobry chłopiec,Poznań - Kinepolis,19:40,2D,original,regular,2026-03-06T08:42:37.222014
+2026-03-06,,poznań,Krzyk 7,Poznań - Kinepolis,20:00,2D,original,regular,2026-03-06T08:42:37.222024
+2026-03-06,,poznań,Hopnięci,Poznań - Kinepolis,20:30,2D,original,regular,2026-03-06T08:42:37.222035
+2026-03-06,,poznań,Panna młoda!,Poznań - Kinepolis,20:40,2D,original,regular,2026-03-06T08:42:37.222045
+2026-03-06,,poznań,Piep*zyć Mickiewicza 3,Poznań - Kinepolis,20:40,2D,original,regular,2026-03-06T08:42:37.222054
+2026-03-06,,poznań,Avatar: Ogień i popiół,Poznań - Kinepolis,20:50,3D,original,regular,2026-03-06T08:42:37.222063
+2026-03-06,,poznań,Pojedynek,Poznań - Kinepolis,20:50,2D,original,regular,2026-03-06T08:42:37.222072
+2026-03-06,,poznań,Panna młoda!,Poznań - Kinepolis,21:00,2D,original,regular,2026-03-06T08:42:37.222083
+2026-03-06,,poznań,Dalej jazda 2,Poznań - Kinepolis,21:20,2D,original,regular,2026-03-06T08:42:37.222093
+2026-03-06,,poznań,Dobry chłopiec,Poznań - Kinepolis,21:20,2D,original,regular,2026-03-06T08:42:37.222102
+2026-03-06,,poznań,Hamnet,Poznań - Kinepolis,21:20,2D,original,regular,2026-03-06T08:42:37.222112
+2026-03-06,,poznań,Samotnik,Poznań - Kinepolis,21:30,2D,original,regular,2026-03-06T08:42:37.222122
+2026-03-06,,poznań,EPiC: Elvis Presley in Concert,Poznań - Kinepolis,21:30,2D,original,regular,2026-03-06T08:42:37.222133
+2026-03-06,,poznań,Dźwięk śmierci,Poznań - Kinepolis,21:30,2D,original,regular,2026-03-06T08:42:37.222142
+2026-03-06,,poznań,Piep*zyć Mickiewicza 3,Poznań - Kinepolis,21:40,2D,original,regular,2026-03-06T08:42:37.222151
+2026-03-06,,poznań,Wichrowe wzgórza,Poznań - Kinepolis,22:00,2D,original,regular,2026-03-06T08:42:37.222161
+2026-03-06,,poznań,Krzyk 7,Poznań - Kinepolis,22:10,2D,original,regular,2026-03-06T08:42:37.222171
+2026-03-06,,poznań,Wartość sentymentalna,Poznań - Kinepolis,22:10,2D,original,regular,2026-03-06T08:42:37.222181
+2026-03-06,,poznań,Dobry chłopiec,Poznań - Kinepolis,22:20,2D,original,regular,2026-03-06T08:42:37.222191
+2026-03-06,,poznań,Hopnięci,Poznań - Plaza,09:30,2D,original,regular,2026-03-06T08:42:38.564841
+2026-03-06,,poznań,Zbuntowana księżniczka i ekipa ratunkowa,Poznań - Plaza,09:30,2D,,regular,2026-03-06T08:42:38.564870
+2026-03-06,,poznań,Za duży na bajki 3,Poznań - Plaza,10:00,2D,original,regular,2026-03-06T08:42:38.564885
+2026-03-06,,poznań,Moon: Panda i ja,Poznań - Plaza,10:00,2D,,regular,2026-03-06T08:42:38.564898
+2026-03-06,,poznań,Szybcy i sprytni,Poznań - Plaza,10:00,2D,,regular,2026-03-06T08:42:38.564912
+2026-03-06,,poznań,Kicia Kocia w podróży,Poznań - Plaza,10:00,2D,,regular,2026-03-06T08:42:38.564925
+2026-03-06,,poznań,Piep*zyć Mickiewicza 3,Poznań - Plaza,10:00,2D,original,regular,2026-03-06T08:42:38.564937
+2026-03-06,,poznań,Hopnięci,Poznań - Plaza,10:15,2D,original,regular,2026-03-06T08:42:38.564951
+2026-03-06,,poznań,Hopnięci,Poznań - Plaza,10:20,IMAX,original,regular,2026-03-06T08:42:38.564960
+2026-03-06,,poznań,Hopnięci,Poznań - Plaza,11:00,2D,original,regular,2026-03-06T08:42:38.564972
+2026-03-06,,poznań,Krzyk 7,Poznań - Plaza,12:00,2D,original,regular,2026-03-06T08:42:38.564985
+2026-03-06,,poznań,Za duży na bajki 3,Poznań - Plaza,12:10,2D,original,regular,2026-03-06T08:42:38.564998
+2026-03-06,,poznań,Kicia Kocia w podróży,Poznań - Plaza,12:10,2D,,regular,2026-03-06T08:42:38.565010
+2026-03-06,,poznań,Hopnięci,Poznań - Plaza,12:20,2D,original,regular,2026-03-06T08:42:38.565023
+2026-03-06,,poznań,Zmiennokształtni 2,Poznań - Plaza,12:20,2D,,regular,2026-03-06T08:42:38.565035
+2026-03-06,,poznań,Scarlet,Poznań - Plaza,12:30,2D,original,regular,2026-03-06T08:42:38.565049
+2026-03-06,,poznań,Hopnięci,Poznań - Plaza,12:50,IMAX,original,regular,2026-03-06T08:42:38.565058
+2026-03-06,,poznań,Panna młoda!,Poznań - Plaza,12:50,2D,original,regular,2026-03-06T08:42:38.565073
+2026-03-06,,poznań,Piep*zyć Mickiewicza 3,Poznań - Plaza,13:00,2D,original,regular,2026-03-06T08:42:38.565084
+2026-03-06,,poznań,Hopnięci,Poznań - Plaza,13:30,2D,original,regular,2026-03-06T08:42:38.565095
+2026-03-06,,poznań,Dobry chłopiec,Poznań - Plaza,13:40,2D,original,regular,2026-03-06T08:42:38.565105
+2026-03-06,,poznań,Za duży na bajki 3,Poznań - Plaza,14:20,2D,original,regular,2026-03-06T08:42:38.565114
+2026-03-06,,poznań,Piep*zyć Mickiewicza 3,Poznań - Plaza,14:40,2D,original,regular,2026-03-06T08:42:38.565123
+2026-03-06,,poznań,Zwierzogród 2,Poznań - Plaza,14:40,2D,original,regular,2026-03-06T08:42:38.565135
+2026-03-06,,poznań,Hopnięci,Poznań - Plaza,14:50,2D,original,regular,2026-03-06T08:42:38.565146
+2026-03-06,,poznań,Hopnięci ukraiński dubbing,Poznań - Plaza,15:00,2D,dubbing,regular,2026-03-06T08:42:38.565156
+2026-03-06,,poznań,Hopnięci,Poznań - Plaza,15:20,IMAX,original,regular,2026-03-06T08:42:38.565163
+2026-03-06,,poznań,Panna młoda!,Poznań - Plaza,15:40,2D,original,regular,2026-03-06T08:42:38.565173
+2026-03-06,,poznań,Hopnięci,Poznań - Plaza,16:00,2D,original,regular,2026-03-06T08:42:38.565188
+2026-03-06,,poznań,Czy mnie słychać?,Poznań - Plaza,16:10,2D,original,regular,2026-03-06T08:42:38.565198
+2026-03-06,,poznań,Krzyk 7,Poznań - Plaza,16:20,2D,original,regular,2026-03-06T08:42:38.565208
+2026-03-06,,poznań,Za duży na bajki 3,Poznań - Plaza,16:30,2D,original,regular,2026-03-06T08:42:38.565217
+2026-03-06,,poznań,Piep*zyć Mickiewicza 3,Poznań - Plaza,16:50,2D,original,regular,2026-03-06T08:42:38.565226
+2026-03-06,,poznań,Wartość sentymentalna,Poznań - Plaza,17:10,2D,original,regular,2026-03-06T08:42:38.565241
+2026-03-06,,poznań,Hopnięci,Poznań - Plaza,17:20,2D,original,regular,2026-03-06T08:42:38.565252
+2026-03-06,,poznań,Hopnięci,Poznań - Plaza,17:30,2D,original,regular,2026-03-06T08:42:38.565262
+2026-03-06,,poznań,Panna młoda!,Poznań - Plaza,17:50,IMAX,original,regular,2026-03-06T08:42:38.565269
+2026-03-06,,poznań,Hopnięci,Poznań - Plaza,18:30,2D,original,regular,2026-03-06T08:42:38.565280
+2026-03-06,,poznań,Panna młoda!,Poznań - Plaza,18:30,2D,original,regular,2026-03-06T08:42:38.565290
+2026-03-06,,poznań,Za duży na bajki 3,Poznań - Plaza,18:40,2D,original,regular,2026-03-06T08:42:38.565299
+2026-03-06,,poznań,Dobry chłopiec,Poznań - Plaza,18:50,2D,original,regular,2026-03-06T08:42:38.565309
+2026-03-06,,poznań,F1,Poznań - Plaza,19:00,2D,original,regular,2026-03-06T08:42:38.565319
+2026-03-06,,poznań,Wichrowe wzgórza,Poznań - Plaza,19:00,2D,original,regular,2026-03-06T08:42:38.565329
+2026-03-06,,poznań,Krzyk 7,Poznań - Plaza,19:50,2D,original,regular,2026-03-06T08:42:38.565339
+2026-03-06,,poznań,Panna młoda! ukraiński dubbing,Poznań - Plaza,20:00,2D,dubbing,regular,2026-03-06T08:42:38.565349
+2026-03-06,,poznań,Wartość sentymentalna,Poznań - Plaza,20:00,2D,original,regular,2026-03-06T08:42:38.565359
+2026-03-06,,poznań,Panna młoda!,Poznań - Plaza,20:40,IMAX,original,regular,2026-03-06T08:42:38.565367
+2026-03-06,,poznań,Pojedynek,Poznań - Plaza,20:50,2D,original,regular,2026-03-06T08:42:38.565376
+2026-03-06,,poznań,Hopnięci,Poznań - Plaza,21:00,2D,original,regular,2026-03-06T08:42:38.565387
+2026-03-06,,poznań,EPiC: Elvis Presley in Concert,Poznań - Plaza,21:20,2D,original,regular,2026-03-06T08:42:38.565398
+2026-03-06,,poznań,Panna młoda!,Poznań - Plaza,21:30,2D,original,regular,2026-03-06T08:42:38.565408
+2026-03-06,,poznań,Wichrowe wzgórza,Poznań - Plaza,22:00,2D,original,regular,2026-03-06T08:42:38.565418
+2026-03-06,,poznań,Dźwięk śmierci,Poznań - Plaza,22:15,2D,original,regular,2026-03-06T08:42:38.565428
+2026-03-06,,poznań,Krzyk 7,Poznań - Plaza,22:30,2D,original,regular,2026-03-06T08:42:38.565437
+2026-03-06,,ruda-śląska,Hopnięci,Ruda Śląska,09:30,2D,original,regular,2026-03-06T08:42:40.085601
+2026-03-06,,ruda-śląska,Za duży na bajki 3,Ruda Śląska,10:00,2D,original,regular,2026-03-06T08:42:40.085628
+2026-03-06,,ruda-śląska,Panna młoda!,Ruda Śląska,12:00,2D,original,regular,2026-03-06T08:42:40.085644
+2026-03-06,,ruda-śląska,Kicia Kocia w podróży,Ruda Śląska,12:00,2D,,regular,2026-03-06T08:42:40.085657
+2026-03-06,,ruda-śląska,Wielka mała koza,Ruda Śląska,12:10,2D,,regular,2026-03-06T08:42:40.085673
+2026-03-06,,ruda-śląska,Hopnięci,Ruda Śląska,12:30,2D,original,regular,2026-03-06T08:42:40.085685
+2026-03-06,,ruda-śląska,Scarlet,Ruda Śląska,12:30,2D,original,regular,2026-03-06T08:42:40.085698
+2026-03-06,,ruda-śląska,Za duży na bajki 3,Ruda Śląska,12:40,2D,original,regular,2026-03-06T08:42:40.085709
+2026-03-06,,ruda-śląska,Czy mnie słychać?,Ruda Śląska,13:10,2D,original,regular,2026-03-06T08:42:40.085721
+2026-03-06,,ruda-śląska,Piep*zyć Mickiewicza 3,Ruda Śląska,13:30,2D,original,regular,2026-03-06T08:42:40.085733
+2026-03-06,,ruda-śląska,Hopnięci,Ruda Śląska,13:30,2D,original,regular,2026-03-06T08:42:40.085745
+2026-03-06,,ruda-śląska,Pojedynek,Ruda Śląska,14:30,2D,original,regular,2026-03-06T08:42:40.085756
+2026-03-06,,ruda-śląska,Za duży na bajki 3,Ruda Śląska,14:50,2D,original,regular,2026-03-06T08:42:40.085767
+2026-03-06,,ruda-śląska,Panna młoda!,Ruda Śląska,14:50,2D,original,regular,2026-03-06T08:42:40.085779
+2026-03-06,,ruda-śląska,Hopnięci,Ruda Śląska,15:00,2D,original,regular,2026-03-06T08:42:40.085792
+2026-03-06,,ruda-śląska,EPiC: Elvis Presley in Concert,Ruda Śląska,15:10,2D,original,regular,2026-03-06T08:42:40.085804
+2026-03-06,,ruda-śląska,Piep*zyć Mickiewicza 3,Ruda Śląska,15:50,2D,original,regular,2026-03-06T08:42:40.085814
+2026-03-06,,ruda-śląska,Wartość sentymentalna,Ruda Śląska,16:00,2D,original,regular,2026-03-06T08:42:40.085826
+2026-03-06,,ruda-śląska,Hopnięci,Ruda Śląska,16:00,2D,original,regular,2026-03-06T08:42:40.085838
+2026-03-06,,ruda-śląska,Za duży na bajki 3,Ruda Śląska,17:00,2D,original,regular,2026-03-06T08:42:40.085848
+2026-03-06,,ruda-śląska,Piep*zyć Mickiewicza 3,Ruda Śląska,17:15,2D,original,regular,2026-03-06T08:42:40.085859
+2026-03-06,,ruda-śląska,Hopnięci,Ruda Śląska,17:30,2D,original,regular,2026-03-06T08:42:40.085872
+2026-03-06,,ruda-śląska,Krzyk 7,Ruda Śląska,17:30,2D,original,regular,2026-03-06T08:42:40.085884
+2026-03-06,,ruda-śląska,Panna młoda!,Ruda Śląska,17:40,2D,original,regular,2026-03-06T08:42:40.085897
+2026-03-06,,ruda-śląska,Dobry chłopiec,Ruda Śląska,18:00,2D,original,regular,2026-03-06T08:42:40.085910
+2026-03-06,,ruda-śląska,Hopnięci,Ruda Śląska,18:30,2D,original,regular,2026-03-06T08:42:40.085923
+2026-03-06,,ruda-śląska,F1,Ruda Śląska,19:00,2D,original,regular,2026-03-06T08:42:40.085932
+2026-03-06,,ruda-śląska,Za duży na bajki 3,Ruda Śląska,19:10,2D,original,regular,2026-03-06T08:42:40.085941
+2026-03-06,,ruda-śląska,Wichrowe wzgórza,Ruda Śląska,19:30,2D,original,regular,2026-03-06T08:42:40.085951
+2026-03-06,,ruda-śląska,Hopnięci,Ruda Śląska,20:00,2D,original,regular,2026-03-06T08:42:40.085962
+2026-03-06,,ruda-śląska,Krzyk 7,Ruda Śląska,20:10,2D,original,regular,2026-03-06T08:42:40.085972
+2026-03-06,,ruda-śląska,Panna młoda!,Ruda Śląska,20:30,2D,original,regular,2026-03-06T08:42:40.085982
+2026-03-06,,ruda-śląska,Dobry chłopiec,Ruda Śląska,20:40,2D,original,regular,2026-03-06T08:42:40.085993
+2026-03-06,,ruda-śląska,EPiC: Elvis Presley in Concert,Ruda Śląska,21:00,2D,original,regular,2026-03-06T08:42:40.086003
+2026-03-06,,ruda-śląska,Dźwięk śmierci,Ruda Śląska,21:20,2D,original,regular,2026-03-06T08:42:40.086013
+2026-03-06,,rybnik,Krzyk 7,Rybnik,09:30,2D,original,regular,2026-03-06T08:42:41.953459
+2026-03-06,,rybnik,Hopnięci,Rybnik,10:00,2D,original,regular,2026-03-06T08:42:41.953486
+2026-03-06,,rybnik,Kicia Kocia w podróży,Rybnik,10:00,2D,,regular,2026-03-06T08:42:41.953498
+2026-03-06,,rybnik,Szybcy i sprytni,Rybnik,10:15,2D,,regular,2026-03-06T08:42:41.953509
+2026-03-06,,rybnik,Za duży na bajki 3,Rybnik,10:30,2D,original,regular,2026-03-06T08:42:41.953519
+2026-03-06,,rybnik,Wielka mała koza,Rybnik,10:50,2D,,regular,2026-03-06T08:42:41.953529
+2026-03-06,,rybnik,Panna młoda!,Rybnik,11:00,2D,original,regular,2026-03-06T08:42:41.953540
+2026-03-06,,rybnik,Hopnięci,Rybnik,11:30,2D,original,regular,2026-03-06T08:42:41.953572
+2026-03-06,,rybnik,F1,Rybnik,11:45,2D,original,regular,2026-03-06T08:42:41.953584
+2026-03-06,,rybnik,Zmiennokształtni 2,Rybnik,11:55,2D,,regular,2026-03-06T08:42:41.953594
+2026-03-06,,rybnik,Szybcy i sprytni,Rybnik,12:20,2D,,regular,2026-03-06T08:42:41.953604
+2026-03-06,,rybnik,Hopnięci,Rybnik,12:30,2D,original,regular,2026-03-06T08:42:41.953613
+2026-03-06,,rybnik,Za duży na bajki 3,Rybnik,12:40,2D,original,regular,2026-03-06T08:42:41.953622
+2026-03-06,,rybnik,Wielka mała koza,Rybnik,13:10,2D,,regular,2026-03-06T08:42:41.953632
+2026-03-06,,rybnik,Panna młoda!,Rybnik,13:50,2D,original,regular,2026-03-06T08:42:41.953642
+2026-03-06,,rybnik,Hopnięci,Rybnik,14:00,2D,original,regular,2026-03-06T08:42:41.953652
+2026-03-06,,rybnik,Scarlet,Rybnik,14:10,2D,original,regular,2026-03-06T08:42:41.953662
+2026-03-06,,rybnik,Dobry chłopiec,Rybnik,14:30,2D,original,regular,2026-03-06T08:42:41.953672
+2026-03-06,,rybnik,Za duży na bajki 3,Rybnik,14:50,2D,original,regular,2026-03-06T08:42:41.953681
+2026-03-06,,rybnik,Hopnięci,Rybnik,15:00,2D,original,regular,2026-03-06T08:42:41.953691
+2026-03-06,,rybnik,Czy mnie słychać?,Rybnik,15:00,2D,original,regular,2026-03-06T08:42:41.953702
+2026-03-06,,rybnik,Krzyk 7,Rybnik,15:30,2D,original,regular,2026-03-06T08:42:41.953711
+2026-03-06,,rybnik,Hopnięci,Rybnik,16:30,2D,original,regular,2026-03-06T08:42:41.953725
+2026-03-06,,rybnik,Panna młoda!,Rybnik,16:40,2D,original,regular,2026-03-06T08:42:41.953734
+2026-03-06,,rybnik,EPiC: Elvis Presley in Concert,Rybnik,16:50,2D,original,regular,2026-03-06T08:42:41.953744
+2026-03-06,,rybnik,Za duży na bajki 3,Rybnik,17:00,2D,original,regular,2026-03-06T08:42:41.953753
+2026-03-06,,rybnik,Wichrowe wzgórza,Rybnik,17:10,2D,original,regular,2026-03-06T08:42:41.953763
+2026-03-06,,rybnik,Hopnięci,Rybnik,17:30,2D,original,regular,2026-03-06T08:42:41.953773
+2026-03-06,,rybnik,Piep*zyć Mickiewicza 3,Rybnik,17:40,2D,original,regular,2026-03-06T08:42:41.953782
+2026-03-06,,rybnik,Krzyk 7,Rybnik,18:10,2D,original,regular,2026-03-06T08:42:41.953791
+2026-03-06,,rybnik,F1,Rybnik,19:00,2D,original,regular,2026-03-06T08:42:41.953800
+2026-03-06,,rybnik,Za duży na bajki 3,Rybnik,19:10,2D,original,regular,2026-03-06T08:42:41.953808
+2026-03-06,,rybnik,Pojedynek,Rybnik,19:20,2D,original,regular,2026-03-06T08:42:41.953818
+2026-03-06,,rybnik,Panna młoda!,Rybnik,19:30,2D,original,regular,2026-03-06T08:42:41.953828
+2026-03-06,,rybnik,Wichrowe wzgórza,Rybnik,19:50,2D,original,regular,2026-03-06T08:42:41.953838
+2026-03-06,,rybnik,Hopnięci,Rybnik,20:00,2D,original,regular,2026-03-06T08:42:41.953848
+2026-03-06,,rybnik,Dobry chłopiec,Rybnik,20:15,2D,original,regular,2026-03-06T08:42:41.953857
+2026-03-06,,rybnik,Krzyk 7,Rybnik,20:50,2D,original,regular,2026-03-06T08:42:41.953866
+2026-03-06,,rybnik,Wartość sentymentalna,Rybnik,21:20,2D,original,regular,2026-03-06T08:42:41.953876
+2026-03-06,,rybnik,Dźwięk śmierci,Rybnik,22:00,2D,original,regular,2026-03-06T08:42:41.953885
+2026-03-06,,rybnik,Panna młoda!,Rybnik,22:20,2D,original,regular,2026-03-06T08:42:41.953895
+2026-03-06,,sosnowiec,Pojedynek,Sosnowiec,09:30,2D,original,regular,2026-03-06T08:42:43.434928
+2026-03-06,,sosnowiec,Hopnięci,Sosnowiec,09:30,2D,original,regular,2026-03-06T08:42:43.434960
+2026-03-06,,sosnowiec,Za duży na bajki 3,Sosnowiec,10:00,2D,original,regular,2026-03-06T08:42:43.434976
+2026-03-06,,sosnowiec,Hopnięci,Sosnowiec,10:30,2D,original,regular,2026-03-06T08:42:43.434990
+2026-03-06,,sosnowiec,Kicia Kocia w podróży,Sosnowiec,12:00,2D,,regular,2026-03-06T08:42:43.435004
+2026-03-06,,sosnowiec,Scarlet,Sosnowiec,12:10,2D,original,regular,2026-03-06T08:42:43.435019
+2026-03-06,,sosnowiec,Hopnięci,Sosnowiec,12:30,2D,original,regular,2026-03-06T08:42:43.435033
+2026-03-06,,sosnowiec,Wielka mała koza,Sosnowiec,12:40,2D,,regular,2026-03-06T08:42:43.435046
+2026-03-06,,sosnowiec,Hopnięci,Sosnowiec,13:30,2D,original,regular,2026-03-06T08:42:43.435060
+2026-03-06,,sosnowiec,Za duży na bajki 3,Sosnowiec,13:40,2D,original,regular,2026-03-06T08:42:43.435071
+2026-03-06,,sosnowiec,Czy mnie słychać?,Sosnowiec,13:50,2D,original,regular,2026-03-06T08:42:43.435085
+2026-03-06,,sosnowiec,EPiC: Elvis Presley in Concert,Sosnowiec,14:40,2D,original,regular,2026-03-06T08:42:43.435099
+2026-03-06,,sosnowiec,Panna młoda!,Sosnowiec,14:50,2D,original,regular,2026-03-06T08:42:43.435113
+2026-03-06,,sosnowiec,Dobry chłopiec,Sosnowiec,15:00,2D,original,regular,2026-03-06T08:42:43.435127
+2026-03-06,,sosnowiec,Za duży na bajki 3,Sosnowiec,15:50,2D,original,regular,2026-03-06T08:42:43.435139
+2026-03-06,,sosnowiec,Hopnięci,Sosnowiec,16:00,2D,original,regular,2026-03-06T08:42:43.435153
+2026-03-06,,sosnowiec,Piep*zyć Mickiewicza 3,Sosnowiec,16:40,2D,original,regular,2026-03-06T08:42:43.435166
+2026-03-06,,sosnowiec,Pojedynek,Sosnowiec,17:00,2D,original,regular,2026-03-06T08:42:43.435178
+2026-03-06,,sosnowiec,Krzyk 7,Sosnowiec,17:30,2D,original,regular,2026-03-06T08:42:43.435192
+2026-03-06,,sosnowiec,Panna młoda!,Sosnowiec,17:40,2D,original,regular,2026-03-06T08:42:43.435206
+2026-03-06,,sosnowiec,Za duży na bajki 3,Sosnowiec,18:00,2D,original,regular,2026-03-06T08:42:43.435218
+2026-03-06,,sosnowiec,Hopnięci,Sosnowiec,18:30,2D,original,regular,2026-03-06T08:42:43.435230
+2026-03-06,,sosnowiec,F1,Sosnowiec,19:00,2D,original,regular,2026-03-06T08:42:43.435239
+2026-03-06,,sosnowiec,Wartość sentymentalna,Sosnowiec,19:30,2D,original,regular,2026-03-06T08:42:43.435250
+2026-03-06,,sosnowiec,Dobry chłopiec,Sosnowiec,20:10,2D,original,regular,2026-03-06T08:42:43.435260
+2026-03-06,,sosnowiec,Krzyk 7,Sosnowiec,20:20,2D,original,regular,2026-03-06T08:42:43.435269
+2026-03-06,,sosnowiec,Panna młoda!,Sosnowiec,20:30,2D,original,regular,2026-03-06T08:42:43.435280
+2026-03-06,,sosnowiec,Wichrowe wzgórza,Sosnowiec,20:50,2D,original,regular,2026-03-06T08:42:43.435290
+2026-03-06,,gdańsk,Hopnięci,Starogard Gdański,11:00,2D,original,regular,2026-03-06T08:42:44.452138
+2026-03-06,,gdańsk,Za duży na bajki 3,Starogard Gdański,11:30,2D,original,regular,2026-03-06T08:42:44.452162
+2026-03-06,,gdańsk,Czy mnie słychać?,Starogard Gdański,12:00,2D,original,regular,2026-03-06T08:42:44.452175
+2026-03-06,,gdańsk,Kicia Kocia w podróży,Starogard Gdański,12:20,2D,,regular,2026-03-06T08:42:44.452187
+2026-03-06,,gdańsk,Wielka mała koza,Starogard Gdański,12:30,2D,,regular,2026-03-06T08:42:44.452198
+2026-03-06,,gdańsk,Hopnięci,Starogard Gdański,13:30,2D,original,regular,2026-03-06T08:42:44.452209
+2026-03-06,,gdańsk,Scarlet,Starogard Gdański,13:30,2D,original,regular,2026-03-06T08:42:44.452220
+2026-03-06,,gdańsk,Za duży na bajki 3,Starogard Gdański,13:40,2D,original,regular,2026-03-06T08:42:44.452229
+2026-03-06,,gdańsk,Pojedynek,Starogard Gdański,13:50,2D,original,regular,2026-03-06T08:42:44.452239
+2026-03-06,,gdańsk,Panna młoda!,Starogard Gdański,14:50,2D,original,regular,2026-03-06T08:42:44.452250
+2026-03-06,,gdańsk,Piep*zyć Mickiewicza 3,Starogard Gdański,14:50,2D,original,regular,2026-03-06T08:42:44.452260
+2026-03-06,,gdańsk,Za duży na bajki 3,Starogard Gdański,15:50,2D,original,regular,2026-03-06T08:42:44.452269
+2026-03-06,,gdańsk,Hopnięci,Starogard Gdański,16:00,2D,original,regular,2026-03-06T08:42:44.452280
+2026-03-06,,gdańsk,Wichrowe wzgórza,Starogard Gdański,16:10,2D,original,regular,2026-03-06T08:42:44.452291
+2026-03-06,,gdańsk,Krzyk 7,Starogard Gdański,16:20,2D,original,regular,2026-03-06T08:42:44.452300
+2026-03-06,,gdańsk,Piep*zyć Mickiewicza 3,Starogard Gdański,17:10,2D,original,regular,2026-03-06T08:42:44.452310
+2026-03-06,,gdańsk,Panna młoda!,Starogard Gdański,17:40,2D,original,regular,2026-03-06T08:42:44.452320
+2026-03-06,,gdańsk,Za duży na bajki 3,Starogard Gdański,18:00,2D,original,regular,2026-03-06T08:42:44.452329
+2026-03-06,,gdańsk,Hopnięci,Starogard Gdański,18:25,2D,original,regular,2026-03-06T08:42:44.452339
+2026-03-06,,gdańsk,F1,Starogard Gdański,19:00,2D,original,regular,2026-03-06T08:42:44.452351
+2026-03-06,,gdańsk,Dobry chłopiec,Starogard Gdański,19:10,2D,original,regular,2026-03-06T08:42:44.452362
+2026-03-06,,gdańsk,Piep*zyć Mickiewicza 3,Starogard Gdański,19:30,2D,original,regular,2026-03-06T08:42:44.452371
+2026-03-06,,gdańsk,Krzyk 7,Starogard Gdański,20:20,2D,original,regular,2026-03-06T08:42:44.452380
+2026-03-06,,gdańsk,Panna młoda!,Starogard Gdański,20:30,2D,original,regular,2026-03-06T08:42:44.452391
+2026-03-06,,gdańsk,Wichrowe wzgórza,Starogard Gdański,21:00,2D,original,regular,2026-03-06T08:42:44.452401
+2026-03-06,,gdańsk,Dobry chłopiec,Starogard Gdański,21:40,2D,original,regular,2026-03-06T08:42:44.452410
+2026-03-06,,gdańsk,EPiC: Elvis Presley in Concert,Starogard Gdański,21:50,2D,original,regular,2026-03-06T08:42:44.452421
+2026-03-06,,toruń,Hopnięci,Toruń - Czerwona Droga,10:00,2D,original,regular,2026-03-06T08:42:46.527759
+2026-03-06,,toruń,Szybcy i sprytni,Toruń - Czerwona Droga,10:00,2D,,regular,2026-03-06T08:42:46.527781
+2026-03-06,,toruń,Scarlet,Toruń - Czerwona Droga,10:00,2D,original,regular,2026-03-06T08:42:46.527794
+2026-03-06,,toruń,Zmiennokształtni 2,Toruń - Czerwona Droga,10:10,2D,,regular,2026-03-06T08:42:46.527805
+2026-03-06,,toruń,Kicia Kocia w podróży,Toruń - Czerwona Droga,10:20,2D,,regular,2026-03-06T08:42:46.527816
+2026-03-06,,toruń,Za duży na bajki 3,Toruń - Czerwona Droga,10:30,2D,original,regular,2026-03-06T08:42:46.527826
+2026-03-06,,toruń,Dalej jazda 2,Toruń - Czerwona Droga,10:30,2D,original,regular,2026-03-06T08:42:46.527836
+2026-03-06,,toruń,Piep*zyć Mickiewicza 3,Toruń - Czerwona Droga,10:30,2D,original,regular,2026-03-06T08:42:46.527846
+2026-03-06,,toruń,Najświętsze serce,Toruń - Czerwona Droga,10:50,2D,original,regular,2026-03-06T08:42:46.527856
+2026-03-06,,toruń,Hopnięci,Toruń - Czerwona Droga,11:00,2D,original,regular,2026-03-06T08:42:46.527867
+2026-03-06,,toruń,Panna młoda!,Toruń - Czerwona Droga,11:00,2D,original,regular,2026-03-06T08:42:46.527878
+2026-03-06,,toruń,Kicia Kocia w podróży,Toruń - Czerwona Droga,11:50,2D,,regular,2026-03-06T08:42:46.527887
+2026-03-06,,toruń,Zmiennokształtni 2,Toruń - Czerwona Droga,12:00,2D,,regular,2026-03-06T08:42:46.527897
+2026-03-06,,toruń,Zwierzogród 2,Toruń - Czerwona Droga,12:20,2D,original,regular,2026-03-06T08:42:46.527908
+2026-03-06,,toruń,Hopnięci,Toruń - Czerwona Droga,12:30,2D,original,regular,2026-03-06T08:42:46.527919
+2026-03-06,,toruń,Za duży na bajki 3,Toruń - Czerwona Droga,12:40,2D,original,regular,2026-03-06T08:42:46.527928
+2026-03-06,,toruń,Wielka mała koza,Toruń - Czerwona Droga,12:40,2D,,regular,2026-03-06T08:42:46.527939
+2026-03-06,,toruń,Piep*zyć Mickiewicza 3,Toruń - Czerwona Droga,13:00,2D,original,regular,2026-03-06T08:42:46.527948
+2026-03-06,,toruń,Najświętsze serce,Toruń - Czerwona Droga,13:10,2D,original,regular,2026-03-06T08:42:46.527958
+2026-03-06,,toruń,Zima pod znakiem Wrony,Toruń - Czerwona Droga,13:15,2D,original,regular,2026-03-06T08:42:46.527968
+2026-03-06,,toruń,Kicia Kocia w podróży,Toruń - Czerwona Droga,13:20,2D,,regular,2026-03-06T08:42:46.527977
+2026-03-06,,toruń,Hopnięci,Toruń - Czerwona Droga,13:30,2D,original,regular,2026-03-06T08:42:46.527987
+2026-03-06,,toruń,Krzyk 7,Toruń - Czerwona Droga,13:40,2D,original,regular,2026-03-06T08:42:46.527996
+2026-03-06,,toruń,Panna młoda!,Toruń - Czerwona Droga,13:50,2D,original,regular,2026-03-06T08:42:46.528007
+2026-03-06,,toruń,Hopnięci,Toruń - Czerwona Droga,14:30,2D,original,regular,2026-03-06T08:42:46.528017
+2026-03-06,,toruń,Wielka mała koza,Toruń - Czerwona Droga,14:45,2D,,regular,2026-03-06T08:42:46.528027
+2026-03-06,,toruń,Za duży na bajki 3,Toruń - Czerwona Droga,14:50,2D,original,regular,2026-03-06T08:42:46.528035
+2026-03-06,,toruń,Wartość sentymentalna,Toruń - Czerwona Droga,14:50,2D,original,regular,2026-03-06T08:42:46.528045
+2026-03-06,,toruń,Hopnięci,Toruń - Czerwona Droga,15:00,2D,original,regular,2026-03-06T08:42:46.528055
+2026-03-06,,toruń,Wichrowe wzgórza,Toruń - Czerwona Droga,15:10,2D,original,regular,2026-03-06T08:42:46.528064
+2026-03-06,,toruń,Dobry chłopiec,Toruń - Czerwona Droga,15:30,2D,original,regular,2026-03-06T08:42:46.528074
+2026-03-06,,toruń,Dalej jazda 2,Toruń - Czerwona Droga,15:30,2D,original,regular,2026-03-06T08:42:46.528083
+2026-03-06,,toruń,EPiC: Elvis Presley in Concert,Toruń - Czerwona Droga,15:50,2D,original,regular,2026-03-06T08:42:46.528092
+2026-03-06,,toruń,Hopnięci,Toruń - Czerwona Droga,16:00,2D,original,regular,2026-03-06T08:42:46.528102
+2026-03-06,,toruń,Krzyk 7,Toruń - Czerwona Droga,16:20,2D,original,regular,2026-03-06T08:42:46.528110
+2026-03-06,,toruń,Panna młoda!,Toruń - Czerwona Droga,16:40,2D,original,regular,2026-03-06T08:42:46.528120
+2026-03-06,,toruń,Za duży na bajki 3,Toruń - Czerwona Droga,17:00,2D,original,regular,2026-03-06T08:42:46.528128
+2026-03-06,,toruń,Pojedynek,Toruń - Czerwona Droga,17:00,2D,original,regular,2026-03-06T08:42:46.528137
+2026-03-06,,toruń,Wichrowe wzgórza,Toruń - Czerwona Droga,17:10,2D,original,regular,2026-03-06T08:42:46.528146
+2026-03-06,,toruń,Hopnięci,Toruń - Czerwona Droga,17:30,2D,original,regular,2026-03-06T08:42:46.528156
+2026-03-06,,toruń,Wartość sentymentalna,Toruń - Czerwona Droga,17:45,2D,original,regular,2026-03-06T08:42:46.528164
+2026-03-06,,toruń,Dobry chłopiec,Toruń - Czerwona Droga,18:00,2D,original,regular,2026-03-06T08:42:46.528173
+2026-03-06,,toruń,Krzyk 7,Toruń - Czerwona Droga,18:10,2D,original,regular,2026-03-06T08:42:46.528182
+2026-03-06,,toruń,"Kopnęłabym cię, gdybym mogła",Toruń - Czerwona Droga,18:10,2D,original,regular,2026-03-06T08:42:46.528192
+2026-03-06,,toruń,Hopnięci,Toruń - Czerwona Droga,18:30,2D,original,regular,2026-03-06T08:42:46.528201
+2026-03-06,,toruń,Piep*zyć Mickiewicza 3,Toruń - Czerwona Droga,18:50,2D,original,regular,2026-03-06T08:42:46.528209
+2026-03-06,,toruń,F1,Toruń - Czerwona Droga,19:00,2D,original,regular,2026-03-06T08:42:46.528218
+2026-03-06,,toruń,Za duży na bajki 3,Toruń - Czerwona Droga,19:10,2D,original,regular,2026-03-06T08:42:46.528226
+2026-03-06,,toruń,Panna młoda!,Toruń - Czerwona Droga,19:30,2D,original,regular,2026-03-06T08:42:46.528236
+2026-03-06,,toruń,Pojedynek,Toruń - Czerwona Droga,19:40,2D,original,regular,2026-03-06T08:42:46.528245
+2026-03-06,,toruń,Hopnięci,Toruń - Czerwona Droga,20:00,2D,original,regular,2026-03-06T08:42:46.528256
+2026-03-06,,toruń,Wichrowe wzgórza,Toruń - Czerwona Droga,20:10,2D,original,regular,2026-03-06T08:42:46.528265
+2026-03-06,,toruń,Dobry chłopiec,Toruń - Czerwona Droga,20:30,2D,original,regular,2026-03-06T08:42:46.528274
+2026-03-06,,toruń,Wartość sentymentalna,Toruń - Czerwona Droga,20:40,2D,original,regular,2026-03-06T08:42:46.528283
+2026-03-06,,toruń,Czy mnie słychać?,Toruń - Czerwona Droga,20:45,2D,original,regular,2026-03-06T08:42:46.528292
+2026-03-06,,toruń,Krzyk 7,Toruń - Czerwona Droga,20:50,2D,original,regular,2026-03-06T08:42:46.528300
+2026-03-06,,toruń,Wielki Marty,Toruń - Czerwona Droga,21:00,2D,original,regular,2026-03-06T08:42:46.528309
+2026-03-06,,toruń,Piep*zyć Mickiewicza 3,Toruń - Czerwona Droga,21:10,2D,original,regular,2026-03-06T08:42:46.528318
+2026-03-06,,toruń,Dźwięk śmierci,Toruń - Czerwona Droga,21:20,2D,original,regular,2026-03-06T08:42:46.528326
+2026-03-06,,toruń,Samotnik,Toruń - Czerwona Droga,22:10,2D,original,regular,2026-03-06T08:42:46.528335
+2026-03-06,,toruń,Pojedynek,Toruń - Czerwona Droga,22:15,2D,original,regular,2026-03-06T08:42:46.528344
+2026-03-06,,toruń,Panna młoda!,Toruń - Czerwona Droga,22:20,2D,original,regular,2026-03-06T08:42:46.528353
+2026-03-06,,toruń,Dobry chłopiec,Toruń - Czerwona Droga,22:30,2D,original,regular,2026-03-06T08:42:46.528363
+2026-03-06,,toruń,Za duży na bajki 3,Toruń - Plaza,09:30,2D,original,regular,2026-03-06T08:42:48.411891
+2026-03-06,,toruń,Za duży na bajki 3,Toruń - Plaza,10:00,2D,original,regular,2026-03-06T08:42:48.411915
+2026-03-06,,toruń,Orzełek Iggy,Toruń - Plaza,10:00,2D,,regular,2026-03-06T08:42:48.411931
+2026-03-06,,toruń,Piep*zyć Mickiewicza 3,Toruń - Plaza,11:00,2D,original,regular,2026-03-06T08:42:48.411944
+2026-03-06,,toruń,Za duży na bajki 3,Toruń - Plaza,11:00,2D,original,regular,2026-03-06T08:42:48.411955
+2026-03-06,,toruń,Hopnięci,Toruń - Plaza,11:20,2D,original,regular,2026-03-06T08:42:48.411968
+2026-03-06,,toruń,Panna młoda!,Toruń - Plaza,11:30,2D,original,regular,2026-03-06T08:42:48.411981
+2026-03-06,,toruń,Kicia Kocia w podróży,Toruń - Plaza,11:30,2D,,regular,2026-03-06T08:42:48.411993
+2026-03-06,,toruń,Za duży na bajki 3,Toruń - Plaza,12:10,2D,original,regular,2026-03-06T08:42:48.412004
+2026-03-06,,toruń,Kicia Kocia w podróży,Toruń - Plaza,12:15,2D,,regular,2026-03-06T08:42:48.412014
+2026-03-06,,toruń,Hopnięci,Toruń - Plaza,13:00,2D,original,regular,2026-03-06T08:42:48.412026
+2026-03-06,,toruń,Scarlet,Toruń - Plaza,13:10,2D,original,regular,2026-03-06T08:42:48.412039
+2026-03-06,,toruń,Krzyk 7,Toruń - Plaza,13:10,2D,original,regular,2026-03-06T08:42:48.412051
+2026-03-06,,toruń,Wielka mała koza,Toruń - Plaza,13:40,2D,,regular,2026-03-06T08:42:48.412063
+2026-03-06,,toruń,Hopnięci,Toruń - Plaza,13:50,2D,original,regular,2026-03-06T08:42:48.412076
+2026-03-06,,toruń,Za duży na bajki 3,Toruń - Plaza,14:20,2D,original,regular,2026-03-06T08:42:48.412086
+2026-03-06,,toruń,Panna młoda!,Toruń - Plaza,14:20,2D,original,regular,2026-03-06T08:42:48.412099
+2026-03-06,,toruń,Hopnięci,Toruń - Plaza,15:30,2D,original,regular,2026-03-06T08:42:48.412112
+2026-03-06,,toruń,Krzyk 7,Toruń - Plaza,15:50,2D,original,regular,2026-03-06T08:42:48.412122
+2026-03-06,,toruń,Wartość sentymentalna,Toruń - Plaza,16:00,2D,original,regular,2026-03-06T08:42:48.412132
+2026-03-06,,toruń,Za duży na bajki 3,Toruń - Plaza,16:30,2D,original,regular,2026-03-06T08:42:48.412141
+2026-03-06,,toruń,Dobry chłopiec,Toruń - Plaza,16:30,2D,original,regular,2026-03-06T08:42:48.412151
+2026-03-06,,toruń,Panna młoda!,Toruń - Plaza,17:10,2D,original,regular,2026-03-06T08:42:48.412161
+2026-03-06,,toruń,Hopnięci,Toruń - Plaza,18:00,2D,original,regular,2026-03-06T08:42:48.412171
+2026-03-06,,toruń,Piep*zyć Mickiewicza 3,Toruń - Plaza,18:30,2D,original,regular,2026-03-06T08:42:48.412180
+2026-03-06,,toruń,Za duży na bajki 3,Toruń - Plaza,18:40,2D,original,regular,2026-03-06T08:42:48.412188
+2026-03-06,,toruń,F1,Toruń - Plaza,19:00,2D,original,regular,2026-03-06T08:42:48.412197
+2026-03-06,,toruń,Dobry chłopiec,Toruń - Plaza,19:00,2D,original,regular,2026-03-06T08:42:48.412207
+2026-03-06,,toruń,Wichrowe wzgórza,Toruń - Plaza,19:40,2D,original,regular,2026-03-06T08:42:48.412217
+2026-03-06,,toruń,Panna młoda!,Toruń - Plaza,20:00,2D,original,regular,2026-03-06T08:42:48.412227
+2026-03-06,,toruń,Hopnięci,Toruń - Plaza,20:30,2D,original,regular,2026-03-06T08:42:48.412238
+2026-03-06,,toruń,Pojedynek,Toruń - Plaza,20:40,2D,original,regular,2026-03-06T08:42:48.412247
+2026-03-06,,toruń,Wartość sentymentalna,Toruń - Plaza,20:50,2D,original,regular,2026-03-06T08:42:48.412257
+2026-03-06,,toruń,EPiC: Elvis Presley in Concert,Toruń - Plaza,21:30,2D,original,regular,2026-03-06T08:42:48.412267
+2026-03-06,,wałbrzych,Pojedynek,Wałbrzych,10:00,2D,original,regular,2026-03-06T08:42:50.329941
+2026-03-06,,wałbrzych,Kicia Kocia w podróży,Wałbrzych,12:45,2D,,regular,2026-03-06T08:42:50.329972
+2026-03-06,,wałbrzych,Czy mnie słychać?,Wałbrzych,13:00,2D,original,regular,2026-03-06T08:42:50.329988
+2026-03-06,,wałbrzych,Hopnięci,Wałbrzych,13:00,2D,original,regular,2026-03-06T08:42:50.330003
+2026-03-06,,wałbrzych,Dobry chłopiec,Wałbrzych,13:10,2D,original,regular,2026-03-06T08:42:50.330016
+2026-03-06,,wałbrzych,Panna młoda!,Wałbrzych,13:20,2D,original,regular,2026-03-06T08:42:50.330029
+2026-03-06,,wałbrzych,Hopnięci,Wałbrzych,13:30,2D,original,regular,2026-03-06T08:42:50.330042
+2026-03-06,,wałbrzych,Za duży na bajki 3,Wałbrzych,13:40,2D,original,regular,2026-03-06T08:42:50.330053
+2026-03-06,,wałbrzych,Wielka mała koza,Wałbrzych,14:20,2D,,regular,2026-03-06T08:42:50.330066
+2026-03-06,,wałbrzych,Hopnięci,Wałbrzych,15:20,2D,original,regular,2026-03-06T08:42:50.330079
+2026-03-06,,wałbrzych,Scarlet,Wałbrzych,15:40,2D,original,regular,2026-03-06T08:42:50.330090
+2026-03-06,,wałbrzych,EPiC: Elvis Presley in Concert,Wałbrzych,15:40,2D,original,regular,2026-03-06T08:42:50.330100
+2026-03-06,,wałbrzych,Za duży na bajki 3,Wałbrzych,15:50,2D,original,regular,2026-03-06T08:42:50.330109
+2026-03-06,,wałbrzych,Hopnięci,Wałbrzych,16:00,2D,original,regular,2026-03-06T08:42:50.330119
+2026-03-06,,wałbrzych,Panna młoda!,Wałbrzych,16:10,2D,original,regular,2026-03-06T08:42:50.330129
+2026-03-06,,wałbrzych,Wielka mała koza,Wałbrzych,16:40,2D,,regular,2026-03-06T08:42:50.330138
+2026-03-06,,wałbrzych,Hopnięci,Wałbrzych,17:40,2D,original,regular,2026-03-06T08:42:50.330148
+2026-03-06,,wałbrzych,Za duży na bajki 3,Wałbrzych,18:00,2D,original,regular,2026-03-06T08:42:50.330157
+2026-03-06,,wałbrzych,Wartość sentymentalna,Wałbrzych,18:00,2D,original,regular,2026-03-06T08:42:50.330167
+2026-03-06,,wałbrzych,Piep*zyć Mickiewicza 3,Wałbrzych,18:20,2D,original,regular,2026-03-06T08:42:50.330177
+2026-03-06,,wałbrzych,Krzyk 7,Wałbrzych,18:30,2D,original,regular,2026-03-06T08:42:50.330186
+2026-03-06,,wałbrzych,F1,Wałbrzych,19:00,2D,original,regular,2026-03-06T08:42:50.330196
+2026-03-06,,wałbrzych,Panna młoda!,Wałbrzych,19:00,2D,original,regular,2026-03-06T08:42:50.330206
+2026-03-06,,wałbrzych,Hopnięci,Wałbrzych,20:00,2D,original,regular,2026-03-06T08:42:50.330216
+2026-03-06,,wałbrzych,Pojedynek,Wałbrzych,20:10,2D,original,regular,2026-03-06T08:42:50.330225
+2026-03-06,,wałbrzych,Wichrowe wzgórza,Wałbrzych,20:40,2D,original,regular,2026-03-06T08:42:50.330235
+2026-03-06,,wałbrzych,Dobry chłopiec,Wałbrzych,20:45,2D,original,regular,2026-03-06T08:42:50.330245
+2026-03-06,,wałbrzych,Krzyk 7,Wałbrzych,21:10,2D,original,regular,2026-03-06T08:42:50.330253
+2026-03-06,,wałbrzych,Panna młoda!,Wałbrzych,21:50,2D,original,regular,2026-03-06T08:42:50.330263
+2026-03-06,,warszawa,Hopnięci,Warszawa -  Arkadia,10:00,2D,original,regular,2026-03-06T08:42:52.190037
+2026-03-06,,warszawa,Kicia Kocia w podróży,Warszawa -  Arkadia,10:00,2D,,regular,2026-03-06T08:42:52.190061
+2026-03-06,,warszawa,Piep*zyć Mickiewicza 3,Warszawa -  Arkadia,10:00,2D,original,regular,2026-03-06T08:42:52.190073
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa -  Arkadia,10:30,2D,original,regular,2026-03-06T08:42:52.190083
+2026-03-06,,warszawa,Hopnięci,Warszawa -  Arkadia,11:00,4DX,original,regular,2026-03-06T08:42:52.190091
+2026-03-06,,warszawa,Panna młoda!,Warszawa -  Arkadia,11:00,2D,original,regular,2026-03-06T08:42:52.190103
+2026-03-06,,warszawa,Piep*zyć Mickiewicza 3,Warszawa -  Arkadia,11:50,2D,original,regular,2026-03-06T08:42:52.190113
+2026-03-06,,warszawa,Norymberga,Warszawa -  Arkadia,12:00,2D,original,regular,2026-03-06T08:42:52.190124
+2026-03-06,,warszawa,Zmiennokształtni 2,Warszawa -  Arkadia,12:20,2D,,regular,2026-03-06T08:42:52.190134
+2026-03-06,,warszawa,Hopnięci,Warszawa -  Arkadia,12:30,2D,original,regular,2026-03-06T08:42:52.190144
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa -  Arkadia,12:40,2D,original,regular,2026-03-06T08:42:52.190153
+2026-03-06,,warszawa,Zwierzogród 2,Warszawa -  Arkadia,12:40,2D,original,regular,2026-03-06T08:42:52.190164
+2026-03-06,,warszawa,Hopnięci ukraiński dubbing,Warszawa -  Arkadia,13:00,2D,dubbing,regular,2026-03-06T08:42:52.190175
+2026-03-06,,warszawa,Wielka mała koza,Warszawa -  Arkadia,13:00,2D,,regular,2026-03-06T08:42:52.190185
+2026-03-06,,warszawa,Hopnięci,Warszawa -  Arkadia,13:30,4DX,original,regular,2026-03-06T08:42:52.190193
+2026-03-06,,warszawa,Dalej jazda 2,Warszawa -  Arkadia,13:40,2D,original,regular,2026-03-06T08:42:52.190203
+2026-03-06,,warszawa,Pan Nikt kontra Putin,Warszawa -  Arkadia,13:40,2D,original,regular,2026-03-06T08:42:52.190213
+2026-03-06,,warszawa,Krzyk 7,Warszawa -  Arkadia,13:45,2D,original,regular,2026-03-06T08:42:52.190223
+2026-03-06,,warszawa,Panna młoda!,Warszawa -  Arkadia,13:50,2D,original,regular,2026-03-06T08:42:52.190233
+2026-03-06,,warszawa,Pojedynek,Warszawa -  Arkadia,13:50,2D,original,regular,2026-03-06T08:42:52.190242
+2026-03-06,,warszawa,Hopnięci,Warszawa -  Arkadia,14:00,2D,original,regular,2026-03-06T08:42:52.190253
+2026-03-06,,warszawa,Kicia Kocia w podróży,Warszawa -  Arkadia,14:10,2D,,regular,2026-03-06T08:42:52.190262
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa -  Arkadia,14:50,2D,original,regular,2026-03-06T08:42:52.190272
+2026-03-06,,warszawa,Krzyk 7,Warszawa -  Arkadia,14:50,2D,original,regular,2026-03-06T08:42:52.190281
+2026-03-06,,warszawa,Hopnięci,Warszawa -  Arkadia,15:00,2D,original,regular,2026-03-06T08:42:52.190291
+2026-03-06,,warszawa,Dobry chłopiec,Warszawa -  Arkadia,15:15,2D,original,regular,2026-03-06T08:42:52.190301
+2026-03-06,,warszawa,Wartość sentymentalna,Warszawa -  Arkadia,15:20,2D,original,regular,2026-03-06T08:42:52.190311
+2026-03-06,,warszawa,Hopnięci,Warszawa -  Arkadia,15:30,2D,original,regular,2026-03-06T08:42:52.190321
+2026-03-06,,warszawa,Piep*zyć Mickiewicza 3,Warszawa -  Arkadia,15:30,2D,original,regular,2026-03-06T08:42:52.190330
+2026-03-06,,warszawa,Wichrowe wzgórza,Warszawa -  Arkadia,15:40,2D,original,regular,2026-03-06T08:42:52.190340
+2026-03-06,,warszawa,Pillion,Warszawa -  Arkadia,15:50,2D,original,regular,2026-03-06T08:42:52.190350
+2026-03-06,,warszawa,Hopnięci,Warszawa -  Arkadia,16:00,4DX,original,regular,2026-03-06T08:42:52.190358
+2026-03-06,,warszawa,Scarlet,Warszawa -  Arkadia,16:10,2D,original,regular,2026-03-06T08:42:52.190368
+2026-03-06,,warszawa,Avatar: Ogień i popiół,Warszawa -  Arkadia,16:20,3D,original,regular,2026-03-06T08:42:52.190378
+2026-03-06,,warszawa,Krzyk 7,Warszawa -  Arkadia,16:20,2D,original,regular,2026-03-06T08:42:52.190387
+2026-03-06,,warszawa,Hopnięci,Warszawa -  Arkadia,16:30,2D,original,regular,2026-03-06T08:42:52.190397
+2026-03-06,,warszawa,Panna młoda!,Warszawa -  Arkadia,16:40,2D,original,regular,2026-03-06T08:42:52.190408
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa -  Arkadia,17:00,2D,original,regular,2026-03-06T08:42:52.190416
+2026-03-06,,warszawa,Hopnięci,Warszawa -  Arkadia,17:30,2D,original,regular,2026-03-06T08:42:52.190426
+2026-03-06,,warszawa,Krzyk 7,Warszawa -  Arkadia,17:30,2D,original,regular,2026-03-06T08:42:52.190435
+2026-03-06,,warszawa,Piep*zyć Mickiewicza 3,Warszawa -  Arkadia,17:40,2D,original,regular,2026-03-06T08:42:52.190443
+2026-03-06,,warszawa,Dobry chłopiec,Warszawa -  Arkadia,17:50,2D,original,regular,2026-03-06T08:42:52.190453
+2026-03-06,,warszawa,"Kopnęłabym cię, gdybym mogła",Warszawa -  Arkadia,18:00,2D,original,regular,2026-03-06T08:42:52.190463
+2026-03-06,,warszawa,Wartość sentymentalna,Warszawa -  Arkadia,18:15,2D,original,regular,2026-03-06T08:42:52.190472
+2026-03-06,,warszawa,Czy mnie słychać?,Warszawa -  Arkadia,18:20,2D,original,regular,2026-03-06T08:42:52.190482
+2026-03-06,,warszawa,Panna młoda!,Warszawa -  Arkadia,18:30,4DX,original,regular,2026-03-06T08:42:52.190490
+2026-03-06,,warszawa,Wichrowe wzgórza,Warszawa -  Arkadia,18:40,2D,original,regular,2026-03-06T08:42:52.190499
+2026-03-06,,warszawa,EPiC: Elvis Presley in Concert,Warszawa -  Arkadia,18:45,2D,original,regular,2026-03-06T08:42:52.190509
+2026-03-06,,warszawa,Hopnięci,Warszawa -  Arkadia,19:00,2D,original,regular,2026-03-06T08:42:52.190519
+2026-03-06,,warszawa,F1,Warszawa -  Arkadia,19:00,2D,original,regular,2026-03-06T08:42:52.190528
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa -  Arkadia,19:10,2D,original,regular,2026-03-06T08:42:52.190537
+2026-03-06,,warszawa,Panna młoda!,Warszawa -  Arkadia,19:30,2D,original,regular,2026-03-06T08:42:52.190547
+2026-03-06,,warszawa,Piep*zyć Mickiewicza 3,Warszawa -  Arkadia,19:50,2D,original,regular,2026-03-06T08:42:52.190569
+2026-03-06,,warszawa,Hopnięci,Warszawa -  Arkadia,20:00,2D,original,regular,2026-03-06T08:42:52.190580
+2026-03-06,,warszawa,Krzyk 7,Warszawa -  Arkadia,20:10,2D,original,regular,2026-03-06T08:42:52.190589
+2026-03-06,,warszawa,Pojedynek,Warszawa -  Arkadia,20:20,2D,original,regular,2026-03-06T08:42:52.190598
+2026-03-06,,warszawa,Dobry chłopiec,Warszawa -  Arkadia,20:30,2D,original,regular,2026-03-06T08:42:52.190608
+2026-03-06,,warszawa,Wielki Marty,Warszawa -  Arkadia,20:40,2D,original,regular,2026-03-06T08:42:52.190617
+2026-03-06,,warszawa,Crime 101,Warszawa -  Arkadia,21:00,2D,original,regular,2026-03-06T08:42:52.190627
+2026-03-06,,warszawa,Wartość sentymentalna,Warszawa -  Arkadia,21:00,2D,original,regular,2026-03-06T08:42:52.190637
+2026-03-06,,warszawa,Czy mnie słychać?,Warszawa -  Arkadia,21:10,2D,original,regular,2026-03-06T08:42:52.190645
+2026-03-06,,warszawa,Panna młoda!,Warszawa -  Arkadia,21:20,4DX,original,regular,2026-03-06T08:42:52.190653
+2026-03-06,,warszawa,Hamnet,Warszawa -  Arkadia,21:20,2D,original,regular,2026-03-06T08:42:52.190662
+2026-03-06,,warszawa,Dźwięk śmierci,Warszawa -  Arkadia,21:30,2D,original,regular,2026-03-06T08:42:52.190671
+2026-03-06,,warszawa,Wichrowe wzgórza,Warszawa -  Arkadia,21:40,2D,original,regular,2026-03-06T08:42:52.190680
+2026-03-06,,warszawa,Piep*zyć Mickiewicza 3,Warszawa -  Arkadia,22:00,2D,original,regular,2026-03-06T08:42:52.190688
+2026-03-06,,warszawa,Krzyk 7,Warszawa -  Arkadia,22:10,2D,original,regular,2026-03-06T08:42:52.190697
+2026-03-06,,warszawa,Panna młoda!,Warszawa -  Arkadia,22:20,2D,original,regular,2026-03-06T08:42:52.190706
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa - Bemowo,10:00,2D,original,regular,2026-03-06T08:42:53.362033
+2026-03-06,,warszawa,Hopnięci,Warszawa - Bemowo,11:00,2D,original,regular,2026-03-06T08:42:53.362059
+2026-03-06,,warszawa,Panna młoda!,Warszawa - Bemowo,11:00,2D,original,regular,2026-03-06T08:42:53.362072
+2026-03-06,,warszawa,Avatar: Ogień i popiół,Warszawa - Bemowo,11:00,3D,original,regular,2026-03-06T08:42:53.362084
+2026-03-06,,warszawa,Zmiennokształtni 2,Warszawa - Bemowo,11:10,2D,,regular,2026-03-06T08:42:53.362094
+2026-03-06,,warszawa,Zwierzogród 2,Warszawa - Bemowo,11:30,2D,original,regular,2026-03-06T08:42:53.362106
+2026-03-06,,warszawa,Kicia Kocia w podróży,Warszawa - Bemowo,11:40,2D,,regular,2026-03-06T08:42:53.362116
+2026-03-06,,warszawa,"Kopnęłabym cię, gdybym mogła",Warszawa - Bemowo,11:45,2D,original,regular,2026-03-06T08:42:53.362127
+2026-03-06,,warszawa,Moon: Panda i ja,Warszawa - Bemowo,12:15,2D,,regular,2026-03-06T08:42:53.362140
+2026-03-06,,warszawa,Hopnięci,Warszawa - Bemowo,12:30,2D,original,regular,2026-03-06T08:42:53.362154
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa - Bemowo,12:40,2D,original,regular,2026-03-06T08:42:53.362163
+2026-03-06,,warszawa,Kicia Kocia w podróży,Warszawa - Bemowo,13:15,2D,,regular,2026-03-06T08:42:53.362173
+2026-03-06,,warszawa,Scarlet,Warszawa - Bemowo,13:20,2D,original,regular,2026-03-06T08:42:53.362184
+2026-03-06,,warszawa,Hopnięci,Warszawa - Bemowo,13:30,2D,original,regular,2026-03-06T08:42:53.362194
+2026-03-06,,warszawa,EPiC: Elvis Presley in Concert,Warszawa - Bemowo,13:30,2D,original,regular,2026-03-06T08:42:53.362205
+2026-03-06,,warszawa,Panna młoda!,Warszawa - Bemowo,13:50,2D,original,regular,2026-03-06T08:42:53.362216
+2026-03-06,,warszawa,Zwierzogród 2,Warszawa - Bemowo,14:00,2D,original,regular,2026-03-06T08:42:53.362227
+2026-03-06,,warszawa,Wartość sentymentalna,Warszawa - Bemowo,14:20,2D,original,regular,2026-03-06T08:42:53.362237
+2026-03-06,,warszawa,Wielka mała koza,Warszawa - Bemowo,14:30,2D,,regular,2026-03-06T08:42:53.362248
+2026-03-06,,warszawa,Kicia Kocia w podróży,Warszawa - Bemowo,14:40,2D,,regular,2026-03-06T08:42:53.362260
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa - Bemowo,14:50,2D,original,regular,2026-03-06T08:42:53.362270
+2026-03-06,,warszawa,Hopnięci,Warszawa - Bemowo,15:00,2D,original,regular,2026-03-06T08:42:53.362282
+2026-03-06,,warszawa,Wielki Marty,Warszawa - Bemowo,15:00,2D,original,regular,2026-03-06T08:42:53.362291
+2026-03-06,,warszawa,Piep*zyć Mickiewicza 3,Warszawa - Bemowo,15:50,2D,original,regular,2026-03-06T08:42:53.362301
+2026-03-06,,warszawa,Krzyk 7,Warszawa - Bemowo,15:50,2D,original,regular,2026-03-06T08:42:53.362311
+2026-03-06,,warszawa,Hopnięci,Warszawa - Bemowo,16:00,2D,original,regular,2026-03-06T08:42:53.362322
+2026-03-06,,warszawa,Dobry chłopiec,Warszawa - Bemowo,16:20,2D,original,regular,2026-03-06T08:42:53.362332
+2026-03-06,,warszawa,Pojedynek,Warszawa - Bemowo,16:30,2D,original,regular,2026-03-06T08:42:53.362343
+2026-03-06,,warszawa,Panna młoda!,Warszawa - Bemowo,16:40,2D,original,regular,2026-03-06T08:42:53.362354
+2026-03-06,,warszawa,Wielka mała koza,Warszawa - Bemowo,16:50,2D,,regular,2026-03-06T08:42:53.362364
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa - Bemowo,17:00,2D,original,regular,2026-03-06T08:42:53.362373
+2026-03-06,,warszawa,Wartość sentymentalna,Warszawa - Bemowo,17:15,2D,original,regular,2026-03-06T08:42:53.362383
+2026-03-06,,warszawa,Hopnięci,Warszawa - Bemowo,17:30,2D,original,regular,2026-03-06T08:42:53.362394
+2026-03-06,,warszawa,Piep*zyć Mickiewicza 3,Warszawa - Bemowo,18:00,2D,original,regular,2026-03-06T08:42:53.362403
+2026-03-06,,warszawa,Wichrowe wzgórza,Warszawa - Bemowo,18:15,2D,original,regular,2026-03-06T08:42:53.362413
+2026-03-06,,warszawa,Krzyk 7,Warszawa - Bemowo,18:20,2D,original,regular,2026-03-06T08:42:53.362422
+2026-03-06,,warszawa,Hopnięci,Warszawa - Bemowo,18:30,2D,original,regular,2026-03-06T08:42:53.362433
+2026-03-06,,warszawa,F1,Warszawa - Bemowo,19:00,2D,original,regular,2026-03-06T08:42:53.362443
+2026-03-06,,warszawa,Pojedynek,Warszawa - Bemowo,19:00,2D,original,regular,2026-03-06T08:42:53.362452
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa - Bemowo,19:10,2D,original,regular,2026-03-06T08:42:53.362461
+2026-03-06,,warszawa,Czy mnie słychać?,Warszawa - Bemowo,19:15,2D,original,regular,2026-03-06T08:42:53.362472
+2026-03-06,,warszawa,Panna młoda!,Warszawa - Bemowo,19:30,2D,original,regular,2026-03-06T08:42:53.362483
+2026-03-06,,warszawa,Hopnięci,Warszawa - Bemowo,20:00,2D,original,regular,2026-03-06T08:42:53.362495
+2026-03-06,,warszawa,Wartość sentymentalna,Warszawa - Bemowo,20:10,2D,original,regular,2026-03-06T08:42:53.362505
+2026-03-06,,warszawa,Dobry chłopiec,Warszawa - Bemowo,20:15,2D,original,regular,2026-03-06T08:42:53.362515
+2026-03-06,,warszawa,Krzyk 7,Warszawa - Bemowo,20:50,2D,original,regular,2026-03-06T08:42:53.362524
+2026-03-06,,warszawa,Wichrowe wzgórza,Warszawa - Bemowo,21:00,2D,original,regular,2026-03-06T08:42:53.362533
+2026-03-06,,warszawa,Dźwięk śmierci,Warszawa - Bemowo,21:10,2D,original,regular,2026-03-06T08:42:53.362543
+2026-03-06,,warszawa,"Kopnęłabym cię, gdybym mogła",Warszawa - Bemowo,21:20,2D,original,regular,2026-03-06T08:42:53.362565
+2026-03-06,,warszawa,Pojedynek,Warszawa - Bemowo,21:30,2D,original,regular,2026-03-06T08:42:53.362575
+2026-03-06,,warszawa,Dobry chłopiec,Warszawa - Bemowo,22:00,2D,original,regular,2026-03-06T08:42:53.362585
+2026-03-06,,warszawa,Samotnik,Warszawa - Bemowo,22:10,2D,original,regular,2026-03-06T08:42:53.362595
+2026-03-06,,warszawa,Panna młoda!,Warszawa - Bemowo,22:20,2D,original,regular,2026-03-06T08:42:53.362606
+2026-03-06,,warszawa,Krzyk 7,Warszawa - Bemowo,22:30,2D,original,regular,2026-03-06T08:42:53.362616
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa - Białołęka Galeria Północna,10:00,2D,original,regular,2026-03-06T08:42:54.869891
+2026-03-06,,warszawa,Dobry chłopiec,Warszawa - Białołęka Galeria Północna,10:10,2D,original,regular,2026-03-06T08:42:54.869915
+2026-03-06,,warszawa,"Kopnęłabym cię, gdybym mogła",Warszawa - Białołęka Galeria Północna,10:15,2D,original,regular,2026-03-06T08:42:54.869928
+2026-03-06,,warszawa,Hopnięci,Warszawa - Białołęka Galeria Północna,11:00,Dolby Atmos,original,regular,2026-03-06T08:42:54.869941
+2026-03-06,,warszawa,Krzyk 7,Warszawa - Białołęka Galeria Północna,11:20,2D,original,regular,2026-03-06T08:42:54.869951
+2026-03-06,,warszawa,Kicia Kocia w podróży,Warszawa - Białołęka Galeria Północna,11:20,2D,,regular,2026-03-06T08:42:54.869961
+2026-03-06,,warszawa,Psoty,Warszawa - Białołęka Galeria Północna,11:30,2D,original,regular,2026-03-06T08:42:54.869971
+2026-03-06,,warszawa,Wichrowe wzgórza,Warszawa - Białołęka Galeria Północna,11:50,2D,original,regular,2026-03-06T08:42:54.869981
+2026-03-06,,warszawa,Hopnięci,Warszawa - Białołęka Galeria Północna,12:00,2D,original,regular,2026-03-06T08:42:54.869992
+2026-03-06,,warszawa,Czy mnie słychać?,Warszawa - Białołęka Galeria Północna,12:20,2D,original,regular,2026-03-06T08:42:54.870002
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa - Białołęka Galeria Północna,12:30,2D,original,regular,2026-03-06T08:42:54.870011
+2026-03-06,,warszawa,Scarlet,Warszawa - Białołęka Galeria Północna,12:30,2D,original,regular,2026-03-06T08:42:54.870021
+2026-03-06,,warszawa,Panna młoda!,Warszawa - Białołęka Galeria Północna,12:40,2D,original,regular,2026-03-06T08:42:54.870032
+2026-03-06,,warszawa,Kicia Kocia w podróży,Warszawa - Białołęka Galeria Północna,12:40,2D,,regular,2026-03-06T08:42:54.870041
+2026-03-06,,warszawa,Wielka mała koza,Warszawa - Białołęka Galeria Północna,12:50,2D,,regular,2026-03-06T08:42:54.870051
+2026-03-06,,warszawa,Hopnięci,Warszawa - Białołęka Galeria Północna,13:30,Dolby Atmos,original,regular,2026-03-06T08:42:54.870062
+2026-03-06,,warszawa,Kicia Kocia w podróży,Warszawa - Białołęka Galeria Północna,13:50,2D,,regular,2026-03-06T08:42:54.870071
+2026-03-06,,warszawa,Hopnięci ukraiński dubbing,Warszawa - Białołęka Galeria Północna,14:00,2D,dubbing,regular,2026-03-06T08:42:54.870081
+2026-03-06,,warszawa,Krzyk 7,Warszawa - Białołęka Galeria Północna,14:00,2D,original,regular,2026-03-06T08:42:54.870090
+2026-03-06,,warszawa,Hopnięci,Warszawa - Białołęka Galeria Północna,14:30,2D,original,regular,2026-03-06T08:42:54.870101
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa - Białołęka Galeria Północna,14:40,2D,original,regular,2026-03-06T08:42:54.870109
+2026-03-06,,warszawa,Wielki Marty,Warszawa - Białołęka Galeria Północna,14:50,2D,original,regular,2026-03-06T08:42:54.870119
+2026-03-06,,warszawa,Piep*zyć Mickiewicza 3,Warszawa - Białołęka Galeria Północna,15:00,2D,original,regular,2026-03-06T08:42:54.870128
+2026-03-06,,warszawa,Dobry chłopiec,Warszawa - Białołęka Galeria Północna,15:00,2D,original,regular,2026-03-06T08:42:54.870138
+2026-03-06,,warszawa,"Kopnęłabym cię, gdybym mogła",Warszawa - Białołęka Galeria Północna,15:10,2D,original,regular,2026-03-06T08:42:54.870148
+2026-03-06,,warszawa,Hopnięci,Warszawa - Białołęka Galeria Północna,15:30,2D,original,regular,2026-03-06T08:42:54.870158
+2026-03-06,,warszawa,Zwierzogród 2,Warszawa - Białołęka Galeria Północna,15:40,2D,original,regular,2026-03-06T08:42:54.870169
+2026-03-06,,warszawa,Panna młoda!,Warszawa - Białołęka Galeria Północna,16:00,Dolby Atmos,original,regular,2026-03-06T08:42:54.870181
+2026-03-06,,warszawa,Hopnięci,Warszawa - Białołęka Galeria Północna,16:30,2D,original,regular,2026-03-06T08:42:54.870191
+2026-03-06,,warszawa,Krzyk 7,Warszawa - Białołęka Galeria Północna,16:40,2D,original,regular,2026-03-06T08:42:54.870200
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa - Białołęka Galeria Północna,16:50,2D,original,regular,2026-03-06T08:42:54.870209
+2026-03-06,,warszawa,Hopnięci,Warszawa - Białołęka Galeria Północna,17:00,2D,original,regular,2026-03-06T08:42:54.870223
+2026-03-06,,warszawa,Piep*zyć Mickiewicza 3,Warszawa - Białołęka Galeria Północna,17:20,2D,original,regular,2026-03-06T08:42:54.870232
+2026-03-06,,warszawa,Dobry chłopiec,Warszawa - Białołęka Galeria Północna,17:30,2D,original,regular,2026-03-06T08:42:54.870242
+2026-03-06,,warszawa,Pojedynek,Warszawa - Białołęka Galeria Północna,17:50,2D,original,regular,2026-03-06T08:42:54.870251
+2026-03-06,,warszawa,Hopnięci,Warszawa - Białołęka Galeria Północna,18:00,2D,original,regular,2026-03-06T08:42:54.870261
+2026-03-06,,warszawa,Wartość sentymentalna,Warszawa - Białołęka Galeria Północna,18:10,2D,original,regular,2026-03-06T08:42:54.870272
+2026-03-06,,warszawa,Wichrowe wzgórza,Warszawa - Białołęka Galeria Północna,18:20,2D,original,regular,2026-03-06T08:42:54.870281
+2026-03-06,,warszawa,Panna młoda!,Warszawa - Białołęka Galeria Północna,18:50,Dolby Atmos,original,regular,2026-03-06T08:42:54.870292
+2026-03-06,,warszawa,F1,Warszawa - Białołęka Galeria Północna,19:00,2D,original,regular,2026-03-06T08:42:54.870301
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa - Białołęka Galeria Północna,19:00,2D,original,regular,2026-03-06T08:42:54.870310
+2026-03-06,,warszawa,Krzyk 7,Warszawa - Białołęka Galeria Północna,19:20,2D,original,regular,2026-03-06T08:42:54.870319
+2026-03-06,,warszawa,Hopnięci,Warszawa - Białołęka Galeria Północna,19:30,2D,original,regular,2026-03-06T08:42:54.870330
+2026-03-06,,warszawa,Piep*zyć Mickiewicza 3,Warszawa - Białołęka Galeria Północna,19:40,2D,original,regular,2026-03-06T08:42:54.870338
+2026-03-06,,warszawa,Dobry chłopiec,Warszawa - Białołęka Galeria Północna,20:00,2D,original,regular,2026-03-06T08:42:54.870348
+2026-03-06,,warszawa,EPiC: Elvis Presley in Concert,Warszawa - Białołęka Galeria Północna,20:20,2D,original,regular,2026-03-06T08:42:54.870358
+2026-03-06,,warszawa,Hopnięci,Warszawa - Białołęka Galeria Północna,20:30,2D,original,regular,2026-03-06T08:42:54.870368
+2026-03-06,,warszawa,Wartość sentymentalna,Warszawa - Białołęka Galeria Północna,21:00,2D,original,regular,2026-03-06T08:42:54.870378
+2026-03-06,,warszawa,Crime 101,Warszawa - Białołęka Galeria Północna,21:10,2D,original,regular,2026-03-06T08:42:54.870388
+2026-03-06,,warszawa,Wichrowe wzgórza,Warszawa - Białołęka Galeria Północna,21:20,2D,original,regular,2026-03-06T08:42:54.870398
+2026-03-06,,warszawa,Panna młoda!,Warszawa - Białołęka Galeria Północna,21:40,Dolby Atmos,original,regular,2026-03-06T08:42:54.870409
+2026-03-06,,warszawa,Samotnik,Warszawa - Białołęka Galeria Północna,21:50,2D,original,regular,2026-03-06T08:42:54.870418
+2026-03-06,,warszawa,Krzyk 7,Warszawa - Białołęka Galeria Północna,22:00,2D,original,regular,2026-03-06T08:42:54.870427
+2026-03-06,,warszawa,Dźwięk śmierci,Warszawa - Białołęka Galeria Północna,22:00,2D,original,regular,2026-03-06T08:42:54.870437
+2026-03-06,,warszawa,Pojedynek,Warszawa - Białołęka Galeria Północna,22:10,2D,original,regular,2026-03-06T08:42:54.870446
+2026-03-06,,warszawa,Hopnięci,Warszawa - Janki,10:15,2D,original,regular,2026-03-06T08:42:56.319784
+2026-03-06,,warszawa,Hopnięci,Warszawa - Janki,11:00,2D,original,regular,2026-03-06T08:42:56.319808
+2026-03-06,,warszawa,Panna młoda!,Warszawa - Janki,11:00,2D,original,regular,2026-03-06T08:42:56.319822
+2026-03-06,,warszawa,Pojedynek,Warszawa - Janki,11:00,2D,original,regular,2026-03-06T08:42:56.319833
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa - Janki,11:10,2D,original,regular,2026-03-06T08:42:56.319844
+2026-03-06,,warszawa,Zmiennokształtni 2,Warszawa - Janki,11:30,2D,,regular,2026-03-06T08:42:56.319854
+2026-03-06,,warszawa,Kicia Kocia w podróży,Warszawa - Janki,11:40,2D,,regular,2026-03-06T08:42:56.319865
+2026-03-06,,warszawa,"Kopnęłabym cię, gdybym mogła",Warszawa - Janki,11:45,2D,original,regular,2026-03-06T08:42:56.319876
+2026-03-06,,warszawa,Avatar: Ogień i popiół,Warszawa - Janki,12:10,3D,original,regular,2026-03-06T08:42:56.319886
+2026-03-06,,warszawa,Hopnięci,Warszawa - Janki,12:40,2D,original,regular,2026-03-06T08:42:56.319897
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa - Janki,12:40,2D,original,regular,2026-03-06T08:42:56.319907
+2026-03-06,,warszawa,Kicia Kocia w podróży,Warszawa - Janki,13:10,2D,,regular,2026-03-06T08:42:56.319916
+2026-03-06,,warszawa,Zwierzogród 2,Warszawa - Janki,13:20,2D,original,regular,2026-03-06T08:42:56.319928
+2026-03-06,,warszawa,Hopnięci,Warszawa - Janki,13:30,2D,original,regular,2026-03-06T08:42:56.319939
+2026-03-06,,warszawa,Szybcy i sprytni,Warszawa - Janki,13:30,2D,,regular,2026-03-06T08:42:56.319949
+2026-03-06,,warszawa,Panna młoda!,Warszawa - Janki,13:50,2D,original,regular,2026-03-06T08:42:56.319961
+2026-03-06,,warszawa,Hopnięci ukraiński dubbing,Warszawa - Janki,14:00,2D,dubbing,regular,2026-03-06T08:42:56.319971
+2026-03-06,,warszawa,Scarlet,Warszawa - Janki,14:15,2D,original,regular,2026-03-06T08:42:56.319982
+2026-03-06,,warszawa,Wichrowe wzgórza,Warszawa - Janki,14:40,2D,original,regular,2026-03-06T08:42:56.319994
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa - Janki,14:50,2D,original,regular,2026-03-06T08:42:56.320003
+2026-03-06,,warszawa,Hopnięci,Warszawa - Janki,15:00,2D,original,regular,2026-03-06T08:42:56.320014
+2026-03-06,,warszawa,Krzyk 7,Warszawa - Janki,15:30,2D,original,regular,2026-03-06T08:42:56.320024
+2026-03-06,,warszawa,Piep*zyć Mickiewicza 3,Warszawa - Janki,15:45,2D,original,regular,2026-03-06T08:42:56.320033
+2026-03-06,,warszawa,Hopnięci,Warszawa - Janki,16:00,2D,original,regular,2026-03-06T08:42:56.320044
+2026-03-06,,warszawa,Wartość sentymentalna,Warszawa - Janki,16:10,2D,original,regular,2026-03-06T08:42:56.320054
+2026-03-06,,warszawa,Hopnięci,Warszawa - Janki,16:30,2D,original,regular,2026-03-06T08:42:56.320065
+2026-03-06,,warszawa,Panna młoda!,Warszawa - Janki,16:40,2D,original,regular,2026-03-06T08:42:56.320076
+2026-03-06,,warszawa,Wielka mała koza,Warszawa - Janki,16:45,2D,,regular,2026-03-06T08:42:56.320086
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa - Janki,17:00,2D,original,regular,2026-03-06T08:42:56.320095
+2026-03-06,,warszawa,Hopnięci,Warszawa - Janki,17:30,2D,original,regular,2026-03-06T08:42:56.320105
+2026-03-06,,warszawa,Pojedynek,Warszawa - Janki,17:40,2D,original,regular,2026-03-06T08:42:56.320115
+2026-03-06,,warszawa,Panna młoda! ukraiński dubbing,Warszawa - Janki,18:00,2D,dubbing,regular,2026-03-06T08:42:56.320125
+2026-03-06,,warszawa,Krzyk 7,Warszawa - Janki,18:10,2D,original,regular,2026-03-06T08:42:56.320134
+2026-03-06,,warszawa,Hopnięci,Warszawa - Janki,18:30,2D,original,regular,2026-03-06T08:42:56.320145
+2026-03-06,,warszawa,F1,Warszawa - Janki,19:00,2D,original,regular,2026-03-06T08:42:56.320154
+2026-03-06,,warszawa,Dobry chłopiec,Warszawa - Janki,19:00,2D,original,regular,2026-03-06T08:42:56.320165
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa - Janki,19:10,2D,original,regular,2026-03-06T08:42:56.320174
+2026-03-06,,warszawa,Wartość sentymentalna,Warszawa - Janki,19:10,2D,original,regular,2026-03-06T08:42:56.320184
+2026-03-06,,warszawa,Panna młoda!,Warszawa - Janki,19:30,2D,original,regular,2026-03-06T08:42:56.320195
+2026-03-06,,warszawa,Hopnięci,Warszawa - Janki,20:00,2D,original,regular,2026-03-06T08:42:56.320206
+2026-03-06,,warszawa,Piep*zyć Mickiewicza 3,Warszawa - Janki,20:15,2D,original,regular,2026-03-06T08:42:56.320215
+2026-03-06,,warszawa,Wichrowe wzgórza,Warszawa - Janki,20:45,2D,original,regular,2026-03-06T08:42:56.320225
+2026-03-06,,warszawa,Czy mnie słychać?,Warszawa - Janki,20:50,2D,original,regular,2026-03-06T08:42:56.320235
+2026-03-06,,warszawa,Krzyk 7,Warszawa - Janki,21:00,2D,original,regular,2026-03-06T08:42:56.320245
+2026-03-06,,warszawa,EPiC: Elvis Presley in Concert,Warszawa - Janki,21:20,2D,original,regular,2026-03-06T08:42:56.320255
+2026-03-06,,warszawa,Dobry chłopiec,Warszawa - Janki,21:30,2D,original,regular,2026-03-06T08:42:56.320265
+2026-03-06,,warszawa,Samotnik,Warszawa - Janki,22:00,2D,original,regular,2026-03-06T08:42:56.320275
+2026-03-06,,warszawa,Dźwięk śmierci,Warszawa - Janki,22:15,2D,original,regular,2026-03-06T08:42:56.320286
+2026-03-06,,warszawa,Panna młoda!,Warszawa - Janki,22:20,2D,original,regular,2026-03-06T08:42:56.320297
+2026-03-06,,warszawa,Pojedynek,Warszawa - Janki,22:30,2D,original,regular,2026-03-06T08:42:56.320307
+2026-03-06,,warszawa,Krzyk 7,Warszawa - Janki,22:30,2D,original,regular,2026-03-06T08:42:56.320316
+2026-03-06,,warszawa,Zmiennokształtni 2,Warszawa - Mokotów,10:00,2D,,regular,2026-03-06T08:42:57.766098
+2026-03-06,,warszawa,Kicia Kocia w podróży,Warszawa - Mokotów,10:00,2D,,regular,2026-03-06T08:42:57.766123
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa - Mokotów,10:00,2D,original,regular,2026-03-06T08:42:57.766136
+2026-03-06,,warszawa,Hopnięci,Warszawa - Mokotów,10:30,2D,original,regular,2026-03-06T08:42:57.766148
+2026-03-06,,warszawa,Zwierzogród 2,Warszawa - Mokotów,10:30,2D,original,regular,2026-03-06T08:42:57.766161
+2026-03-06,,warszawa,Szybcy i sprytni,Warszawa - Mokotów,10:30,2D,,regular,2026-03-06T08:42:57.766173
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa - Mokotów,11:00,2D,original,regular,2026-03-06T08:42:57.766182
+2026-03-06,,warszawa,Avatar: Ogień i popiół,Warszawa - Mokotów,11:00,ScreenX,original,regular,2026-03-06T08:42:57.766193
+2026-03-06,,warszawa,Wielka mała koza,Warszawa - Mokotów,11:20,2D,,regular,2026-03-06T08:42:57.766205
+2026-03-06,,warszawa,Hopnięci,Warszawa - Mokotów,11:30,2D,original,regular,2026-03-06T08:42:57.766216
+2026-03-06,,warszawa,Panna młoda!,Warszawa - Mokotów,11:30,2D,original,regular,2026-03-06T08:42:57.766227
+2026-03-06,,warszawa,Kicia Kocia w podróży,Warszawa - Mokotów,11:30,2D,,regular,2026-03-06T08:42:57.766238
+2026-03-06,,warszawa,"Kopnęłabym cię, gdybym mogła",Warszawa - Mokotów,11:40,2D,original,regular,2026-03-06T08:42:57.766249
+2026-03-06,,warszawa,Hopnięci,Warszawa - Mokotów,11:45,2D,original,regular,2026-03-06T08:42:57.766260
+2026-03-06,,warszawa,Zmiennokształtni 2,Warszawa - Mokotów,12:15,2D,,regular,2026-03-06T08:42:57.766270
+2026-03-06,,warszawa,Szybcy i sprytni,Warszawa - Mokotów,12:50,2D,,regular,2026-03-06T08:42:57.766281
+2026-03-06,,warszawa,Hopnięci,Warszawa - Mokotów,13:00,2D,original,regular,2026-03-06T08:42:57.766291
+2026-03-06,,warszawa,Kicia Kocia w podróży,Warszawa - Mokotów,13:00,2D,,regular,2026-03-06T08:42:57.766301
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa - Mokotów,13:10,2D,original,regular,2026-03-06T08:42:57.766311
+2026-03-06,,warszawa,Wartość sentymentalna,Warszawa - Mokotów,13:10,2D,original,regular,2026-03-06T08:42:57.766322
+2026-03-06,,warszawa,Zwierzogród 2,Warszawa - Mokotów,13:15,2D,original,regular,2026-03-06T08:42:57.766334
+2026-03-06,,warszawa,Wielka mała koza,Warszawa - Mokotów,13:40,2D,,regular,2026-03-06T08:42:57.766344
+2026-03-06,,warszawa,Hopnięci,Warszawa - Mokotów,14:00,2D,original,regular,2026-03-06T08:42:57.766355
+2026-03-06,,warszawa,Hopnięci,Warszawa - Mokotów,14:10,2D,original,regular,2026-03-06T08:42:57.766366
+2026-03-06,,warszawa,Panna młoda!,Warszawa - Mokotów,14:20,2D,original,regular,2026-03-06T08:42:57.766377
+2026-03-06,,warszawa,Piep*zyć Mickiewicza 3,Warszawa - Mokotów,14:20,2D,original,regular,2026-03-06T08:42:57.766387
+2026-03-06,,warszawa,Hopnięci ukraiński dubbing,Warszawa - Mokotów,14:30,2D,dubbing,regular,2026-03-06T08:42:57.766398
+2026-03-06,,warszawa,Zwierzogród 2,Warszawa - Mokotów,14:30,2D,original,regular,2026-03-06T08:42:57.766409
+2026-03-06,,warszawa,Avatar: Ogień i popiół,Warszawa - Mokotów,14:50,ScreenX,original,regular,2026-03-06T08:42:57.766419
+2026-03-06,,warszawa,Wielka mała koza,Warszawa - Mokotów,15:10,2D,,regular,2026-03-06T08:42:57.766429
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa - Mokotów,15:20,2D,original,regular,2026-03-06T08:42:57.766438
+2026-03-06,,warszawa,Hopnięci,Warszawa - Mokotów,15:30,2D,original,regular,2026-03-06T08:42:57.766449
+2026-03-06,,warszawa,Dobry chłopiec,Warszawa - Mokotów,15:40,2D,original,regular,2026-03-06T08:42:57.766460
+2026-03-06,,warszawa,Wielka mała koza,Warszawa - Mokotów,16:00,2D,,regular,2026-03-06T08:42:57.766470
+2026-03-06,,warszawa,Wartość sentymentalna,Warszawa - Mokotów,16:10,2D,original,regular,2026-03-06T08:42:57.766481
+2026-03-06,,warszawa,Hopnięci,Warszawa - Mokotów,16:30,2D,original,regular,2026-03-06T08:42:57.766492
+2026-03-06,,warszawa,Krzyk 7,Warszawa - Mokotów,16:30,2D,original,regular,2026-03-06T08:42:57.766502
+2026-03-06,,warszawa,Piep*zyć Mickiewicza 3,Warszawa - Mokotów,16:40,2D,original,regular,2026-03-06T08:42:57.766511
+2026-03-06,,warszawa,Hopnięci,Warszawa - Mokotów,17:00,2D,original,regular,2026-03-06T08:42:57.766523
+2026-03-06,,warszawa,Czy mnie słychać?,Warszawa - Mokotów,17:00,2D,original,regular,2026-03-06T08:42:57.766534
+2026-03-06,,warszawa,Panna młoda!,Warszawa - Mokotów,17:10,2D,original,regular,2026-03-06T08:42:57.766544
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa - Mokotów,17:30,2D,original,regular,2026-03-06T08:42:57.766566
+2026-03-06,,warszawa,Panna młoda! ukraiński dubbing,Warszawa - Mokotów,17:45,2D,dubbing,regular,2026-03-06T08:42:57.766578
+2026-03-06,,warszawa,EPiC: Elvis Presley in Concert,Warszawa - Mokotów,17:50,2D,original,regular,2026-03-06T08:42:57.766589
+2026-03-06,,warszawa,Hopnięci,Warszawa - Mokotów,18:00,2D,original,regular,2026-03-06T08:42:57.766600
+2026-03-06,,warszawa,Dobry chłopiec,Warszawa - Mokotów,18:10,2D,original,regular,2026-03-06T08:42:57.766611
+2026-03-06,,warszawa,Wichrowe wzgórza,Warszawa - Mokotów,18:20,2D,original,regular,2026-03-06T08:42:57.766622
+2026-03-06,,warszawa,Krzyk 7,Warszawa - Mokotów,18:50,ScreenX,original,regular,2026-03-06T08:42:57.766630
+2026-03-06,,warszawa,Hopnięci,Warszawa - Mokotów,19:00,2D,original,regular,2026-03-06T08:42:57.766641
+2026-03-06,,warszawa,F1,Warszawa - Mokotów,19:00,2D,original,regular,2026-03-06T08:42:57.766651
+2026-03-06,,warszawa,Krzyk 7,Warszawa - Mokotów,19:10,2D,original,regular,2026-03-06T08:42:57.766661
+2026-03-06,,warszawa,Wartość sentymentalna,Warszawa - Mokotów,19:10,2D,original,regular,2026-03-06T08:42:57.766672
+2026-03-06,,warszawa,Scarlet,Warszawa - Mokotów,19:30,2D,original,regular,2026-03-06T08:42:57.766683
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa - Mokotów,19:40,2D,original,regular,2026-03-06T08:42:57.766693
+2026-03-06,,warszawa,Piep*zyć Mickiewicza 3,Warszawa - Mokotów,19:40,2D,original,regular,2026-03-06T08:42:57.766703
+2026-03-06,,warszawa,Panna młoda!,Warszawa - Mokotów,20:00,2D,original,regular,2026-03-06T08:42:57.766714
+2026-03-06,,warszawa,Pojedynek,Warszawa - Mokotów,20:10,2D,original,regular,2026-03-06T08:42:57.766724
+2026-03-06,,warszawa,Hopnięci,Warszawa - Mokotów,20:30,2D,original,regular,2026-03-06T08:42:57.766735
+2026-03-06,,warszawa,Panna młoda! ukraiński dubbing,Warszawa - Mokotów,20:30,2D,dubbing,regular,2026-03-06T08:42:57.766746
+2026-03-06,,warszawa,Dobry chłopiec,Warszawa - Mokotów,20:40,2D,original,regular,2026-03-06T08:42:57.766757
+2026-03-06,,warszawa,Wichrowe wzgórza,Warszawa - Mokotów,21:20,2D,original,regular,2026-03-06T08:42:57.766767
+2026-03-06,,warszawa,Krzyk 7,Warszawa - Mokotów,21:30,ScreenX,original,regular,2026-03-06T08:42:57.766776
+2026-03-06,,warszawa,Hamnet,Warszawa - Mokotów,21:30,2D,original,regular,2026-03-06T08:42:57.766786
+2026-03-06,,warszawa,Krzyk 7,Warszawa - Mokotów,21:50,2D,original,regular,2026-03-06T08:42:57.766796
+2026-03-06,,warszawa,Dźwięk śmierci,Warszawa - Mokotów,21:50,2D,original,regular,2026-03-06T08:42:57.766806
+2026-03-06,,warszawa,Piep*zyć Mickiewicza 3,Warszawa - Mokotów,22:00,2D,original,regular,2026-03-06T08:42:57.766816
+2026-03-06,,warszawa,Wielki Marty,Warszawa - Mokotów,22:00,2D,original,regular,2026-03-06T08:42:57.766826
+2026-03-06,,warszawa,Wartość sentymentalna,Warszawa - Mokotów,22:10,2D,original,regular,2026-03-06T08:42:57.766836
+2026-03-06,,warszawa,Pojedynek,Warszawa - Mokotów,22:20,2D,original,regular,2026-03-06T08:42:57.766846
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa - Promenada,09:30,2D,original,regular,2026-03-06T08:42:59.534904
+2026-03-06,,warszawa,Hopnięci,Warszawa - Promenada,10:00,2D,original,regular,2026-03-06T08:42:59.534931
+2026-03-06,,warszawa,Zmiennokształtni 2,Warszawa - Promenada,10:00,2D,,regular,2026-03-06T08:42:59.534943
+2026-03-06,,warszawa,Wartość sentymentalna,Warszawa - Promenada,10:00,2D,original,regular,2026-03-06T08:42:59.534956
+2026-03-06,,warszawa,Szybcy i sprytni,Warszawa - Promenada,10:10,2D,,regular,2026-03-06T08:42:59.534968
+2026-03-06,,warszawa,Wielka mała koza,Warszawa - Promenada,10:20,2D,,regular,2026-03-06T08:42:59.534980
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa - Promenada,10:30,2D,original,regular,2026-03-06T08:42:59.534990
+2026-03-06,,warszawa,Panna młoda!,Warszawa - Promenada,11:00,2D,original,regular,2026-03-06T08:42:59.535001
+2026-03-06,,warszawa,Hopnięci,Warszawa - Promenada,11:00,2D,original,regular,2026-03-06T08:42:59.535013
+2026-03-06,,warszawa,Piep*zyć Mickiewicza 3,Warszawa - Promenada,11:00,2D,original,regular,2026-03-06T08:42:59.535023
+2026-03-06,,warszawa,Wielka mała koza,Warszawa - Promenada,11:00,2D,,regular,2026-03-06T08:42:59.535034
+2026-03-06,,warszawa,Najświętsze serce,Warszawa - Promenada,11:20,2D,original,regular,2026-03-06T08:42:59.535045
+2026-03-06,,warszawa,Avatar: Ogień i popiół,Warszawa - Promenada,11:30,3D,original,regular,2026-03-06T08:42:59.535056
+2026-03-06,,warszawa,Scarlet,Warszawa - Promenada,11:50,2D,original,regular,2026-03-06T08:42:59.535068
+2026-03-06,,warszawa,Zmiennokształtni 2,Warszawa - Promenada,12:15,2D,,regular,2026-03-06T08:42:59.535079
+2026-03-06,,warszawa,Hopnięci,Warszawa - Promenada,12:30,2D,original,regular,2026-03-06T08:42:59.535090
+2026-03-06,,warszawa,Krzyk 7,Warszawa - Promenada,12:30,2D,original,regular,2026-03-06T08:42:59.535100
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa - Promenada,12:40,2D,original,regular,2026-03-06T08:42:59.535110
+2026-03-06,,warszawa,Czy mnie słychać?,Warszawa - Promenada,12:50,2D,original,regular,2026-03-06T08:42:59.535121
+2026-03-06,,warszawa,Hopnięci,Warszawa - Promenada,13:30,2D,original,regular,2026-03-06T08:42:59.535132
+2026-03-06,,warszawa,Pojedynek,Warszawa - Promenada,13:40,2D,original,regular,2026-03-06T08:42:59.535143
+2026-03-06,,warszawa,Panna młoda!,Warszawa - Promenada,13:50,2D,original,regular,2026-03-06T08:42:59.535154
+2026-03-06,,warszawa,EPiC: Elvis Presley in Concert,Warszawa - Promenada,14:00,2D,original,regular,2026-03-06T08:42:59.535166
+2026-03-06,,warszawa,Kicia Kocia w podróży,Warszawa - Promenada,14:15,2D,,regular,2026-03-06T08:42:59.535176
+2026-03-06,,warszawa,Wartość sentymentalna,Warszawa - Promenada,14:20,2D,original,regular,2026-03-06T08:42:59.535187
+2026-03-06,,warszawa,Piep*zyć Mickiewicza 3,Warszawa - Promenada,14:30,2D,original,regular,2026-03-06T08:42:59.535197
+2026-03-06,,warszawa,Wichrowe wzgórza,Warszawa - Promenada,14:40,2D,original,regular,2026-03-06T08:42:59.535209
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa - Promenada,14:50,2D,original,regular,2026-03-06T08:42:59.535219
+2026-03-06,,warszawa,Hopnięci,Warszawa - Promenada,15:00,2D,original,regular,2026-03-06T08:42:59.535230
+2026-03-06,,warszawa,Krzyk 7,Warszawa - Promenada,15:10,2D,original,regular,2026-03-06T08:42:59.535240
+2026-03-06,,warszawa,Hopnięci,Warszawa - Promenada,15:30,2D,original,regular,2026-03-06T08:42:59.535251
+2026-03-06,,warszawa,Wielka mała koza,Warszawa - Promenada,15:40,2D,,regular,2026-03-06T08:42:59.535262
+2026-03-06,,warszawa,Dalej jazda 2,Warszawa - Promenada,15:45,2D,original,regular,2026-03-06T08:42:59.535273
+2026-03-06,,warszawa,Hopnięci,Warszawa - Promenada,16:00,2D,original,regular,2026-03-06T08:42:59.535284
+2026-03-06,,warszawa,Dobry chłopiec,Warszawa - Promenada,16:15,2D,original,regular,2026-03-06T08:42:59.535295
+2026-03-06,,warszawa,Zwierzogród 2,Warszawa - Promenada,16:15,2D,original,regular,2026-03-06T08:42:59.535308
+2026-03-06,,warszawa,Panna młoda!,Warszawa - Promenada,16:40,2D,original,regular,2026-03-06T08:42:59.535319
+2026-03-06,,warszawa,Piep*zyć Mickiewicza 3,Warszawa - Promenada,16:45,2D,original,regular,2026-03-06T08:42:59.535329
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa - Promenada,17:00,2D,original,regular,2026-03-06T08:42:59.535339
+2026-03-06,,warszawa,Wartość sentymentalna,Warszawa - Promenada,17:15,2D,original,regular,2026-03-06T08:42:59.535350
+2026-03-06,,warszawa,Hopnięci,Warszawa - Promenada,17:30,2D,original,regular,2026-03-06T08:42:59.535361
+2026-03-06,,warszawa,Wichrowe wzgórza,Warszawa - Promenada,17:40,2D,original,regular,2026-03-06T08:42:59.535372
+2026-03-06,,warszawa,Krzyk 7,Warszawa - Promenada,17:50,2D,original,regular,2026-03-06T08:42:59.535382
+2026-03-06,,warszawa,Pojedynek,Warszawa - Promenada,18:00,2D,original,regular,2026-03-06T08:42:59.535391
+2026-03-06,,warszawa,Wielka mała koza,Warszawa - Promenada,18:00,2D,,regular,2026-03-06T08:42:59.535400
+2026-03-06,,warszawa,Czy mnie słychać?,Warszawa - Promenada,18:10,2D,original,regular,2026-03-06T08:42:59.535409
+2026-03-06,,warszawa,Hopnięci,Warszawa - Promenada,18:30,2D,original,regular,2026-03-06T08:42:59.535419
+2026-03-06,,warszawa,Dobry chłopiec,Warszawa - Promenada,18:45,2D,original,regular,2026-03-06T08:42:59.535429
+2026-03-06,,warszawa,Piep*zyć Mickiewicza 3,Warszawa - Promenada,18:45,2D,original,regular,2026-03-06T08:42:59.535438
+2026-03-06,,warszawa,F1,Warszawa - Promenada,19:00,2D,original,regular,2026-03-06T08:42:59.535447
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa - Promenada,19:10,2D,original,regular,2026-03-06T08:42:59.535456
+2026-03-06,,warszawa,Panna młoda!,Warszawa - Promenada,19:30,2D,original,regular,2026-03-06T08:42:59.535466
+2026-03-06,,warszawa,Hopnięci,Warszawa - Promenada,20:00,2D,original,regular,2026-03-06T08:42:59.535476
+2026-03-06,,warszawa,Wartość sentymentalna,Warszawa - Promenada,20:10,2D,original,regular,2026-03-06T08:42:59.535486
+2026-03-06,,warszawa,"Kopnęłabym cię, gdybym mogła",Warszawa - Promenada,20:20,2D,original,regular,2026-03-06T08:42:59.535496
+2026-03-06,,warszawa,Krzyk 7,Warszawa - Promenada,20:30,2D,original,regular,2026-03-06T08:42:59.535505
+2026-03-06,,warszawa,Samotnik,Warszawa - Promenada,20:40,2D,original,regular,2026-03-06T08:42:59.535515
+2026-03-06,,warszawa,Wichrowe wzgórza,Warszawa - Promenada,20:40,2D,original,regular,2026-03-06T08:42:59.535524
+2026-03-06,,warszawa,Dźwięk śmierci,Warszawa - Promenada,20:50,2D,original,regular,2026-03-06T08:42:59.535534
+2026-03-06,,warszawa,Pomoc domowa,Warszawa - Promenada,21:00,2D,original,regular,2026-03-06T08:42:59.535545
+2026-03-06,,warszawa,Wielki Marty,Warszawa - Promenada,21:00,2D,original,regular,2026-03-06T08:42:59.535570
+2026-03-06,,warszawa,Dobry chłopiec,Warszawa - Promenada,21:15,2D,original,regular,2026-03-06T08:42:59.535581
+2026-03-06,,warszawa,Pojedynek,Warszawa - Promenada,21:20,2D,original,regular,2026-03-06T08:42:59.535590
+2026-03-06,,warszawa,Krzyk 7,Warszawa - Promenada,22:10,2D,original,regular,2026-03-06T08:42:59.535599
+2026-03-06,,warszawa,Panna młoda!,Warszawa - Promenada,22:20,2D,original,regular,2026-03-06T08:42:59.535609
+2026-03-06,,warszawa,Samotnik,Warszawa - Promenada,22:30,2D,original,regular,2026-03-06T08:42:59.535619
+2026-03-06,,warszawa,Wielka mała koza,Warszawa - Sadyba,10:00,2D,,regular,2026-03-06T08:43:01.003618
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa - Sadyba,10:00,2D,original,regular,2026-03-06T08:43:01.003642
+2026-03-06,,warszawa,Hopnięci,Warszawa - Sadyba,10:00,2D,original,regular,2026-03-06T08:43:01.003656
+2026-03-06,,warszawa,Pandy 3D IMAX,Warszawa - Sadyba,10:00,IMAX,original,regular,2026-03-06T08:43:01.003665
+2026-03-06,,warszawa,Piep*zyć Mickiewicza 3,Warszawa - Sadyba,10:30,2D,original,regular,2026-03-06T08:43:01.003679
+2026-03-06,,warszawa,Hopnięci,Warszawa - Sadyba,10:30,2D,original,regular,2026-03-06T08:43:01.003690
+2026-03-06,,warszawa,Hopnięci,Warszawa - Sadyba,11:00,2D,original,regular,2026-03-06T08:43:01.003701
+2026-03-06,,warszawa,Kicia Kocia w podróży,Warszawa - Sadyba,11:00,2D,,regular,2026-03-06T08:43:01.003712
+2026-03-06,,warszawa,Panna młoda!,Warszawa - Sadyba,11:30,2D,original,regular,2026-03-06T08:43:01.003725
+2026-03-06,,warszawa,Zmiennokształtni 2,Warszawa - Sadyba,11:40,2D,,regular,2026-03-06T08:43:01.003735
+2026-03-06,,warszawa,Kicia Kocia w podróży,Warszawa - Sadyba,11:50,2D,,regular,2026-03-06T08:43:01.003744
+2026-03-06,,warszawa,Hopnięci,Warszawa - Sadyba,12:00,2D,original,regular,2026-03-06T08:43:01.003755
+2026-03-06,,warszawa,Wichrowe wzgórza,Warszawa - Sadyba,12:00,2D,original,regular,2026-03-06T08:43:01.003767
+2026-03-06,,warszawa,Crime 101,Warszawa - Sadyba,12:20,2D,original,regular,2026-03-06T08:43:01.003779
+2026-03-06,,warszawa,Kicia Kocia w podróży,Warszawa - Sadyba,12:20,2D,,regular,2026-03-06T08:43:01.003788
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa - Sadyba,12:30,2D,original,regular,2026-03-06T08:43:01.003797
+2026-03-06,,warszawa,Krzyk 7,Warszawa - Sadyba,12:40,2D,original,regular,2026-03-06T08:43:01.003807
+2026-03-06,,warszawa,Hopnięci,Warszawa - Sadyba,12:50,IMAX,original,regular,2026-03-06T08:43:01.003815
+2026-03-06,,warszawa,Hopnięci,Warszawa - Sadyba,13:00,2D,original,regular,2026-03-06T08:43:01.003825
+2026-03-06,,warszawa,Kicia Kocia w podróży,Warszawa - Sadyba,13:20,2D,,regular,2026-03-06T08:43:01.003835
+2026-03-06,,warszawa,Hopnięci,Warszawa - Sadyba,13:30,2D,original,regular,2026-03-06T08:43:01.003846
+2026-03-06,,warszawa,Piep*zyć Mickiewicza 3,Warszawa - Sadyba,13:40,2D,original,regular,2026-03-06T08:43:01.003855
+2026-03-06,,warszawa,Wielka mała koza,Warszawa - Sadyba,13:50,2D,,regular,2026-03-06T08:43:01.003865
+2026-03-06,,warszawa,Zmiennokształtni 2,Warszawa - Sadyba,14:10,2D,,regular,2026-03-06T08:43:01.003874
+2026-03-06,,warszawa,Panna młoda!,Warszawa - Sadyba,14:20,2D,original,regular,2026-03-06T08:43:01.003885
+2026-03-06,,warszawa,Hopnięci,Warszawa - Sadyba,14:30,2D,original,regular,2026-03-06T08:43:01.003896
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa - Sadyba,14:40,2D,original,regular,2026-03-06T08:43:01.003905
+2026-03-06,,warszawa,Scarlet,Warszawa - Sadyba,14:45,2D,original,regular,2026-03-06T08:43:01.003916
+2026-03-06,,warszawa,Hopnięci,Warszawa - Sadyba,15:00,2D,original,regular,2026-03-06T08:43:01.003926
+2026-03-06,,warszawa,Hopnięci,Warszawa - Sadyba,15:20,IMAX,original,regular,2026-03-06T08:43:01.003934
+2026-03-06,,warszawa,Dobry chłopiec,Warszawa - Sadyba,15:20,2D,original,regular,2026-03-06T08:43:01.003944
+2026-03-06,,warszawa,Krzyk 7,Warszawa - Sadyba,15:20,2D,original,regular,2026-03-06T08:43:01.003954
+2026-03-06,,warszawa,Wartość sentymentalna,Warszawa - Sadyba,15:40,2D,original,regular,2026-03-06T08:43:01.003964
+2026-03-06,,warszawa,Hopnięci,Warszawa - Sadyba,16:00,2D,original,regular,2026-03-06T08:43:01.003975
+2026-03-06,,warszawa,Piep*zyć Mickiewicza 3,Warszawa - Sadyba,16:00,2D,original,regular,2026-03-06T08:43:01.003984
+2026-03-06,,warszawa,Wielka mała koza,Warszawa - Sadyba,16:10,2D,,regular,2026-03-06T08:43:01.003994
+2026-03-06,,warszawa,EPiC: Elvis Presley in Concert,Warszawa - Sadyba,16:40,2D,original,regular,2026-03-06T08:43:01.004005
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa - Sadyba,16:50,2D,original,regular,2026-03-06T08:43:01.004014
+2026-03-06,,warszawa,Hopnięci,Warszawa - Sadyba,17:00,2D,original,regular,2026-03-06T08:43:01.004024
+2026-03-06,,warszawa,Panna młoda!,Warszawa - Sadyba,17:10,2D,original,regular,2026-03-06T08:43:01.004035
+2026-03-06,,warszawa,Pojedynek,Warszawa - Sadyba,17:20,2D,original,regular,2026-03-06T08:43:01.004045
+2026-03-06,,warszawa,"Kopnęłabym cię, gdybym mogła",Warszawa - Sadyba,17:30,2D,original,regular,2026-03-06T08:43:01.004056
+2026-03-06,,warszawa,Panna młoda!,Warszawa - Sadyba,17:50,IMAX,original,regular,2026-03-06T08:43:01.004064
+2026-03-06,,warszawa,Dobry chłopiec,Warszawa - Sadyba,17:50,2D,original,regular,2026-03-06T08:43:01.004075
+2026-03-06,,warszawa,Krzyk 7,Warszawa - Sadyba,18:00,2D,original,regular,2026-03-06T08:43:01.004085
+2026-03-06,,warszawa,Piep*zyć Mickiewicza 3,Warszawa - Sadyba,18:20,2D,original,regular,2026-03-06T08:43:01.004095
+2026-03-06,,warszawa,Hopnięci,Warszawa - Sadyba,18:30,2D,original,regular,2026-03-06T08:43:01.004106
+2026-03-06,,warszawa,Wichrowe wzgórza,Warszawa - Sadyba,18:30,2D,original,regular,2026-03-06T08:43:01.004116
+2026-03-06,,warszawa,Wartość sentymentalna,Warszawa - Sadyba,18:40,2D,original,regular,2026-03-06T08:43:01.004127
+2026-03-06,,warszawa,F1,Warszawa - Sadyba,19:00,2D,original,regular,2026-03-06T08:43:01.004136
+2026-03-06,,warszawa,Za duży na bajki 3,Warszawa - Sadyba,19:00,2D,original,regular,2026-03-06T08:43:01.004146
+2026-03-06,,warszawa,Hopnięci,Warszawa - Sadyba,19:30,2D,original,regular,2026-03-06T08:43:01.004157
+2026-03-06,,warszawa,Samotnik,Warszawa - Sadyba,19:50,2D,original,regular,2026-03-06T08:43:01.004166
+2026-03-06,,warszawa,Panna młoda!,Warszawa - Sadyba,20:00,2D,original,regular,2026-03-06T08:43:01.004178
+2026-03-06,,warszawa,Czy mnie słychać?,Warszawa - Sadyba,20:00,2D,original,regular,2026-03-06T08:43:01.004188
+2026-03-06,,warszawa,Dobry chłopiec,Warszawa - Sadyba,20:20,2D,original,regular,2026-03-06T08:43:01.004199
+2026-03-06,,warszawa,Panna młoda!,Warszawa - Sadyba,20:40,IMAX,original,regular,2026-03-06T08:43:01.004206
+2026-03-06,,warszawa,Krzyk 7,Warszawa - Sadyba,20:40,2D,original,regular,2026-03-06T08:43:01.004215
+2026-03-06,,warszawa,Wielki Marty,Warszawa - Sadyba,20:50,2D,original,regular,2026-03-06T08:43:01.004225
+2026-03-06,,warszawa,Hopnięci,Warszawa - Sadyba,21:00,2D,original,regular,2026-03-06T08:43:01.004237
+2026-03-06,,warszawa,Samotnik,Warszawa - Sadyba,21:10,2D,original,regular,2026-03-06T08:43:01.004246
+2026-03-06,,warszawa,Wichrowe wzgórza,Warszawa - Sadyba,21:30,2D,original,regular,2026-03-06T08:43:01.004256
+2026-03-06,,warszawa,Wartość sentymentalna,Warszawa - Sadyba,21:40,2D,original,regular,2026-03-06T08:43:01.004266
+2026-03-06,,warszawa,Hamnet,Warszawa - Sadyba,22:00,2D,original,regular,2026-03-06T08:43:01.004276
+2026-03-06,,wrocław,Hopnięci,Wrocław - Korona,10:00,Dolby Atmos,original,regular,2026-03-06T08:43:02.058376
+2026-03-06,,wrocław,Za duży na bajki 3,Wrocław - Korona,10:00,2D,original,regular,2026-03-06T08:43:02.058400
+2026-03-06,,wrocław,Scarlet,Wrocław - Korona,11:00,2D,original,regular,2026-03-06T08:43:02.058414
+2026-03-06,,wrocław,Panna młoda!,Wrocław - Korona,11:10,2D,original,regular,2026-03-06T08:43:02.058427
+2026-03-06,,wrocław,Avatar: Ogień i popiół,Wrocław - Korona,11:10,ScreenX,original,regular,2026-03-06T08:43:02.058438
+2026-03-06,,wrocław,Hopnięci,Wrocław - Korona,11:20,2D,original,regular,2026-03-06T08:43:02.058450
+2026-03-06,,wrocław,Kicia Kocia w podróży,Wrocław - Korona,11:30,2D,,regular,2026-03-06T08:43:02.058461
+2026-03-06,,wrocław,EPiC: Elvis Presley in Concert,Wrocław - Korona,12:15,2D,original,regular,2026-03-06T08:43:02.058473
+2026-03-06,,wrocław,Hopnięci,Wrocław - Korona,12:30,Dolby Atmos,original,regular,2026-03-06T08:43:02.058485
+2026-03-06,,wrocław,Za duży na bajki 3,Wrocław - Korona,12:40,2D,original,regular,2026-03-06T08:43:02.058495
+2026-03-06,,wrocław,Dobry chłopiec,Wrocław - Korona,13:00,2D,original,regular,2026-03-06T08:43:02.058507
+2026-03-06,,wrocław,Hopnięci,Wrocław - Korona,13:15,2D,original,regular,2026-03-06T08:43:02.058518
+2026-03-06,,wrocław,Wartość sentymentalna,Wrocław - Korona,13:30,2D,original,regular,2026-03-06T08:43:02.058530
+2026-03-06,,wrocław,Kicia Kocia w podróży,Wrocław - Korona,13:50,2D,,regular,2026-03-06T08:43:02.058540
+2026-03-06,,wrocław,Hopnięci,Wrocław - Korona,14:00,2D,original,regular,2026-03-06T08:43:02.058565
+2026-03-06,,wrocław,Krzyk 7,Wrocław - Korona,14:40,2D,original,regular,2026-03-06T08:43:02.058577
+2026-03-06,,wrocław,Za duży na bajki 3,Wrocław - Korona,14:50,2D,original,regular,2026-03-06T08:43:02.058587
+2026-03-06,,wrocław,Panna młoda!,Wrocław - Korona,15:00,Dolby Atmos,original,regular,2026-03-06T08:43:02.058599
+2026-03-06,,wrocław,Avatar: Ogień i popiół,Wrocław - Korona,15:10,ScreenX,original,regular,2026-03-06T08:43:02.058609
+2026-03-06,,wrocław,Piep*zyć Mickiewicza 3,Wrocław - Korona,15:20,2D,original,regular,2026-03-06T08:43:02.058619
+2026-03-06,,wrocław,Hopnięci,Wrocław - Korona,15:30,2D,original,regular,2026-03-06T08:43:02.058631
+2026-03-06,,wrocław,Hopnięci,Wrocław - Korona,15:40,2D,original,regular,2026-03-06T08:43:02.058642
+2026-03-06,,wrocław,Pojedynek,Wrocław - Korona,16:20,2D,original,regular,2026-03-06T08:43:02.058652
+2026-03-06,,wrocław,Hopnięci,Wrocław - Korona,16:30,2D,original,regular,2026-03-06T08:43:02.058664
+2026-03-06,,wrocław,Za duży na bajki 3,Wrocław - Korona,17:00,2D,original,regular,2026-03-06T08:43:02.058673
+2026-03-06,,wrocław,Krzyk 7,Wrocław - Korona,17:30,2D,original,regular,2026-03-06T08:43:02.058684
+2026-03-06,,wrocław,Piep*zyć Mickiewicza 3,Wrocław - Korona,17:40,2D,original,regular,2026-03-06T08:43:02.058694
+2026-03-06,,wrocław,Panna młoda!,Wrocław - Korona,17:50,Dolby Atmos,original,regular,2026-03-06T08:43:02.058705
+2026-03-06,,wrocław,Dobry chłopiec,Wrocław - Korona,18:00,2D,original,regular,2026-03-06T08:43:02.058716
+2026-03-06,,wrocław,Hopnięci,Wrocław - Korona,18:10,2D,original,regular,2026-03-06T08:43:02.058727
+2026-03-06,,wrocław,Hopnięci,Wrocław - Korona,19:00,2D,original,regular,2026-03-06T08:43:02.058739
+2026-03-06,,wrocław,F1,Wrocław - Korona,19:00,2D,original,regular,2026-03-06T08:43:02.058749
+2026-03-06,,wrocław,Za duży na bajki 3,Wrocław - Korona,19:10,2D,original,regular,2026-03-06T08:43:02.058758
+2026-03-06,,wrocław,Krzyk 7,Wrocław - Korona,19:20,ScreenX,original,regular,2026-03-06T08:43:02.058768
+2026-03-06,,wrocław,Wichrowe wzgórza,Wrocław - Korona,20:00,2D,original,regular,2026-03-06T08:43:02.058778
+2026-03-06,,wrocław,Krzyk 7,Wrocław - Korona,20:10,2D,original,regular,2026-03-06T08:43:02.058788
+2026-03-06,,wrocław,Wartość sentymentalna,Wrocław - Korona,20:30,2D,original,regular,2026-03-06T08:43:02.058799
+2026-03-06,,wrocław,Panna młoda!,Wrocław - Korona,20:40,Dolby Atmos,original,regular,2026-03-06T08:43:02.058811
+2026-03-06,,wrocław,Pojedynek,Wrocław - Korona,20:40,2D,original,regular,2026-03-06T08:43:02.058821
+2026-03-06,,wrocław,Czy mnie słychać?,Wrocław - Korona,21:20,2D,original,regular,2026-03-06T08:43:02.058832
+2026-03-06,,wrocław,Dobry chłopiec,Wrocław - Korona,21:30,2D,original,regular,2026-03-06T08:43:02.058843
+2026-03-06,,wrocław,Krzyk 7,Wrocław - Korona,22:00,ScreenX,original,regular,2026-03-06T08:43:02.058852
+2026-03-06,,wrocław,Samotnik,Wrocław - Korona,22:10,2D,original,regular,2026-03-06T08:43:02.058863
+2026-03-06,,wrocław,Psoty,Wrocław - Wroclavia,09:30,2D,original,regular,2026-03-06T08:43:03.653549
+2026-03-06,,wrocław,Za duży na bajki 3,Wrocław - Wroclavia,09:45,2D,original,regular,2026-03-06T08:43:03.653594
+2026-03-06,,wrocław,Hopnięci,Wrocław - Wroclavia,10:00,Dolby Atmos,original,regular,2026-03-06T08:43:03.653613
+2026-03-06,,wrocław,Piep*zyć Mickiewicza 3,Wrocław - Wroclavia,10:00,2D,original,regular,2026-03-06T08:43:03.653628
+2026-03-06,,wrocław,Zmiennokształtni 2,Wrocław - Wroclavia,10:00,2D,,regular,2026-03-06T08:43:03.653642
+2026-03-06,,wrocław,Kicia Kocia w podróży,Wrocław - Wroclavia,10:10,2D,,regular,2026-03-06T08:43:03.653653
+2026-03-06,,wrocław,Hopnięci,Wrocław - Wroclavia,10:20,IMAX,original,regular,2026-03-06T08:43:03.653661
+2026-03-06,,wrocław,Scarlet,Wrocław - Wroclavia,10:20,2D,original,regular,2026-03-06T08:43:03.653673
+2026-03-06,,wrocław,Za duży na bajki 3,Wrocław - Wroclavia,10:30,2D,original,regular,2026-03-06T08:43:03.653684
+2026-03-06,,wrocław,Piep*zyć Mickiewicza 3,Wrocław - Wroclavia,10:40,2D,original,regular,2026-03-06T08:43:03.653694
+2026-03-06,,wrocław,Hopnięci,Wrocław - Wroclavia,11:00,4DX,original,regular,2026-03-06T08:43:03.653703
+2026-03-06,,wrocław,Panna młoda!,Wrocław - Wroclavia,11:00,Dolby Atmos,original,regular,2026-03-06T08:43:03.653715
+2026-03-06,,wrocław,Wielka mała koza,Wrocław - Wroclavia,11:20,2D,,regular,2026-03-06T08:43:03.653726
+2026-03-06,,wrocław,Krzyk 7,Wrocław - Wroclavia,11:20,2D,original,regular,2026-03-06T08:43:03.653737
+2026-03-06,,wrocław,Zwierzogród 2,Wrocław - Wroclavia,11:20,2D,original,regular,2026-03-06T08:43:03.653749
+2026-03-06,,wrocław,Hopnięci,Wrocław - Wroclavia,11:30,2D,original,regular,2026-03-06T08:43:03.653760
+2026-03-06,,wrocław,Kicia Kocia w podróży,Wrocław - Wroclavia,11:50,2D,,regular,2026-03-06T08:43:03.653770
+2026-03-06,,wrocław,Hopnięci,Wrocław - Wroclavia,11:50,2D,original,regular,2026-03-06T08:43:03.653781
+2026-03-06,,wrocław,Hopnięci,Wrocław - Wroclavia,12:10,2D,original,regular,2026-03-06T08:43:03.653792
+2026-03-06,,wrocław,Wichrowe wzgórza,Wrocław - Wroclavia,12:10,2D,original,regular,2026-03-06T08:43:03.653803
+2026-03-06,,wrocław,"Kopnęłabym cię, gdybym mogła",Wrocław - Wroclavia,12:10,2D,original,regular,2026-03-06T08:43:03.653815
+2026-03-06,,wrocław,Zmiennokształtni 2,Wrocław - Wroclavia,12:20,2D,,regular,2026-03-06T08:43:03.653825
+2026-03-06,,wrocław,Hopnięci,Wrocław - Wroclavia,12:30,Dolby Atmos,original,regular,2026-03-06T08:43:03.653837
+2026-03-06,,wrocław,Za duży na bajki 3,Wrocław - Wroclavia,12:40,2D,original,regular,2026-03-06T08:43:03.653846
+2026-03-06,,wrocław,Hopnięci,Wrocław - Wroclavia,12:50,IMAX,original,regular,2026-03-06T08:43:03.653853
+2026-03-06,,wrocław,Piep*zyć Mickiewicza 3,Wrocław - Wroclavia,13:00,2D,original,regular,2026-03-06T08:43:03.653863
+2026-03-06,,wrocław,Hopnięci ukraiński dubbing,Wrocław - Wroclavia,13:00,2D,dubbing,regular,2026-03-06T08:43:03.653874
+2026-03-06,,wrocław,Pojedynek,Wrocław - Wroclavia,13:20,2D,original,regular,2026-03-06T08:43:03.653884
+2026-03-06,,wrocław,Hopnięci,Wrocław - Wroclavia,13:30,4DX,original,regular,2026-03-06T08:43:03.653893
+2026-03-06,,wrocław,Wielka mała koza,Wrocław - Wroclavia,13:40,2D,,regular,2026-03-06T08:43:03.653903
+2026-03-06,,wrocław,Zwierzogród 2,Wrocław - Wroclavia,13:45,2D,original,regular,2026-03-06T08:43:03.653915
+2026-03-06,,wrocław,Panna młoda!,Wrocław - Wroclavia,13:50,Dolby Atmos,original,regular,2026-03-06T08:43:03.653927
+2026-03-06,,wrocław,Krzyk 7,Wrocław - Wroclavia,13:50,2D,original,regular,2026-03-06T08:43:03.653937
+2026-03-06,,wrocław,Hopnięci,Wrocław - Wroclavia,14:00,2D,original,regular,2026-03-06T08:43:03.653948
+2026-03-06,,wrocław,Hopnięci,Wrocław - Wroclavia,14:20,2D,original,regular,2026-03-06T08:43:03.653959
+2026-03-06,,wrocław,Krzyk 7,Wrocław - Wroclavia,14:30,2D,original,regular,2026-03-06T08:43:03.653969
+2026-03-06,,wrocław,EPiC: Elvis Presley in Concert,Wrocław - Wroclavia,14:40,2D,original,regular,2026-03-06T08:43:03.653981
+2026-03-06,,wrocław,"Kopnęłabym cię, gdybym mogła",Wrocław - Wroclavia,14:40,2D,original,regular,2026-03-06T08:43:03.653992
+2026-03-06,,wrocław,Za duży na bajki 3,Wrocław - Wroclavia,14:50,2D,original,regular,2026-03-06T08:43:03.654001
+2026-03-06,,wrocław,Hopnięci,Wrocław - Wroclavia,15:00,Dolby Atmos,original,regular,2026-03-06T08:43:03.654013
+2026-03-06,,wrocław,Wichrowe wzgórza,Wrocław - Wroclavia,15:00,2D,original,regular,2026-03-06T08:43:03.654024
+2026-03-06,,wrocław,Hopnięci,Wrocław - Wroclavia,15:20,IMAX,original,regular,2026-03-06T08:43:03.654032
+2026-03-06,,wrocław,Piep*zyć Mickiewicza 3,Wrocław - Wroclavia,15:20,2D,original,regular,2026-03-06T08:43:03.654041
+2026-03-06,,wrocław,Hopnięci ukraiński dubbing,Wrocław - Wroclavia,15:30,2D,dubbing,regular,2026-03-06T08:43:03.654052
+2026-03-06,,wrocław,Hopnięci,Wrocław - Wroclavia,16:00,4DX,original,regular,2026-03-06T08:43:03.654060
+2026-03-06,,wrocław,Wielka mała koza,Wrocław - Wroclavia,16:00,2D,,regular,2026-03-06T08:43:03.654071
+2026-03-06,,wrocław,Najświętsze serce,Wrocław - Wroclavia,16:00,2D,original,regular,2026-03-06T08:43:03.654082
+2026-03-06,,wrocław,Hamnet,Wrocław - Wroclavia,16:10,2D,original,regular,2026-03-06T08:43:03.654092
+2026-03-06,,wrocław,Hopnięci,Wrocław - Wroclavia,16:30,2D,original,regular,2026-03-06T08:43:03.654103
+2026-03-06,,wrocław,Dobry chłopiec,Wrocław - Wroclavia,16:30,2D,original,regular,2026-03-06T08:43:03.654114
+2026-03-06,,wrocław,Panna młoda!,Wrocław - Wroclavia,16:40,Dolby Atmos,original,regular,2026-03-06T08:43:03.654127
+2026-03-06,,wrocław,Hopnięci,Wrocław - Wroclavia,16:40,2D,original,regular,2026-03-06T08:43:03.654137
+2026-03-06,,wrocław,Hopnięci,Wrocław - Wroclavia,16:50,2D,original,regular,2026-03-06T08:43:03.654149
+2026-03-06,,wrocław,Za duży na bajki 3,Wrocław - Wroclavia,17:00,2D,original,regular,2026-03-06T08:43:03.654158
+2026-03-06,,wrocław,Krzyk 7,Wrocław - Wroclavia,17:10,2D,original,regular,2026-03-06T08:43:03.654168
+2026-03-06,,wrocław,"Kopnęłabym cię, gdybym mogła",Wrocław - Wroclavia,17:10,2D,original,regular,2026-03-06T08:43:03.654179
+2026-03-06,,wrocław,Hopnięci,Wrocław - Wroclavia,17:30,Dolby Atmos,original,regular,2026-03-06T08:43:03.654190
+2026-03-06,,wrocław,Piep*zyć Mickiewicza 3,Wrocław - Wroclavia,17:40,2D,original,regular,2026-03-06T08:43:03.654200
+2026-03-06,,wrocław,Panna młoda!,Wrocław - Wroclavia,17:50,IMAX,original,regular,2026-03-06T08:43:03.654207
+2026-03-06,,wrocław,Wichrowe wzgórza,Wrocław - Wroclavia,17:50,2D,original,regular,2026-03-06T08:43:03.654218
+2026-03-06,,wrocław,Hopnięci,Wrocław - Wroclavia,18:00,2D,original,regular,2026-03-06T08:43:03.654228
+2026-03-06,,wrocław,Wichrowe wzgórza,Wrocław - Wroclavia,18:00,2D,original,regular,2026-03-06T08:43:03.654238
+2026-03-06,,wrocław,Panna młoda!,Wrocław - Wroclavia,18:10,2D,original,regular,2026-03-06T08:43:03.654249
+2026-03-06,,wrocław,Wartość sentymentalna,Wrocław - Wroclavia,18:20,2D,original,regular,2026-03-06T08:43:03.654258
+2026-03-06,,wrocław,Pojedynek,Wrocław - Wroclavia,18:20,2D,original,regular,2026-03-06T08:43:03.654268
+2026-03-06,,wrocław,Panna młoda!,Wrocław - Wroclavia,18:30,4DX,original,regular,2026-03-06T08:43:03.654276
+2026-03-06,,wrocław,Czy mnie słychać?,Wrocław - Wroclavia,18:50,2D,original,regular,2026-03-06T08:43:03.654286
+2026-03-06,,wrocław,Hopnięci,Wrocław - Wroclavia,19:00,2D,original,regular,2026-03-06T08:43:03.654296
+2026-03-06,,wrocław,F1,Wrocław - Wroclavia,19:00,2D,original,regular,2026-03-06T08:43:03.654305
+2026-03-06,,wrocław,Dobry chłopiec,Wrocław - Wroclavia,19:00,2D,original,regular,2026-03-06T08:43:03.654315
+2026-03-06,,wrocław,Za duży na bajki 3,Wrocław - Wroclavia,19:10,2D,original,regular,2026-03-06T08:43:03.654324
+2026-03-06,,wrocław,Dobry chłopiec,Wrocław - Wroclavia,19:20,2D,original,regular,2026-03-06T08:43:03.654334
+2026-03-06,,wrocław,Panna młoda!,Wrocław - Wroclavia,19:30,Dolby Atmos,original,regular,2026-03-06T08:43:03.654344
+2026-03-06,,wrocław,Wielki Marty,Wrocław - Wroclavia,19:45,2D,original,regular,2026-03-06T08:43:03.654353
+2026-03-06,,wrocław,Krzyk 7,Wrocław - Wroclavia,19:50,2D,original,regular,2026-03-06T08:43:03.654362
+2026-03-06,,wrocław,Hopnięci,Wrocław - Wroclavia,20:00,2D,original,regular,2026-03-06T08:43:03.654372
+2026-03-06,,wrocław,Piep*zyć Mickiewicza 3,Wrocław - Wroclavia,20:00,2D,original,regular,2026-03-06T08:43:03.654381
+2026-03-06,,wrocław,Scarlet,Wrocław - Wroclavia,20:10,2D,original,regular,2026-03-06T08:43:03.654391
+2026-03-06,,wrocław,Panna młoda! ukraiński dubbing,Wrocław - Wroclavia,20:30,2D,dubbing,regular,2026-03-06T08:43:03.654401
+2026-03-06,,wrocław,Panna młoda!,Wrocław - Wroclavia,20:40,IMAX,original,regular,2026-03-06T08:43:03.654407
+2026-03-06,,wrocław,Wichrowe wzgórza,Wrocław - Wroclavia,20:45,2D,original,regular,2026-03-06T08:43:03.654417
+2026-03-06,,wrocław,Panna młoda!,Wrocław - Wroclavia,21:00,2D,original,regular,2026-03-06T08:43:03.654427
+2026-03-06,,wrocław,Pojedynek,Wrocław - Wroclavia,21:00,2D,original,regular,2026-03-06T08:43:03.654436
+2026-03-06,,wrocław,Wartość sentymentalna,Wrocław - Wroclavia,21:10,2D,original,regular,2026-03-06T08:43:03.654445
+2026-03-06,,wrocław,Wichrowe wzgórza,Wrocław - Wroclavia,21:10,2D,original,regular,2026-03-06T08:43:03.654455
+2026-03-06,,wrocław,Panna młoda!,Wrocław - Wroclavia,21:20,4DX,original,regular,2026-03-06T08:43:03.654463
+2026-03-06,,wrocław,Dźwięk śmierci,Wrocław - Wroclavia,21:30,2D,original,regular,2026-03-06T08:43:03.654472
+2026-03-06,,wrocław,Hamnet,Wrocław - Wroclavia,21:30,2D,original,regular,2026-03-06T08:43:03.654481
+2026-03-06,,wrocław,Dobry chłopiec,Wrocław - Wroclavia,21:30,2D,original,regular,2026-03-06T08:43:03.654491
+2026-03-06,,wrocław,Crime 101,Wrocław - Wroclavia,21:40,2D,original,regular,2026-03-06T08:43:03.654501
+2026-03-06,,wrocław,Dobry chłopiec,Wrocław - Wroclavia,21:50,2D,original,regular,2026-03-06T08:43:03.654511
+2026-03-06,,wrocław,Panna młoda!,Wrocław - Wroclavia,22:20,Dolby Atmos,original,regular,2026-03-06T08:43:03.654521
+2026-03-06,,wrocław,Krzyk 7,Wrocław - Wroclavia,22:30,2D,original,regular,2026-03-06T08:43:03.654530
+2026-03-06,,zielona-góra,Za duży na bajki 3,Zielona Góra,09:30,2D,original,regular,2026-03-06T08:43:05.483058
+2026-03-06,,zielona-góra,Moon: Panda i ja,Zielona Góra,09:45,2D,,regular,2026-03-06T08:43:05.483087
+2026-03-06,,zielona-góra,Hopnięci,Zielona Góra,10:00,2D,original,regular,2026-03-06T08:43:05.483105
+2026-03-06,,zielona-góra,Wielka mała koza,Zielona Góra,10:00,2D,,regular,2026-03-06T08:43:05.483120
+2026-03-06,,zielona-góra,Zmiennokształtni 2,Zielona Góra,10:00,2D,,regular,2026-03-06T08:43:05.483139
+2026-03-06,,zielona-góra,Piep*zyć Mickiewicza 3,Zielona Góra,10:15,2D,original,regular,2026-03-06T08:43:05.483152
+2026-03-06,,zielona-góra,Za duży na bajki 3,Zielona Góra,10:30,2D,original,regular,2026-03-06T08:43:05.483164
+2026-03-06,,zielona-góra,Za duży na bajki 3,Zielona Góra,11:00,2D,original,regular,2026-03-06T08:43:05.483175
+2026-03-06,,zielona-góra,Moon: Panda i ja,Zielona Góra,11:30,2D,,regular,2026-03-06T08:43:05.483187
+2026-03-06,,zielona-góra,Panna młoda!,Zielona Góra,11:40,2D,original,regular,2026-03-06T08:43:05.483201
+2026-03-06,,zielona-góra,Wielka mała koza,Zielona Góra,12:15,2D,,regular,2026-03-06T08:43:05.483213
+2026-03-06,,zielona-góra,Kicia Kocia w podróży,Zielona Góra,12:20,2D,,regular,2026-03-06T08:43:05.483225
+2026-03-06,,zielona-góra,Hopnięci,Zielona Góra,12:30,2D,original,regular,2026-03-06T08:43:05.483239
+2026-03-06,,zielona-góra,Za duży na bajki 3,Zielona Góra,12:40,2D,original,regular,2026-03-06T08:43:05.483250
+2026-03-06,,zielona-góra,Kicia Kocia w podróży,Zielona Góra,12:40,2D,,regular,2026-03-06T08:43:05.483261
+2026-03-06,,zielona-góra,Piep*zyć Mickiewicza 3,Zielona Góra,13:40,2D,original,regular,2026-03-06T08:43:05.483273
+2026-03-06,,zielona-góra,Zwierzogród 2,Zielona Góra,13:40,2D,original,regular,2026-03-06T08:43:05.483288
+2026-03-06,,zielona-góra,Scarlet,Zielona Góra,13:40,2D,original,regular,2026-03-06T08:43:05.483302
+2026-03-06,,zielona-góra,Hopnięci,Zielona Góra,14:00,2D,original,regular,2026-03-06T08:43:05.483315
+2026-03-06,,zielona-góra,"Kopnęłabym cię, gdybym mogła",Zielona Góra,14:15,2D,original,regular,2026-03-06T08:43:05.483329
+2026-03-06,,zielona-góra,Panna młoda!,Zielona Góra,14:30,2D,original,regular,2026-03-06T08:43:05.483343
+2026-03-06,,zielona-góra,Wielka mała koza,Zielona Góra,14:30,2D,,regular,2026-03-06T08:43:05.483355
+2026-03-06,,zielona-góra,Za duży na bajki 3,Zielona Góra,14:50,2D,original,regular,2026-03-06T08:43:05.483366
+2026-03-06,,zielona-góra,Hopnięci,Zielona Góra,15:00,2D,original,regular,2026-03-06T08:43:05.483379
+2026-03-06,,zielona-góra,Piep*zyć Mickiewicza 3,Zielona Góra,16:00,2D,original,regular,2026-03-06T08:43:05.483391
+2026-03-06,,zielona-góra,EPiC: Elvis Presley in Concert,Zielona Góra,16:10,2D,original,regular,2026-03-06T08:43:05.483404
+2026-03-06,,zielona-góra,Czy mnie słychać?,Zielona Góra,16:10,2D,original,regular,2026-03-06T08:43:05.483416
+2026-03-06,,zielona-góra,Hopnięci,Zielona Góra,16:30,2D,original,regular,2026-03-06T08:43:05.483430
+2026-03-06,,zielona-góra,Wielka mała koza,Zielona Góra,16:45,2D,,regular,2026-03-06T08:43:05.483442
+2026-03-06,,zielona-góra,Pojedynek,Zielona Góra,16:50,2D,original,regular,2026-03-06T08:43:05.483452
+2026-03-06,,zielona-góra,Za duży na bajki 3,Zielona Góra,17:00,2D,original,regular,2026-03-06T08:43:05.483461
+2026-03-06,,zielona-góra,Panna młoda!,Zielona Góra,17:20,2D,original,regular,2026-03-06T08:43:05.483472
+2026-03-06,,zielona-góra,Hopnięci,Zielona Góra,17:30,2D,original,regular,2026-03-06T08:43:05.483482
+2026-03-06,,zielona-góra,Krzyk 7,Zielona Góra,18:20,2D,original,regular,2026-03-06T08:43:05.483492
+2026-03-06,,zielona-góra,Wartość sentymentalna,Zielona Góra,18:30,2D,original,regular,2026-03-06T08:43:05.483502
+2026-03-06,,zielona-góra,Wichrowe wzgórza,Zielona Góra,18:45,2D,original,regular,2026-03-06T08:43:05.483512
+2026-03-06,,zielona-góra,Dobry chłopiec,Zielona Góra,18:50,2D,original,regular,2026-03-06T08:43:05.483523
+2026-03-06,,zielona-góra,F1,Zielona Góra,19:00,2D,original,regular,2026-03-06T08:43:05.483532
+2026-03-06,,zielona-góra,Za duży na bajki 3,Zielona Góra,19:10,2D,original,regular,2026-03-06T08:43:05.483541
+2026-03-06,,zielona-góra,Pojedynek,Zielona Góra,19:30,2D,original,regular,2026-03-06T08:43:05.483563
+2026-03-06,,zielona-góra,Hopnięci,Zielona Góra,20:00,2D,original,regular,2026-03-06T08:43:05.483575
+2026-03-06,,zielona-góra,Panna młoda!,Zielona Góra,20:10,2D,original,regular,2026-03-06T08:43:05.483585
+2026-03-06,,zielona-góra,Krzyk 7,Zielona Góra,21:00,2D,original,regular,2026-03-06T08:43:05.483595
+2026-03-06,,zielona-góra,Dobry chłopiec,Zielona Góra,21:20,2D,original,regular,2026-03-06T08:43:05.483605
+2026-03-06,,zielona-góra,Wielki Marty,Zielona Góra,21:20,2D,original,regular,2026-03-06T08:43:05.483615
+2026-03-06,,zielona-góra,Wartość sentymentalna,Zielona Góra,21:30,2D,original,regular,2026-03-06T08:43:05.483624
+2026-03-06,,zielona-góra,Wichrowe wzgórza,Zielona Góra,21:45,2D,original,regular,2026-03-06T08:43:05.483634
+2026-03-06,,zielona-góra,Piep*zyć Mickiewicza 3,Zielona Góra,22:00,2D,original,regular,2026-03-06T08:43:05.483644
+2026-03-06,,zielona-góra,Dźwięk śmierci,Zielona Góra,22:10,2D,original,regular,2026-03-06T08:43:05.483654
