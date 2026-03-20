@@ -1,0 +1,182 @@
+[
+  {
+    "city": "warszawa",
+    "date": "2026-03-20",
+    "day_name": "piatek",
+    "scraped_at": "2026-03-20T08:44:25.969128",
+    "movies": [],
+    "cinema_count": 0,
+    "screening_count": 0
+  },
+  {
+    "city": "kraków",
+    "date": "2026-03-20",
+    "day_name": "piatek",
+    "scraped_at": "2026-03-20T08:44:29.453898",
+    "movies": [],
+    "cinema_count": 0,
+    "screening_count": 0
+  },
+  {
+    "city": "wrocław",
+    "date": "2026-03-20",
+    "day_name": "piatek",
+    "scraped_at": "2026-03-20T08:44:32.758223",
+    "movies": [],
+    "cinema_count": 0,
+    "screening_count": 0
+  },
+  {
+    "city": "poznań",
+    "date": "2026-03-20",
+    "day_name": "piatek",
+    "scraped_at": "2026-03-20T08:44:35.864800",
+    "movies": [],
+    "cinema_count": 0,
+    "screening_count": 0
+  },
+  {
+    "city": "gdańsk",
+    "date": "2026-03-20",
+    "day_name": "piatek",
+    "scraped_at": "2026-03-20T08:44:38.687145",
+    "movies": [],
+    "cinema_count": 0,
+    "screening_count": 0
+  },
+  {
+    "city": "łódź",
+    "date": "2026-03-20",
+    "day_name": "piatek",
+    "scraped_at": "2026-03-20T08:44:40.679396",
+    "movies": [],
+    "cinema_count": 0,
+    "screening_count": 0
+  },
+  {
+    "city": "szczecin",
+    "date": "2026-03-20",
+    "day_name": "piatek",
+    "scraped_at": "2026-03-20T08:44:43.518618",
+    "movies": [],
+    "cinema_count": 0,
+    "screening_count": 0
+  },
+  {
+    "city": "bydgoszcz",
+    "date": "2026-03-20",
+    "day_name": "piatek",
+    "scraped_at": "2026-03-20T08:44:46.527055",
+    "movies": [],
+    "cinema_count": 0,
+    "screening_count": 0
+  },
+  {
+    "city": "lublin",
+    "date": "2026-03-20",
+    "day_name": "piatek",
+    "scraped_at": "2026-03-20T08:44:49.607977",
+    "movies": [],
+    "cinema_count": 0,
+    "screening_count": 0
+  },
+  {
+    "city": "katowice",
+    "date": "2026-03-20",
+    "day_name": "piatek",
+    "scraped_at": "2026-03-20T08:44:51.916130",
+    "movies": [],
+    "cinema_count": 0,
+    "screening_count": 0
+  },
+  {
+    "city": "białystok",
+    "date": "2026-03-20",
+    "day_name": "piatek",
+    "scraped_at": "2026-03-20T08:44:53.770499",
+    "movies": [],
+    "cinema_count": 0,
+    "screening_count": 0
+  },
+  {
+    "city": "gdynia",
+    "date": "2026-03-20",
+    "day_name": "piatek",
+    "scraped_at": "2026-03-20T08:44:56.083647",
+    "movies": [],
+    "cinema_count": 0,
+    "screening_count": 0
+  },
+  {
+    "city": "częstochowa",
+    "date": "2026-03-20",
+    "day_name": "piatek",
+    "scraped_at": "2026-03-20T08:44:59.637469",
+    "movies": [],
+    "cinema_count": 0,
+    "screening_count": 0
+  },
+  {
+    "city": "radom",
+    "date": "2026-03-20",
+    "day_name": "piatek",
+    "scraped_at": "2026-03-20T08:45:02.940279",
+    "movies": [],
+    "cinema_count": 0,
+    "screening_count": 0
+  },
+  {
+    "city": "sosnowiec",
+    "date": "2026-03-20",
+    "day_name": "piatek",
+    "scraped_at": "2026-03-20T08:45:06.034462",
+    "movies": [],
+    "cinema_count": 0,
+    "screening_count": 0
+  },
+  {
+    "city": "kielce",
+    "date": "2026-03-20",
+    "day_name": "piatek",
+    "scraped_at": "2026-03-20T08:45:08.200311",
+    "movies": [],
+    "cinema_count": 0,
+    "screening_count": 0
+  },
+  {
+    "city": "gliwice",
+    "date": "2026-03-20",
+    "day_name": "piatek",
+    "scraped_at": "2026-03-20T08:45:10.389802",
+    "movies": [],
+    "cinema_count": 0,
+    "screening_count": 0
+  },
+  {
+    "city": "zielona-góra",
+    "date": "2026-03-20",
+    "day_name": "piatek",
+    "scraped_at": "2026-03-20T08:45:12.253003",
+    "movies": [],
+    "cinema_count": 0,
+    "screening_count": 0
+  },
+  {
+    "city": "rzeszów",
+    "date": "2026-03-20",
+    "day_name": "piatek",
+    "scraped_at": "2026-03-20T08:45:14.114537",
+    "movies": [],
+    "cinema_count": 0,
+    "screening_count": 0
+  },
+  {
+    "city": "toruń",
+    "date": "2026-03-20",
+    "day_name": "piatek",
+    "scraped_at": "2026-03-20T08:45:17.795183",
+    "movies": [],
+    "cinema_count": 0,
+    "screening_count": 0
+  }
+]

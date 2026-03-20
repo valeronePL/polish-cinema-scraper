@@ -1,0 +1,1800 @@
+date,day_name,city,movie_title,cinema_name,time,format,language,event_type,scraped_at
+2026-03-20,,bielsko-biała,Ostatnia wieczerza,Bielsko-Biała,10:00,2D,original,regular,2026-03-20T08:45:22.098233
+2026-03-20,,bielsko-biała,Projekt Hail Mary,Bielsko-Biała,10:20,2D,original,regular,2026-03-20T08:45:22.098262
+2026-03-20,,bielsko-biała,Za duży na bajki 3,Bielsko-Biała,10:30,2D,original,regular,2026-03-20T08:45:22.098277
+2026-03-20,,bielsko-biała,Kicia Kocia w podróży,Bielsko-Biała,10:40,2D,,regular,2026-03-20T08:45:22.098290
+2026-03-20,,bielsko-biała,Hopnięci,Bielsko-Biała,11:00,2D,original,regular,2026-03-20T08:45:22.098302
+2026-03-20,,bielsko-biała,Pan Ryba,Bielsko-Biała,11:00,2D,,regular,2026-03-20T08:45:22.098313
+2026-03-20,,bielsko-biała,Fleak. Futrzak i ja,Bielsko-Biała,11:30,2D,,regular,2026-03-20T08:45:22.098323
+2026-03-20,,bielsko-biała,Zwierzogród 2,Bielsko-Biała,11:30,2D,original,regular,2026-03-20T08:45:22.098342
+2026-03-20,,bielsko-biała,Wielka mała koza,Bielsko-Biała,11:40,2D,,regular,2026-03-20T08:45:22.098355
+2026-03-20,,bielsko-biała,Kicia Kocia w podróży,Bielsko-Biała,12:10,2D,,regular,2026-03-20T08:45:22.098366
+2026-03-20,,bielsko-biała,Piep*zyć Mickiewicza 3,Bielsko-Biała,12:10,2D,original,regular,2026-03-20T08:45:22.098376
+2026-03-20,,bielsko-biała,Za duży na bajki 3,Bielsko-Biała,12:40,2D,original,regular,2026-03-20T08:45:22.098385
+2026-03-20,,bielsko-biała,Hopnięci,Bielsko-Biała,12:50,2D,original,regular,2026-03-20T08:45:22.098396
+2026-03-20,,bielsko-biała,Pan Ryba,Bielsko-Biała,13:20,2D,,regular,2026-03-20T08:45:22.098405
+2026-03-20,,bielsko-biała,Hopnięci,Bielsko-Biała,13:30,2D,original,regular,2026-03-20T08:45:22.098415
+2026-03-20,,bielsko-biała,Projekt Hail Mary,Bielsko-Biała,13:40,2D,original,regular,2026-03-20T08:45:22.098425
+2026-03-20,,bielsko-biała,Kicia Kocia w podróży,Bielsko-Biała,13:40,2D,,regular,2026-03-20T08:45:22.098435
+2026-03-20,,bielsko-biała,Fleak. Futrzak i ja,Bielsko-Biała,13:50,2D,,regular,2026-03-20T08:45:22.098444
+2026-03-20,,bielsko-biała,Wielka mała koza,Bielsko-Biała,14:00,2D,,regular,2026-03-20T08:45:22.098454
+2026-03-20,,bielsko-biała,Pojedynek,Bielsko-Biała,14:10,2D,original,regular,2026-03-20T08:45:22.098463
+2026-03-20,,bielsko-biała,Krzyk 7,Bielsko-Biała,14:20,2D,original,regular,2026-03-20T08:45:22.098473
+2026-03-20,,bielsko-biała,Za duży na bajki 3,Bielsko-Biała,14:45,2D,original,regular,2026-03-20T08:45:22.098482
+2026-03-20,,bielsko-biała,Dobry chłopiec,Bielsko-Biała,15:00,2D,original,regular,2026-03-20T08:45:22.098492
+2026-03-20,,bielsko-biała,Ostatnia wieczerza,Bielsko-Biała,15:20,2D,original,regular,2026-03-20T08:45:22.098500
+2026-03-20,,bielsko-biała,Testament Ann Lee,Bielsko-Biała,15:40,2D,original,regular,2026-03-20T08:45:22.098511
+2026-03-20,,bielsko-biała,Hopnięci,Bielsko-Biała,16:00,2D,original,regular,2026-03-20T08:45:22.098521
+2026-03-20,,bielsko-biała,Król dopalaczy,Bielsko-Biała,16:10,2D,original,regular,2026-03-20T08:45:22.098530
+2026-03-20,,bielsko-biała,Wartość sentymentalna,Bielsko-Biała,16:30,2D,original,regular,2026-03-20T08:45:22.098540
+2026-03-20,,bielsko-biała,Za duży na bajki 3,Bielsko-Biała,16:50,2D,original,regular,2026-03-20T08:45:22.098549
+2026-03-20,,bielsko-biała,Angel's Egg,Bielsko-Biała,16:50,2D,original,regular,2026-03-20T08:45:22.098558
+2026-03-20,,bielsko-biała,Ostatnia sesja w Paryżu,Bielsko-Biała,16:50,2D,original,regular,2026-03-20T08:45:22.098568
+2026-03-20,,bielsko-biała,Projekt Hail Mary,Bielsko-Biała,17:00,2D,original,regular,2026-03-20T08:45:22.098577
+2026-03-20,,bielsko-biała,Dobry chłopiec,Bielsko-Biała,17:30,2D,original,regular,2026-03-20T08:45:22.098587
+2026-03-20,,bielsko-biała,Baw się dobrze i przeżyj,Bielsko-Biała,17:40,2D,original,regular,2026-03-20T08:45:22.098597
+2026-03-20,,bielsko-biała,Hopnięci,Bielsko-Biała,18:20,2D,original,regular,2026-03-20T08:45:22.098606
+2026-03-20,,bielsko-biała,Król dopalaczy,Bielsko-Biała,18:40,2D,original,regular,2026-03-20T08:45:22.098615
+2026-03-20,,bielsko-biała,"Reminders of Him. Cząstka Ciebie, którą znam",Bielsko-Biała,18:40,2D,original,regular,2026-03-20T08:45:22.098624
+2026-03-20,,bielsko-biała,Bez wyjścia,Bielsko-Biała,18:50,2D,original,regular,2026-03-20T08:45:22.098634
+2026-03-20,,bielsko-biała,Grzesznicy,Bielsko-Biała,19:00,2D,original,regular,2026-03-20T08:45:22.098644
+2026-03-20,,bielsko-biała,Ostatnia sesja w Paryżu,Bielsko-Biała,19:10,2D,original,regular,2026-03-20T08:45:22.098652
+2026-03-20,,bielsko-biała,Nie ma duchów w mieszkaniu na Dobrej,Bielsko-Biała,19:30,2D,original,regular,2026-03-20T08:45:22.098666
+2026-03-20,,bielsko-biała,Krzyk 7,Bielsko-Biała,20:00,2D,original,regular,2026-03-20T08:45:22.098675
+2026-03-20,,bielsko-biała,Projekt Hail Mary,Bielsko-Biała,20:20,2D,original,regular,2026-03-20T08:45:22.098684
+2026-03-20,,bielsko-biała,Baw się dobrze i przeżyj,Bielsko-Biała,20:30,2D,original,regular,2026-03-20T08:45:22.098694
+2026-03-20,,bielsko-biała,Bez wyjścia,Bielsko-Biała,20:50,2D,original,regular,2026-03-20T08:45:22.098703
+2026-03-20,,bielsko-biała,Król dopalaczy,Bielsko-Biała,21:10,2D,original,regular,2026-03-20T08:45:22.098711
+2026-03-20,,bielsko-biała,Panna młoda!,Bielsko-Biała,21:10,2D,original,regular,2026-03-20T08:45:22.098722
+2026-03-20,,bielsko-biała,Wichrowe wzgórza,Bielsko-Biała,21:30,2D,original,regular,2026-03-20T08:45:22.098732
+2026-03-20,,bielsko-biała,Wartość sentymentalna,Bielsko-Biała,21:40,2D,original,regular,2026-03-20T08:45:22.098741
+2026-03-20,,bielsko-biała,Pojedynek,Bielsko-Biała,21:50,2D,original,regular,2026-03-20T08:45:22.098750
+2026-03-20,,bielsko-biała,Testament Ann Lee,Bielsko-Biała,21:50,2D,original,regular,2026-03-20T08:45:22.098760
+2026-03-20,,bydgoszcz,Za duży na bajki 3,Bydgoszcz,10:00,2D,original,regular,2026-03-20T08:45:24.042320
+2026-03-20,,bydgoszcz,Kicia Kocia w podróży,Bydgoszcz,10:00,2D,,regular,2026-03-20T08:45:24.042347
+2026-03-20,,bydgoszcz,Hopnięci,Bydgoszcz,10:00,4DX,original,regular,2026-03-20T08:45:24.042361
+2026-03-20,,bydgoszcz,Zmiennokształtni 2,Bydgoszcz,10:00,2D,,regular,2026-03-20T08:45:24.042372
+2026-03-20,,bydgoszcz,Jedna bitwa po drugiej,Bydgoszcz,10:00,2D,original,regular,2026-03-20T08:45:24.042383
+2026-03-20,,bydgoszcz,Piep*zyć Mickiewicza 3,Bydgoszcz,10:10,2D,original,regular,2026-03-20T08:45:24.042393
+2026-03-20,,bydgoszcz,Projekt Hail Mary,Bydgoszcz,10:20,2D,original,regular,2026-03-20T08:45:24.042403
+2026-03-20,,bydgoszcz,Kicia Kocia w podróży,Bydgoszcz,10:40,2D,,regular,2026-03-20T08:45:24.042413
+2026-03-20,,bydgoszcz,Król dopalaczy,Bydgoszcz,10:40,2D,original,regular,2026-03-20T08:45:24.042422
+2026-03-20,,bydgoszcz,Fleak. Futrzak i ja,Bydgoszcz,10:45,2D,,regular,2026-03-20T08:45:24.042431
+2026-03-20,,bydgoszcz,Hopnięci,Bydgoszcz,11:00,2D,original,regular,2026-03-20T08:45:24.042442
+2026-03-20,,bydgoszcz,Pan Ryba,Bydgoszcz,11:10,2D,,regular,2026-03-20T08:45:24.042451
+2026-03-20,,bydgoszcz,Za duży na bajki 3,Bydgoszcz,11:20,2D,original,regular,2026-03-20T08:45:24.042460
+2026-03-20,,bydgoszcz,Najświętsze serce,Bydgoszcz,11:30,2D,original,regular,2026-03-20T08:45:24.042470
+2026-03-20,,bydgoszcz,Hopnięci,Bydgoszcz,12:00,2D,original,regular,2026-03-20T08:45:24.042482
+2026-03-20,,bydgoszcz,Wartość sentymentalna,Bydgoszcz,12:30,2D,original,regular,2026-03-20T08:45:24.042492
+2026-03-20,,bydgoszcz,Hopnięci,Bydgoszcz,12:30,4DX,original,regular,2026-03-20T08:45:24.042500
+2026-03-20,,bydgoszcz,Za duży na bajki 3,Bydgoszcz,12:40,2D,original,regular,2026-03-20T08:45:24.042509
+2026-03-20,,bydgoszcz,Fleak. Futrzak i ja,Bydgoszcz,12:50,2D,,regular,2026-03-20T08:45:24.042518
+2026-03-20,,bydgoszcz,Zwierzogród 2,Bydgoszcz,13:10,2D,original,regular,2026-03-20T08:45:24.042529
+2026-03-20,,bydgoszcz,Król dopalaczy,Bydgoszcz,13:20,2D,original,regular,2026-03-20T08:45:24.042538
+2026-03-20,,bydgoszcz,Hopnięci,Bydgoszcz,13:30,2D,original,regular,2026-03-20T08:45:24.042548
+2026-03-20,,bydgoszcz,Pan Ryba,Bydgoszcz,13:30,2D,,regular,2026-03-20T08:45:24.042558
+2026-03-20,,bydgoszcz,"Reminders of Him. Cząstka Ciebie, którą znam",Bydgoszcz,13:30,2D,original,regular,2026-03-20T08:45:24.042567
+2026-03-20,,bydgoszcz,Projekt Hail Mary,Bydgoszcz,13:40,2D,original,regular,2026-03-20T08:45:24.042578
+2026-03-20,,bydgoszcz,Nie ma duchów w mieszkaniu na Dobrej,Bydgoszcz,13:50,2D,original,regular,2026-03-20T08:45:24.042588
+2026-03-20,,bydgoszcz,Ostatnia wieczerza,Bydgoszcz,14:10,2D,original,regular,2026-03-20T08:45:24.042597
+2026-03-20,,bydgoszcz,Hopnięci,Bydgoszcz,14:20,2D,original,regular,2026-03-20T08:45:24.042607
+2026-03-20,,bydgoszcz,Za duży na bajki 3,Bydgoszcz,14:50,2D,original,regular,2026-03-20T08:45:24.042616
+2026-03-20,,bydgoszcz,Dobry chłopiec,Bydgoszcz,14:50,2D,original,regular,2026-03-20T08:45:24.042626
+2026-03-20,,bydgoszcz,Projekt Hail Mary,Bydgoszcz,15:00,4DX,original,regular,2026-03-20T08:45:24.042634
+2026-03-20,,bydgoszcz,Piep*zyć Mickiewicza 3,Bydgoszcz,15:30,2D,original,regular,2026-03-20T08:45:24.042643
+2026-03-20,,bydgoszcz,Baw się dobrze i przeżyj,Bydgoszcz,15:45,2D,original,regular,2026-03-20T08:45:24.042653
+2026-03-20,,bydgoszcz,Pan Ryba,Bydgoszcz,15:50,2D,,regular,2026-03-20T08:45:24.042662
+2026-03-20,,bydgoszcz,Bez wyjścia,Bydgoszcz,16:00,2D,original,regular,2026-03-20T08:45:24.042672
+2026-03-20,,bydgoszcz,Król dopalaczy,Bydgoszcz,16:00,2D,original,regular,2026-03-20T08:45:24.042681
+2026-03-20,,bydgoszcz,Ostatnia sesja w Paryżu,Bydgoszcz,16:10,2D,original,regular,2026-03-20T08:45:24.042690
+2026-03-20,,bydgoszcz,"Reminders of Him. Cząstka Ciebie, którą znam",Bydgoszcz,16:15,2D,original,regular,2026-03-20T08:45:24.042699
+2026-03-20,,bydgoszcz,Dobry chłopiec,Bydgoszcz,16:30,2D,original,regular,2026-03-20T08:45:24.042709
+2026-03-20,,bydgoszcz,Hopnięci,Bydgoszcz,16:40,2D,original,regular,2026-03-20T08:45:24.042719
+2026-03-20,,bydgoszcz,Projekt Hail Mary,Bydgoszcz,17:00,2D,original,regular,2026-03-20T08:45:24.042729
+2026-03-20,,bydgoszcz,Za duży na bajki 3,Bydgoszcz,17:00,2D,original,regular,2026-03-20T08:45:24.042738
+2026-03-20,,bydgoszcz,Angel's Egg,Bydgoszcz,17:30,2D,original,regular,2026-03-20T08:45:24.042748
+2026-03-20,,bydgoszcz,Piep*zyć Mickiewicza 3,Bydgoszcz,17:40,2D,original,regular,2026-03-20T08:45:24.042757
+2026-03-20,,bydgoszcz,Nie ma duchów w mieszkaniu na Dobrej,Bydgoszcz,18:00,2D,original,regular,2026-03-20T08:45:24.042766
+2026-03-20,,bydgoszcz,Projekt Hail Mary,Bydgoszcz,18:20,4DX,original,regular,2026-03-20T08:45:24.042774
+2026-03-20,,bydgoszcz,Król dopalaczy,Bydgoszcz,18:30,2D,original,regular,2026-03-20T08:45:24.042783
+2026-03-20,,bydgoszcz,Ostatnia sesja w Paryżu,Bydgoszcz,18:40,2D,original,regular,2026-03-20T08:45:24.042792
+2026-03-20,,bydgoszcz,Baw się dobrze i przeżyj,Bydgoszcz,18:40,2D,original,regular,2026-03-20T08:45:24.042802
+2026-03-20,,bydgoszcz,Krzyk 7,Bydgoszcz,18:50,2D,original,regular,2026-03-20T08:45:24.042812
+2026-03-20,,bydgoszcz,Grzesznicy,Bydgoszcz,19:00,2D,original,regular,2026-03-20T08:45:24.042821
+2026-03-20,,bydgoszcz,Projekt Hail Mary,Bydgoszcz,19:00,2D,original,regular,2026-03-20T08:45:24.042831
+2026-03-20,,bydgoszcz,Bez wyjścia,Bydgoszcz,19:00,2D,original,regular,2026-03-20T08:45:24.042854
+2026-03-20,,bydgoszcz,"Reminders of Him. Cząstka Ciebie, którą znam",Bydgoszcz,19:10,2D,original,regular,2026-03-20T08:45:24.042865
+2026-03-20,,bydgoszcz,Tajny agent,Bydgoszcz,19:20,2D,original,regular,2026-03-20T08:45:24.042874
+2026-03-20,,bydgoszcz,Testament Ann Lee,Bydgoszcz,19:50,2D,original,regular,2026-03-20T08:45:24.042885
+2026-03-20,,bydgoszcz,Dhurandhar The Revenge,Bydgoszcz,20:10,2D,original,regular,2026-03-20T08:45:24.042895
+2026-03-20,,bydgoszcz,Projekt Hail Mary,Bydgoszcz,20:20,2D,original,regular,2026-03-20T08:45:24.042905
+2026-03-20,,bydgoszcz,Król dopalaczy,Bydgoszcz,21:10,2D,original,regular,2026-03-20T08:45:24.042914
+2026-03-20,,bydgoszcz,Ostatnia sesja w Paryżu,Bydgoszcz,21:20,2D,original,regular,2026-03-20T08:45:24.042923
+2026-03-20,,bydgoszcz,Baw się dobrze i przeżyj,Bydgoszcz,21:30,2D,original,regular,2026-03-20T08:45:24.042933
+2026-03-20,,bydgoszcz,Krzyk 7,Bydgoszcz,21:30,2D,original,regular,2026-03-20T08:45:24.042942
+2026-03-20,,bydgoszcz,Projekt Hail Mary,Bydgoszcz,21:40,4DX,original,regular,2026-03-20T08:45:24.042950
+2026-03-20,,bydgoszcz,Panna młoda!,Bydgoszcz,21:45,2D,original,regular,2026-03-20T08:45:24.042960
+2026-03-20,,bydgoszcz,"Reminders of Him. Cząstka Ciebie, którą znam",Bydgoszcz,21:45,2D,original,regular,2026-03-20T08:45:24.042970
+2026-03-20,,bydgoszcz,Bez wyjścia,Bydgoszcz,22:00,2D,original,regular,2026-03-20T08:45:24.042980
+2026-03-20,,bytom,Za duży na bajki 3,Bytom,10:00,2D,original,regular,2026-03-20T08:45:25.504622
+2026-03-20,,bytom,Psoty,Bytom,10:00,2D,original,regular,2026-03-20T08:45:25.504646
+2026-03-20,,bytom,Krzyk 7,Bytom,10:15,2D,original,regular,2026-03-20T08:45:25.504657
+2026-03-20,,bytom,Piep*zyć Mickiewicza 3,Bytom,10:30,2D,original,regular,2026-03-20T08:45:25.504667
+2026-03-20,,bytom,Projekt Hail Mary,Bytom,11:00,2D,original,regular,2026-03-20T08:45:25.504679
+2026-03-20,,bytom,Zwierzogród 2,Bytom,11:50,2D,original,regular,2026-03-20T08:45:25.504690
+2026-03-20,,bytom,Pan Ryba,Bytom,12:10,2D,,regular,2026-03-20T08:45:25.504700
+2026-03-20,,bytom,Za duży na bajki 3,Bytom,12:40,2D,original,regular,2026-03-20T08:45:25.504709
+2026-03-20,,bytom,Kicia Kocia w podróży,Bytom,13:10,2D,,regular,2026-03-20T08:45:25.504719
+2026-03-20,,bytom,Testament Ann Lee,Bytom,13:30,2D,original,regular,2026-03-20T08:45:25.504729
+2026-03-20,,bytom,Hopnięci,Bytom,13:30,2D,original,regular,2026-03-20T08:45:25.504741
+2026-03-20,,bytom,Wielka mała koza,Bytom,13:45,2D,,regular,2026-03-20T08:45:25.504751
+2026-03-20,,bytom,Projekt Hail Mary,Bytom,14:15,2D,original,regular,2026-03-20T08:45:25.504762
+2026-03-20,,bytom,Król dopalaczy,Bytom,14:15,2D,original,regular,2026-03-20T08:45:25.504772
+2026-03-20,,bytom,Fleak. Futrzak i ja,Bytom,14:30,2D,,regular,2026-03-20T08:45:25.504780
+2026-03-20,,bytom,"Reminders of Him. Cząstka Ciebie, którą znam",Bytom,14:40,2D,original,regular,2026-03-20T08:45:25.504791
+2026-03-20,,bytom,Za duży na bajki 3,Bytom,14:50,2D,original,regular,2026-03-20T08:45:25.504799
+2026-03-20,,bytom,Hopnięci,Bytom,16:00,2D,original,regular,2026-03-20T08:45:25.504809
+2026-03-20,,bytom,Pojedynek,Bytom,16:15,2D,original,regular,2026-03-20T08:45:25.504818
+2026-03-20,,bytom,Piep*zyć Mickiewicza 3,Bytom,16:30,2D,original,regular,2026-03-20T08:45:25.504827
+2026-03-20,,bytom,Pan Ryba,Bytom,16:40,2D,,regular,2026-03-20T08:45:25.504856
+2026-03-20,,bytom,Król dopalaczy,Bytom,16:50,2D,original,regular,2026-03-20T08:45:25.504868
+2026-03-20,,bytom,Za duży na bajki 3,Bytom,17:00,2D,original,regular,2026-03-20T08:45:25.504877
+2026-03-20,,bytom,"Reminders of Him. Cząstka Ciebie, którą znam",Bytom,17:20,2D,original,regular,2026-03-20T08:45:25.504885
+2026-03-20,,bytom,Projekt Hail Mary,Bytom,17:30,2D,original,regular,2026-03-20T08:45:25.504895
+2026-03-20,,bytom,Hopnięci,Bytom,18:30,2D,original,regular,2026-03-20T08:45:25.504905
+2026-03-20,,bytom,Ostatnia sesja w Paryżu,Bytom,18:40,2D,original,regular,2026-03-20T08:45:25.504914
+2026-03-20,,bytom,Baw się dobrze i przeżyj,Bytom,18:50,2D,original,regular,2026-03-20T08:45:25.504924
+2026-03-20,,bytom,Grzesznicy,Bytom,19:00,2D,original,regular,2026-03-20T08:45:25.504933
+2026-03-20,,bytom,Za duży na bajki 3,Bytom,19:10,2D,original,regular,2026-03-20T08:45:25.504941
+2026-03-20,,bytom,Król dopalaczy,Bytom,19:20,2D,original,regular,2026-03-20T08:45:25.504949
+2026-03-20,,bytom,Krzyk 7,Bytom,20:00,2D,original,regular,2026-03-20T08:45:25.504958
+2026-03-20,,bytom,Projekt Hail Mary,Bytom,20:50,2D,original,regular,2026-03-20T08:45:25.504968
+2026-03-20,,bytom,Bez wyjścia,Bytom,21:00,2D,original,regular,2026-03-20T08:45:25.504978
+2026-03-20,,bytom,Wartość sentymentalna,Bytom,21:20,2D,original,regular,2026-03-20T08:45:25.504988
+2026-03-20,,bytom,Panna młoda!,Bytom,21:30,2D,original,regular,2026-03-20T08:45:25.504998
+2026-03-20,,bytom,Baw się dobrze i przeżyj,Bytom,21:40,2D,original,regular,2026-03-20T08:45:25.505007
+2026-03-20,,bytom,Król dopalaczy,Bytom,21:50,2D,original,regular,2026-03-20T08:45:25.505015
+2026-03-20,,bytom,Dobry chłopiec,Bytom,22:00,2D,original,regular,2026-03-20T08:45:25.505025
+2026-03-20,,cieszyn,Pan Ryba,Cieszyn,13:00,2D,,regular,2026-03-20T08:45:26.951934
+2026-03-20,,cieszyn,Projekt Hail Mary,Cieszyn,13:40,2D,original,regular,2026-03-20T08:45:26.951968
+2026-03-20,,cieszyn,Hopnięci,Cieszyn,14:00,2D,original,regular,2026-03-20T08:45:26.951984
+2026-03-20,,cieszyn,Król dopalaczy,Cieszyn,14:30,2D,original,regular,2026-03-20T08:45:26.951995
+2026-03-20,,cieszyn,Za duży na bajki 3,Cieszyn,15:20,2D,original,regular,2026-03-20T08:45:26.952006
+2026-03-20,,cieszyn,Hopnięci,Cieszyn,16:30,2D,original,regular,2026-03-20T08:45:26.952017
+2026-03-20,,cieszyn,Projekt Hail Mary,Cieszyn,17:00,2D,original,regular,2026-03-20T08:45:26.952028
+2026-03-20,,cieszyn,"Reminders of Him. Cząstka Ciebie, którą znam",Cieszyn,17:10,2D,original,regular,2026-03-20T08:45:26.952038
+2026-03-20,,cieszyn,Baw się dobrze i przeżyj,Cieszyn,17:30,2D,original,regular,2026-03-20T08:45:26.952049
+2026-03-20,,cieszyn,Grzesznicy,Cieszyn,19:00,2D,original,regular,2026-03-20T08:45:26.952059
+2026-03-20,,cieszyn,Król dopalaczy,Cieszyn,19:45,2D,original,regular,2026-03-20T08:45:26.952069
+2026-03-20,,cieszyn,Projekt Hail Mary,Cieszyn,20:20,2D,original,regular,2026-03-20T08:45:26.952079
+2026-03-20,,cieszyn,Krzyk 7,Cieszyn,20:30,2D,original,regular,2026-03-20T08:45:26.952089
+2026-03-20,,cieszyn,"Reminders of Him. Cząstka Ciebie, którą znam",Cieszyn,22:00,2D,original,regular,2026-03-20T08:45:26.952099
+2026-03-20,,częstochowa,Kicia Kocia w podróży,Częstochowa - Galeria Jurajska,10:00,2D,,regular,2026-03-20T08:45:28.854266
+2026-03-20,,częstochowa,Pan Ryba,Częstochowa - Galeria Jurajska,11:00,2D,,regular,2026-03-20T08:45:28.854289
+2026-03-20,,częstochowa,Testament Ann Lee,Częstochowa - Galeria Jurajska,11:20,2D,original,regular,2026-03-20T08:45:28.854301
+2026-03-20,,częstochowa,Za duży na bajki 3,Częstochowa - Galeria Jurajska,11:45,2D,original,regular,2026-03-20T08:45:28.854312
+2026-03-20,,częstochowa,Projekt Hail Mary,Częstochowa - Galeria Jurajska,12:00,2D,original,regular,2026-03-20T08:45:28.854324
+2026-03-20,,częstochowa,Zwierzogród 2,Częstochowa - Galeria Jurajska,12:30,2D,original,regular,2026-03-20T08:45:28.854336
+2026-03-20,,częstochowa,Hopnięci,Częstochowa - Galeria Jurajska,13:00,2D,original,regular,2026-03-20T08:45:28.854347
+2026-03-20,,częstochowa,Bez wyjścia,Częstochowa - Galeria Jurajska,13:20,2D,original,regular,2026-03-20T08:45:28.854358
+2026-03-20,,częstochowa,Pan Ryba,Częstochowa - Galeria Jurajska,13:40,2D,,regular,2026-03-20T08:45:28.854367
+2026-03-20,,częstochowa,Projekt Hail Mary,Częstochowa - Galeria Jurajska,13:45,2D,original,regular,2026-03-20T08:45:28.854377
+2026-03-20,,częstochowa,Kicia Kocia w podróży,Częstochowa - Galeria Jurajska,14:00,2D,,regular,2026-03-20T08:45:28.854386
+2026-03-20,,częstochowa,Hopnięci,Częstochowa - Galeria Jurajska,14:20,2D,original,regular,2026-03-20T08:45:28.854396
+2026-03-20,,częstochowa,Za duży na bajki 3,Częstochowa - Galeria Jurajska,15:00,2D,original,regular,2026-03-20T08:45:28.854405
+2026-03-20,,częstochowa,Projekt Hail Mary,Częstochowa - Galeria Jurajska,15:20,2D,original,regular,2026-03-20T08:45:28.854414
+2026-03-20,,częstochowa,Piep*zyć Mickiewicza 3,Częstochowa - Galeria Jurajska,15:20,2D,original,regular,2026-03-20T08:45:28.854424
+2026-03-20,,częstochowa,Hopnięci,Częstochowa - Galeria Jurajska,15:30,2D,original,regular,2026-03-20T08:45:28.854434
+2026-03-20,,częstochowa,Wartość sentymentalna,Częstochowa - Galeria Jurajska,16:00,2D,original,regular,2026-03-20T08:45:28.854444
+2026-03-20,,częstochowa,Król dopalaczy,Częstochowa - Galeria Jurajska,16:15,2D,original,regular,2026-03-20T08:45:28.854453
+2026-03-20,,częstochowa,Hopnięci,Częstochowa - Galeria Jurajska,16:45,2D,original,regular,2026-03-20T08:45:28.854463
+2026-03-20,,częstochowa,Projekt Hail Mary,Częstochowa - Galeria Jurajska,17:00,2D,original,regular,2026-03-20T08:45:28.854473
+2026-03-20,,częstochowa,Za duży na bajki 3,Częstochowa - Galeria Jurajska,17:05,2D,original,regular,2026-03-20T08:45:28.854481
+2026-03-20,,częstochowa,Piep*zyć Mickiewicza 3,Częstochowa - Galeria Jurajska,17:30,2D,original,regular,2026-03-20T08:45:28.854489
+2026-03-20,,częstochowa,Król dopalaczy,Częstochowa - Galeria Jurajska,18:00,2D,original,regular,2026-03-20T08:45:28.854498
+2026-03-20,,częstochowa,Projekt Hail Mary,Częstochowa - Galeria Jurajska,18:40,2D,original,regular,2026-03-20T08:45:28.854507
+2026-03-20,,częstochowa,"Reminders of Him. Cząstka Ciebie, którą znam",Częstochowa - Galeria Jurajska,18:50,2D,original,regular,2026-03-20T08:45:28.854517
+2026-03-20,,częstochowa,Grzesznicy,Częstochowa - Galeria Jurajska,19:00,2D,original,regular,2026-03-20T08:45:28.854526
+2026-03-20,,częstochowa,Baw się dobrze i przeżyj,Częstochowa - Galeria Jurajska,19:10,2D,original,regular,2026-03-20T08:45:28.854536
+2026-03-20,,częstochowa,Ostatnia sesja w Paryżu,Częstochowa - Galeria Jurajska,19:40,2D,original,regular,2026-03-20T08:45:28.854545
+2026-03-20,,częstochowa,Projekt Hail Mary,Częstochowa - Galeria Jurajska,20:20,2D,original,regular,2026-03-20T08:45:28.854555
+2026-03-20,,częstochowa,Król dopalaczy,Częstochowa - Galeria Jurajska,20:30,2D,original,regular,2026-03-20T08:45:28.854564
+2026-03-20,,częstochowa,Wichrowe wzgórza,Częstochowa - Galeria Jurajska,21:30,2D,original,regular,2026-03-20T08:45:28.854573
+2026-03-20,,częstochowa,"Reminders of Him. Cząstka Ciebie, którą znam",Częstochowa - Galeria Jurajska,21:50,2D,original,regular,2026-03-20T08:45:28.854582
+2026-03-20,,częstochowa,Dobry chłopiec,Częstochowa - Galeria Jurajska,22:00,2D,original,regular,2026-03-20T08:45:28.854592
+2026-03-20,,częstochowa,Panna młoda!,Częstochowa - Galeria Jurajska,22:00,2D,original,regular,2026-03-20T08:45:28.854603
+2026-03-20,,częstochowa,Pojedynek,Częstochowa - Galeria Jurajska,22:10,2D,original,regular,2026-03-20T08:45:28.854612
+2026-03-20,,częstochowa,Król dopalaczy,Częstochowa - Wolność,09:45,2D,original,regular,2026-03-20T08:45:30.115059
+2026-03-20,,częstochowa,Pojedynek,Częstochowa - Wolność,10:30,2D,original,regular,2026-03-20T08:45:30.115083
+2026-03-20,,częstochowa,Za duży na bajki 3,Częstochowa - Wolność,10:45,2D,original,regular,2026-03-20T08:45:30.115095
+2026-03-20,,częstochowa,Projekt Hail Mary,Częstochowa - Wolność,11:00,2D,original,regular,2026-03-20T08:45:30.115107
+2026-03-20,,częstochowa,Kicia Kocia w podróży,Częstochowa - Wolność,11:30,2D,,regular,2026-03-20T08:45:30.115118
+2026-03-20,,częstochowa,Pan Ryba,Częstochowa - Wolność,12:00,2D,,regular,2026-03-20T08:45:30.115127
+2026-03-20,,częstochowa,Kicia Kocia w podróży,Częstochowa - Wolność,12:10,2D,,regular,2026-03-20T08:45:30.115136
+2026-03-20,,częstochowa,Hopnięci,Częstochowa - Wolność,12:30,2D,original,regular,2026-03-20T08:45:30.115147
+2026-03-20,,częstochowa,Fleak. Futrzak i ja,Częstochowa - Wolność,12:40,2D,,regular,2026-03-20T08:45:30.115156
+2026-03-20,,częstochowa,Wielki Marty,Częstochowa - Wolność,12:50,2D,original,regular,2026-03-20T08:45:30.115165
+2026-03-20,,częstochowa,Piep*zyć Mickiewicza 3,Częstochowa - Wolność,13:00,2D,original,regular,2026-03-20T08:45:30.115174
+2026-03-20,,częstochowa,Najświętsze serce,Częstochowa - Wolność,13:15,2D,original,regular,2026-03-20T08:45:30.115184
+2026-03-20,,częstochowa,Testament Ann Lee,Częstochowa - Wolność,13:30,2D,original,regular,2026-03-20T08:45:30.115195
+2026-03-20,,częstochowa,Projekt Hail Mary,Częstochowa - Wolność,14:15,2D,original,regular,2026-03-20T08:45:30.115206
+2026-03-20,,częstochowa,Pan Ryba,Częstochowa - Wolność,14:20,2D,,regular,2026-03-20T08:45:30.115214
+2026-03-20,,częstochowa,Za duży na bajki 3,Częstochowa - Wolność,14:50,2D,original,regular,2026-03-20T08:45:30.115223
+2026-03-20,,częstochowa,Hopnięci,Częstochowa - Wolność,15:00,2D,original,regular,2026-03-20T08:45:30.115233
+2026-03-20,,częstochowa,Król dopalaczy,Częstochowa - Wolność,15:20,2D,original,regular,2026-03-20T08:45:30.115241
+2026-03-20,,częstochowa,Ostatnia wieczerza,Częstochowa - Wolność,15:30,2D,original,regular,2026-03-20T08:45:30.115250
+2026-03-20,,częstochowa,Pojedynek,Częstochowa - Wolność,16:10,2D,original,regular,2026-03-20T08:45:30.115259
+2026-03-20,,częstochowa,Angel's Egg,Częstochowa - Wolność,16:30,2D,original,regular,2026-03-20T08:45:30.115268
+2026-03-20,,częstochowa,"Reminders of Him. Cząstka Ciebie, którą znam",Częstochowa - Wolność,16:40,2D,original,regular,2026-03-20T08:45:30.115278
+2026-03-20,,częstochowa,Za duży na bajki 3,Częstochowa - Wolność,17:00,2D,original,regular,2026-03-20T08:45:30.115286
+2026-03-20,,częstochowa,Projekt Hail Mary,Częstochowa - Wolność,17:30,2D,original,regular,2026-03-20T08:45:30.115295
+2026-03-20,,częstochowa,Hopnięci,Częstochowa - Wolność,17:30,2D,original,regular,2026-03-20T08:45:30.115304
+2026-03-20,,częstochowa,Ostatnia sesja w Paryżu,Częstochowa - Wolność,17:50,2D,original,regular,2026-03-20T08:45:30.115313
+2026-03-20,,częstochowa,Król dopalaczy,Częstochowa - Wolność,18:00,2D,original,regular,2026-03-20T08:45:30.115321
+2026-03-20,,częstochowa,Projekt Hail Mary ukraiński dubbing,Częstochowa - Wolność,18:30,2D,dubbing,regular,2026-03-20T08:45:30.115331
+2026-03-20,,częstochowa,Grzesznicy,Częstochowa - Wolność,19:00,2D,original,regular,2026-03-20T08:45:30.115341
+2026-03-20,,częstochowa,Baw się dobrze i przeżyj,Częstochowa - Wolność,19:10,2D,original,regular,2026-03-20T08:45:30.115351
+2026-03-20,,częstochowa,Bez wyjścia,Częstochowa - Wolność,19:20,2D,original,regular,2026-03-20T08:45:30.115361
+2026-03-20,,częstochowa,Nie ma duchów w mieszkaniu na Dobrej,Częstochowa - Wolność,20:00,2D,original,regular,2026-03-20T08:45:30.115370
+2026-03-20,,częstochowa,Jedna bitwa po drugiej,Częstochowa - Wolność,20:15,2D,original,regular,2026-03-20T08:45:30.115380
+2026-03-20,,częstochowa,Król dopalaczy,Częstochowa - Wolność,20:40,2D,original,regular,2026-03-20T08:45:30.115388
+2026-03-20,,częstochowa,Projekt Hail Mary,Częstochowa - Wolność,20:50,2D,original,regular,2026-03-20T08:45:30.115397
+2026-03-20,,częstochowa,Wartość sentymentalna,Częstochowa - Wolność,21:45,2D,original,regular,2026-03-20T08:45:30.115406
+2026-03-20,,częstochowa,Krzyk 7,Częstochowa - Wolność,21:50,2D,original,regular,2026-03-20T08:45:30.115414
+2026-03-20,,częstochowa,Panna młoda!,Częstochowa - Wolność,22:00,2D,original,regular,2026-03-20T08:45:30.115425
+2026-03-20,,częstochowa,Skażenie,Częstochowa - Wolność,22:10,2D,original,regular,2026-03-20T08:45:30.115435
+2026-03-20,,częstochowa,Dźwięk śmierci,Częstochowa - Wolność,22:20,2D,original,regular,2026-03-20T08:45:30.115444
+2026-03-20,,elbląg,Projekt Hail Mary,Elbląg,10:00,2D,original,regular,2026-03-20T08:45:32.395656
+2026-03-20,,elbląg,Wielka mała koza,Elbląg,12:00,2D,,regular,2026-03-20T08:45:32.395685
+2026-03-20,,elbląg,Hopnięci,Elbląg,12:00,2D,original,regular,2026-03-20T08:45:32.395701
+2026-03-20,,elbląg,Pan Ryba,Elbląg,12:20,2D,,regular,2026-03-20T08:45:32.395713
+2026-03-20,,elbląg,Za duży na bajki 3,Elbląg,12:40,2D,original,regular,2026-03-20T08:45:32.395724
+2026-03-20,,elbląg,Wartość sentymentalna,Elbląg,13:00,2D,original,regular,2026-03-20T08:45:32.395737
+2026-03-20,,elbląg,Projekt Hail Mary,Elbląg,13:40,2D,original,regular,2026-03-20T08:45:32.395750
+2026-03-20,,elbląg,Król dopalaczy,Elbląg,14:00,2D,original,regular,2026-03-20T08:45:32.395761
+2026-03-20,,elbląg,Hopnięci,Elbląg,14:20,2D,original,regular,2026-03-20T08:45:32.395774
+2026-03-20,,elbląg,Testament Ann Lee,Elbląg,14:30,2D,original,regular,2026-03-20T08:45:32.395787
+2026-03-20,,elbląg,Za duży na bajki 3,Elbląg,14:50,2D,original,regular,2026-03-20T08:45:32.395798
+2026-03-20,,elbląg,Pojedynek,Elbląg,16:00,2D,original,regular,2026-03-20T08:45:32.395809
+2026-03-20,,elbląg,Dobry chłopiec,Elbląg,16:30,2D,original,regular,2026-03-20T08:45:32.395821
+2026-03-20,,elbląg,Hopnięci,Elbląg,16:40,2D,original,regular,2026-03-20T08:45:32.395832
+2026-03-20,,elbląg,Projekt Hail Mary,Elbląg,17:00,2D,original,regular,2026-03-20T08:45:32.395876
+2026-03-20,,elbląg,Za duży na bajki 3,Elbląg,17:00,2D,original,regular,2026-03-20T08:45:32.395888
+2026-03-20,,elbląg,Krzyk 7,Elbląg,17:30,2D,original,regular,2026-03-20T08:45:32.395899
+2026-03-20,,elbląg,Król dopalaczy,Elbląg,18:40,2D,original,regular,2026-03-20T08:45:32.395909
+2026-03-20,,elbląg,Baw się dobrze i przeżyj,Elbląg,18:50,2D,original,regular,2026-03-20T08:45:32.395922
+2026-03-20,,elbląg,Grzesznicy,Elbląg,19:00,2D,original,regular,2026-03-20T08:45:32.395934
+2026-03-20,,elbląg,"Reminders of Him. Cząstka Ciebie, którą znam",Elbląg,19:10,2D,original,regular,2026-03-20T08:45:32.395946
+2026-03-20,,elbląg,Krzyk 7,Elbląg,20:00,2D,original,regular,2026-03-20T08:45:32.395956
+2026-03-20,,elbląg,Projekt Hail Mary,Elbląg,20:20,2D,original,regular,2026-03-20T08:45:32.395968
+2026-03-20,,elbląg,Król dopalaczy,Elbląg,21:20,2D,original,regular,2026-03-20T08:45:32.395979
+2026-03-20,,elbląg,Wichrowe wzgórza,Elbląg,21:40,2D,original,regular,2026-03-20T08:45:32.395991
+2026-03-20,,elbląg,Krzyk 7,Elbląg,21:45,2D,original,regular,2026-03-20T08:45:32.395999
+2026-03-20,,elbląg,Panna młoda!,Elbląg,21:45,2D,original,regular,2026-03-20T08:45:32.396009
+2026-03-20,,gliwice,Hopnięci,Gliwice,10:00,2D,original,regular,2026-03-20T08:45:34.664701
+2026-03-20,,gliwice,Moon: Panda i ja,Gliwice,10:00,2D,,regular,2026-03-20T08:45:34.664726
+2026-03-20,,gliwice,Wielka mała koza,Gliwice,10:00,2D,,regular,2026-03-20T08:45:34.664738
+2026-03-20,,gliwice,Pan Ryba,Gliwice,10:00,2D,,regular,2026-03-20T08:45:34.664749
+2026-03-20,,gliwice,Projekt Hail Mary,Gliwice,10:20,2D,original,regular,2026-03-20T08:45:34.664761
+2026-03-20,,gliwice,Fleak. Futrzak i ja,Gliwice,10:20,2D,,regular,2026-03-20T08:45:34.664771
+2026-03-20,,gliwice,Kicia Kocia w podróży,Gliwice,10:50,2D,,regular,2026-03-20T08:45:34.664780
+2026-03-20,,gliwice,Za duży na bajki 3,Gliwice,11:00,2D,original,regular,2026-03-20T08:45:34.664789
+2026-03-20,,gliwice,Fleak. Futrzak i ja,Gliwice,11:10,2D,,regular,2026-03-20T08:45:34.664797
+2026-03-20,,gliwice,Król dopalaczy,Gliwice,11:10,2D,original,regular,2026-03-20T08:45:34.664807
+2026-03-20,,gliwice,Hopnięci,Gliwice,11:30,2D,original,regular,2026-03-20T08:45:34.664817
+2026-03-20,,gliwice,Piep*zyć Mickiewicza 3,Gliwice,12:00,2D,original,regular,2026-03-20T08:45:34.664826
+2026-03-20,,gliwice,Zmiennokształtni 2,Gliwice,12:10,2D,,regular,2026-03-20T08:45:34.664851
+2026-03-20,,gliwice,Pan Ryba,Gliwice,12:10,2D,,regular,2026-03-20T08:45:34.664861
+2026-03-20,,gliwice,Moon: Panda i ja,Gliwice,12:15,2D,,regular,2026-03-20T08:45:34.664871
+2026-03-20,,gliwice,Wielka mała koza,Gliwice,12:20,2D,,regular,2026-03-20T08:45:34.664880
+2026-03-20,,gliwice,Hopnięci,Gliwice,12:30,2D,original,regular,2026-03-20T08:45:34.664889
+2026-03-20,,gliwice,Projekt Hail Mary,Gliwice,12:40,2D,original,regular,2026-03-20T08:45:34.664900
+2026-03-20,,gliwice,Fleak. Futrzak i ja,Gliwice,13:20,2D,,regular,2026-03-20T08:45:34.664908
+2026-03-20,,gliwice,Za duży na bajki 3,Gliwice,13:20,2D,original,regular,2026-03-20T08:45:34.664916
+2026-03-20,,gliwice,Ostatnia sesja w Paryżu,Gliwice,13:30,2D,original,regular,2026-03-20T08:45:34.664926
+2026-03-20,,gliwice,Projekt Hail Mary,Gliwice,13:40,2D,original,regular,2026-03-20T08:45:34.664936
+2026-03-20,,gliwice,"Reminders of Him. Cząstka Ciebie, którą znam",Gliwice,13:50,2D,original,regular,2026-03-20T08:45:34.664946
+2026-03-20,,gliwice,Król dopalaczy,Gliwice,13:50,2D,original,regular,2026-03-20T08:45:34.664954
+2026-03-20,,gliwice,Piep*zyć Mickiewicza 3,Gliwice,14:10,2D,original,regular,2026-03-20T08:45:34.664963
+2026-03-20,,gliwice,Pan Ryba,Gliwice,14:20,2D,,regular,2026-03-20T08:45:34.664972
+2026-03-20,,gliwice,Najświętsze serce,Gliwice,14:30,2D,original,regular,2026-03-20T08:45:34.664981
+2026-03-20,,gliwice,Nie ma duchów w mieszkaniu na Dobrej,Gliwice,14:30,2D,original,regular,2026-03-20T08:45:34.664991
+2026-03-20,,gliwice,Wielka mała koza,Gliwice,14:40,2D,,regular,2026-03-20T08:45:34.665000
+2026-03-20,,gliwice,Hopnięci,Gliwice,15:00,2D,original,regular,2026-03-20T08:45:34.665010
+2026-03-20,,gliwice,Pojedynek,Gliwice,15:20,2D,original,regular,2026-03-20T08:45:34.665019
+2026-03-20,,gliwice,Za duży na bajki 3,Gliwice,15:30,2D,original,regular,2026-03-20T08:45:34.665028
+2026-03-20,,gliwice,Projekt Hail Mary,Gliwice,16:00,2D,original,regular,2026-03-20T08:45:34.665037
+2026-03-20,,gliwice,"Miłość, która zostaje",Gliwice,16:10,2D,original,regular,2026-03-20T08:45:34.665048
+2026-03-20,,gliwice,Piep*zyć Mickiewicza 3,Gliwice,16:20,2D,original,regular,2026-03-20T08:45:34.665056
+2026-03-20,,gliwice,Panna młoda!,Gliwice,16:20,2D,original,regular,2026-03-20T08:45:34.665067
+2026-03-20,,gliwice,Król dopalaczy,Gliwice,16:30,2D,original,regular,2026-03-20T08:45:34.665075
+2026-03-20,,gliwice,Ostatnia wieczerza,Gliwice,16:30,2D,original,regular,2026-03-20T08:45:34.665085
+2026-03-20,,gliwice,Baw się dobrze i przeżyj,Gliwice,16:35,2D,original,regular,2026-03-20T08:45:34.665094
+2026-03-20,,gliwice,Wichrowe wzgórza,Gliwice,16:40,2D,original,regular,2026-03-20T08:45:34.665104
+2026-03-20,,gliwice,Projekt Hail Mary,Gliwice,17:00,2D,original,regular,2026-03-20T08:45:34.665114
+2026-03-20,,gliwice,Testament Ann Lee,Gliwice,17:10,2D,original,regular,2026-03-20T08:45:34.665125
+2026-03-20,,gliwice,Hopnięci,Gliwice,17:30,2D,original,regular,2026-03-20T08:45:34.665134
+2026-03-20,,gliwice,Za duży na bajki 3,Gliwice,17:40,2D,original,regular,2026-03-20T08:45:34.665142
+2026-03-20,,gliwice,Angel's Egg,Gliwice,17:50,2D,original,regular,2026-03-20T08:45:34.665152
+2026-03-20,,gliwice,Ostatnia sesja w Paryżu,Gliwice,18:40,2D,original,regular,2026-03-20T08:45:34.665161
+2026-03-20,,gliwice,Bez wyjścia,Gliwice,18:40,2D,original,regular,2026-03-20T08:45:34.665170
+2026-03-20,,gliwice,Krzyk 7,Gliwice,18:50,2D,original,regular,2026-03-20T08:45:34.665180
+2026-03-20,,gliwice,Grzesznicy,Gliwice,19:00,2D,original,regular,2026-03-20T08:45:34.665188
+2026-03-20,,gliwice,"Reminders of Him. Cząstka Ciebie, którą znam",Gliwice,19:00,2D,original,regular,2026-03-20T08:45:34.665197
+2026-03-20,,gliwice,Projekt Hail Mary,Gliwice,19:20,2D,original,regular,2026-03-20T08:45:34.665207
+2026-03-20,,gliwice,Baw się dobrze i przeżyj,Gliwice,19:25,2D,original,regular,2026-03-20T08:45:34.665216
+2026-03-20,,gliwice,Wichrowe wzgórza,Gliwice,19:30,2D,original,regular,2026-03-20T08:45:34.665225
+2026-03-20,,gliwice,Dobry chłopiec,Gliwice,19:40,2D,original,regular,2026-03-20T08:45:34.665234
+2026-03-20,,gliwice,Tajny agent,Gliwice,19:50,2D,original,regular,2026-03-20T08:45:34.665243
+2026-03-20,,gliwice,Król dopalaczy,Gliwice,19:50,2D,original,regular,2026-03-20T08:45:34.665251
+2026-03-20,,gliwice,Projekt Hail Mary,Gliwice,20:20,2D,original,regular,2026-03-20T08:45:34.665261
+2026-03-20,,gliwice,Alpha,Gliwice,20:20,2D,original,regular,2026-03-20T08:45:34.665270
+2026-03-20,,gliwice,Ostatnia sesja w Paryżu,Gliwice,21:10,2D,original,regular,2026-03-20T08:45:34.665279
+2026-03-20,,gliwice,Wartość sentymentalna,Gliwice,21:20,2D,original,regular,2026-03-20T08:45:34.665289
+2026-03-20,,gliwice,"Reminders of Him. Cząstka Ciebie, którą znam",Gliwice,21:30,2D,original,regular,2026-03-20T08:45:34.665298
+2026-03-20,,gliwice,Bez wyjścia,Gliwice,21:40,2D,original,regular,2026-03-20T08:45:34.665307
+2026-03-20,,gliwice,Projekt Hail Mary,Gliwice,21:50,2D,original,regular,2026-03-20T08:45:34.665316
+2026-03-20,,gliwice,Baw się dobrze i przeżyj,Gliwice,22:10,2D,original,regular,2026-03-20T08:45:34.665325
+2026-03-20,,gliwice,Dobry chłopiec,Gliwice,22:15,2D,original,regular,2026-03-20T08:45:34.665334
+2026-03-20,,gliwice,"Reminders of Him. Cząstka Ciebie, którą znam",Gliwice,22:20,2D,original,regular,2026-03-20T08:45:34.665342
+2026-03-20,,gliwice,Król dopalaczy,Gliwice,22:30,2D,original,regular,2026-03-20T08:45:34.665350
+2026-03-20,,gliwice,Ostatnia sesja w Paryżu,Gliwice,22:30,2D,original,regular,2026-03-20T08:45:34.665358
+2026-03-20,,katowice,Projekt Hail Mary,Katowice - Punkt 44,11:00,2D,original,regular,2026-03-20T08:45:37.029169
+2026-03-20,,katowice,Wielka mała koza,Katowice - Punkt 44,11:10,2D,,regular,2026-03-20T08:45:37.029196
+2026-03-20,,katowice,Pan Ryba,Katowice - Punkt 44,11:20,2D,,regular,2026-03-20T08:45:37.029207
+2026-03-20,,katowice,Projekt Hail Mary,Katowice - Punkt 44,11:30,IMAX,original,regular,2026-03-20T08:45:37.029216
+2026-03-20,,katowice,Fleak. Futrzak i ja,Katowice - Punkt 44,11:30,2D,,regular,2026-03-20T08:45:37.029225
+2026-03-20,,katowice,Hopnięci,Katowice - Punkt 44,11:30,2D,original,regular,2026-03-20T08:45:37.029236
+2026-03-20,,katowice,Kicia Kocia w podróży,Katowice - Punkt 44,11:50,2D,,regular,2026-03-20T08:45:37.029256
+2026-03-20,,katowice,Piep*zyć Mickiewicza 3,Katowice - Punkt 44,12:20,2D,original,regular,2026-03-20T08:45:37.029265
+2026-03-20,,katowice,Zmiennokształtni 2,Katowice - Punkt 44,12:20,2D,,regular,2026-03-20T08:45:37.029275
+2026-03-20,,katowice,Panna młoda!,Katowice - Punkt 44,12:50,2D,original,regular,2026-03-20T08:45:37.029285
+2026-03-20,,katowice,Zwierzogród 2,Katowice - Punkt 44,13:00,2D,original,regular,2026-03-20T08:45:37.029297
+2026-03-20,,katowice,Król dopalaczy,Katowice - Punkt 44,13:20,2D,original,regular,2026-03-20T08:45:37.029306
+2026-03-20,,katowice,Pan Ryba,Katowice - Punkt 44,13:30,2D,,regular,2026-03-20T08:45:37.029315
+2026-03-20,,katowice,Wielka mała koza,Katowice - Punkt 44,13:40,2D,,regular,2026-03-20T08:45:37.029325
+2026-03-20,,katowice,Fleak. Futrzak i ja,Katowice - Punkt 44,13:40,2D,,regular,2026-03-20T08:45:37.029333
+2026-03-20,,katowice,Hopnięci,Katowice - Punkt 44,14:00,2D,original,regular,2026-03-20T08:45:37.029344
+2026-03-20,,katowice,Projekt Hail Mary,Katowice - Punkt 44,14:15,2D,original,regular,2026-03-20T08:45:37.029353
+2026-03-20,,katowice,Ostatnia sesja w Paryżu,Katowice - Punkt 44,14:40,2D,original,regular,2026-03-20T08:45:37.029362
+2026-03-20,,katowice,Projekt Hail Mary,Katowice - Punkt 44,14:50,IMAX,original,regular,2026-03-20T08:45:37.029369
+2026-03-20,,katowice,Za duży na bajki 3,Katowice - Punkt 44,14:50,2D,original,regular,2026-03-20T08:45:37.029378
+2026-03-20,,katowice,Bez wyjścia,Katowice - Punkt 44,14:50,2D,original,regular,2026-03-20T08:45:37.029388
+2026-03-20,,katowice,"Reminders of Him. Cząstka Ciebie, którą znam",Katowice - Punkt 44,15:30,2D,original,regular,2026-03-20T08:45:37.029398
+2026-03-20,,katowice,Samotnik,Katowice - Punkt 44,15:30,2D,original,regular,2026-03-20T08:45:37.029407
+2026-03-20,,katowice,Testament Ann Lee,Katowice - Punkt 44,15:40,2D,original,regular,2026-03-20T08:45:37.029417
+2026-03-20,,katowice,Pan Ryba,Katowice - Punkt 44,15:50,2D,,regular,2026-03-20T08:45:37.029426
+2026-03-20,,katowice,Wichrowe wzgórza,Katowice - Punkt 44,15:50,2D,original,regular,2026-03-20T08:45:37.029436
+2026-03-20,,katowice,Król dopalaczy,Katowice - Punkt 44,16:00,2D,original,regular,2026-03-20T08:45:37.029444
+2026-03-20,,katowice,Crime 101,Katowice - Punkt 44,16:00,2D,original,regular,2026-03-20T08:45:37.029454
+2026-03-20,,katowice,Krzyk 7,Katowice - Punkt 44,16:10,2D,original,regular,2026-03-20T08:45:37.029464
+2026-03-20,,katowice,Hopnięci,Katowice - Punkt 44,16:30,2D,original,regular,2026-03-20T08:45:37.029473
+2026-03-20,,katowice,Za duży na bajki 3,Katowice - Punkt 44,17:00,2D,original,regular,2026-03-20T08:45:37.029482
+2026-03-20,,katowice,Nie ma duchów w mieszkaniu na Dobrej,Katowice - Punkt 44,17:10,2D,original,regular,2026-03-20T08:45:37.029491
+2026-03-20,,katowice,Projekt Hail Mary,Katowice - Punkt 44,17:30,2D,original,regular,2026-03-20T08:45:37.029501
+2026-03-20,,katowice,Dobry chłopiec,Katowice - Punkt 44,17:45,2D,original,regular,2026-03-20T08:45:37.029510
+2026-03-20,,katowice,Baw się dobrze i przeżyj,Katowice - Punkt 44,18:00,2D,original,regular,2026-03-20T08:45:37.029520
+2026-03-20,,katowice,Hopnięci,Katowice - Punkt 44,18:00,2D,original,regular,2026-03-20T08:45:37.029529
+2026-03-20,,katowice,Projekt Hail Mary,Katowice - Punkt 44,18:10,IMAX,original,regular,2026-03-20T08:45:37.029536
+2026-03-20,,katowice,"Reminders of Him. Cząstka Ciebie, którą znam",Katowice - Punkt 44,18:15,2D,original,regular,2026-03-20T08:45:37.029545
+2026-03-20,,katowice,Król dopalaczy,Katowice - Punkt 44,18:40,2D,original,regular,2026-03-20T08:45:37.029553
+2026-03-20,,katowice,Projekt Hail Mary,Katowice - Punkt 44,18:40,2D,original,regular,2026-03-20T08:45:37.029562
+2026-03-20,,katowice,Krzyk 7,Katowice - Punkt 44,18:50,2D,original,regular,2026-03-20T08:45:37.029570
+2026-03-20,,katowice,Wartość sentymentalna,Katowice - Punkt 44,18:50,2D,original,regular,2026-03-20T08:45:37.029580
+2026-03-20,,katowice,Grzesznicy,Katowice - Punkt 44,19:00,2D,original,regular,2026-03-20T08:45:37.029589
+2026-03-20,,katowice,Projekt Hail Mary ukraiński dubbing,Katowice - Punkt 44,19:00,2D,dubbing,regular,2026-03-20T08:45:37.029599
+2026-03-20,,katowice,Za duży na bajki 3,Katowice - Punkt 44,19:10,2D,original,regular,2026-03-20T08:45:37.029607
+2026-03-20,,katowice,Ostatnia sesja w Paryżu,Katowice - Punkt 44,19:20,2D,original,regular,2026-03-20T08:45:37.029616
+2026-03-20,,katowice,Bez wyjścia,Katowice - Punkt 44,20:20,2D,original,regular,2026-03-20T08:45:37.029625
+2026-03-20,,katowice,"Kopnęłabym cię, gdybym mogła",Katowice - Punkt 44,20:30,2D,original,regular,2026-03-20T08:45:37.029635
+2026-03-20,,katowice,Projekt Hail Mary,Katowice - Punkt 44,20:50,2D,original,regular,2026-03-20T08:45:37.029644
+2026-03-20,,katowice,Baw się dobrze i przeżyj,Katowice - Punkt 44,20:50,2D,original,regular,2026-03-20T08:45:37.029653
+2026-03-20,,katowice,"Reminders of Him. Cząstka Ciebie, którą znam",Katowice - Punkt 44,21:00,2D,original,regular,2026-03-20T08:45:37.029662
+2026-03-20,,katowice,Król dopalaczy,Katowice - Punkt 44,21:10,2D,original,regular,2026-03-20T08:45:37.029670
+2026-03-20,,katowice,Dhurandhar The Revenge,Katowice - Punkt 44,21:20,2D,original,regular,2026-03-20T08:45:37.029680
+2026-03-20,,katowice,Projekt Hail Mary,Katowice - Punkt 44,21:30,IMAX,original,regular,2026-03-20T08:45:37.029686
+2026-03-20,,katowice,Krzyk 7,Katowice - Punkt 44,21:30,2D,original,regular,2026-03-20T08:45:37.029695
+2026-03-20,,katowice,Wichrowe wzgórza,Katowice - Punkt 44,21:45,2D,original,regular,2026-03-20T08:45:37.029704
+2026-03-20,,katowice,Ostatnia sesja w Paryżu,Katowice - Punkt 44,21:50,2D,original,regular,2026-03-20T08:45:37.029712
+2026-03-20,,katowice,Projekt Hail Mary,Katowice - Punkt 44,22:00,2D,original,regular,2026-03-20T08:45:37.029721
+2026-03-20,,katowice,Skażenie,Katowice - Punkt 44,22:00,2D,original,regular,2026-03-20T08:45:37.029731
+2026-03-20,,katowice,Orzełek Iggy,Katowice - Silesia,10:00,2D,,regular,2026-03-20T08:45:38.858611
+2026-03-20,,katowice,Moon: Panda i ja,Katowice - Silesia,10:00,2D,,regular,2026-03-20T08:45:38.858635
+2026-03-20,,katowice,Pan Ryba,Katowice - Silesia,10:00,2D,,regular,2026-03-20T08:45:38.858647
+2026-03-20,,katowice,Projekt Hail Mary,Katowice - Silesia,10:00,2D,original,regular,2026-03-20T08:45:38.858660
+2026-03-20,,katowice,SpongeBob: Klątwa pirata,Katowice - Silesia,10:30,2D,,regular,2026-03-20T08:45:38.858672
+2026-03-20,,katowice,Hopnięci,Katowice - Silesia,10:40,2D,original,regular,2026-03-20T08:45:38.858684
+2026-03-20,,katowice,Zwierzogród 2,Katowice - Silesia,11:00,2D,original,regular,2026-03-20T08:45:38.858696
+2026-03-20,,katowice,Kicia Kocia w podróży,Katowice - Silesia,11:00,2D,,regular,2026-03-20T08:45:38.858706
+2026-03-20,,katowice,Za duży na bajki 3,Katowice - Silesia,11:10,2D,original,regular,2026-03-20T08:45:38.858715
+2026-03-20,,katowice,Hopnięci,Katowice - Silesia,11:30,2D,original,regular,2026-03-20T08:45:38.858726
+2026-03-20,,katowice,Zmiennokształtni 2,Katowice - Silesia,11:40,2D,,regular,2026-03-20T08:45:38.858735
+2026-03-20,,katowice,Fleak. Futrzak i ja,Katowice - Silesia,12:00,2D,,regular,2026-03-20T08:45:38.858744
+2026-03-20,,katowice,Hopnięci,Katowice - Silesia,12:00,2D,original,regular,2026-03-20T08:45:38.858754
+2026-03-20,,katowice,Pan Ryba,Katowice - Silesia,12:10,2D,,regular,2026-03-20T08:45:38.858762
+2026-03-20,,katowice,Wartość sentymentalna,Katowice - Silesia,12:20,2D,original,regular,2026-03-20T08:45:38.858772
+2026-03-20,,katowice,Kicia Kocia w podróży,Katowice - Silesia,12:30,2D,,regular,2026-03-20T08:45:38.858781
+2026-03-20,,katowice,Wielka mała koza,Katowice - Silesia,12:50,2D,,regular,2026-03-20T08:45:38.858791
+2026-03-20,,katowice,Hopnięci,Katowice - Silesia,13:10,2D,original,regular,2026-03-20T08:45:38.858802
+2026-03-20,,katowice,Za duży na bajki 3,Katowice - Silesia,13:10,2D,original,regular,2026-03-20T08:45:38.858810
+2026-03-20,,katowice,Zwierzogród 2,Katowice - Silesia,13:30,2D,original,regular,2026-03-20T08:45:38.858820
+2026-03-20,,katowice,Projekt Hail Mary,Katowice - Silesia,13:40,2D,original,regular,2026-03-20T08:45:38.858831
+2026-03-20,,katowice,Krzyk 7,Katowice - Silesia,14:00,2D,original,regular,2026-03-20T08:45:38.858854
+2026-03-20,,katowice,Hopnięci,Katowice - Silesia,14:00,2D,original,regular,2026-03-20T08:45:38.858865
+2026-03-20,,katowice,Kicia Kocia w podróży,Katowice - Silesia,14:00,2D,,regular,2026-03-20T08:45:38.858875
+2026-03-20,,katowice,Bez wyjścia,Katowice - Silesia,14:10,2D,original,regular,2026-03-20T08:45:38.858885
+2026-03-20,,katowice,Król dopalaczy,Katowice - Silesia,14:15,2D,original,regular,2026-03-20T08:45:38.858894
+2026-03-20,,katowice,Dobry chłopiec,Katowice - Silesia,14:15,2D,original,regular,2026-03-20T08:45:38.858903
+2026-03-20,,katowice,Pan Ryba,Katowice - Silesia,14:20,2D,,regular,2026-03-20T08:45:38.858912
+2026-03-20,,katowice,Za duży na bajki 3,Katowice - Silesia,15:10,2D,original,regular,2026-03-20T08:45:38.858921
+2026-03-20,,katowice,Szybcy i sprytni,Katowice - Silesia,15:10,2D,,regular,2026-03-20T08:45:38.858931
+2026-03-20,,katowice,Testament Ann Lee,Katowice - Silesia,15:20,2D,original,regular,2026-03-20T08:45:38.858941
+2026-03-20,,katowice,Pojedynek,Katowice - Silesia,15:30,2D,original,regular,2026-03-20T08:45:38.858950
+2026-03-20,,katowice,Hopnięci,Katowice - Silesia,15:40,2D,original,regular,2026-03-20T08:45:38.858961
+2026-03-20,,katowice,Panna młoda!,Katowice - Silesia,16:00,2D,original,regular,2026-03-20T08:45:38.858972
+2026-03-20,,katowice,Hopnięci,Katowice - Silesia,16:30,2D,original,regular,2026-03-20T08:45:38.858982
+2026-03-20,,katowice,Krzyk 7,Katowice - Silesia,16:40,2D,original,regular,2026-03-20T08:45:38.858990
+2026-03-20,,katowice,Piep*zyć Mickiewicza 3,Katowice - Silesia,16:40,2D,original,regular,2026-03-20T08:45:38.858999
+2026-03-20,,katowice,Król dopalaczy,Katowice - Silesia,16:50,2D,original,regular,2026-03-20T08:45:38.859008
+2026-03-20,,katowice,Wichrowe wzgórza,Katowice - Silesia,16:50,2D,original,regular,2026-03-20T08:45:38.859018
+2026-03-20,,katowice,Projekt Hail Mary,Katowice - Silesia,17:00,2D,original,regular,2026-03-20T08:45:38.859028
+2026-03-20,,katowice,Ostatnia sesja w Paryżu,Katowice - Silesia,17:10,2D,original,regular,2026-03-20T08:45:38.859037
+2026-03-20,,katowice,Za duży na bajki 3,Katowice - Silesia,17:10,2D,original,regular,2026-03-20T08:45:38.859046
+2026-03-20,,katowice,Ostatnia wieczerza,Katowice - Silesia,17:20,2D,original,regular,2026-03-20T08:45:38.859055
+2026-03-20,,katowice,Angel's Egg,Katowice - Silesia,18:00,2D,original,regular,2026-03-20T08:45:38.859065
+2026-03-20,,katowice,Hopnięci,Katowice - Silesia,18:10,2D,original,regular,2026-03-20T08:45:38.859075
+2026-03-20,,katowice,Baw się dobrze i przeżyj,Katowice - Silesia,18:20,2D,original,regular,2026-03-20T08:45:38.859085
+2026-03-20,,katowice,Alpha,Katowice - Silesia,18:50,2D,original,regular,2026-03-20T08:45:38.859095
+2026-03-20,,katowice,Grzesznicy,Katowice - Silesia,19:00,2D,original,regular,2026-03-20T08:45:38.859103
+2026-03-20,,katowice,Projekt Hail Mary,Katowice - Silesia,19:00,2D,original,regular,2026-03-20T08:45:38.859112
+2026-03-20,,katowice,Krzyk 7,Katowice - Silesia,19:20,2D,original,regular,2026-03-20T08:45:38.859121
+2026-03-20,,katowice,Dobry chłopiec,Katowice - Silesia,19:20,2D,original,regular,2026-03-20T08:45:38.859130
+2026-03-20,,katowice,Król dopalaczy,Katowice - Silesia,19:30,2D,original,regular,2026-03-20T08:45:38.859138
+2026-03-20,,katowice,Ostatnia sesja w Paryżu,Katowice - Silesia,19:40,2D,original,regular,2026-03-20T08:45:38.859147
+2026-03-20,,katowice,Zapach Pho,Katowice - Silesia,19:40,2D,original,regular,2026-03-20T08:45:38.859156
+2026-03-20,,katowice,Tajny agent,Katowice - Silesia,19:50,2D,original,regular,2026-03-20T08:45:38.859165
+2026-03-20,,katowice,"Miłość, która zostaje",Katowice - Silesia,20:00,2D,original,regular,2026-03-20T08:45:38.859175
+2026-03-20,,katowice,Projekt Hail Mary,Katowice - Silesia,20:20,2D,original,regular,2026-03-20T08:45:38.859184
+2026-03-20,,katowice,"Reminders of Him. Cząstka Ciebie, którą znam",Katowice - Silesia,20:30,2D,original,regular,2026-03-20T08:45:38.859195
+2026-03-20,,katowice,Baw się dobrze i przeżyj,Katowice - Silesia,21:20,2D,original,regular,2026-03-20T08:45:38.859204
+2026-03-20,,katowice,"Reminders of Him. Cząstka Ciebie, którą znam",Katowice - Silesia,21:40,2D,original,regular,2026-03-20T08:45:38.859212
+2026-03-20,,katowice,Dalej jazda 2,Katowice - Silesia,21:50,2D,original,regular,2026-03-20T08:45:38.859221
+2026-03-20,,katowice,Krzyk 7,Katowice - Silesia,22:00,2D,original,regular,2026-03-20T08:45:38.859230
+2026-03-20,,katowice,Wichrowe wzgórza,Katowice - Silesia,22:00,2D,original,regular,2026-03-20T08:45:38.859239
+2026-03-20,,katowice,Król dopalaczy,Katowice - Silesia,22:00,2D,original,regular,2026-03-20T08:45:38.859247
+2026-03-20,,katowice,Wartość sentymentalna,Katowice - Silesia,22:10,2D,original,regular,2026-03-20T08:45:38.859257
+2026-03-20,,katowice,Piep*zyć Mickiewicza 3,Katowice - Silesia,22:10,2D,original,regular,2026-03-20T08:45:38.859265
+2026-03-20,,katowice,Pomoc domowa,Katowice - Silesia,22:15,2D,original,regular,2026-03-20T08:45:38.859274
+2026-03-20,,katowice,Samotnik,Katowice - Silesia,22:30,2D,original,regular,2026-03-20T08:45:38.859283
+2026-03-20,,kraków,Hopnięci,Kraków - Bonarka,10:00,4DX,original,regular,2026-03-20T08:45:40.306966
+2026-03-20,,kraków,Moon: Panda i ja,Kraków - Bonarka,10:00,2D,,regular,2026-03-20T08:45:40.307007
+2026-03-20,,kraków,Pan Ryba,Kraków - Bonarka,10:00,2D,,regular,2026-03-20T08:45:40.307018
+2026-03-20,,kraków,Orzełek Iggy,Kraków - Bonarka,10:10,2D,,regular,2026-03-20T08:45:40.307029
+2026-03-20,,kraków,Projekt Hail Mary,Kraków - Bonarka,10:20,2D,original,regular,2026-03-20T08:45:40.307041
+2026-03-20,,kraków,Hopnięci ukraiński dubbing,Kraków - Bonarka,10:20,2D,dubbing,regular,2026-03-20T08:45:40.307052
+2026-03-20,,kraków,Wielka mała koza,Kraków - Bonarka,10:20,2D,,regular,2026-03-20T08:45:40.307063
+2026-03-20,,kraków,Zmiennokształtni 2,Kraków - Bonarka,10:30,2D,,regular,2026-03-20T08:45:40.307073
+2026-03-20,,kraków,SpongeBob: Klątwa pirata,Kraków - Bonarka,10:30,2D,,regular,2026-03-20T08:45:40.307085
+2026-03-20,,kraków,Piep*zyć Mickiewicza 3,Kraków - Bonarka,10:50,2D,original,regular,2026-03-20T08:45:40.307096
+2026-03-20,,kraków,Za duży na bajki 3,Kraków - Bonarka,11:00,2D,original,regular,2026-03-20T08:45:40.307106
+2026-03-20,,kraków,"Reminders of Him. Cząstka Ciebie, którą znam",Kraków - Bonarka,11:10,2D,original,regular,2026-03-20T08:45:40.307117
+2026-03-20,,kraków,Najświętsze serce,Kraków - Bonarka,11:20,2D,original,regular,2026-03-20T08:45:40.307128
+2026-03-20,,kraków,Hopnięci,Kraków - Bonarka,11:30,2D,original,regular,2026-03-20T08:45:40.307139
+2026-03-20,,kraków,Król dopalaczy,Kraków - Bonarka,11:50,2D,original,regular,2026-03-20T08:45:40.307149
+2026-03-20,,kraków,Za duży na bajki 3,Kraków - Bonarka,12:00,2D,original,regular,2026-03-20T08:45:40.307159
+2026-03-20,,kraków,Dobry chłopiec,Kraków - Bonarka,12:10,2D,original,regular,2026-03-20T08:45:40.307169
+2026-03-20,,kraków,Pan Ryba,Kraków - Bonarka,12:10,2D,,regular,2026-03-20T08:45:40.307179
+2026-03-20,,kraków,Kicia Kocia w podróży,Kraków - Bonarka,12:20,2D,,regular,2026-03-20T08:45:40.307189
+2026-03-20,,kraków,Hopnięci,Kraków - Bonarka,12:30,4DX,original,regular,2026-03-20T08:45:40.307198
+2026-03-20,,kraków,Avatar: Ogień i popiół,Kraków - Bonarka,12:40,3D,original,regular,2026-03-20T08:45:40.307208
+2026-03-20,,kraków,Fleak. Futrzak i ja,Kraków - Bonarka,12:40,2D,,regular,2026-03-20T08:45:40.307218
+2026-03-20,,kraków,Hopnięci ukraiński dubbing,Kraków - Bonarka,12:50,2D,dubbing,regular,2026-03-20T08:45:40.307228
+2026-03-20,,kraków,Dalej jazda 2,Kraków - Bonarka,12:50,2D,original,regular,2026-03-20T08:45:40.307238
+2026-03-20,,kraków,Ostatnia sesja w Paryżu,Kraków - Bonarka,13:00,2D,original,regular,2026-03-20T08:45:40.307249
+2026-03-20,,kraków,Piep*zyć Mickiewicza 3,Kraków - Bonarka,13:10,2D,original,regular,2026-03-20T08:45:40.307258
+2026-03-20,,kraków,Najświętsze serce,Kraków - Bonarka,13:30,2D,original,regular,2026-03-20T08:45:40.307268
+2026-03-20,,kraków,Projekt Hail Mary,Kraków - Bonarka,13:40,2D,original,regular,2026-03-20T08:45:40.307280
+2026-03-20,,kraków,Wartość sentymentalna,Kraków - Bonarka,13:40,2D,original,regular,2026-03-20T08:45:40.307294
+2026-03-20,,kraków,Panna młoda!,Kraków - Bonarka,13:50,2D,original,regular,2026-03-20T08:45:40.307305
+2026-03-20,,kraków,Zwierzogród 2,Kraków - Bonarka,13:50,2D,original,regular,2026-03-20T08:45:40.307317
+2026-03-20,,kraków,Pan Ryba,Kraków - Bonarka,13:50,2D,,regular,2026-03-20T08:45:40.307327
+2026-03-20,,kraków,Projekt Hail Mary,Kraków - Bonarka,14:00,2D,original,regular,2026-03-20T08:45:40.307339
+2026-03-20,,kraków,Hopnięci,Kraków - Bonarka,14:00,2D,original,regular,2026-03-20T08:45:40.307350
+2026-03-20,,kraków,Za duży na bajki 3,Kraków - Bonarka,14:10,2D,original,regular,2026-03-20T08:45:40.307360
+2026-03-20,,kraków,Hopnięci,Kraków - Bonarka,14:20,2D,original,regular,2026-03-20T08:45:40.307371
+2026-03-20,,kraków,Baw się dobrze i przeżyj,Kraków - Bonarka,14:20,2D,original,regular,2026-03-20T08:45:40.307382
+2026-03-20,,kraków,Król dopalaczy,Kraków - Bonarka,14:30,2D,original,regular,2026-03-20T08:45:40.307391
+2026-03-20,,kraków,Bez wyjścia,Kraków - Bonarka,14:40,2D,original,regular,2026-03-20T08:45:40.307402
+2026-03-20,,kraków,Wielka mała koza,Kraków - Bonarka,14:50,2D,,regular,2026-03-20T08:45:40.307413
+2026-03-20,,kraków,Projekt Hail Mary,Kraków - Bonarka,15:00,4DX,original,regular,2026-03-20T08:45:40.307422
+2026-03-20,,kraków,Czy mnie słychać?,Kraków - Bonarka,15:10,2D,original,regular,2026-03-20T08:45:40.307433
+2026-03-20,,kraków,Hopnięci,Kraków - Bonarka,15:20,2D,original,regular,2026-03-20T08:45:40.307444
+2026-03-20,,kraków,Piep*zyć Mickiewicza 3,Kraków - Bonarka,15:30,2D,original,regular,2026-03-20T08:45:40.307454
+2026-03-20,,kraków,Testament Ann Lee,Kraków - Bonarka,15:40,2D,original,regular,2026-03-20T08:45:40.307466
+2026-03-20,,kraków,Wichrowe wzgórza,Kraków - Bonarka,16:00,2D,original,regular,2026-03-20T08:45:40.307477
+2026-03-20,,kraków,Piep*zyć Mickiewicza 3,Kraków - Bonarka,16:10,2D,original,regular,2026-03-20T08:45:40.307487
+2026-03-20,,kraków,Za duży na bajki 3,Kraków - Bonarka,16:20,2D,original,regular,2026-03-20T08:45:40.307497
+2026-03-20,,kraków,Zwierzogród 2,Kraków - Bonarka,16:20,2D,original,regular,2026-03-20T08:45:40.307509
+2026-03-20,,kraków,Hopnięci,Kraków - Bonarka,16:30,2D,original,regular,2026-03-20T08:45:40.307519
+2026-03-20,,kraków,Krzyk 7,Kraków - Bonarka,16:30,2D,original,regular,2026-03-20T08:45:40.307530
+2026-03-20,,kraków,Ostatnia wieczerza,Kraków - Bonarka,16:40,2D,original,regular,2026-03-20T08:45:40.307540
+2026-03-20,,kraków,Pan Ryba,Kraków - Bonarka,16:45,2D,,regular,2026-03-20T08:45:40.307550
+2026-03-20,,kraków,Król dopalaczy,Kraków - Bonarka,16:50,2D,original,regular,2026-03-20T08:45:40.307560
+2026-03-20,,kraków,Projekt Hail Mary,Kraków - Bonarka,17:00,2D,original,regular,2026-03-20T08:45:40.307571
+2026-03-20,,kraków,Fleak. Futrzak i ja,Kraków - Bonarka,17:10,2D,,regular,2026-03-20T08:45:40.307581
+2026-03-20,,kraków,Król dopalaczy,Kraków - Bonarka,17:10,2D,original,regular,2026-03-20T08:45:40.307590
+2026-03-20,,kraków,Projekt Hail Mary,Kraków - Bonarka,17:20,2D,original,regular,2026-03-20T08:45:40.307601
+2026-03-20,,kraków,Angel's Egg,Kraków - Bonarka,17:20,2D,original,regular,2026-03-20T08:45:40.307612
+2026-03-20,,kraków,Alpha,Kraków - Bonarka,17:40,2D,original,regular,2026-03-20T08:45:40.307622
+2026-03-20,,kraków,Bez wyjścia,Kraków - Bonarka,17:40,2D,original,regular,2026-03-20T08:45:40.307633
+2026-03-20,,kraków,Piep*zyć Mickiewicza 3,Kraków - Bonarka,17:50,2D,original,regular,2026-03-20T08:45:40.307643
+2026-03-20,,kraków,Nie ma duchów w mieszkaniu na Dobrej,Kraków - Bonarka,18:00,2D,original,regular,2026-03-20T08:45:40.307654
+2026-03-20,,kraków,Projekt Hail Mary,Kraków - Bonarka,18:20,4DX,original,regular,2026-03-20T08:45:40.307662
+2026-03-20,,kraków,Hopnięci,Kraków - Bonarka,18:20,2D,original,regular,2026-03-20T08:45:40.307674
+2026-03-20,,kraków,Za duży na bajki 3,Kraków - Bonarka,18:30,2D,original,regular,2026-03-20T08:45:40.307683
+2026-03-20,,kraków,Ostatnia sesja w Paryżu,Kraków - Bonarka,18:40,2D,original,regular,2026-03-20T08:45:40.307693
+2026-03-20,,kraków,"Reminders of Him. Cząstka Ciebie, którą znam",Kraków - Bonarka,18:50,2D,original,regular,2026-03-20T08:45:40.307703
+2026-03-20,,kraków,Grzesznicy,Kraków - Bonarka,19:00,2D,original,regular,2026-03-20T08:45:40.307713
+2026-03-20,,kraków,Projekt Hail Mary ukraiński dubbing,Kraków - Bonarka,19:00,2D,dubbing,regular,2026-03-20T08:45:40.307724
+2026-03-20,,kraków,Hopnięci,Kraków - Bonarka,19:00,2D,original,regular,2026-03-20T08:45:40.307735
+2026-03-20,,kraków,Projekt Hail Mary,Kraków - Bonarka,19:00,2D,original,regular,2026-03-20T08:45:40.307746
+2026-03-20,,kraków,Krzyk 7,Kraków - Bonarka,19:10,2D,original,regular,2026-03-20T08:45:40.307756
+2026-03-20,,kraków,Zapach Pho,Kraków - Bonarka,19:10,2D,original,regular,2026-03-20T08:45:40.307768
+2026-03-20,,kraków,Baw się dobrze i przeżyj,Kraków - Bonarka,19:15,2D,original,regular,2026-03-20T08:45:40.307778
+2026-03-20,,kraków,Król dopalaczy,Kraków - Bonarka,19:30,2D,original,regular,2026-03-20T08:45:40.307788
+2026-03-20,,kraków,Król dopalaczy,Kraków - Bonarka,19:40,2D,original,regular,2026-03-20T08:45:40.307797
+2026-03-20,,kraków,Piep*zyć Mickiewicza 3,Kraków - Bonarka,20:00,2D,original,regular,2026-03-20T08:45:40.307807
+2026-03-20,,kraków,"Miłość, która zostaje",Kraków - Bonarka,20:10,2D,original,regular,2026-03-20T08:45:40.307818
+2026-03-20,,kraków,Projekt Hail Mary,Kraków - Bonarka,20:20,2D,original,regular,2026-03-20T08:45:40.307828
+2026-03-20,,kraków,Hamnet,Kraków - Bonarka,20:30,2D,original,regular,2026-03-20T08:45:40.307850
+2026-03-20,,kraków,Dhurandhar The Revenge,Kraków - Bonarka,20:35,2D,original,regular,2026-03-20T08:45:40.307861
+2026-03-20,,kraków,Projekt Hail Mary,Kraków - Bonarka,20:40,2D,original,regular,2026-03-20T08:45:40.307871
+2026-03-20,,kraków,Dhurandhar The Revenge,Kraków - Bonarka,20:40,2D,original,regular,2026-03-20T08:45:40.307880
+2026-03-20,,kraków,Wichrowe wzgórza,Kraków - Bonarka,20:50,2D,original,regular,2026-03-20T08:45:40.307890
+2026-03-20,,kraków,Ostatnia sesja w Paryżu,Kraków - Bonarka,21:10,2D,original,regular,2026-03-20T08:45:40.307899
+2026-03-20,,kraków,"Reminders of Him. Cząstka Ciebie, którą znam",Kraków - Bonarka,21:30,2D,original,regular,2026-03-20T08:45:40.307908
+2026-03-20,,kraków,Wartość sentymentalna,Kraków - Bonarka,21:30,2D,original,regular,2026-03-20T08:45:40.307918
+2026-03-20,,kraków,Projekt Hail Mary,Kraków - Bonarka,21:40,4DX,original,regular,2026-03-20T08:45:40.307925
+2026-03-20,,kraków,Dźwięk śmierci,Kraków - Bonarka,21:45,2D,original,regular,2026-03-20T08:45:40.307935
+2026-03-20,,kraków,Krzyk 7,Kraków - Bonarka,21:50,2D,original,regular,2026-03-20T08:45:40.307944
+2026-03-20,,kraków,Wielki Marty,Kraków - Bonarka,22:00,2D,original,regular,2026-03-20T08:45:40.307954
+2026-03-20,,kraków,Krzyk 7,Kraków - Bonarka,22:00,2D,original,regular,2026-03-20T08:45:40.307963
+2026-03-20,,kraków,Baw się dobrze i przeżyj,Kraków - Bonarka,22:10,2D,original,regular,2026-03-20T08:45:40.307973
+2026-03-20,,kraków,Crime 101,Kraków - Bonarka,22:15,2D,original,regular,2026-03-20T08:45:40.307983
+2026-03-20,,kraków,Piep*zyć Mickiewicza 3,Kraków - Bonarka,22:15,2D,original,regular,2026-03-20T08:45:40.307992
+2026-03-20,,kraków,Król dopalaczy,Kraków - Bonarka,22:15,2D,original,regular,2026-03-20T08:45:40.308000
+2026-03-20,,kraków,Panna młoda!,Kraków - Bonarka,22:20,2D,original,regular,2026-03-20T08:45:40.308010
+2026-03-20,,kraków,Fleak. Futrzak i ja,Kraków - Galeria Kazimierz,10:00,2D,,regular,2026-03-20T08:45:42.466039
+2026-03-20,,kraków,Za duży na bajki 3,Kraków - Galeria Kazimierz,10:00,2D,original,regular,2026-03-20T08:45:42.466065
+2026-03-20,,kraków,Projekt Hail Mary,Kraków - Galeria Kazimierz,10:20,2D,original,regular,2026-03-20T08:45:42.466078
+2026-03-20,,kraków,Pan Ryba,Kraków - Galeria Kazimierz,10:20,2D,,regular,2026-03-20T08:45:42.466088
+2026-03-20,,kraków,Hopnięci,Kraków - Galeria Kazimierz,10:30,2D,original,regular,2026-03-20T08:45:42.466099
+2026-03-20,,kraków,Moon: Panda i ja,Kraków - Galeria Kazimierz,10:45,2D,,regular,2026-03-20T08:45:42.466109
+2026-03-20,,kraków,Kicia Kocia w podróży,Kraków - Galeria Kazimierz,10:50,2D,,regular,2026-03-20T08:45:42.466119
+2026-03-20,,kraków,Hopnięci,Kraków - Galeria Kazimierz,11:15,2D,original,regular,2026-03-20T08:45:42.466130
+2026-03-20,,kraków,Piep*zyć Mickiewicza 3,Kraków - Galeria Kazimierz,11:30,2D,original,regular,2026-03-20T08:45:42.466139
+2026-03-20,,kraków,Za duży na bajki 3,Kraków - Galeria Kazimierz,11:50,2D,original,regular,2026-03-20T08:45:42.466147
+2026-03-20,,kraków,Fleak. Futrzak i ja,Kraków - Galeria Kazimierz,12:20,2D,,regular,2026-03-20T08:45:42.466156
+2026-03-20,,kraków,Hopnięci,Kraków - Galeria Kazimierz,12:20,2D,original,regular,2026-03-20T08:45:42.466165
+2026-03-20,,kraków,Pan Ryba,Kraków - Galeria Kazimierz,12:30,2D,,regular,2026-03-20T08:45:42.466174
+2026-03-20,,kraków,Kicia Kocia w podróży,Kraków - Galeria Kazimierz,12:50,2D,,regular,2026-03-20T08:45:42.466182
+2026-03-20,,kraków,Pojedynek,Kraków - Galeria Kazimierz,13:00,2D,original,regular,2026-03-20T08:45:42.466191
+2026-03-20,,kraków,Testament Ann Lee,Kraków - Galeria Kazimierz,13:10,2D,original,regular,2026-03-20T08:45:42.466202
+2026-03-20,,kraków,Piep*zyć Mickiewicza 3,Kraków - Galeria Kazimierz,13:35,2D,original,regular,2026-03-20T08:45:42.466210
+2026-03-20,,kraków,Projekt Hail Mary,Kraków - Galeria Kazimierz,13:40,2D,original,regular,2026-03-20T08:45:42.466220
+2026-03-20,,kraków,"Reminders of Him. Cząstka Ciebie, którą znam",Kraków - Galeria Kazimierz,13:45,2D,original,regular,2026-03-20T08:45:42.466230
+2026-03-20,,kraków,Za duży na bajki 3,Kraków - Galeria Kazimierz,14:00,2D,original,regular,2026-03-20T08:45:42.466239
+2026-03-20,,kraków,Ostatnia sesja w Paryżu,Kraków - Galeria Kazimierz,14:10,2D,original,regular,2026-03-20T08:45:42.466248
+2026-03-20,,kraków,Panna młoda!,Kraków - Galeria Kazimierz,14:20,2D,original,regular,2026-03-20T08:45:42.466259
+2026-03-20,,kraków,Wartość sentymentalna,Kraków - Galeria Kazimierz,14:45,2D,original,regular,2026-03-20T08:45:42.466268
+2026-03-20,,kraków,Hopnięci,Kraków - Galeria Kazimierz,14:50,2D,original,regular,2026-03-20T08:45:42.466278
+2026-03-20,,kraków,Krzyk 7,Kraków - Galeria Kazimierz,15:30,2D,original,regular,2026-03-20T08:45:42.466287
+2026-03-20,,kraków,Nie ma duchów w mieszkaniu na Dobrej,Kraków - Galeria Kazimierz,15:50,2D,original,regular,2026-03-20T08:45:42.466297
+2026-03-20,,kraków,Król dopalaczy,Kraków - Galeria Kazimierz,16:10,2D,original,regular,2026-03-20T08:45:42.466306
+2026-03-20,,kraków,Za duży na bajki 3,Kraków - Galeria Kazimierz,16:15,2D,original,regular,2026-03-20T08:45:42.466314
+2026-03-20,,kraków,Hopnięci,Kraków - Galeria Kazimierz,16:30,2D,original,regular,2026-03-20T08:45:42.466325
+2026-03-20,,kraków,Dobry chłopiec,Kraków - Galeria Kazimierz,16:40,2D,original,regular,2026-03-20T08:45:42.466335
+2026-03-20,,kraków,Projekt Hail Mary,Kraków - Galeria Kazimierz,17:00,2D,original,regular,2026-03-20T08:45:42.466345
+2026-03-20,,kraków,Bez wyjścia,Kraków - Galeria Kazimierz,17:10,2D,original,regular,2026-03-20T08:45:42.466355
+2026-03-20,,kraków,Hopnięci,Kraków - Galeria Kazimierz,17:15,2D,original,regular,2026-03-20T08:45:42.466364
+2026-03-20,,kraków,Angel's Egg,Kraków - Galeria Kazimierz,17:40,2D,original,regular,2026-03-20T08:45:42.466374
+2026-03-20,,kraków,Wartość sentymentalna,Kraków - Galeria Kazimierz,18:00,2D,original,regular,2026-03-20T08:45:42.466383
+2026-03-20,,kraków,"Miłość, która zostaje",Kraków - Galeria Kazimierz,18:10,2D,original,regular,2026-03-20T08:45:42.466393
+2026-03-20,,kraków,Projekt Hail Mary ukraiński dubbing,Kraków - Galeria Kazimierz,18:30,2D,dubbing,regular,2026-03-20T08:45:42.466402
+2026-03-20,,kraków,Król dopalaczy,Kraków - Galeria Kazimierz,18:40,2D,original,regular,2026-03-20T08:45:42.466410
+2026-03-20,,kraków,Grzesznicy,Kraków - Galeria Kazimierz,19:00,2D,original,regular,2026-03-20T08:45:42.466420
+2026-03-20,,kraków,Baw się dobrze i przeżyj,Kraków - Galeria Kazimierz,19:15,2D,original,regular,2026-03-20T08:45:42.466429
+2026-03-20,,kraków,Ostatnia sesja w Paryżu,Kraków - Galeria Kazimierz,19:30,2D,original,regular,2026-03-20T08:45:42.466438
+2026-03-20,,kraków,Projekt Hail Mary,Kraków - Galeria Kazimierz,19:40,2D,original,regular,2026-03-20T08:45:42.466447
+2026-03-20,,kraków,Bez wyjścia,Kraków - Galeria Kazimierz,20:10,2D,original,regular,2026-03-20T08:45:42.466456
+2026-03-20,,kraków,Projekt Hail Mary,Kraków - Galeria Kazimierz,20:20,2D,original,regular,2026-03-20T08:45:42.466466
+2026-03-20,,kraków,Alpha,Kraków - Galeria Kazimierz,20:40,2D,original,regular,2026-03-20T08:45:42.466475
+2026-03-20,,kraków,"Reminders of Him. Cząstka Ciebie, którą znam",Kraków - Galeria Kazimierz,20:50,2D,original,regular,2026-03-20T08:45:42.466483
+2026-03-20,,kraków,Król dopalaczy,Kraków - Galeria Kazimierz,21:10,2D,original,regular,2026-03-20T08:45:42.466492
+2026-03-20,,kraków,Dobry chłopiec,Kraków - Galeria Kazimierz,21:45,2D,original,regular,2026-03-20T08:45:42.466501
+2026-03-20,,kraków,Wichrowe wzgórza,Kraków - Galeria Kazimierz,21:50,2D,original,regular,2026-03-20T08:45:42.466511
+2026-03-20,,kraków,Panna młoda!,Kraków - Galeria Kazimierz,22:00,2D,original,regular,2026-03-20T08:45:42.466520
+2026-03-20,,kraków,Baw się dobrze i przeżyj,Kraków - Galeria Kazimierz,22:00,2D,original,regular,2026-03-20T08:45:42.466529
+2026-03-20,,kraków,Projekt Hail Mary,Kraków - Zakopianka,11:00,2D,original,regular,2026-03-20T08:45:44.176095
+2026-03-20,,kraków,Wielka mała koza,Kraków - Zakopianka,11:10,2D,,regular,2026-03-20T08:45:44.176120
+2026-03-20,,kraków,Najświętsze serce,Kraków - Zakopianka,11:10,2D,original,regular,2026-03-20T08:45:44.176132
+2026-03-20,,kraków,Kicia Kocia w podróży,Kraków - Zakopianka,11:15,2D,,regular,2026-03-20T08:45:44.176143
+2026-03-20,,kraków,Fleak. Futrzak i ja,Kraków - Zakopianka,11:20,2D,,regular,2026-03-20T08:45:44.176152
+2026-03-20,,kraków,Projekt Hail Mary,Kraków - Zakopianka,11:30,IMAX,original,regular,2026-03-20T08:45:44.176160
+2026-03-20,,kraków,Hopnięci,Kraków - Zakopianka,11:30,2D,original,regular,2026-03-20T08:45:44.176170
+2026-03-20,,kraków,Pan Ryba,Kraków - Zakopianka,12:20,2D,,regular,2026-03-20T08:45:44.176179
+2026-03-20,,kraków,Za duży na bajki 3,Kraków - Zakopianka,12:30,2D,original,regular,2026-03-20T08:45:44.176188
+2026-03-20,,kraków,Fleak. Futrzak i ja,Kraków - Zakopianka,12:45,2D,,regular,2026-03-20T08:45:44.176196
+2026-03-20,,kraków,Hopnięci,Kraków - Zakopianka,12:50,2D,original,regular,2026-03-20T08:45:44.176206
+2026-03-20,,kraków,Kicia Kocia w podróży,Kraków - Zakopianka,13:25,2D,,regular,2026-03-20T08:45:44.176215
+2026-03-20,,kraków,Panna młoda!,Kraków - Zakopianka,13:30,2D,original,regular,2026-03-20T08:45:44.176226
+2026-03-20,,kraków,Bez wyjścia,Kraków - Zakopianka,13:30,2D,original,regular,2026-03-20T08:45:44.176236
+2026-03-20,,kraków,Hopnięci,Kraków - Zakopianka,14:00,2D,original,regular,2026-03-20T08:45:44.176246
+2026-03-20,,kraków,Projekt Hail Mary,Kraków - Zakopianka,14:15,2D,original,regular,2026-03-20T08:45:44.176256
+2026-03-20,,kraków,Pan Ryba,Kraków - Zakopianka,14:30,2D,,regular,2026-03-20T08:45:44.176264
+2026-03-20,,kraków,Za duży na bajki 3,Kraków - Zakopianka,14:45,2D,original,regular,2026-03-20T08:45:44.176272
+2026-03-20,,kraków,Projekt Hail Mary,Kraków - Zakopianka,14:50,IMAX,original,regular,2026-03-20T08:45:44.176279
+2026-03-20,,kraków,Piep*zyć Mickiewicza 3,Kraków - Zakopianka,14:50,2D,original,regular,2026-03-20T08:45:44.176288
+2026-03-20,,kraków,Testament Ann Lee,Kraków - Zakopianka,14:50,2D,original,regular,2026-03-20T08:45:44.176298
+2026-03-20,,kraków,Hopnięci,Kraków - Zakopianka,15:20,2D,original,regular,2026-03-20T08:45:44.176307
+2026-03-20,,kraków,Krzyk 7,Kraków - Zakopianka,16:20,2D,original,regular,2026-03-20T08:45:44.176316
+2026-03-20,,kraków,Ostatnia wieczerza,Kraków - Zakopianka,16:30,2D,original,regular,2026-03-20T08:45:44.176325
+2026-03-20,,kraków,Hopnięci,Kraków - Zakopianka,16:30,2D,original,regular,2026-03-20T08:45:44.176334
+2026-03-20,,kraków,Król dopalaczy,Kraków - Zakopianka,16:45,2D,original,regular,2026-03-20T08:45:44.176343
+2026-03-20,,kraków,"Reminders of Him. Cząstka Ciebie, którą znam",Kraków - Zakopianka,17:00,2D,original,regular,2026-03-20T08:45:44.176352
+2026-03-20,,kraków,Za duży na bajki 3,Kraków - Zakopianka,17:00,2D,original,regular,2026-03-20T08:45:44.176361
+2026-03-20,,kraków,Projekt Hail Mary,Kraków - Zakopianka,17:30,2D,original,regular,2026-03-20T08:45:44.176370
+2026-03-20,,kraków,Wartość sentymentalna,Kraków - Zakopianka,17:45,2D,original,regular,2026-03-20T08:45:44.176380
+2026-03-20,,kraków,Hopnięci,Kraków - Zakopianka,17:50,2D,original,regular,2026-03-20T08:45:44.176390
+2026-03-20,,kraków,Projekt Hail Mary,Kraków - Zakopianka,18:10,IMAX,original,regular,2026-03-20T08:45:44.176396
+2026-03-20,,kraków,Ostatnia sesja w Paryżu,Kraków - Zakopianka,18:45,2D,original,regular,2026-03-20T08:45:44.176405
+2026-03-20,,kraków,Grzesznicy,Kraków - Zakopianka,19:00,2D,original,regular,2026-03-20T08:45:44.176414
+2026-03-20,,kraków,Projekt Hail Mary,Kraków - Zakopianka,19:00,2D,original,regular,2026-03-20T08:45:44.176423
+2026-03-20,,kraków,Bez wyjścia,Kraków - Zakopianka,19:10,2D,original,regular,2026-03-20T08:45:44.176432
+2026-03-20,,kraków,Król dopalaczy,Kraków - Zakopianka,19:20,2D,original,regular,2026-03-20T08:45:44.176441
+2026-03-20,,kraków,Baw się dobrze i przeżyj,Kraków - Zakopianka,19:30,2D,original,regular,2026-03-20T08:45:44.176451
+2026-03-20,,kraków,Wichrowe wzgórza,Kraków - Zakopianka,20:15,2D,original,regular,2026-03-20T08:45:44.176460
+2026-03-20,,kraków,"Reminders of Him. Cząstka Ciebie, którą znam",Kraków - Zakopianka,20:40,2D,original,regular,2026-03-20T08:45:44.176469
+2026-03-20,,kraków,Projekt Hail Mary,Kraków - Zakopianka,20:50,2D,original,regular,2026-03-20T08:45:44.176479
+2026-03-20,,kraków,Dobry chłopiec,Kraków - Zakopianka,21:10,2D,original,regular,2026-03-20T08:45:44.176488
+2026-03-20,,kraków,Projekt Hail Mary,Kraków - Zakopianka,21:30,IMAX,original,regular,2026-03-20T08:45:44.176494
+2026-03-20,,kraków,Król dopalaczy,Kraków - Zakopianka,21:50,2D,original,regular,2026-03-20T08:45:44.176502
+2026-03-20,,kraków,Ostatnia sesja w Paryżu,Kraków - Zakopianka,21:50,2D,original,regular,2026-03-20T08:45:44.176511
+2026-03-20,,kraków,Panna młoda!,Kraków - Zakopianka,22:10,2D,original,regular,2026-03-20T08:45:44.176520
+2026-03-20,,kraków,Baw się dobrze i przeżyj,Kraków - Zakopianka,22:20,2D,original,regular,2026-03-20T08:45:44.176529
+2026-03-20,,kraków,Krzyk 7,Kraków - Zakopianka,22:20,2D,original,regular,2026-03-20T08:45:44.176538
+2026-03-20,,lublin,Zmiennokształtni 2,Lublin - Felicity,10:00,2D,,regular,2026-03-20T08:45:46.356337
+2026-03-20,,lublin,Projekt Hail Mary,Lublin - Felicity,11:00,2D,original,regular,2026-03-20T08:45:46.356362
+2026-03-20,,lublin,Hopnięci,Lublin - Felicity,11:00,2D,original,regular,2026-03-20T08:45:46.356376
+2026-03-20,,lublin,Wielka mała koza,Lublin - Felicity,11:10,2D,,regular,2026-03-20T08:45:46.356387
+2026-03-20,,lublin,"Reminders of Him. Cząstka Ciebie, którą znam",Lublin - Felicity,11:20,2D,original,regular,2026-03-20T08:45:46.356398
+2026-03-20,,lublin,Kicia Kocia w podróży,Lublin - Felicity,11:20,2D,,regular,2026-03-20T08:45:46.356408
+2026-03-20,,lublin,Testament Ann Lee,Lublin - Felicity,11:50,2D,original,regular,2026-03-20T08:45:46.356419
+2026-03-20,,lublin,Pan Ryba,Lublin - Felicity,12:20,2D,,regular,2026-03-20T08:45:46.356429
+2026-03-20,,lublin,Hopnięci,Lublin - Felicity,12:30,4DX,original,regular,2026-03-20T08:45:46.356437
+2026-03-20,,lublin,Kicia Kocia w podróży,Lublin - Felicity,12:40,2D,,regular,2026-03-20T08:45:46.356446
+2026-03-20,,lublin,Fleak. Futrzak i ja,Lublin - Felicity,13:00,2D,,regular,2026-03-20T08:45:46.356454
+2026-03-20,,lublin,Wartość sentymentalna,Lublin - Felicity,13:30,2D,original,regular,2026-03-20T08:45:46.356464
+2026-03-20,,lublin,Hopnięci,Lublin - Felicity,13:30,2D,original,regular,2026-03-20T08:45:46.356474
+2026-03-20,,lublin,Piep*zyć Mickiewicza 3,Lublin - Felicity,13:50,2D,original,regular,2026-03-20T08:45:46.356483
+2026-03-20,,lublin,Kicia Kocia w podróży,Lublin - Felicity,14:10,2D,,regular,2026-03-20T08:45:46.356492
+2026-03-20,,lublin,Projekt Hail Mary,Lublin - Felicity,14:15,2D,original,regular,2026-03-20T08:45:46.356502
+2026-03-20,,lublin,Krzyk 7,Lublin - Felicity,14:40,2D,original,regular,2026-03-20T08:45:46.356511
+2026-03-20,,lublin,Testament Ann Lee,Lublin - Felicity,14:50,2D,original,regular,2026-03-20T08:45:46.356521
+2026-03-20,,lublin,Projekt Hail Mary,Lublin - Felicity,15:00,4DX,original,regular,2026-03-20T08:45:46.356528
+2026-03-20,,lublin,Za duży na bajki 3,Lublin - Felicity,15:00,2D,original,regular,2026-03-20T08:45:46.356537
+2026-03-20,,lublin,Król dopalaczy,Lublin - Felicity,15:40,2D,original,regular,2026-03-20T08:45:46.356546
+2026-03-20,,lublin,Hopnięci,Lublin - Felicity,16:00,2D,original,regular,2026-03-20T08:45:46.356556
+2026-03-20,,lublin,Panna młoda!,Lublin - Felicity,16:10,2D,original,regular,2026-03-20T08:45:46.356567
+2026-03-20,,lublin,Dobry chłopiec,Lublin - Felicity,16:30,2D,original,regular,2026-03-20T08:45:46.356576
+2026-03-20,,lublin,Za duży na bajki 3,Lublin - Felicity,17:05,2D,original,regular,2026-03-20T08:45:46.356585
+2026-03-20,,lublin,Wichrowe wzgórza,Lublin - Felicity,17:20,2D,original,regular,2026-03-20T08:45:46.356594
+2026-03-20,,lublin,Projekt Hail Mary,Lublin - Felicity,17:30,2D,original,regular,2026-03-20T08:45:46.356603
+2026-03-20,,lublin,Nie ma duchów w mieszkaniu na Dobrej,Lublin - Felicity,17:50,2D,original,regular,2026-03-20T08:45:46.356613
+2026-03-20,,lublin,Król dopalaczy,Lublin - Felicity,18:10,2D,original,regular,2026-03-20T08:45:46.356621
+2026-03-20,,lublin,Projekt Hail Mary,Lublin - Felicity,18:20,4DX,original,regular,2026-03-20T08:45:46.356628
+2026-03-20,,lublin,Hopnięci,Lublin - Felicity,18:30,2D,original,regular,2026-03-20T08:45:46.356637
+2026-03-20,,lublin,Grzesznicy,Lublin - Felicity,19:00,2D,original,regular,2026-03-20T08:45:46.356646
+2026-03-20,,lublin,Baw się dobrze i przeżyj,Lublin - Felicity,19:00,2D,original,regular,2026-03-20T08:45:46.356656
+2026-03-20,,lublin,Bez wyjścia,Lublin - Felicity,19:10,2D,original,regular,2026-03-20T08:45:46.356665
+2026-03-20,,lublin,Ostatnia sesja w Paryżu,Lublin - Felicity,20:00,2D,original,regular,2026-03-20T08:45:46.356674
+2026-03-20,,lublin,Krzyk 7,Lublin - Felicity,20:20,2D,original,regular,2026-03-20T08:45:46.356683
+2026-03-20,,lublin,Król dopalaczy,Lublin - Felicity,20:40,2D,original,regular,2026-03-20T08:45:46.356692
+2026-03-20,,lublin,Projekt Hail Mary,Lublin - Felicity,20:50,2D,original,regular,2026-03-20T08:45:46.356702
+2026-03-20,,lublin,"Reminders of Him. Cząstka Ciebie, którą znam",Lublin - Felicity,21:00,2D,original,regular,2026-03-20T08:45:46.356711
+2026-03-20,,lublin,Projekt Hail Mary,Lublin - Felicity,21:40,4DX,original,regular,2026-03-20T08:45:46.356719
+2026-03-20,,lublin,Pojedynek,Lublin - Felicity,21:50,2D,original,regular,2026-03-20T08:45:46.356727
+2026-03-20,,lublin,Wichrowe wzgórza,Lublin - Felicity,21:50,2D,original,regular,2026-03-20T08:45:46.356736
+2026-03-20,,lublin,Piep*zyć Mickiewicza 3,Lublin - Felicity,22:10,2D,original,regular,2026-03-20T08:45:46.356745
+2026-03-20,,lublin,Ostatnia sesja w Paryżu,Lublin - Felicity,22:30,2D,original,regular,2026-03-20T08:45:46.356754
+2026-03-20,,lublin,Za duży na bajki 3,Lublin - Plaza,10:00,2D,original,regular,2026-03-20T08:45:48.060912
+2026-03-20,,lublin,Za duży na bajki 3,Lublin - Plaza,10:30,2D,original,regular,2026-03-20T08:45:48.060939
+2026-03-20,,lublin,Fleak. Futrzak i ja,Lublin - Plaza,11:00,2D,,regular,2026-03-20T08:45:48.060953
+2026-03-20,,lublin,Hopnięci,Lublin - Plaza,11:15,2D,original,regular,2026-03-20T08:45:48.060967
+2026-03-20,,lublin,Zwierzogród 2,Lublin - Plaza,11:45,2D,original,regular,2026-03-20T08:45:48.060983
+2026-03-20,,lublin,Projekt Hail Mary,Lublin - Plaza,12:00,2D,original,regular,2026-03-20T08:45:48.060996
+2026-03-20,,lublin,Ostatnia wieczerza,Lublin - Plaza,12:15,2D,original,regular,2026-03-20T08:45:48.061007
+2026-03-20,,lublin,Za duży na bajki 3,Lublin - Plaza,12:30,2D,original,regular,2026-03-20T08:45:48.061018
+2026-03-20,,lublin,Pojedynek,Lublin - Plaza,12:30,2D,original,regular,2026-03-20T08:45:48.061029
+2026-03-20,,lublin,Testament Ann Lee,Lublin - Plaza,13:00,2D,original,regular,2026-03-20T08:45:48.061042
+2026-03-20,,lublin,Pan Ryba,Lublin - Plaza,13:10,2D,,regular,2026-03-20T08:45:48.061055
+2026-03-20,,lublin,Hopnięci,Lublin - Plaza,13:45,2D,original,regular,2026-03-20T08:45:48.061068
+2026-03-20,,lublin,Piep*zyć Mickiewicza 3,Lublin - Plaza,14:20,2D,original,regular,2026-03-20T08:45:48.061079
+2026-03-20,,lublin,"Reminders of Him. Cząstka Ciebie, którą znam",Lublin - Plaza,14:40,2D,original,regular,2026-03-20T08:45:48.061091
+2026-03-20,,lublin,Za duży na bajki 3,Lublin - Plaza,15:00,2D,original,regular,2026-03-20T08:45:48.061101
+2026-03-20,,lublin,Angel's Egg,Lublin - Plaza,15:10,2D,original,regular,2026-03-20T08:45:48.061113
+2026-03-20,,lublin,Projekt Hail Mary,Lublin - Plaza,15:15,2D,original,regular,2026-03-20T08:45:48.061125
+2026-03-20,,lublin,Fleak. Futrzak i ja,Lublin - Plaza,15:30,2D,,regular,2026-03-20T08:45:48.061135
+2026-03-20,,lublin,Wichrowe wzgórza,Lublin - Plaza,16:00,2D,original,regular,2026-03-20T08:45:48.061147
+2026-03-20,,lublin,Hopnięci,Lublin - Plaza,16:10,2D,original,regular,2026-03-20T08:45:48.061159
+2026-03-20,,lublin,Dobry chłopiec,Lublin - Plaza,16:40,2D,original,regular,2026-03-20T08:45:48.061170
+2026-03-20,,lublin,Za duży na bajki 3,Lublin - Plaza,17:15,2D,original,regular,2026-03-20T08:45:48.061181
+2026-03-20,,lublin,Projekt Hail Mary ukraiński dubbing,Lublin - Plaza,17:30,2D,dubbing,regular,2026-03-20T08:45:48.061193
+2026-03-20,,lublin,Pan Ryba,Lublin - Plaza,17:40,2D,,regular,2026-03-20T08:45:48.061204
+2026-03-20,,lublin,Król dopalaczy,Lublin - Plaza,17:50,2D,original,regular,2026-03-20T08:45:48.061215
+2026-03-20,,lublin,Projekt Hail Mary,Lublin - Plaza,18:30,2D,original,regular,2026-03-20T08:45:48.061228
+2026-03-20,,lublin,Hopnięci,Lublin - Plaza,18:40,2D,original,regular,2026-03-20T08:45:48.061241
+2026-03-20,,lublin,Grzesznicy,Lublin - Plaza,19:00,2D,original,regular,2026-03-20T08:45:48.061253
+2026-03-20,,lublin,Baw się dobrze i przeżyj,Lublin - Plaza,19:15,2D,original,regular,2026-03-20T08:45:48.061267
+2026-03-20,,lublin,"Reminders of Him. Cząstka Ciebie, którą znam",Lublin - Plaza,19:20,2D,original,regular,2026-03-20T08:45:48.061277
+2026-03-20,,lublin,Ostatnia sesja w Paryżu,Lublin - Plaza,20:00,2D,original,regular,2026-03-20T08:45:48.061286
+2026-03-20,,lublin,Król dopalaczy,Lublin - Plaza,20:30,2D,original,regular,2026-03-20T08:45:48.061295
+2026-03-20,,lublin,Bez wyjścia,Lublin - Plaza,20:50,2D,original,regular,2026-03-20T08:45:48.061306
+2026-03-20,,lublin,Wartość sentymentalna,Lublin - Plaza,21:10,2D,original,regular,2026-03-20T08:45:48.061316
+2026-03-20,,lublin,Projekt Hail Mary,Lublin - Plaza,21:45,2D,original,regular,2026-03-20T08:45:48.061326
+2026-03-20,,lublin,Panna młoda!,Lublin - Plaza,22:00,2D,original,regular,2026-03-20T08:45:48.061337
+2026-03-20,,lublin,Baw się dobrze i przeżyj,Lublin - Plaza,22:00,2D,original,regular,2026-03-20T08:45:48.061347
+2026-03-20,,lublin,Krzyk 7,Lublin - Plaza,22:00,2D,original,regular,2026-03-20T08:45:48.061356
+2026-03-20,,lublin,Ostatnia sesja w Paryżu,Lublin - Plaza,22:30,2D,original,regular,2026-03-20T08:45:48.061366
+2026-03-20,,łódź,Psoty,Łódź Manufaktura,10:00,2D,original,regular,2026-03-20T08:45:50.018262
+2026-03-20,,łódź,Hopnięci,Łódź Manufaktura,10:00,2D,original,regular,2026-03-20T08:45:50.018290
+2026-03-20,,łódź,Pojedynek,Łódź Manufaktura,10:00,2D,original,regular,2026-03-20T08:45:50.018303
+2026-03-20,,łódź,Wielki Marty,Łódź Manufaktura,10:00,2D,original,regular,2026-03-20T08:45:50.018315
+2026-03-20,,łódź,Zmiennokształtni 2,Łódź Manufaktura,10:10,2D,,regular,2026-03-20T08:45:50.018327
+2026-03-20,,łódź,Projekt Hail Mary,Łódź Manufaktura,10:20,2D,original,regular,2026-03-20T08:45:50.018339
+2026-03-20,,łódź,Hopnięci,Łódź Manufaktura,10:20,4DX,original,regular,2026-03-20T08:45:50.018348
+2026-03-20,,łódź,Piep*zyć Mickiewicza 3,Łódź Manufaktura,10:40,2D,original,regular,2026-03-20T08:45:50.018359
+2026-03-20,,łódź,Za duży na bajki 3,Łódź Manufaktura,11:00,2D,original,regular,2026-03-20T08:45:50.018370
+2026-03-20,,łódź,Projekt Hail Mary,Łódź Manufaktura,11:30,IMAX,original,regular,2026-03-20T08:45:50.018377
+2026-03-20,,łódź,Za duży na bajki 3,Łódź Manufaktura,11:30,2D,original,regular,2026-03-20T08:45:50.018387
+2026-03-20,,łódź,Szybcy i sprytni,Łódź Manufaktura,11:50,2D,,regular,2026-03-20T08:45:50.018398
+2026-03-20,,łódź,Fleak. Futrzak i ja,Łódź Manufaktura,12:20,2D,,regular,2026-03-20T08:45:50.018409
+2026-03-20,,łódź,Zwierzogród 2,Łódź Manufaktura,12:30,2D,original,regular,2026-03-20T08:45:50.018422
+2026-03-20,,łódź,Bez wyjścia,Łódź Manufaktura,12:40,2D,original,regular,2026-03-20T08:45:50.018434
+2026-03-20,,łódź,Hopnięci,Łódź Manufaktura,12:40,2D,original,regular,2026-03-20T08:45:50.018445
+2026-03-20,,łódź,Hopnięci,Łódź Manufaktura,12:50,4DX,original,regular,2026-03-20T08:45:50.018453
+2026-03-20,,łódź,Pan Ryba,Łódź Manufaktura,12:50,2D,,regular,2026-03-20T08:45:50.018463
+2026-03-20,,łódź,Król dopalaczy,Łódź Manufaktura,12:50,2D,original,regular,2026-03-20T08:45:50.018474
+2026-03-20,,łódź,Za duży na bajki 3,Łódź Manufaktura,13:00,2D,original,regular,2026-03-20T08:45:50.018483
+2026-03-20,,łódź,Ostatnia sesja w Paryżu,Łódź Manufaktura,13:00,2D,original,regular,2026-03-20T08:45:50.018494
+2026-03-20,,łódź,Hopnięci ukraiński dubbing,Łódź Manufaktura,13:15,2D,dubbing,regular,2026-03-20T08:45:50.018505
+2026-03-20,,łódź,Hopnięci,Łódź Manufaktura,13:30,2D,original,regular,2026-03-20T08:45:50.018516
+2026-03-20,,łódź,Projekt Hail Mary,Łódź Manufaktura,13:40,2D,original,regular,2026-03-20T08:45:50.018526
+2026-03-20,,łódź,Testament Ann Lee,Łódź Manufaktura,13:40,2D,original,regular,2026-03-20T08:45:50.018538
+2026-03-20,,łódź,Krzyk 7,Łódź Manufaktura,14:00,2D,original,regular,2026-03-20T08:45:50.018548
+2026-03-20,,łódź,Fleak. Futrzak i ja,Łódź Manufaktura,14:30,2D,,regular,2026-03-20T08:45:50.018558
+2026-03-20,,łódź,Projekt Hail Mary,Łódź Manufaktura,14:50,IMAX,original,regular,2026-03-20T08:45:50.018565
+2026-03-20,,łódź,Wichrowe wzgórza,Łódź Manufaktura,15:00,2D,original,regular,2026-03-20T08:45:50.018576
+2026-03-20,,łódź,Za duży na bajki 3,Łódź Manufaktura,15:05,2D,original,regular,2026-03-20T08:45:50.018585
+2026-03-20,,łódź,Pan Ryba,Łódź Manufaktura,15:10,2D,,regular,2026-03-20T08:45:50.018595
+2026-03-20,,łódź,Hopnięci,Łódź Manufaktura,15:15,2D,original,regular,2026-03-20T08:45:50.018605
+2026-03-20,,łódź,Projekt Hail Mary,Łódź Manufaktura,15:20,4DX,original,regular,2026-03-20T08:45:50.018614
+2026-03-20,,łódź,Nie ma duchów w mieszkaniu na Dobrej,Łódź Manufaktura,15:30,2D,original,regular,2026-03-20T08:45:50.018624
+2026-03-20,,łódź,Król dopalaczy,Łódź Manufaktura,15:30,2D,original,regular,2026-03-20T08:45:50.018634
+2026-03-20,,łódź,Ostatnia wieczerza,Łódź Manufaktura,15:40,2D,original,regular,2026-03-20T08:45:50.018644
+2026-03-20,,łódź,Alpha,Łódź Manufaktura,15:50,2D,original,regular,2026-03-20T08:45:50.018655
+2026-03-20,,łódź,Hopnięci,Łódź Manufaktura,16:00,2D,original,regular,2026-03-20T08:45:50.018665
+2026-03-20,,łódź,Krzyk 7,Łódź Manufaktura,16:30,2D,original,regular,2026-03-20T08:45:50.018675
+2026-03-20,,łódź,Baw się dobrze i przeżyj,Łódź Manufaktura,16:40,2D,original,regular,2026-03-20T08:45:50.018686
+2026-03-20,,łódź,Dobry chłopiec,Łódź Manufaktura,16:50,2D,original,regular,2026-03-20T08:45:50.018697
+2026-03-20,,łódź,Projekt Hail Mary,Łódź Manufaktura,17:00,2D,original,regular,2026-03-20T08:45:50.018708
+2026-03-20,,łódź,Za duży na bajki 3,Łódź Manufaktura,17:10,2D,original,regular,2026-03-20T08:45:50.018717
+2026-03-20,,łódź,"Miłość, która zostaje",Łódź Manufaktura,17:30,2D,original,regular,2026-03-20T08:45:50.018729
+2026-03-20,,łódź,"Reminders of Him. Cząstka Ciebie, którą znam",Łódź Manufaktura,17:45,2D,original,regular,2026-03-20T08:45:50.018739
+2026-03-20,,łódź,Angel's Egg,Łódź Manufaktura,17:50,2D,original,regular,2026-03-20T08:45:50.018750
+2026-03-20,,łódź,Piep*zyć Mickiewicza 3,Łódź Manufaktura,18:00,2D,original,regular,2026-03-20T08:45:50.018760
+2026-03-20,,łódź,Wartość sentymentalna,Łódź Manufaktura,18:00,2D,original,regular,2026-03-20T08:45:50.018771
+2026-03-20,,łódź,Projekt Hail Mary,Łódź Manufaktura,18:10,IMAX,original,regular,2026-03-20T08:45:50.018778
+2026-03-20,,łódź,Król dopalaczy,Łódź Manufaktura,18:10,2D,original,regular,2026-03-20T08:45:50.018788
+2026-03-20,,łódź,Hopnięci,Łódź Manufaktura,18:20,2D,original,regular,2026-03-20T08:45:50.018799
+2026-03-20,,łódź,Projekt Hail Mary,Łódź Manufaktura,18:40,4DX,original,regular,2026-03-20T08:45:50.018807
+2026-03-20,,łódź,Bez wyjścia,Łódź Manufaktura,18:40,2D,original,regular,2026-03-20T08:45:50.018817
+2026-03-20,,łódź,Grzesznicy,Łódź Manufaktura,19:00,2D,original,regular,2026-03-20T08:45:50.018827
+2026-03-20,,łódź,Za duży na bajki 3,Łódź Manufaktura,19:15,2D,original,regular,2026-03-20T08:45:50.018850
+2026-03-20,,łódź,Projekt Hail Mary ukraiński dubbing,Łódź Manufaktura,19:30,2D,dubbing,regular,2026-03-20T08:45:50.018862
+2026-03-20,,łódź,Baw się dobrze i przeżyj,Łódź Manufaktura,19:30,2D,original,regular,2026-03-20T08:45:50.018872
+2026-03-20,,łódź,Ostatnia sesja w Paryżu,Łódź Manufaktura,19:40,2D,original,regular,2026-03-20T08:45:50.018882
+2026-03-20,,łódź,Krzyk 7,Łódź Manufaktura,20:00,2D,original,regular,2026-03-20T08:45:50.018892
+2026-03-20,,łódź,Projekt Hail Mary,Łódź Manufaktura,20:20,2D,original,regular,2026-03-20T08:45:50.018903
+2026-03-20,,łódź,"Reminders of Him. Cząstka Ciebie, którą znam",Łódź Manufaktura,20:20,2D,original,regular,2026-03-20T08:45:50.018913
+2026-03-20,,łódź,Tajny agent,Łódź Manufaktura,20:40,2D,original,regular,2026-03-20T08:45:50.018924
+2026-03-20,,łódź,Król dopalaczy,Łódź Manufaktura,20:50,2D,original,regular,2026-03-20T08:45:50.018934
+2026-03-20,,łódź,Panna młoda!,Łódź Manufaktura,21:00,2D,original,regular,2026-03-20T08:45:50.018945
+2026-03-20,,łódź,Krzyk 7,Łódź Manufaktura,21:20,2D,original,regular,2026-03-20T08:45:50.018955
+2026-03-20,,łódź,Projekt Hail Mary,Łódź Manufaktura,21:30,IMAX,original,regular,2026-03-20T08:45:50.018962
+2026-03-20,,łódź,Wichrowe wzgórza,Łódź Manufaktura,21:40,2D,original,regular,2026-03-20T08:45:50.018972
+2026-03-20,,łódź,Projekt Hail Mary,Łódź Manufaktura,22:00,4DX,original,regular,2026-03-20T08:45:50.018981
+2026-03-20,,łódź,Krzyk 7,Łódź Manufaktura,22:00,2D,original,regular,2026-03-20T08:45:50.018990
+2026-03-20,,łódź,Ostatnia sesja w Paryżu,Łódź Manufaktura,22:10,2D,original,regular,2026-03-20T08:45:50.019001
+2026-03-20,,łódź,Baw się dobrze i przeżyj,Łódź Manufaktura,22:20,2D,original,regular,2026-03-20T08:45:50.019010
+2026-03-20,,poznań,Za duży na bajki 3,Poznań - Kinepolis,10:00,2D,original,regular,2026-03-20T08:45:51.853974
+2026-03-20,,poznań,Hopnięci,Poznań - Kinepolis,10:00,2D,original,regular,2026-03-20T08:45:51.853999
+2026-03-20,,poznań,Projekt Hail Mary,Poznań - Kinepolis,12:00,2D,original,regular,2026-03-20T08:45:51.854012
+2026-03-20,,poznań,Wielka mała koza,Poznań - Kinepolis,12:00,2D,,regular,2026-03-20T08:45:51.854024
+2026-03-20,,poznań,Pan Ryba,Poznań - Kinepolis,12:20,2D,,regular,2026-03-20T08:45:51.854034
+2026-03-20,,poznań,Hopnięci,Poznań - Kinepolis,12:20,2D,original,regular,2026-03-20T08:45:51.854045
+2026-03-20,,poznań,Kicia Kocia w podróży,Poznań - Kinepolis,12:30,2D,,regular,2026-03-20T08:45:51.854055
+2026-03-20,,poznań,Zmiennokształtni 2,Poznań - Kinepolis,12:40,2D,,regular,2026-03-20T08:45:51.854066
+2026-03-20,,poznań,Projekt Hail Mary,Poznań - Kinepolis,12:50,2D,original,regular,2026-03-20T08:45:51.854076
+2026-03-20,,poznań,Fleak. Futrzak i ja,Poznań - Kinepolis,12:50,2D,,regular,2026-03-20T08:45:51.854085
+2026-03-20,,poznań,Wichrowe wzgórza,Poznań - Kinepolis,12:50,2D,original,regular,2026-03-20T08:45:51.854095
+2026-03-20,,poznań,Hopnięci,Poznań - Kinepolis,14:00,2D,original,regular,2026-03-20T08:45:51.854106
+2026-03-20,,poznań,Za duży na bajki 3,Poznań - Kinepolis,14:30,2D,original,regular,2026-03-20T08:45:51.854115
+2026-03-20,,poznań,Pan Ryba,Poznań - Kinepolis,14:40,2D,,regular,2026-03-20T08:45:51.854124
+2026-03-20,,poznań,Hopnięci,Poznań - Kinepolis,14:50,2D,original,regular,2026-03-20T08:45:51.854134
+2026-03-20,,poznań,Fleak. Futrzak i ja,Poznań - Kinepolis,15:00,2D,,regular,2026-03-20T08:45:51.854142
+2026-03-20,,poznań,Król dopalaczy,Poznań - Kinepolis,15:10,2D,original,regular,2026-03-20T08:45:51.854152
+2026-03-20,,poznań,Projekt Hail Mary,Poznań - Kinepolis,15:15,2D,original,regular,2026-03-20T08:45:51.854162
+2026-03-20,,poznań,Wichrowe wzgórza,Poznań - Kinepolis,15:50,2D,original,regular,2026-03-20T08:45:51.854172
+2026-03-20,,poznań,Wichrowe wzgórza,Poznań - Kinepolis,16:00,2D,original,regular,2026-03-20T08:45:51.854181
+2026-03-20,,poznań,Ostatnia wieczerza,Poznań - Kinepolis,16:00,2D,original,regular,2026-03-20T08:45:51.854190
+2026-03-20,,poznań,Pan Ryba,Poznań - Kinepolis,16:00,2D,,regular,2026-03-20T08:45:51.854199
+2026-03-20,,poznań,Nie ma duchów w mieszkaniu na Dobrej,Poznań - Kinepolis,16:00,2D,original,regular,2026-03-20T08:45:51.854208
+2026-03-20,,poznań,Projekt Hail Mary,Poznań - Kinepolis,16:10,2D,original,regular,2026-03-20T08:45:51.854218
+2026-03-20,,poznań,Ostatnia sesja w Paryżu,Poznań - Kinepolis,16:20,2D,original,regular,2026-03-20T08:45:51.854227
+2026-03-20,,poznań,Zwierzogród 2,Poznań - Kinepolis,16:30,2D,original,regular,2026-03-20T08:45:51.854239
+2026-03-20,,poznań,Hopnięci,Poznań - Kinepolis,16:30,2D,original,regular,2026-03-20T08:45:51.854249
+2026-03-20,,poznań,Pojedynek,Poznań - Kinepolis,16:40,2D,original,regular,2026-03-20T08:45:51.854258
+2026-03-20,,poznań,Avatar: Ogień i popiół,Poznań - Kinepolis,16:50,3D,original,regular,2026-03-20T08:45:51.854268
+2026-03-20,,poznań,Testament Ann Lee,Poznań - Kinepolis,17:00,2D,original,regular,2026-03-20T08:45:51.854278
+2026-03-20,,poznań,Angel's Egg,Poznań - Kinepolis,17:00,2D,original,regular,2026-03-20T08:45:51.854287
+2026-03-20,,poznań,Król dopalaczy,Poznań - Kinepolis,17:10,2D,original,regular,2026-03-20T08:45:51.854296
+2026-03-20,,poznań,Za duży na bajki 3,Poznań - Kinepolis,17:10,2D,original,regular,2026-03-20T08:45:51.854305
+2026-03-20,,poznań,Krzyk 7,Poznań - Kinepolis,17:20,2D,original,regular,2026-03-20T08:45:51.854315
+2026-03-20,,poznań,Król dopalaczy,Poznań - Kinepolis,17:50,2D,original,regular,2026-03-20T08:45:51.854324
+2026-03-20,,poznań,"Miłość, która zostaje",Poznań - Kinepolis,18:10,2D,original,regular,2026-03-20T08:45:51.854335
+2026-03-20,,poznań,Piep*zyć Mickiewicza 3,Poznań - Kinepolis,18:20,2D,original,regular,2026-03-20T08:45:51.854343
+2026-03-20,,poznań,Projekt Hail Mary,Poznań - Kinepolis,18:30,2D,original,regular,2026-03-20T08:45:51.854353
+2026-03-20,,poznań,Bez wyjścia,Poznań - Kinepolis,18:30,2D,original,regular,2026-03-20T08:45:51.854363
+2026-03-20,,poznań,Ostatnia sesja w Paryżu,Poznań - Kinepolis,18:50,2D,original,regular,2026-03-20T08:45:51.854372
+2026-03-20,,poznań,Baw się dobrze i przeżyj,Poznań - Kinepolis,18:50,2D,original,regular,2026-03-20T08:45:51.854381
+2026-03-20,,poznań,Dalej jazda 2,Poznań - Kinepolis,18:50,2D,original,regular,2026-03-20T08:45:51.854393
+2026-03-20,,poznań,Grzesznicy,Poznań - Kinepolis,19:00,2D,original,regular,2026-03-20T08:45:51.854402
+2026-03-20,,poznań,Wartość sentymentalna,Poznań - Kinepolis,19:00,2D,original,regular,2026-03-20T08:45:51.854412
+2026-03-20,,poznań,Hopnięci,Poznań - Kinepolis,19:00,2D,original,regular,2026-03-20T08:45:51.854422
+2026-03-20,,poznań,Tajny agent,Poznań - Kinepolis,19:10,2D,original,regular,2026-03-20T08:45:51.854432
+2026-03-20,,poznań,Za duży na bajki 3,Poznań - Kinepolis,19:20,2D,original,regular,2026-03-20T08:45:51.854441
+2026-03-20,,poznań,Projekt Hail Mary,Poznań - Kinepolis,19:30,2D,original,regular,2026-03-20T08:45:51.854451
+2026-03-20,,poznań,Król dopalaczy,Poznań - Kinepolis,19:50,2D,original,regular,2026-03-20T08:45:51.854459
+2026-03-20,,poznań,Alpha,Poznań - Kinepolis,20:00,2D,original,regular,2026-03-20T08:45:51.854468
+2026-03-20,,poznań,Dobry chłopiec,Poznań - Kinepolis,20:00,2D,original,regular,2026-03-20T08:45:51.854478
+2026-03-20,,poznań,Dhurandhar The Revenge,Poznań - Kinepolis,20:30,2D,original,regular,2026-03-20T08:45:51.854487
+2026-03-20,,poznań,Król dopalaczy,Poznań - Kinepolis,20:30,2D,original,regular,2026-03-20T08:45:51.854496
+2026-03-20,,poznań,"Reminders of Him. Cząstka Ciebie, którą znam",Poznań - Kinepolis,20:40,2D,original,regular,2026-03-20T08:45:51.854505
+2026-03-20,,poznań,Projekt Hail Mary,Poznań - Kinepolis,20:50,2D,original,regular,2026-03-20T08:45:51.854515
+2026-03-20,,poznań,Ostatnia sesja w Paryżu,Poznań - Kinepolis,21:20,2D,original,regular,2026-03-20T08:45:51.854523
+2026-03-20,,poznań,Dalej jazda 2,Poznań - Kinepolis,21:20,2D,original,regular,2026-03-20T08:45:51.854532
+2026-03-20,,poznań,Dobry chłopiec,Poznań - Kinepolis,21:30,2D,original,regular,2026-03-20T08:45:51.854542
+2026-03-20,,poznań,Krzyk 7,Poznań - Kinepolis,21:30,2D,original,regular,2026-03-20T08:45:51.854550
+2026-03-20,,poznań,Hopnięci,Poznań - Kinepolis,21:30,2D,original,regular,2026-03-20T08:45:51.854561
+2026-03-20,,poznań,Baw się dobrze i przeżyj,Poznań - Kinepolis,21:40,2D,original,regular,2026-03-20T08:45:51.854570
+2026-03-20,,poznań,Projekt Hail Mary,Poznań - Kinepolis,21:45,2D,original,regular,2026-03-20T08:45:51.854579
+2026-03-20,,poznań,Panna młoda!,Poznań - Kinepolis,22:00,2D,original,regular,2026-03-20T08:45:51.854589
+2026-03-20,,poznań,Wichrowe wzgórza,Poznań - Kinepolis,22:00,2D,original,regular,2026-03-20T08:45:51.854599
+2026-03-20,,poznań,Król dopalaczy,Poznań - Kinepolis,22:30,2D,original,regular,2026-03-20T08:45:51.854607
+2026-03-20,,poznań,Dźwięk śmierci,Poznań - Kinepolis,22:30,2D,original,regular,2026-03-20T08:45:51.854617
+2026-03-20,,poznań,Za duży na bajki 3,Poznań - Plaza,10:00,2D,original,regular,2026-03-20T08:45:53.705056
+2026-03-20,,poznań,Kicia Kocia w podróży,Poznań - Plaza,10:10,2D,,regular,2026-03-20T08:45:53.705080
+2026-03-20,,poznań,Projekt Hail Mary,Poznań - Plaza,10:20,2D,original,regular,2026-03-20T08:45:53.705093
+2026-03-20,,poznań,Pan Ryba,Poznań - Plaza,10:50,2D,,regular,2026-03-20T08:45:53.705103
+2026-03-20,,poznań,Za duży na bajki 3,Poznań - Plaza,11:00,2D,original,regular,2026-03-20T08:45:53.705112
+2026-03-20,,poznań,Projekt Hail Mary,Poznań - Plaza,11:30,IMAX,original,regular,2026-03-20T08:45:53.705119
+2026-03-20,,poznań,Hopnięci,Poznań - Plaza,11:30,2D,original,regular,2026-03-20T08:45:53.705130
+2026-03-20,,poznań,Piep*zyć Mickiewicza 3,Poznań - Plaza,11:40,2D,original,regular,2026-03-20T08:45:53.705140
+2026-03-20,,poznań,Kicia Kocia w podróży,Poznań - Plaza,11:45,2D,,regular,2026-03-20T08:45:53.705149
+2026-03-20,,poznań,Za duży na bajki 3,Poznań - Plaza,12:10,2D,original,regular,2026-03-20T08:45:53.705157
+2026-03-20,,poznań,Hopnięci,Poznań - Plaza,12:50,2D,original,regular,2026-03-20T08:45:53.705167
+2026-03-20,,poznań,Pan Ryba,Poznań - Plaza,13:10,2D,,regular,2026-03-20T08:45:53.705176
+2026-03-20,,poznań,Pojedynek,Poznań - Plaza,13:20,2D,original,regular,2026-03-20T08:45:53.705185
+2026-03-20,,poznań,Projekt Hail Mary,Poznań - Plaza,13:40,2D,original,regular,2026-03-20T08:45:53.705195
+2026-03-20,,poznań,Hopnięci ukraiński dubbing,Poznań - Plaza,13:50,2D,dubbing,regular,2026-03-20T08:45:53.705205
+2026-03-20,,poznań,"Reminders of Him. Cząstka Ciebie, którą znam",Poznań - Plaza,13:50,2D,original,regular,2026-03-20T08:45:53.705215
+2026-03-20,,poznań,Testament Ann Lee,Poznań - Plaza,14:00,2D,original,regular,2026-03-20T08:45:53.705226
+2026-03-20,,poznań,Hopnięci,Poznań - Plaza,14:00,2D,original,regular,2026-03-20T08:45:53.705236
+2026-03-20,,poznań,Za duży na bajki 3,Poznań - Plaza,14:20,2D,original,regular,2026-03-20T08:45:53.705245
+2026-03-20,,poznań,Projekt Hail Mary,Poznań - Plaza,14:50,IMAX,original,regular,2026-03-20T08:45:53.705251
+2026-03-20,,poznań,Hopnięci,Poznań - Plaza,15:20,2D,original,regular,2026-03-20T08:45:53.705261
+2026-03-20,,poznań,Król dopalaczy,Poznań - Plaza,15:30,2D,original,regular,2026-03-20T08:45:53.705270
+2026-03-20,,poznań,Panna młoda!,Poznań - Plaza,16:00,2D,original,regular,2026-03-20T08:45:53.705281
+2026-03-20,,poznań,Dobry chłopiec,Poznań - Plaza,16:20,2D,original,regular,2026-03-20T08:45:53.705291
+2026-03-20,,poznań,Wichrowe wzgórza,Poznań - Plaza,16:20,2D,original,regular,2026-03-20T08:45:53.705301
+2026-03-20,,poznań,Hopnięci,Poznań - Plaza,16:30,2D,original,regular,2026-03-20T08:45:53.705311
+2026-03-20,,poznań,Za duży na bajki 3,Poznań - Plaza,16:40,2D,original,regular,2026-03-20T08:45:53.705320
+2026-03-20,,poznań,Projekt Hail Mary,Poznań - Plaza,17:00,2D,original,regular,2026-03-20T08:45:53.705330
+2026-03-20,,poznań,Wartość sentymentalna,Poznań - Plaza,17:00,2D,original,regular,2026-03-20T08:45:53.705341
+2026-03-20,,poznań,Angel's Egg,Poznań - Plaza,17:50,2D,original,regular,2026-03-20T08:45:53.705351
+2026-03-20,,poznań,Król dopalaczy,Poznań - Plaza,18:00,2D,original,regular,2026-03-20T08:45:53.705360
+2026-03-20,,poznań,Projekt Hail Mary,Poznań - Plaza,18:10,IMAX,original,regular,2026-03-20T08:45:53.705366
+2026-03-20,,poznań,Baw się dobrze i przeżyj,Poznań - Plaza,18:45,2D,original,regular,2026-03-20T08:45:53.705377
+2026-03-20,,poznań,Za duży na bajki 3,Poznań - Plaza,18:50,2D,original,regular,2026-03-20T08:45:53.705386
+2026-03-20,,poznań,Grzesznicy,Poznań - Plaza,19:00,2D,original,regular,2026-03-20T08:45:53.705396
+2026-03-20,,poznań,Projekt Hail Mary ukraiński dubbing,Poznań - Plaza,19:00,2D,dubbing,regular,2026-03-20T08:45:53.705406
+2026-03-20,,poznań,"Reminders of Him. Cząstka Ciebie, którą znam",Poznań - Plaza,19:20,2D,original,regular,2026-03-20T08:45:53.705416
+2026-03-20,,poznań,Krzyk 7,Poznań - Plaza,19:50,2D,original,regular,2026-03-20T08:45:53.705426
+2026-03-20,,poznań,Ostatnia sesja w Paryżu,Poznań - Plaza,20:00,2D,original,regular,2026-03-20T08:45:53.705436
+2026-03-20,,poznań,Projekt Hail Mary,Poznań - Plaza,20:20,2D,original,regular,2026-03-20T08:45:53.705446
+2026-03-20,,poznań,Król dopalaczy,Poznań - Plaza,20:30,2D,original,regular,2026-03-20T08:45:53.705455
+2026-03-20,,poznań,Bez wyjścia,Poznań - Plaza,21:00,2D,original,regular,2026-03-20T08:45:53.705465
+2026-03-20,,poznań,Projekt Hail Mary,Poznań - Plaza,21:30,IMAX,original,regular,2026-03-20T08:45:53.705472
+2026-03-20,,poznań,Panna młoda!,Poznań - Plaza,21:40,2D,original,regular,2026-03-20T08:45:53.705482
+2026-03-20,,poznań,Wichrowe wzgórza,Poznań - Plaza,22:00,2D,original,regular,2026-03-20T08:45:53.705492
+2026-03-20,,poznań,Hopnięci,Poznań - Plaza,22:00,2D,original,regular,2026-03-20T08:45:53.705502
+2026-03-20,,poznań,Dobry chłopiec,Poznań - Plaza,22:20,2D,original,regular,2026-03-20T08:45:53.705512
+2026-03-20,,poznań,Krzyk 7,Poznań - Plaza,22:30,2D,original,regular,2026-03-20T08:45:53.705521
+2026-03-20,,poznań,Ostatnia sesja w Paryżu,Poznań - Plaza,22:30,2D,original,regular,2026-03-20T08:45:53.705530
+2026-03-20,,ruda-śląska,Za duży na bajki 3,Ruda Śląska,10:00,2D,original,regular,2026-03-20T08:45:55.542543
+2026-03-20,,ruda-śląska,Hopnięci,Ruda Śląska,10:00,2D,original,regular,2026-03-20T08:45:55.542569
+2026-03-20,,ruda-śląska,Za duży na bajki 3,Ruda Śląska,11:00,2D,original,regular,2026-03-20T08:45:55.542580
+2026-03-20,,ruda-śląska,Fleak. Futrzak i ja,Ruda Śląska,11:45,2D,,regular,2026-03-20T08:45:55.542590
+2026-03-20,,ruda-śląska,Testament Ann Lee,Ruda Śląska,12:20,2D,original,regular,2026-03-20T08:45:55.542600
+2026-03-20,,ruda-śląska,Za duży na bajki 3,Ruda Śląska,12:30,2D,original,regular,2026-03-20T08:45:55.542609
+2026-03-20,,ruda-śląska,Król dopalaczy,Ruda Śląska,12:45,2D,original,regular,2026-03-20T08:45:55.542618
+2026-03-20,,ruda-śląska,Hopnięci,Ruda Śląska,13:10,2D,original,regular,2026-03-20T08:45:55.542628
+2026-03-20,,ruda-śląska,Dobry chłopiec,Ruda Śląska,13:20,2D,original,regular,2026-03-20T08:45:55.542638
+2026-03-20,,ruda-śląska,Projekt Hail Mary,Ruda Śląska,13:40,2D,original,regular,2026-03-20T08:45:55.542648
+2026-03-20,,ruda-śląska,Piep*zyć Mickiewicza 3,Ruda Śląska,13:50,2D,original,regular,2026-03-20T08:45:55.542657
+2026-03-20,,ruda-śląska,Pan Ryba,Ruda Śląska,14:20,2D,,regular,2026-03-20T08:45:55.542666
+2026-03-20,,ruda-śląska,Za duży na bajki 3,Ruda Śląska,14:45,2D,original,regular,2026-03-20T08:45:55.542674
+2026-03-20,,ruda-śląska,Król dopalaczy,Ruda Śląska,15:20,2D,original,regular,2026-03-20T08:45:55.542683
+2026-03-20,,ruda-śląska,Fleak. Futrzak i ja,Ruda Śląska,15:30,2D,,regular,2026-03-20T08:45:55.542691
+2026-03-20,,ruda-śląska,Hopnięci,Ruda Śląska,15:40,2D,original,regular,2026-03-20T08:45:55.542700
+2026-03-20,,ruda-śląska,Wartość sentymentalna,Ruda Śląska,15:50,2D,original,regular,2026-03-20T08:45:55.542710
+2026-03-20,,ruda-śląska,Bez wyjścia,Ruda Śląska,16:10,2D,original,regular,2026-03-20T08:45:55.542720
+2026-03-20,,ruda-śląska,Pan Ryba,Ruda Śląska,16:40,2D,,regular,2026-03-20T08:45:55.542729
+2026-03-20,,ruda-śląska,Projekt Hail Mary,Ruda Śląska,17:00,2D,original,regular,2026-03-20T08:45:55.542738
+2026-03-20,,ruda-śląska,Za duży na bajki 3,Ruda Śląska,17:00,2D,original,regular,2026-03-20T08:45:55.542746
+2026-03-20,,ruda-śląska,Krzyk 7,Ruda Śląska,17:40,2D,original,regular,2026-03-20T08:45:55.542755
+2026-03-20,,ruda-śląska,Król dopalaczy,Ruda Śląska,18:00,2D,original,regular,2026-03-20T08:45:55.542763
+2026-03-20,,ruda-śląska,Hopnięci,Ruda Śląska,18:20,2D,original,regular,2026-03-20T08:45:55.542773
+2026-03-20,,ruda-śląska,Ostatnia sesja w Paryżu,Ruda Śląska,18:50,2D,original,regular,2026-03-20T08:45:55.542782
+2026-03-20,,ruda-śląska,Grzesznicy,Ruda Śląska,19:00,2D,original,regular,2026-03-20T08:45:55.542791
+2026-03-20,,ruda-śląska,Baw się dobrze i przeżyj,Ruda Śląska,19:10,2D,original,regular,2026-03-20T08:45:55.542800
+2026-03-20,,ruda-śląska,Za duży na bajki 3,Ruda Śląska,19:20,2D,original,regular,2026-03-20T08:45:55.542808
+2026-03-20,,ruda-śląska,Projekt Hail Mary,Ruda Śląska,20:20,2D,original,regular,2026-03-20T08:45:55.542818
+2026-03-20,,ruda-śląska,Panna młoda!,Ruda Śląska,20:30,2D,original,regular,2026-03-20T08:45:55.542828
+2026-03-20,,ruda-śląska,Król dopalaczy,Ruda Śląska,20:40,2D,original,regular,2026-03-20T08:45:55.542853
+2026-03-20,,ruda-śląska,"Reminders of Him. Cząstka Ciebie, którą znam",Ruda Śląska,20:50,2D,original,regular,2026-03-20T08:45:55.542864
+2026-03-20,,ruda-śląska,Ostatnia sesja w Paryżu,Ruda Śląska,21:20,2D,original,regular,2026-03-20T08:45:55.542872
+2026-03-20,,ruda-śląska,Dźwięk śmierci,Ruda Śląska,21:30,2D,original,regular,2026-03-20T08:45:55.542881
+2026-03-20,,ruda-śląska,Baw się dobrze i przeżyj,Ruda Śląska,22:00,2D,original,regular,2026-03-20T08:45:55.542891
+2026-03-20,,rybnik,Hopnięci,Rybnik,10:00,2D,original,regular,2026-03-20T08:45:56.938319
+2026-03-20,,rybnik,Za duży na bajki 3,Rybnik,10:00,2D,original,regular,2026-03-20T08:45:56.938344
+2026-03-20,,rybnik,Kicia Kocia w podróży,Rybnik,10:10,2D,,regular,2026-03-20T08:45:56.938355
+2026-03-20,,rybnik,Zwierzogród 2,Rybnik,10:30,2D,original,regular,2026-03-20T08:45:56.938368
+2026-03-20,,rybnik,Projekt Hail Mary,Rybnik,11:00,2D,original,regular,2026-03-20T08:45:56.938382
+2026-03-20,,rybnik,Fleak. Futrzak i ja,Rybnik,11:20,2D,,regular,2026-03-20T08:45:56.938391
+2026-03-20,,rybnik,Kicia Kocia w podróży,Rybnik,11:30,2D,,regular,2026-03-20T08:45:56.938400
+2026-03-20,,rybnik,Testament Ann Lee,Rybnik,11:40,2D,original,regular,2026-03-20T08:45:56.938410
+2026-03-20,,rybnik,Pan Ryba,Rybnik,11:45,2D,,regular,2026-03-20T08:45:56.938419
+2026-03-20,,rybnik,Hopnięci,Rybnik,12:30,2D,original,regular,2026-03-20T08:45:56.938429
+2026-03-20,,rybnik,Nie ma duchów w mieszkaniu na Dobrej,Rybnik,13:00,2D,original,regular,2026-03-20T08:45:56.938439
+2026-03-20,,rybnik,Orzełek Iggy,Rybnik,13:00,2D,,regular,2026-03-20T08:45:56.938449
+2026-03-20,,rybnik,Bez wyjścia,Rybnik,13:10,2D,original,regular,2026-03-20T08:45:56.938459
+2026-03-20,,rybnik,Fleak. Futrzak i ja,Rybnik,13:30,2D,,regular,2026-03-20T08:45:56.938467
+2026-03-20,,rybnik,Hopnięci,Rybnik,14:00,2D,original,regular,2026-03-20T08:45:56.938477
+2026-03-20,,rybnik,Projekt Hail Mary,Rybnik,14:15,2D,original,regular,2026-03-20T08:45:56.938486
+2026-03-20,,rybnik,Za duży na bajki 3,Rybnik,14:40,2D,original,regular,2026-03-20T08:45:56.938495
+2026-03-20,,rybnik,Hopnięci,Rybnik,15:00,2D,original,regular,2026-03-20T08:45:56.938504
+2026-03-20,,rybnik,Piep*zyć Mickiewicza 3,Rybnik,15:20,2D,original,regular,2026-03-20T08:45:56.938513
+2026-03-20,,rybnik,Pan Ryba,Rybnik,15:40,2D,,regular,2026-03-20T08:45:56.938522
+2026-03-20,,rybnik,Król dopalaczy,Rybnik,16:00,2D,original,regular,2026-03-20T08:45:56.938531
+2026-03-20,,rybnik,"Reminders of Him. Cząstka Ciebie, którą znam",Rybnik,16:10,2D,original,regular,2026-03-20T08:45:56.938541
+2026-03-20,,rybnik,Hopnięci,Rybnik,16:30,2D,original,regular,2026-03-20T08:45:56.938550
+2026-03-20,,rybnik,Za duży na bajki 3,Rybnik,17:00,2D,original,regular,2026-03-20T08:45:56.938558
+2026-03-20,,rybnik,Projekt Hail Mary,Rybnik,17:30,2D,original,regular,2026-03-20T08:45:56.938567
+2026-03-20,,rybnik,Hopnięci,Rybnik,17:30,2D,original,regular,2026-03-20T08:45:56.938577
+2026-03-20,,rybnik,Dobry chłopiec,Rybnik,17:40,2D,original,regular,2026-03-20T08:45:56.938586
+2026-03-20,,rybnik,Pan Ryba,Rybnik,18:10,2D,,regular,2026-03-20T08:45:56.938594
+2026-03-20,,rybnik,Król dopalaczy,Rybnik,18:40,2D,original,regular,2026-03-20T08:45:56.938602
+2026-03-20,,rybnik,"Reminders of Him. Cząstka Ciebie, którą znam",Rybnik,18:45,2D,original,regular,2026-03-20T08:45:56.938610
+2026-03-20,,rybnik,Grzesznicy,Rybnik,19:00,2D,original,regular,2026-03-20T08:45:56.938619
+2026-03-20,,rybnik,Panna młoda!,Rybnik,19:15,2D,original,regular,2026-03-20T08:45:56.938630
+2026-03-20,,rybnik,Bez wyjścia,Rybnik,20:00,2D,original,regular,2026-03-20T08:45:56.938639
+2026-03-20,,rybnik,Baw się dobrze i przeżyj,Rybnik,20:15,2D,original,regular,2026-03-20T08:45:56.938649
+2026-03-20,,rybnik,Ostatnia sesja w Paryżu,Rybnik,20:30,2D,original,regular,2026-03-20T08:45:56.938658
+2026-03-20,,rybnik,Projekt Hail Mary,Rybnik,20:50,2D,original,regular,2026-03-20T08:45:56.938667
+2026-03-20,,rybnik,Król dopalaczy,Rybnik,21:10,2D,original,regular,2026-03-20T08:45:56.938676
+2026-03-20,,rybnik,"Reminders of Him. Cząstka Ciebie, którą znam",Rybnik,21:20,2D,original,regular,2026-03-20T08:45:56.938685
+2026-03-20,,rybnik,Wichrowe wzgórza,Rybnik,22:00,2D,original,regular,2026-03-20T08:45:56.938694
+2026-03-20,,rybnik,Krzyk 7,Rybnik,22:00,2D,original,regular,2026-03-20T08:45:56.938703
+2026-03-20,,sosnowiec,Kicia Kocia w podróży,Sosnowiec,12:00,2D,,regular,2026-03-20T08:45:59.123303
+2026-03-20,,sosnowiec,Pan Ryba,Sosnowiec,12:10,2D,,regular,2026-03-20T08:45:59.123327
+2026-03-20,,sosnowiec,Wartość sentymentalna,Sosnowiec,12:30,2D,original,regular,2026-03-20T08:45:59.123339
+2026-03-20,,sosnowiec,Za duży na bajki 3,Sosnowiec,12:50,2D,original,regular,2026-03-20T08:45:59.123350
+2026-03-20,,sosnowiec,Hopnięci,Sosnowiec,13:20,2D,original,regular,2026-03-20T08:45:59.123361
+2026-03-20,,sosnowiec,Wielka mała koza,Sosnowiec,13:20,2D,,regular,2026-03-20T08:45:59.123371
+2026-03-20,,sosnowiec,Projekt Hail Mary,Sosnowiec,13:40,2D,original,regular,2026-03-20T08:45:59.123383
+2026-03-20,,sosnowiec,Pan Ryba,Sosnowiec,14:20,2D,,regular,2026-03-20T08:45:59.123391
+2026-03-20,,sosnowiec,Za duży na bajki 3,Sosnowiec,15:00,2D,original,regular,2026-03-20T08:45:59.123400
+2026-03-20,,sosnowiec,Projekt Hail Mary,Sosnowiec,15:30,2D,original,regular,2026-03-20T08:45:59.123409
+2026-03-20,,sosnowiec,Testament Ann Lee,Sosnowiec,15:35,2D,original,regular,2026-03-20T08:45:59.123420
+2026-03-20,,sosnowiec,Hopnięci,Sosnowiec,15:50,2D,original,regular,2026-03-20T08:45:59.123430
+2026-03-20,,sosnowiec,Pojedynek,Sosnowiec,16:30,2D,original,regular,2026-03-20T08:45:59.123439
+2026-03-20,,sosnowiec,Projekt Hail Mary,Sosnowiec,17:00,2D,original,regular,2026-03-20T08:45:59.123448
+2026-03-20,,sosnowiec,Za duży na bajki 3,Sosnowiec,17:05,2D,original,regular,2026-03-20T08:45:59.123456
+2026-03-20,,sosnowiec,Hopnięci,Sosnowiec,18:20,2D,original,regular,2026-03-20T08:45:59.123465
+2026-03-20,,sosnowiec,"Reminders of Him. Cząstka Ciebie, którą znam",Sosnowiec,18:30,2D,original,regular,2026-03-20T08:45:59.123476
+2026-03-20,,sosnowiec,Baw się dobrze i przeżyj,Sosnowiec,18:50,2D,original,regular,2026-03-20T08:45:59.123486
+2026-03-20,,sosnowiec,Grzesznicy,Sosnowiec,19:00,2D,original,regular,2026-03-20T08:45:59.123495
+2026-03-20,,sosnowiec,Król dopalaczy,Sosnowiec,19:10,2D,original,regular,2026-03-20T08:45:59.123504
+2026-03-20,,sosnowiec,Projekt Hail Mary,Sosnowiec,20:20,2D,original,regular,2026-03-20T08:45:59.123513
+2026-03-20,,sosnowiec,Krzyk 7,Sosnowiec,20:40,2D,original,regular,2026-03-20T08:45:59.123522
+2026-03-20,,sosnowiec,Wartość sentymentalna,Sosnowiec,21:00,2D,original,regular,2026-03-20T08:45:59.123531
+2026-03-20,,sosnowiec,Projekt Hail Mary,Sosnowiec,21:30,2D,original,regular,2026-03-20T08:45:59.123540
+2026-03-20,,sosnowiec,Król dopalaczy,Sosnowiec,21:40,2D,original,regular,2026-03-20T08:45:59.123548
+2026-03-20,,sosnowiec,Pojedynek,Sosnowiec,22:00,2D,original,regular,2026-03-20T08:45:59.123557
+2026-03-20,,gdańsk,Pan Ryba,Starogard Gdański,12:00,2D,,regular,2026-03-20T08:46:00.501473
+2026-03-20,,gdańsk,Kicia Kocia w podróży,Starogard Gdański,12:00,2D,,regular,2026-03-20T08:46:00.501503
+2026-03-20,,gdańsk,Fleak. Futrzak i ja,Starogard Gdański,12:00,2D,,regular,2026-03-20T08:46:00.501516
+2026-03-20,,gdańsk,Wielka mała koza,Starogard Gdański,13:00,2D,,regular,2026-03-20T08:46:00.501529
+2026-03-20,,gdańsk,Za duży na bajki 3,Starogard Gdański,13:30,2D,original,regular,2026-03-20T08:46:00.501541
+2026-03-20,,gdańsk,Projekt Hail Mary,Starogard Gdański,13:40,2D,original,regular,2026-03-20T08:46:00.501555
+2026-03-20,,gdańsk,Król dopalaczy,Starogard Gdański,14:10,2D,original,regular,2026-03-20T08:46:00.501565
+2026-03-20,,gdańsk,Hopnięci,Starogard Gdański,14:20,2D,original,regular,2026-03-20T08:46:00.501576
+2026-03-20,,gdańsk,Testament Ann Lee,Starogard Gdański,14:40,2D,original,regular,2026-03-20T08:46:00.501586
+2026-03-20,,gdańsk,Dobry chłopiec,Starogard Gdański,15:30,2D,original,regular,2026-03-20T08:46:00.501596
+2026-03-20,,gdańsk,Za duży na bajki 3,Starogard Gdański,15:40,2D,original,regular,2026-03-20T08:46:00.501605
+2026-03-20,,gdańsk,Hopnięci,Starogard Gdański,16:40,2D,original,regular,2026-03-20T08:46:00.501615
+2026-03-20,,gdańsk,Piep*zyć Mickiewicza 3,Starogard Gdański,16:45,2D,original,regular,2026-03-20T08:46:00.501624
+2026-03-20,,gdańsk,Projekt Hail Mary,Starogard Gdański,17:00,2D,original,regular,2026-03-20T08:46:00.501633
+2026-03-20,,gdańsk,Panna młoda!,Starogard Gdański,17:40,2D,original,regular,2026-03-20T08:46:00.501644
+2026-03-20,,gdańsk,Za duży na bajki 3,Starogard Gdański,17:50,2D,original,regular,2026-03-20T08:46:00.501652
+2026-03-20,,gdańsk,"Reminders of Him. Cząstka Ciebie, którą znam",Starogard Gdański,18:10,2D,original,regular,2026-03-20T08:46:00.501661
+2026-03-20,,gdańsk,Grzesznicy,Starogard Gdański,19:00,2D,original,regular,2026-03-20T08:46:00.501671
+2026-03-20,,gdańsk,Projekt Hail Mary,Starogard Gdański,19:00,2D,original,regular,2026-03-20T08:46:00.501680
+2026-03-20,,gdańsk,Król dopalaczy,Starogard Gdański,20:00,2D,original,regular,2026-03-20T08:46:00.501688
+2026-03-20,,gdańsk,Projekt Hail Mary,Starogard Gdański,20:20,2D,original,regular,2026-03-20T08:46:00.501697
+2026-03-20,,gdańsk,Krzyk 7,Starogard Gdański,20:30,2D,original,regular,2026-03-20T08:46:00.501706
+2026-03-20,,gdańsk,Baw się dobrze i przeżyj,Starogard Gdański,20:50,2D,original,regular,2026-03-20T08:46:00.501717
+2026-03-20,,gdańsk,"Reminders of Him. Cząstka Ciebie, którą znam",Starogard Gdański,21:50,2D,original,regular,2026-03-20T08:46:00.501726
+2026-03-20,,toruń,Pojedynek,Toruń - Czerwona Droga,09:45,2D,original,regular,2026-03-20T08:46:02.317898
+2026-03-20,,toruń,Pan Ryba,Toruń - Czerwona Droga,10:00,2D,,regular,2026-03-20T08:46:02.317925
+2026-03-20,,toruń,Piep*zyć Mickiewicza 3,Toruń - Czerwona Droga,10:00,2D,original,regular,2026-03-20T08:46:02.317938
+2026-03-20,,toruń,Za duży na bajki 3,Toruń - Czerwona Droga,10:00,2D,original,regular,2026-03-20T08:46:02.317948
+2026-03-20,,toruń,Projekt Hail Mary,Toruń - Czerwona Droga,10:20,2D,original,regular,2026-03-20T08:46:02.317961
+2026-03-20,,toruń,Kicia Kocia w podróży,Toruń - Czerwona Droga,10:30,2D,,regular,2026-03-20T08:46:02.317971
+2026-03-20,,toruń,Hopnięci,Toruń - Czerwona Droga,10:30,2D,original,regular,2026-03-20T08:46:02.317982
+2026-03-20,,toruń,Najświętsze serce,Toruń - Czerwona Droga,11:00,2D,original,regular,2026-03-20T08:46:02.317993
+2026-03-20,,toruń,Fleak. Futrzak i ja,Toruń - Czerwona Droga,11:20,2D,,regular,2026-03-20T08:46:02.318002
+2026-03-20,,toruń,Pan Ryba,Toruń - Czerwona Droga,11:50,2D,,regular,2026-03-20T08:46:02.318011
+2026-03-20,,toruń,Testament Ann Lee,Toruń - Czerwona Droga,11:50,2D,original,regular,2026-03-20T08:46:02.318021
+2026-03-20,,toruń,Piep*zyć Mickiewicza 3,Toruń - Czerwona Droga,12:00,2D,original,regular,2026-03-20T08:46:02.318032
+2026-03-20,,toruń,Kicia Kocia w podróży,Toruń - Czerwona Droga,12:10,2D,,regular,2026-03-20T08:46:02.318043
+2026-03-20,,toruń,Wielka mała koza,Toruń - Czerwona Droga,12:15,2D,,regular,2026-03-20T08:46:02.318052
+2026-03-20,,toruń,Za duży na bajki 3,Toruń - Czerwona Droga,12:15,2D,original,regular,2026-03-20T08:46:02.318061
+2026-03-20,,toruń,Zwierzogród 2,Toruń - Czerwona Droga,12:40,2D,original,regular,2026-03-20T08:46:02.318073
+2026-03-20,,toruń,Hopnięci,Toruń - Czerwona Droga,13:00,2D,original,regular,2026-03-20T08:46:02.318083
+2026-03-20,,toruń,Pojedynek,Toruń - Czerwona Droga,13:15,2D,original,regular,2026-03-20T08:46:02.318091
+2026-03-20,,toruń,"Reminders of Him. Cząstka Ciebie, którą znam",Toruń - Czerwona Droga,13:20,2D,original,regular,2026-03-20T08:46:02.318101
+2026-03-20,,toruń,Kicia Kocia w podróży,Toruń - Czerwona Droga,13:30,2D,,regular,2026-03-20T08:46:02.318110
+2026-03-20,,toruń,Fleak. Futrzak i ja,Toruń - Czerwona Droga,13:30,2D,,regular,2026-03-20T08:46:02.318118
+2026-03-20,,toruń,Projekt Hail Mary,Toruń - Czerwona Droga,13:40,2D,original,regular,2026-03-20T08:46:02.318128
+2026-03-20,,toruń,Pan Ryba,Toruń - Czerwona Droga,14:00,2D,,regular,2026-03-20T08:46:02.318136
+2026-03-20,,toruń,Hopnięci,Toruń - Czerwona Droga,14:10,2D,original,regular,2026-03-20T08:46:02.318146
+2026-03-20,,toruń,Bez wyjścia,Toruń - Czerwona Droga,14:30,2D,original,regular,2026-03-20T08:46:02.318156
+2026-03-20,,toruń,Za duży na bajki 3,Toruń - Czerwona Droga,14:30,2D,original,regular,2026-03-20T08:46:02.318165
+2026-03-20,,toruń,Baw się dobrze i przeżyj,Toruń - Czerwona Droga,14:50,2D,original,regular,2026-03-20T08:46:02.318175
+2026-03-20,,toruń,Fleak. Futrzak i ja,Toruń - Czerwona Droga,14:50,2D,,regular,2026-03-20T08:46:02.318183
+2026-03-20,,toruń,Projekt Hail Mary,Toruń - Czerwona Droga,15:10,2D,original,regular,2026-03-20T08:46:02.318192
+2026-03-20,,toruń,Hopnięci,Toruń - Czerwona Droga,15:30,2D,original,regular,2026-03-20T08:46:02.318202
+2026-03-20,,toruń,Król dopalaczy,Toruń - Czerwona Droga,15:40,2D,original,regular,2026-03-20T08:46:02.318211
+2026-03-20,,toruń,Piep*zyć Mickiewicza 3,Toruń - Czerwona Droga,15:50,2D,original,regular,2026-03-20T08:46:02.318219
+2026-03-20,,toruń,Wartość sentymentalna,Toruń - Czerwona Droga,16:00,2D,original,regular,2026-03-20T08:46:02.318229
+2026-03-20,,toruń,Pan Ryba,Toruń - Czerwona Droga,16:10,2D,,regular,2026-03-20T08:46:02.318238
+2026-03-20,,toruń,Hopnięci,Toruń - Czerwona Droga,16:40,2D,original,regular,2026-03-20T08:46:02.318247
+2026-03-20,,toruń,Za duży na bajki 3,Toruń - Czerwona Droga,16:45,2D,original,regular,2026-03-20T08:46:02.318256
+2026-03-20,,toruń,Projekt Hail Mary,Toruń - Czerwona Droga,17:00,2D,original,regular,2026-03-20T08:46:02.318265
+2026-03-20,,toruń,Angel's Egg,Toruń - Czerwona Droga,17:00,2D,original,regular,2026-03-20T08:46:02.318275
+2026-03-20,,toruń,Nie ma duchów w mieszkaniu na Dobrej,Toruń - Czerwona Droga,17:40,2D,original,regular,2026-03-20T08:46:02.318284
+2026-03-20,,toruń,Dobry chłopiec,Toruń - Czerwona Droga,17:40,2D,original,regular,2026-03-20T08:46:02.318294
+2026-03-20,,toruń,Ostatnia sesja w Paryżu,Toruń - Czerwona Droga,18:00,2D,original,regular,2026-03-20T08:46:02.318303
+2026-03-20,,toruń,Hopnięci,Toruń - Czerwona Droga,18:00,2D,original,regular,2026-03-20T08:46:02.318314
+2026-03-20,,toruń,Król dopalaczy,Toruń - Czerwona Droga,18:15,2D,original,regular,2026-03-20T08:46:02.318323
+2026-03-20,,toruń,Ostatnia wieczerza,Toruń - Czerwona Droga,18:20,2D,original,regular,2026-03-20T08:46:02.318332
+2026-03-20,,toruń,Projekt Hail Mary,Toruń - Czerwona Droga,18:30,2D,original,regular,2026-03-20T08:46:02.318341
+2026-03-20,,toruń,"Miłość, która zostaje",Toruń - Czerwona Droga,18:50,2D,original,regular,2026-03-20T08:46:02.318351
+2026-03-20,,toruń,Grzesznicy,Toruń - Czerwona Droga,19:00,2D,original,regular,2026-03-20T08:46:02.318361
+2026-03-20,,toruń,Alpha,Toruń - Czerwona Droga,19:00,2D,original,regular,2026-03-20T08:46:02.318370
+2026-03-20,,toruń,Tajny agent,Toruń - Czerwona Droga,19:10,2D,original,regular,2026-03-20T08:46:02.318380
+2026-03-20,,toruń,Baw się dobrze i przeżyj,Toruń - Czerwona Droga,19:45,2D,original,regular,2026-03-20T08:46:02.318389
+2026-03-20,,toruń,Bez wyjścia,Toruń - Czerwona Droga,20:10,2D,original,regular,2026-03-20T08:46:02.318399
+2026-03-20,,toruń,Projekt Hail Mary,Toruń - Czerwona Droga,20:20,2D,original,regular,2026-03-20T08:46:02.318408
+2026-03-20,,toruń,Ostatnia sesja w Paryżu,Toruń - Czerwona Droga,20:30,2D,original,regular,2026-03-20T08:46:02.318417
+2026-03-20,,toruń,"Reminders of Him. Cząstka Ciebie, którą znam",Toruń - Czerwona Droga,20:30,2D,original,regular,2026-03-20T08:46:02.318427
+2026-03-20,,toruń,Krzyk 7,Toruń - Czerwona Droga,20:40,2D,original,regular,2026-03-20T08:46:02.318436
+2026-03-20,,toruń,Król dopalaczy,Toruń - Czerwona Droga,20:50,2D,original,regular,2026-03-20T08:46:02.318444
+2026-03-20,,toruń,Wichrowe wzgórza,Toruń - Czerwona Droga,21:20,2D,original,regular,2026-03-20T08:46:02.318454
+2026-03-20,,toruń,Baw się dobrze i przeżyj,Toruń - Czerwona Droga,21:40,2D,original,regular,2026-03-20T08:46:02.318464
+2026-03-20,,toruń,Panna młoda!,Toruń - Czerwona Droga,21:50,2D,original,regular,2026-03-20T08:46:02.318474
+2026-03-20,,toruń,Król dopalaczy,Toruń - Czerwona Droga,21:50,2D,original,regular,2026-03-20T08:46:02.318483
+2026-03-20,,toruń,Dźwięk śmierci,Toruń - Czerwona Droga,22:30,2D,original,regular,2026-03-20T08:46:02.318492
+2026-03-20,,toruń,Dobry chłopiec,Toruń - Czerwona Droga,22:30,2D,original,regular,2026-03-20T08:46:02.318501
+2026-03-20,,toruń,Projekt Hail Mary,Toruń - Plaza,11:00,2D,original,regular,2026-03-20T08:46:03.796304
+2026-03-20,,toruń,Hopnięci,Toruń - Plaza,11:00,2D,original,regular,2026-03-20T08:46:03.796332
+2026-03-20,,toruń,Fleak. Futrzak i ja,Toruń - Plaza,11:00,2D,,regular,2026-03-20T08:46:03.796343
+2026-03-20,,toruń,Kicia Kocia w podróży,Toruń - Plaza,11:10,2D,,regular,2026-03-20T08:46:03.796354
+2026-03-20,,toruń,Pan Ryba,Toruń - Plaza,11:10,2D,,regular,2026-03-20T08:46:03.796363
+2026-03-20,,toruń,Za duży na bajki 3,Toruń - Plaza,12:00,2D,original,regular,2026-03-20T08:46:03.796372
+2026-03-20,,toruń,Hopnięci,Toruń - Plaza,12:15,2D,original,regular,2026-03-20T08:46:03.796383
+2026-03-20,,toruń,Pan Ryba,Toruń - Plaza,12:30,2D,,regular,2026-03-20T08:46:03.796392
+2026-03-20,,toruń,Król dopalaczy,Toruń - Plaza,12:40,2D,original,regular,2026-03-20T08:46:03.796401
+2026-03-20,,toruń,Testament Ann Lee,Toruń - Plaza,13:10,2D,original,regular,2026-03-20T08:46:03.796412
+2026-03-20,,toruń,Hopnięci,Toruń - Plaza,13:20,2D,original,regular,2026-03-20T08:46:03.796422
+2026-03-20,,toruń,Za duży na bajki 3,Toruń - Plaza,13:30,2D,original,regular,2026-03-20T08:46:03.796431
+2026-03-20,,toruń,Projekt Hail Mary,Toruń - Plaza,14:15,2D,original,regular,2026-03-20T08:46:03.796441
+2026-03-20,,toruń,Kicia Kocia w podróży,Toruń - Plaza,14:20,2D,,regular,2026-03-20T08:46:03.796450
+2026-03-20,,toruń,Hopnięci,Toruń - Plaza,14:40,2D,original,regular,2026-03-20T08:46:03.796460
+2026-03-20,,toruń,Pan Ryba,Toruń - Plaza,14:45,2D,,regular,2026-03-20T08:46:03.796469
+2026-03-20,,toruń,Krzyk 7,Toruń - Plaza,15:20,2D,original,regular,2026-03-20T08:46:03.796478
+2026-03-20,,toruń,Za duży na bajki 3,Toruń - Plaza,15:40,2D,original,regular,2026-03-20T08:46:03.796487
+2026-03-20,,toruń,Projekt Hail Mary,Toruń - Plaza,15:45,2D,original,regular,2026-03-20T08:46:03.796496
+2026-03-20,,toruń,Hopnięci,Toruń - Plaza,15:50,2D,original,regular,2026-03-20T08:46:03.796506
+2026-03-20,,toruń,Król dopalaczy,Toruń - Plaza,16:10,2D,original,regular,2026-03-20T08:46:03.796514
+2026-03-20,,toruń,Piep*zyć Mickiewicza 3,Toruń - Plaza,17:00,2D,original,regular,2026-03-20T08:46:03.796524
+2026-03-20,,toruń,Hopnięci,Toruń - Plaza,17:10,2D,original,regular,2026-03-20T08:46:03.796533
+2026-03-20,,toruń,Projekt Hail Mary,Toruń - Plaza,17:30,2D,original,regular,2026-03-20T08:46:03.796542
+2026-03-20,,toruń,Za duży na bajki 3,Toruń - Plaza,17:50,2D,original,regular,2026-03-20T08:46:03.796551
+2026-03-20,,toruń,"Reminders of Him. Cząstka Ciebie, którą znam",Toruń - Plaza,18:00,2D,original,regular,2026-03-20T08:46:03.796560
+2026-03-20,,toruń,Baw się dobrze i przeżyj,Toruń - Plaza,18:15,2D,original,regular,2026-03-20T08:46:03.796570
+2026-03-20,,toruń,Król dopalaczy,Toruń - Plaza,18:45,2D,original,regular,2026-03-20T08:46:03.796579
+2026-03-20,,toruń,Grzesznicy,Toruń - Plaza,19:00,2D,original,regular,2026-03-20T08:46:03.796589
+2026-03-20,,toruń,Ostatnia sesja w Paryżu,Toruń - Plaza,19:10,2D,original,regular,2026-03-20T08:46:03.796598
+2026-03-20,,toruń,Projekt Hail Mary,Toruń - Plaza,19:40,2D,original,regular,2026-03-20T08:46:03.796608
+2026-03-20,,toruń,Bez wyjścia,Toruń - Plaza,20:00,2D,original,regular,2026-03-20T08:46:03.796618
+2026-03-20,,toruń,Panna młoda!,Toruń - Plaza,20:40,2D,original,regular,2026-03-20T08:46:03.796629
+2026-03-20,,toruń,Projekt Hail Mary,Toruń - Plaza,20:50,2D,original,regular,2026-03-20T08:46:03.796639
+2026-03-20,,toruń,Wartość sentymentalna,Toruń - Plaza,21:15,2D,original,regular,2026-03-20T08:46:03.796649
+2026-03-20,,toruń,Król dopalaczy,Toruń - Plaza,21:15,2D,original,regular,2026-03-20T08:46:03.796658
+2026-03-20,,toruń,Dobry chłopiec,Toruń - Plaza,21:40,2D,original,regular,2026-03-20T08:46:03.796667
+2026-03-20,,toruń,Krzyk 7,Toruń - Plaza,21:50,2D,original,regular,2026-03-20T08:46:03.796676
+2026-03-20,,wałbrzych,Za duży na bajki 3,Wałbrzych,10:00,2D,original,regular,2026-03-20T08:46:05.503542
+2026-03-20,,wałbrzych,Piep*zyć Mickiewicza 3,Wałbrzych,10:00,2D,original,regular,2026-03-20T08:46:05.503563
+2026-03-20,,wałbrzych,Za duży na bajki 3,Wałbrzych,10:45,2D,original,regular,2026-03-20T08:46:05.503573
+2026-03-20,,wałbrzych,Pan Ryba,Wałbrzych,12:10,2D,,regular,2026-03-20T08:46:05.503583
+2026-03-20,,wałbrzych,Za duży na bajki 3,Wałbrzych,12:30,2D,original,regular,2026-03-20T08:46:05.503592
+2026-03-20,,wałbrzych,Za duży na bajki 3,Wałbrzych,13:00,2D,original,regular,2026-03-20T08:46:05.503600
+2026-03-20,,wałbrzych,Testament Ann Lee,Wałbrzych,13:00,2D,original,regular,2026-03-20T08:46:05.503611
+2026-03-20,,wałbrzych,Fleak. Futrzak i ja,Wałbrzych,13:20,2D,,regular,2026-03-20T08:46:05.503620
+2026-03-20,,wałbrzych,Hopnięci,Wałbrzych,13:30,2D,original,regular,2026-03-20T08:46:05.503630
+2026-03-20,,wałbrzych,Projekt Hail Mary,Wałbrzych,13:40,2D,original,regular,2026-03-20T08:46:05.503641
+2026-03-20,,wałbrzych,Wielka mała koza,Wałbrzych,14:20,2D,,regular,2026-03-20T08:46:05.503651
+2026-03-20,,wałbrzych,Za duży na bajki 3,Wałbrzych,15:10,2D,original,regular,2026-03-20T08:46:05.503659
+2026-03-20,,wałbrzych,Pan Ryba,Wałbrzych,15:20,2D,,regular,2026-03-20T08:46:05.503668
+2026-03-20,,wałbrzych,Król dopalaczy,Wałbrzych,15:30,2D,original,regular,2026-03-20T08:46:05.503677
+2026-03-20,,wałbrzych,Pan Ryba,Wałbrzych,15:50,2D,,regular,2026-03-20T08:46:05.503685
+2026-03-20,,wałbrzych,Hopnięci,Wałbrzych,16:00,2D,original,regular,2026-03-20T08:46:05.503696
+2026-03-20,,wałbrzych,Pojedynek,Wałbrzych,16:35,2D,original,regular,2026-03-20T08:46:05.503705
+2026-03-20,,wałbrzych,Projekt Hail Mary,Wałbrzych,17:00,2D,original,regular,2026-03-20T08:46:05.503715
+2026-03-20,,wałbrzych,Za duży na bajki 3,Wałbrzych,17:20,2D,original,regular,2026-03-20T08:46:05.503724
+2026-03-20,,wałbrzych,Baw się dobrze i przeżyj,Wałbrzych,17:30,2D,original,regular,2026-03-20T08:46:05.503734
+2026-03-20,,wałbrzych,"Reminders of Him. Cząstka Ciebie, którą znam",Wałbrzych,18:00,2D,original,regular,2026-03-20T08:46:05.503743
+2026-03-20,,wałbrzych,Król dopalaczy,Wałbrzych,18:10,2D,original,regular,2026-03-20T08:46:05.503752
+2026-03-20,,wałbrzych,Nie ma duchów w mieszkaniu na Dobrej,Wałbrzych,18:30,2D,original,regular,2026-03-20T08:46:05.503761
+2026-03-20,,wałbrzych,Grzesznicy,Wałbrzych,19:00,2D,original,regular,2026-03-20T08:46:05.503771
+2026-03-20,,wałbrzych,Ostatnia sesja w Paryżu,Wałbrzych,19:30,2D,original,regular,2026-03-20T08:46:05.503780
+2026-03-20,,wałbrzych,Projekt Hail Mary,Wałbrzych,20:20,2D,original,regular,2026-03-20T08:46:05.503789
+2026-03-20,,wałbrzych,Baw się dobrze i przeżyj,Wałbrzych,20:20,2D,original,regular,2026-03-20T08:46:05.503798
+2026-03-20,,wałbrzych,Bez wyjścia,Wałbrzych,20:30,2D,original,regular,2026-03-20T08:46:05.503808
+2026-03-20,,wałbrzych,Krzyk 7,Wałbrzych,20:40,2D,original,regular,2026-03-20T08:46:05.503817
+2026-03-20,,wałbrzych,Król dopalaczy,Wałbrzych,20:50,2D,original,regular,2026-03-20T08:46:05.503825
+2026-03-20,,wałbrzych,Testament Ann Lee,Wałbrzych,21:50,2D,original,regular,2026-03-20T08:46:05.503851
+2026-03-20,,wałbrzych,Krzyk 7,Wałbrzych,22:00,2D,original,regular,2026-03-20T08:46:05.503861
+2026-03-20,,warszawa,Za duży na bajki 3,Warszawa -  Arkadia,10:00,2D,original,regular,2026-03-20T08:46:07.916177
+2026-03-20,,warszawa,Hopnięci,Warszawa -  Arkadia,10:00,2D,original,regular,2026-03-20T08:46:07.916203
+2026-03-20,,warszawa,"Reminders of Him. Cząstka Ciebie, którą znam",Warszawa -  Arkadia,10:00,2D,original,regular,2026-03-20T08:46:07.916225
+2026-03-20,,warszawa,Fleak. Futrzak i ja,Warszawa -  Arkadia,10:10,2D,,regular,2026-03-20T08:46:07.916234
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa -  Arkadia,10:20,2D,original,regular,2026-03-20T08:46:07.916245
+2026-03-20,,warszawa,Kicia Kocia w podróży,Warszawa -  Arkadia,10:20,2D,,regular,2026-03-20T08:46:07.916254
+2026-03-20,,warszawa,Moon: Panda i ja,Warszawa -  Arkadia,10:40,2D,,regular,2026-03-20T08:46:07.916264
+2026-03-20,,warszawa,Wielka mała koza,Warszawa -  Arkadia,10:50,2D,,regular,2026-03-20T08:46:07.916275
+2026-03-20,,warszawa,Najświętsze serce,Warszawa -  Arkadia,11:00,2D,original,regular,2026-03-20T08:46:07.916285
+2026-03-20,,warszawa,Pan Ryba,Warszawa -  Arkadia,11:10,2D,,regular,2026-03-20T08:46:07.916294
+2026-03-20,,warszawa,Król dopalaczy,Warszawa -  Arkadia,11:15,2D,original,regular,2026-03-20T08:46:07.916304
+2026-03-20,,warszawa,Zmiennokształtni 2,Warszawa -  Arkadia,11:20,2D,,regular,2026-03-20T08:46:07.916313
+2026-03-20,,warszawa,Hopnięci,Warszawa -  Arkadia,11:30,2D,original,regular,2026-03-20T08:46:07.916323
+2026-03-20,,warszawa,Zwierzogród 2,Warszawa -  Arkadia,11:50,2D,original,regular,2026-03-20T08:46:07.916335
+2026-03-20,,warszawa,Kicia Kocia w podróży,Warszawa -  Arkadia,11:50,2D,,regular,2026-03-20T08:46:07.916344
+2026-03-20,,warszawa,Avatar: Ogień i popiół,Warszawa -  Arkadia,12:20,3D,original,regular,2026-03-20T08:46:07.916354
+2026-03-20,,warszawa,Za duży na bajki 3,Warszawa -  Arkadia,12:30,2D,original,regular,2026-03-20T08:46:07.916363
+2026-03-20,,warszawa,Hopnięci,Warszawa -  Arkadia,12:30,4DX,original,regular,2026-03-20T08:46:07.916371
+2026-03-20,,warszawa,Ostatnia sesja w Paryżu,Warszawa -  Arkadia,12:40,2D,original,regular,2026-03-20T08:46:07.916380
+2026-03-20,,warszawa,Hopnięci,Warszawa -  Arkadia,12:40,2D,original,regular,2026-03-20T08:46:07.916390
+2026-03-20,,warszawa,Dalej jazda 2,Warszawa -  Arkadia,13:00,2D,original,regular,2026-03-20T08:46:07.916400
+2026-03-20,,warszawa,Wielka mała koza,Warszawa -  Arkadia,13:10,2D,,regular,2026-03-20T08:46:07.916409
+2026-03-20,,warszawa,Hopnięci,Warszawa -  Arkadia,13:20,2D,original,regular,2026-03-20T08:46:07.916419
+2026-03-20,,warszawa,Kicia Kocia w podróży,Warszawa -  Arkadia,13:20,2D,,regular,2026-03-20T08:46:07.916428
+2026-03-20,,warszawa,Pan Ryba,Warszawa -  Arkadia,13:25,2D,,regular,2026-03-20T08:46:07.916437
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa -  Arkadia,13:40,2D,original,regular,2026-03-20T08:46:07.916446
+2026-03-20,,warszawa,Hopnięci ukraiński dubbing,Warszawa -  Arkadia,13:40,2D,dubbing,regular,2026-03-20T08:46:07.916456
+2026-03-20,,warszawa,Król dopalaczy,Warszawa -  Arkadia,13:50,2D,original,regular,2026-03-20T08:46:07.916464
+2026-03-20,,warszawa,Hopnięci,Warszawa -  Arkadia,14:00,2D,original,regular,2026-03-20T08:46:07.916474
+2026-03-20,,warszawa,Piep*zyć Mickiewicza 3,Warszawa -  Arkadia,14:20,2D,original,regular,2026-03-20T08:46:07.916483
+2026-03-20,,warszawa,Za duży na bajki 3,Warszawa -  Arkadia,14:40,2D,original,regular,2026-03-20T08:46:07.916491
+2026-03-20,,warszawa,Dobry chłopiec,Warszawa -  Arkadia,14:50,2D,original,regular,2026-03-20T08:46:07.916500
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa -  Arkadia,15:00,4DX,original,regular,2026-03-20T08:46:07.916508
+2026-03-20,,warszawa,Ostatnia sesja w Paryżu,Warszawa -  Arkadia,15:10,2D,original,regular,2026-03-20T08:46:07.916516
+2026-03-20,,warszawa,Baw się dobrze i przeżyj,Warszawa -  Arkadia,15:10,2D,original,regular,2026-03-20T08:46:07.916526
+2026-03-20,,warszawa,Testament Ann Lee,Warszawa -  Arkadia,15:20,2D,original,regular,2026-03-20T08:46:07.916536
+2026-03-20,,warszawa,Krzyk 7,Warszawa -  Arkadia,15:30,2D,original,regular,2026-03-20T08:46:07.916545
+2026-03-20,,warszawa,Pan Ryba,Warszawa -  Arkadia,15:40,2D,,regular,2026-03-20T08:46:07.916554
+2026-03-20,,warszawa,Panna młoda!,Warszawa -  Arkadia,15:50,2D,original,regular,2026-03-20T08:46:07.916564
+2026-03-20,,warszawa,Ostatnia wieczerza,Warszawa -  Arkadia,16:10,2D,original,regular,2026-03-20T08:46:07.916573
+2026-03-20,,warszawa,Fleak. Futrzak i ja,Warszawa -  Arkadia,16:20,2D,,regular,2026-03-20T08:46:07.916581
+2026-03-20,,warszawa,Król dopalaczy,Warszawa -  Arkadia,16:20,2D,original,regular,2026-03-20T08:46:07.916589
+2026-03-20,,warszawa,Bez wyjścia,Warszawa -  Arkadia,16:30,2D,original,regular,2026-03-20T08:46:07.916599
+2026-03-20,,warszawa,Hopnięci,Warszawa -  Arkadia,16:30,2D,original,regular,2026-03-20T08:46:07.916609
+2026-03-20,,warszawa,Za duży na bajki 3,Warszawa -  Arkadia,16:50,2D,original,regular,2026-03-20T08:46:07.916617
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa -  Arkadia,17:00,2D,original,regular,2026-03-20T08:46:07.916627
+2026-03-20,,warszawa,Dobry chłopiec,Warszawa -  Arkadia,17:20,2D,original,regular,2026-03-20T08:46:07.916635
+2026-03-20,,warszawa,Zapach Pho,Warszawa -  Arkadia,17:50,2D,original,regular,2026-03-20T08:46:07.916645
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa -  Arkadia,17:50,2D,original,regular,2026-03-20T08:46:07.916654
+2026-03-20,,warszawa,"Reminders of Him. Cząstka Ciebie, którą znam",Warszawa -  Arkadia,18:00,2D,original,regular,2026-03-20T08:46:07.916663
+2026-03-20,,warszawa,Angel's Egg,Warszawa -  Arkadia,18:10,2D,original,regular,2026-03-20T08:46:07.916672
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa -  Arkadia,18:20,4DX,original,regular,2026-03-20T08:46:07.916679
+2026-03-20,,warszawa,"Kopnęłabym cię, gdybym mogła",Warszawa -  Arkadia,18:20,2D,original,regular,2026-03-20T08:46:07.916690
+2026-03-20,,warszawa,Wartość sentymentalna,Warszawa -  Arkadia,18:30,2D,original,regular,2026-03-20T08:46:07.916699
+2026-03-20,,warszawa,Nie ma duchów w mieszkaniu na Dobrej,Warszawa -  Arkadia,18:40,2D,original,regular,2026-03-20T08:46:07.916708
+2026-03-20,,warszawa,Wichrowe wzgórza,Warszawa -  Arkadia,18:40,2D,original,regular,2026-03-20T08:46:07.916718
+2026-03-20,,warszawa,Grzesznicy,Warszawa -  Arkadia,19:00,2D,original,regular,2026-03-20T08:46:07.916727
+2026-03-20,,warszawa,Hopnięci,Warszawa -  Arkadia,19:00,2D,original,regular,2026-03-20T08:46:07.916736
+2026-03-20,,warszawa,Alpha,Warszawa -  Arkadia,19:10,2D,original,regular,2026-03-20T08:46:07.916745
+2026-03-20,,warszawa,Bez wyjścia,Warszawa -  Arkadia,19:30,2D,original,regular,2026-03-20T08:46:07.916754
+2026-03-20,,warszawa,Król dopalaczy,Warszawa -  Arkadia,19:50,2D,original,regular,2026-03-20T08:46:07.916763
+2026-03-20,,warszawa,Krzyk 7,Warszawa -  Arkadia,20:00,2D,original,regular,2026-03-20T08:46:07.916771
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa -  Arkadia,20:20,2D,original,regular,2026-03-20T08:46:07.916780
+2026-03-20,,warszawa,Ostatnia sesja w Paryżu,Warszawa -  Arkadia,20:30,2D,original,regular,2026-03-20T08:46:07.916789
+2026-03-20,,warszawa,Baw się dobrze i przeżyj,Warszawa -  Arkadia,20:30,2D,original,regular,2026-03-20T08:46:07.916798
+2026-03-20,,warszawa,"Miłość, która zostaje",Warszawa -  Arkadia,20:50,2D,original,regular,2026-03-20T08:46:07.916808
+2026-03-20,,warszawa,Tajny agent,Warszawa -  Arkadia,20:50,2D,original,regular,2026-03-20T08:46:07.916817
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa -  Arkadia,21:10,2D,original,regular,2026-03-20T08:46:07.916826
+2026-03-20,,warszawa,Wartość sentymentalna,Warszawa -  Arkadia,21:30,2D,original,regular,2026-03-20T08:46:07.916848
+2026-03-20,,warszawa,Hopnięci,Warszawa -  Arkadia,21:30,2D,original,regular,2026-03-20T08:46:07.916859
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa -  Arkadia,21:40,4DX,original,regular,2026-03-20T08:46:07.916866
+2026-03-20,,warszawa,Wichrowe wzgórza,Warszawa -  Arkadia,21:40,2D,original,regular,2026-03-20T08:46:07.916875
+2026-03-20,,warszawa,Hamnet,Warszawa -  Arkadia,22:00,2D,original,regular,2026-03-20T08:46:07.916884
+2026-03-20,,warszawa,Panna młoda!,Warszawa -  Arkadia,22:00,2D,original,regular,2026-03-20T08:46:07.916894
+2026-03-20,,warszawa,Król dopalaczy,Warszawa -  Arkadia,22:20,2D,original,regular,2026-03-20T08:46:07.916902
+2026-03-20,,warszawa,Piep*zyć Mickiewicza 3,Warszawa -  Arkadia,22:30,2D,original,regular,2026-03-20T08:46:07.916910
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Bemowo,11:00,2D,original,regular,2026-03-20T08:46:10.044522
+2026-03-20,,warszawa,Kicia Kocia w podróży,Warszawa - Bemowo,11:10,2D,,regular,2026-03-20T08:46:10.044547
+2026-03-20,,warszawa,Pan Ryba,Warszawa - Bemowo,11:10,2D,,regular,2026-03-20T08:46:10.044558
+2026-03-20,,warszawa,Hopnięci,Warszawa - Bemowo,11:20,2D,original,regular,2026-03-20T08:46:10.044570
+2026-03-20,,warszawa,Fleak. Futrzak i ja,Warszawa - Bemowo,11:20,2D,,regular,2026-03-20T08:46:10.044578
+2026-03-20,,warszawa,Za duży na bajki 3,Warszawa - Bemowo,11:45,2D,original,regular,2026-03-20T08:46:10.044587
+2026-03-20,,warszawa,Piep*zyć Mickiewicza 3,Warszawa - Bemowo,12:10,2D,original,regular,2026-03-20T08:46:10.044596
+2026-03-20,,warszawa,Zwierzogród 2,Warszawa - Bemowo,12:30,2D,original,regular,2026-03-20T08:46:10.044607
+2026-03-20,,warszawa,Pan Ryba,Warszawa - Bemowo,12:40,2D,,regular,2026-03-20T08:46:10.044616
+2026-03-20,,warszawa,Kicia Kocia w podróży,Warszawa - Bemowo,12:45,2D,,regular,2026-03-20T08:46:10.044625
+2026-03-20,,warszawa,Hopnięci,Warszawa - Bemowo,12:50,2D,original,regular,2026-03-20T08:46:10.044635
+2026-03-20,,warszawa,Orzełek Iggy,Warszawa - Bemowo,13:00,2D,,regular,2026-03-20T08:46:10.044644
+2026-03-20,,warszawa,Wielka mała koza,Warszawa - Bemowo,13:20,2D,,regular,2026-03-20T08:46:10.044654
+2026-03-20,,warszawa,Fleak. Futrzak i ja,Warszawa - Bemowo,13:30,2D,,regular,2026-03-20T08:46:10.044662
+2026-03-20,,warszawa,Hopnięci,Warszawa - Bemowo,13:50,2D,original,regular,2026-03-20T08:46:10.044672
+2026-03-20,,warszawa,Za duży na bajki 3,Warszawa - Bemowo,14:00,2D,original,regular,2026-03-20T08:46:10.044680
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Bemowo,14:15,2D,original,regular,2026-03-20T08:46:10.044691
+2026-03-20,,warszawa,Kicia Kocia w podróży,Warszawa - Bemowo,14:20,2D,,regular,2026-03-20T08:46:10.044699
+2026-03-20,,warszawa,Piep*zyć Mickiewicza 3,Warszawa - Bemowo,14:30,2D,original,regular,2026-03-20T08:46:10.044708
+2026-03-20,,warszawa,Pan Ryba,Warszawa - Bemowo,14:50,2D,,regular,2026-03-20T08:46:10.044716
+2026-03-20,,warszawa,Krzyk 7,Warszawa - Bemowo,15:00,2D,original,regular,2026-03-20T08:46:10.044725
+2026-03-20,,warszawa,Testament Ann Lee,Warszawa - Bemowo,15:00,2D,original,regular,2026-03-20T08:46:10.044735
+2026-03-20,,warszawa,Hopnięci,Warszawa - Bemowo,15:20,2D,original,regular,2026-03-20T08:46:10.044745
+2026-03-20,,warszawa,Wartość sentymentalna,Warszawa - Bemowo,15:40,2D,original,regular,2026-03-20T08:46:10.044755
+2026-03-20,,warszawa,Dobry chłopiec,Warszawa - Bemowo,15:40,2D,original,regular,2026-03-20T08:46:10.044764
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Bemowo,15:45,2D,original,regular,2026-03-20T08:46:10.044774
+2026-03-20,,warszawa,Za duży na bajki 3,Warszawa - Bemowo,16:15,2D,original,regular,2026-03-20T08:46:10.044783
+2026-03-20,,warszawa,Król dopalaczy,Warszawa - Bemowo,16:20,2D,original,regular,2026-03-20T08:46:10.044791
+2026-03-20,,warszawa,Bez wyjścia,Warszawa - Bemowo,16:45,2D,original,regular,2026-03-20T08:46:10.044801
+2026-03-20,,warszawa,Pan Ryba,Warszawa - Bemowo,17:00,2D,,regular,2026-03-20T08:46:10.044810
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Bemowo,17:30,2D,original,regular,2026-03-20T08:46:10.044819
+2026-03-20,,warszawa,Ostatnia sesja w Paryżu,Warszawa - Bemowo,17:40,2D,original,regular,2026-03-20T08:46:10.044828
+2026-03-20,,warszawa,Hopnięci,Warszawa - Bemowo,17:50,2D,original,regular,2026-03-20T08:46:10.044850
+2026-03-20,,warszawa,Nie ma duchów w mieszkaniu na Dobrej,Warszawa - Bemowo,18:00,2D,original,regular,2026-03-20T08:46:10.044861
+2026-03-20,,warszawa,Za duży na bajki 3,Warszawa - Bemowo,18:30,2D,original,regular,2026-03-20T08:46:10.044869
+2026-03-20,,warszawa,Baw się dobrze i przeżyj,Warszawa - Bemowo,18:40,2D,original,regular,2026-03-20T08:46:10.044879
+2026-03-20,,warszawa,Wartość sentymentalna,Warszawa - Bemowo,18:40,2D,original,regular,2026-03-20T08:46:10.044888
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Bemowo,18:50,2D,original,regular,2026-03-20T08:46:10.044897
+2026-03-20,,warszawa,Grzesznicy,Warszawa - Bemowo,19:00,2D,original,regular,2026-03-20T08:46:10.044907
+2026-03-20,,warszawa,Król dopalaczy,Warszawa - Bemowo,19:10,2D,original,regular,2026-03-20T08:46:10.044915
+2026-03-20,,warszawa,Bez wyjścia,Warszawa - Bemowo,19:45,2D,original,regular,2026-03-20T08:46:10.044925
+2026-03-20,,warszawa,Ostatnia sesja w Paryżu,Warszawa - Bemowo,20:10,2D,original,regular,2026-03-20T08:46:10.044933
+2026-03-20,,warszawa,"Reminders of Him. Cząstka Ciebie, którą znam",Warszawa - Bemowo,20:10,2D,original,regular,2026-03-20T08:46:10.044942
+2026-03-20,,warszawa,Krzyk 7,Warszawa - Bemowo,20:20,2D,original,regular,2026-03-20T08:46:10.044951
+2026-03-20,,warszawa,Wichrowe wzgórza,Warszawa - Bemowo,20:40,2D,original,regular,2026-03-20T08:46:10.044960
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Bemowo,20:50,2D,original,regular,2026-03-20T08:46:10.044970
+2026-03-20,,warszawa,Baw się dobrze i przeżyj,Warszawa - Bemowo,21:30,2D,original,regular,2026-03-20T08:46:10.044979
+2026-03-20,,warszawa,Panna młoda!,Warszawa - Bemowo,21:30,2D,original,regular,2026-03-20T08:46:10.044989
+2026-03-20,,warszawa,Król dopalaczy,Warszawa - Bemowo,21:40,2D,original,regular,2026-03-20T08:46:10.044997
+2026-03-20,,warszawa,Dobry chłopiec,Warszawa - Bemowo,21:50,2D,original,regular,2026-03-20T08:46:10.045006
+2026-03-20,,warszawa,Nie ma duchów w mieszkaniu na Dobrej,Warszawa - Bemowo,22:10,2D,original,regular,2026-03-20T08:46:10.045015
+2026-03-20,,warszawa,Za duży na bajki 3,Warszawa - Białołęka Galeria Północna,10:00,2D,original,regular,2026-03-20T08:46:12.478390
+2026-03-20,,warszawa,Moon: Panda i ja,Warszawa - Białołęka Galeria Północna,10:00,2D,,regular,2026-03-20T08:46:12.478414
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Białołęka Galeria Północna,11:00,Dolby Atmos,original,regular,2026-03-20T08:46:12.478428
+2026-03-20,,warszawa,Hopnięci,Warszawa - Białołęka Galeria Północna,11:00,2D,original,regular,2026-03-20T08:46:12.478440
+2026-03-20,,warszawa,Kicia Kocia w podróży,Warszawa - Białołęka Galeria Północna,11:00,2D,,regular,2026-03-20T08:46:12.478449
+2026-03-20,,warszawa,Pan Ryba,Warszawa - Białołęka Galeria Północna,11:10,2D,,regular,2026-03-20T08:46:12.478459
+2026-03-20,,warszawa,Zwierzogród 2,Warszawa - Białołęka Galeria Północna,11:10,2D,original,regular,2026-03-20T08:46:12.478470
+2026-03-20,,warszawa,Krzyk 7,Warszawa - Białołęka Galeria Północna,11:20,2D,original,regular,2026-03-20T08:46:12.478479
+2026-03-20,,warszawa,Kicia Kocia w podróży,Warszawa - Białołęka Galeria Północna,11:40,2D,,regular,2026-03-20T08:46:12.478489
+2026-03-20,,warszawa,Za duży na bajki 3,Warszawa - Białołęka Galeria Północna,12:30,2D,original,regular,2026-03-20T08:46:12.478497
+2026-03-20,,warszawa,Pan Ryba,Warszawa - Białołęka Galeria Północna,12:30,2D,,regular,2026-03-20T08:46:12.478506
+2026-03-20,,warszawa,Panna młoda!,Warszawa - Białołęka Galeria Północna,12:40,2D,original,regular,2026-03-20T08:46:12.478516
+2026-03-20,,warszawa,Wielka mała koza,Warszawa - Białołęka Galeria Północna,12:50,2D,,regular,2026-03-20T08:46:12.478526
+2026-03-20,,warszawa,Fleak. Futrzak i ja,Warszawa - Białołęka Galeria Północna,13:00,2D,,regular,2026-03-20T08:46:12.478534
+2026-03-20,,warszawa,Król dopalaczy,Warszawa - Białołęka Galeria Północna,13:10,2D,original,regular,2026-03-20T08:46:12.478543
+2026-03-20,,warszawa,Pan Ryba,Warszawa - Białołęka Galeria Północna,13:20,2D,,regular,2026-03-20T08:46:12.478552
+2026-03-20,,warszawa,Hopnięci,Warszawa - Białołęka Galeria Północna,13:30,2D,original,regular,2026-03-20T08:46:12.478562
+2026-03-20,,warszawa,Zwierzogród 2,Warszawa - Białołęka Galeria Północna,13:40,2D,original,regular,2026-03-20T08:46:12.478572
+2026-03-20,,warszawa,Krzyk 7,Warszawa - Białołęka Galeria Północna,14:00,2D,original,regular,2026-03-20T08:46:12.478580
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Białołęka Galeria Północna,14:15,Dolby Atmos,original,regular,2026-03-20T08:46:12.478591
+2026-03-20,,warszawa,Za duży na bajki 3,Warszawa - Białołęka Galeria Północna,14:45,2D,original,regular,2026-03-20T08:46:12.478599
+2026-03-20,,warszawa,Pan Ryba,Warszawa - Białołęka Galeria Północna,15:00,2D,,regular,2026-03-20T08:46:12.478608
+2026-03-20,,warszawa,Kicia Kocia w podróży,Warszawa - Białołęka Galeria Północna,15:10,2D,,regular,2026-03-20T08:46:12.478616
+2026-03-20,,warszawa,Bez wyjścia,Warszawa - Białołęka Galeria Północna,15:20,2D,original,regular,2026-03-20T08:46:12.478626
+2026-03-20,,warszawa,Hopnięci,Warszawa - Białołęka Galeria Północna,15:30,2D,original,regular,2026-03-20T08:46:12.478635
+2026-03-20,,warszawa,Testament Ann Lee,Warszawa - Białołęka Galeria Północna,15:30,2D,original,regular,2026-03-20T08:46:12.478645
+2026-03-20,,warszawa,Król dopalaczy,Warszawa - Białołęka Galeria Północna,15:50,2D,original,regular,2026-03-20T08:46:12.478653
+2026-03-20,,warszawa,Wichrowe wzgórza,Warszawa - Białołęka Galeria Północna,16:00,2D,original,regular,2026-03-20T08:46:12.478663
+2026-03-20,,warszawa,Zwierzogród 2,Warszawa - Białołęka Galeria Północna,16:10,2D,original,regular,2026-03-20T08:46:12.478673
+2026-03-20,,warszawa,Fleak. Futrzak i ja,Warszawa - Białołęka Galeria Północna,16:40,2D,,regular,2026-03-20T08:46:12.478681
+2026-03-20,,warszawa,Krzyk 7,Warszawa - Białołęka Galeria Północna,16:50,2D,original,regular,2026-03-20T08:46:12.478689
+2026-03-20,,warszawa,Za duży na bajki 3,Warszawa - Białołęka Galeria Północna,17:00,2D,original,regular,2026-03-20T08:46:12.478697
+2026-03-20,,warszawa,"Reminders of Him. Cząstka Ciebie, którą znam",Warszawa - Białołęka Galeria Północna,17:20,2D,original,regular,2026-03-20T08:46:12.478707
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Białołęka Galeria Północna,17:30,Dolby Atmos,original,regular,2026-03-20T08:46:12.478717
+2026-03-20,,warszawa,Hopnięci,Warszawa - Białołęka Galeria Północna,18:00,2D,original,regular,2026-03-20T08:46:12.478727
+2026-03-20,,warszawa,Król dopalaczy,Warszawa - Białołęka Galeria Północna,18:30,2D,original,regular,2026-03-20T08:46:12.478735
+2026-03-20,,warszawa,Bez wyjścia,Warszawa - Białołęka Galeria Północna,18:30,2D,original,regular,2026-03-20T08:46:12.478745
+2026-03-20,,warszawa,Ostatnia sesja w Paryżu,Warszawa - Białołęka Galeria Północna,18:40,2D,original,regular,2026-03-20T08:46:12.478754
+2026-03-20,,warszawa,Wartość sentymentalna,Warszawa - Białołęka Galeria Północna,18:40,2D,original,regular,2026-03-20T08:46:12.478764
+2026-03-20,,warszawa,Baw się dobrze i przeżyj,Warszawa - Białołęka Galeria Północna,18:50,2D,original,regular,2026-03-20T08:46:12.478773
+2026-03-20,,warszawa,Grzesznicy,Warszawa - Białołęka Galeria Północna,19:00,2D,original,regular,2026-03-20T08:46:12.478782
+2026-03-20,,warszawa,Piep*zyć Mickiewicza 3,Warszawa - Białołęka Galeria Północna,19:10,2D,original,regular,2026-03-20T08:46:12.478791
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Białołęka Galeria Północna,19:30,2D,original,regular,2026-03-20T08:46:12.478800
+2026-03-20,,warszawa,"Reminders of Him. Cząstka Ciebie, którą znam",Warszawa - Białołęka Galeria Północna,20:00,2D,original,regular,2026-03-20T08:46:12.478809
+2026-03-20,,warszawa,Nie ma duchów w mieszkaniu na Dobrej,Warszawa - Białołęka Galeria Północna,20:30,2D,original,regular,2026-03-20T08:46:12.478818
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Białołęka Galeria Północna,20:50,Dolby Atmos,original,regular,2026-03-20T08:46:12.478828
+2026-03-20,,warszawa,Król dopalaczy,Warszawa - Białołęka Galeria Północna,21:10,2D,original,regular,2026-03-20T08:46:12.478851
+2026-03-20,,warszawa,Ostatnia sesja w Paryżu,Warszawa - Białołęka Galeria Północna,21:10,2D,original,regular,2026-03-20T08:46:12.478860
+2026-03-20,,warszawa,Dobry chłopiec,Warszawa - Białołęka Galeria Północna,21:30,2D,original,regular,2026-03-20T08:46:12.478870
+2026-03-20,,warszawa,Wartość sentymentalna,Warszawa - Białołęka Galeria Północna,21:30,2D,original,regular,2026-03-20T08:46:12.478879
+2026-03-20,,warszawa,Baw się dobrze i przeżyj,Warszawa - Białołęka Galeria Północna,21:40,2D,original,regular,2026-03-20T08:46:12.478888
+2026-03-20,,warszawa,Wichrowe wzgórza,Warszawa - Białołęka Galeria Północna,21:40,2D,original,regular,2026-03-20T08:46:12.478897
+2026-03-20,,warszawa,Pojedynek,Warszawa - Białołęka Galeria Północna,21:50,2D,original,regular,2026-03-20T08:46:12.478905
+2026-03-20,,warszawa,Fleak. Futrzak i ja,Warszawa - Janki,10:00,2D,,regular,2026-03-20T08:46:13.932277
+2026-03-20,,warszawa,Piep*zyć Mickiewicza 3,Warszawa - Janki,10:00,2D,original,regular,2026-03-20T08:46:13.932307
+2026-03-20,,warszawa,Za duży na bajki 3,Warszawa - Janki,10:00,2D,original,regular,2026-03-20T08:46:13.932321
+2026-03-20,,warszawa,Hopnięci,Warszawa - Janki,10:30,2D,original,regular,2026-03-20T08:46:13.932336
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Janki,11:00,2D,original,regular,2026-03-20T08:46:13.932350
+2026-03-20,,warszawa,Kicia Kocia w podróży,Warszawa - Janki,11:00,2D,,regular,2026-03-20T08:46:13.932363
+2026-03-20,,warszawa,Zwierzogród 2,Warszawa - Janki,11:00,2D,original,regular,2026-03-20T08:46:13.932377
+2026-03-20,,warszawa,Pan Ryba,Warszawa - Janki,11:30,2D,,regular,2026-03-20T08:46:13.932388
+2026-03-20,,warszawa,Avatar: Ogień i popiół,Warszawa - Janki,11:30,3D,original,regular,2026-03-20T08:46:13.932400
+2026-03-20,,warszawa,Hopnięci,Warszawa - Janki,11:40,2D,original,regular,2026-03-20T08:46:13.932413
+2026-03-20,,warszawa,Moon: Panda i ja,Warszawa - Janki,12:10,2D,,regular,2026-03-20T08:46:13.932424
+2026-03-20,,warszawa,Wielka mała koza,Warszawa - Janki,12:20,2D,,regular,2026-03-20T08:46:13.932436
+2026-03-20,,warszawa,Fleak. Futrzak i ja,Warszawa - Janki,12:30,2D,,regular,2026-03-20T08:46:13.932446
+2026-03-20,,warszawa,Hopnięci,Warszawa - Janki,12:50,2D,original,regular,2026-03-20T08:46:13.932458
+2026-03-20,,warszawa,Testament Ann Lee,Warszawa - Janki,13:20,2D,original,regular,2026-03-20T08:46:13.932471
+2026-03-20,,warszawa,Za duży na bajki 3,Warszawa - Janki,13:30,2D,original,regular,2026-03-20T08:46:13.932482
+2026-03-20,,warszawa,Pan Ryba,Warszawa - Janki,13:45,2D,,regular,2026-03-20T08:46:13.932493
+2026-03-20,,warszawa,Hopnięci,Warszawa - Janki,14:10,2D,original,regular,2026-03-20T08:46:13.932505
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Janki,14:15,2D,original,regular,2026-03-20T08:46:13.932518
+2026-03-20,,warszawa,"Reminders of Him. Cząstka Ciebie, którą znam",Warszawa - Janki,14:30,2D,original,regular,2026-03-20T08:46:13.932530
+2026-03-20,,warszawa,Kicia Kocia w podróży,Warszawa - Janki,14:40,2D,,regular,2026-03-20T08:46:13.932541
+2026-03-20,,warszawa,Pojedynek,Warszawa - Janki,14:50,2D,original,regular,2026-03-20T08:46:13.932551
+2026-03-20,,warszawa,Hopnięci,Warszawa - Janki,15:20,2D,original,regular,2026-03-20T08:46:13.932563
+2026-03-20,,warszawa,Wichrowe wzgórza,Warszawa - Janki,15:30,2D,original,regular,2026-03-20T08:46:13.932575
+2026-03-20,,warszawa,Za duży na bajki 3,Warszawa - Janki,15:45,2D,original,regular,2026-03-20T08:46:13.932585
+2026-03-20,,warszawa,Bez wyjścia,Warszawa - Janki,16:00,2D,original,regular,2026-03-20T08:46:13.932598
+2026-03-20,,warszawa,Piep*zyć Mickiewicza 3,Warszawa - Janki,16:10,2D,original,regular,2026-03-20T08:46:13.932608
+2026-03-20,,warszawa,Baw się dobrze i przeżyj,Warszawa - Janki,16:20,2D,original,regular,2026-03-20T08:46:13.932621
+2026-03-20,,warszawa,Hopnięci,Warszawa - Janki,16:40,2D,original,regular,2026-03-20T08:46:13.932633
+2026-03-20,,warszawa,Ostatnia sesja w Paryżu,Warszawa - Janki,17:10,2D,original,regular,2026-03-20T08:46:13.932645
+2026-03-20,,warszawa,Król dopalaczy,Warszawa - Janki,17:20,2D,original,regular,2026-03-20T08:46:13.932657
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Janki,17:30,2D,original,regular,2026-03-20T08:46:13.932669
+2026-03-20,,warszawa,Hopnięci,Warszawa - Janki,17:50,2D,original,regular,2026-03-20T08:46:13.932680
+2026-03-20,,warszawa,Za duży na bajki 3,Warszawa - Janki,18:00,2D,original,regular,2026-03-20T08:46:13.932689
+2026-03-20,,warszawa,Nie ma duchów w mieszkaniu na Dobrej,Warszawa - Janki,18:20,2D,original,regular,2026-03-20T08:46:13.932699
+2026-03-20,,warszawa,Projekt Hail Mary ukraiński dubbing,Warszawa - Janki,18:30,2D,dubbing,regular,2026-03-20T08:46:13.932708
+2026-03-20,,warszawa,Grzesznicy,Warszawa - Janki,19:00,2D,original,regular,2026-03-20T08:46:13.932718
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Janki,19:10,2D,original,regular,2026-03-20T08:46:13.932728
+2026-03-20,,warszawa,Baw się dobrze i przeżyj,Warszawa - Janki,19:10,2D,original,regular,2026-03-20T08:46:13.932738
+2026-03-20,,warszawa,"Reminders of Him. Cząstka Ciebie, którą znam",Warszawa - Janki,19:40,2D,original,regular,2026-03-20T08:46:13.932747
+2026-03-20,,warszawa,Bez wyjścia,Warszawa - Janki,20:00,2D,original,regular,2026-03-20T08:46:13.932756
+2026-03-20,,warszawa,Zapach Pho,Warszawa - Janki,20:10,2D,original,regular,2026-03-20T08:46:13.932767
+2026-03-20,,warszawa,Król dopalaczy,Warszawa - Janki,20:20,2D,original,regular,2026-03-20T08:46:13.932775
+2026-03-20,,warszawa,Ostatnia sesja w Paryżu,Warszawa - Janki,20:30,2D,original,regular,2026-03-20T08:46:13.932784
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Janki,20:50,2D,original,regular,2026-03-20T08:46:13.932794
+2026-03-20,,warszawa,Zapach Pho,Warszawa - Janki,21:45,2D,original,regular,2026-03-20T08:46:13.932803
+2026-03-20,,warszawa,Krzyk 7,Warszawa - Janki,21:50,2D,original,regular,2026-03-20T08:46:13.932812
+2026-03-20,,warszawa,Dobry chłopiec,Warszawa - Janki,22:00,2D,original,regular,2026-03-20T08:46:13.932822
+2026-03-20,,warszawa,Król dopalaczy,Warszawa - Janki,22:15,2D,original,regular,2026-03-20T08:46:13.932831
+2026-03-20,,warszawa,Zmiennokształtni 2,Warszawa - Mokotów,10:00,2D,,regular,2026-03-20T08:46:15.643771
+2026-03-20,,warszawa,Pojedynek,Warszawa - Mokotów,10:00,2D,original,regular,2026-03-20T08:46:15.643797
+2026-03-20,,warszawa,Król dopalaczy,Warszawa - Mokotów,10:00,2D,original,regular,2026-03-20T08:46:15.643809
+2026-03-20,,warszawa,Pan Ryba,Warszawa - Mokotów,10:00,2D,,regular,2026-03-20T08:46:15.643819
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Mokotów,10:20,2D,original,regular,2026-03-20T08:46:15.643832
+2026-03-20,,warszawa,Kicia Kocia w podróży,Warszawa - Mokotów,10:30,2D,,regular,2026-03-20T08:46:15.643868
+2026-03-20,,warszawa,Zwierzogród 2,Warszawa - Mokotów,10:40,2D,original,regular,2026-03-20T08:46:15.643882
+2026-03-20,,warszawa,Za duży na bajki 3,Warszawa - Mokotów,11:00,2D,original,regular,2026-03-20T08:46:15.643892
+2026-03-20,,warszawa,Hopnięci,Warszawa - Mokotów,11:00,2D,original,regular,2026-03-20T08:46:15.643904
+2026-03-20,,warszawa,Hopnięci ukraiński dubbing,Warszawa - Mokotów,11:20,2D,dubbing,regular,2026-03-20T08:46:15.643914
+2026-03-20,,warszawa,Kicia Kocia w podróży,Warszawa - Mokotów,11:20,2D,,regular,2026-03-20T08:46:15.643923
+2026-03-20,,warszawa,Fleak. Futrzak i ja,Warszawa - Mokotów,11:30,2D,,regular,2026-03-20T08:46:15.643933
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Mokotów,11:40,ScreenX,original,regular,2026-03-20T08:46:15.643942
+2026-03-20,,warszawa,Piep*zyć Mickiewicza 3,Warszawa - Mokotów,12:00,2D,original,regular,2026-03-20T08:46:15.643952
+2026-03-20,,warszawa,Pan Ryba,Warszawa - Mokotów,12:10,2D,,regular,2026-03-20T08:46:15.643961
+2026-03-20,,warszawa,Wielki Marty,Warszawa - Mokotów,12:20,2D,original,regular,2026-03-20T08:46:15.643973
+2026-03-20,,warszawa,Zwierzogród 2,Warszawa - Mokotów,12:30,2D,original,regular,2026-03-20T08:46:15.643984
+2026-03-20,,warszawa,Za duży na bajki 3,Warszawa - Mokotów,12:30,2D,original,regular,2026-03-20T08:46:15.643993
+2026-03-20,,warszawa,Król dopalaczy,Warszawa - Mokotów,12:30,2D,original,regular,2026-03-20T08:46:15.644003
+2026-03-20,,warszawa,Kicia Kocia w podróży,Warszawa - Mokotów,12:50,2D,,regular,2026-03-20T08:46:15.644012
+2026-03-20,,warszawa,Za duży na bajki 3,Warszawa - Mokotów,13:10,2D,original,regular,2026-03-20T08:46:15.644021
+2026-03-20,,warszawa,Wartość sentymentalna,Warszawa - Mokotów,13:10,2D,original,regular,2026-03-20T08:46:15.644032
+2026-03-20,,warszawa,Hopnięci,Warszawa - Mokotów,13:30,2D,original,regular,2026-03-20T08:46:15.644043
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Mokotów,13:40,2D,original,regular,2026-03-20T08:46:15.644053
+2026-03-20,,warszawa,Fleak. Futrzak i ja,Warszawa - Mokotów,13:50,2D,,regular,2026-03-20T08:46:15.644062
+2026-03-20,,warszawa,"Reminders of Him. Cząstka Ciebie, którą znam",Warszawa - Mokotów,13:50,2D,original,regular,2026-03-20T08:46:15.644073
+2026-03-20,,warszawa,Pan Ryba,Warszawa - Mokotów,14:15,2D,,regular,2026-03-20T08:46:15.644082
+2026-03-20,,warszawa,Kicia Kocia w podróży,Warszawa - Mokotów,14:20,2D,,regular,2026-03-20T08:46:15.644092
+2026-03-20,,warszawa,Piep*zyć Mickiewicza 3,Warszawa - Mokotów,14:20,2D,original,regular,2026-03-20T08:46:15.644101
+2026-03-20,,warszawa,Za duży na bajki 3,Warszawa - Mokotów,14:40,2D,original,regular,2026-03-20T08:46:15.644110
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Mokotów,15:00,ScreenX,original,regular,2026-03-20T08:46:15.644118
+2026-03-20,,warszawa,Król dopalaczy,Warszawa - Mokotów,15:00,2D,original,regular,2026-03-20T08:46:15.644127
+2026-03-20,,warszawa,Pojedynek,Warszawa - Mokotów,15:00,2D,original,regular,2026-03-20T08:46:15.644137
+2026-03-20,,warszawa,Hopnięci,Warszawa - Mokotów,15:30,2D,original,regular,2026-03-20T08:46:15.644147
+2026-03-20,,warszawa,Nie ma duchów w mieszkaniu na Dobrej,Warszawa - Mokotów,15:40,2D,original,regular,2026-03-20T08:46:15.644158
+2026-03-20,,warszawa,Hopnięci ukraiński dubbing,Warszawa - Mokotów,15:50,2D,dubbing,regular,2026-03-20T08:46:15.644168
+2026-03-20,,warszawa,Ostatnia sesja w Paryżu,Warszawa - Mokotów,16:00,2D,original,regular,2026-03-20T08:46:15.644178
+2026-03-20,,warszawa,Testament Ann Lee,Warszawa - Mokotów,16:00,2D,original,regular,2026-03-20T08:46:15.644189
+2026-03-20,,warszawa,Panna młoda!,Warszawa - Mokotów,16:10,2D,original,regular,2026-03-20T08:46:15.644200
+2026-03-20,,warszawa,Hopnięci,Warszawa - Mokotów,16:25,2D,original,regular,2026-03-20T08:46:15.644210
+2026-03-20,,warszawa,Baw się dobrze i przeżyj,Warszawa - Mokotów,16:30,2D,original,regular,2026-03-20T08:46:15.644221
+2026-03-20,,warszawa,Piep*zyć Mickiewicza 3,Warszawa - Mokotów,16:40,2D,original,regular,2026-03-20T08:46:15.644230
+2026-03-20,,warszawa,Za duży na bajki 3,Warszawa - Mokotów,16:50,2D,original,regular,2026-03-20T08:46:15.644239
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Mokotów,17:00,2D,original,regular,2026-03-20T08:46:15.644249
+2026-03-20,,warszawa,"Reminders of Him. Cząstka Ciebie, którą znam",Warszawa - Mokotów,17:30,2D,original,regular,2026-03-20T08:46:15.644259
+2026-03-20,,warszawa,Król dopalaczy,Warszawa - Mokotów,17:30,2D,original,regular,2026-03-20T08:46:15.644268
+2026-03-20,,warszawa,Nie ma duchów w mieszkaniu na Dobrej,Warszawa - Mokotów,17:50,2D,original,regular,2026-03-20T08:46:15.644278
+2026-03-20,,warszawa,Hopnięci,Warszawa - Mokotów,18:00,2D,original,regular,2026-03-20T08:46:15.644288
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Mokotów,18:20,ScreenX,original,regular,2026-03-20T08:46:15.644297
+2026-03-20,,warszawa,Angel's Egg,Warszawa - Mokotów,18:20,2D,original,regular,2026-03-20T08:46:15.644307
+2026-03-20,,warszawa,Ostatnia sesja w Paryżu,Warszawa - Mokotów,18:30,2D,original,regular,2026-03-20T08:46:15.644317
+2026-03-20,,warszawa,Bez wyjścia,Warszawa - Mokotów,18:45,2D,original,regular,2026-03-20T08:46:15.644327
+2026-03-20,,warszawa,Alpha,Warszawa - Mokotów,18:50,2D,original,regular,2026-03-20T08:46:15.644337
+2026-03-20,,warszawa,Grzesznicy,Warszawa - Mokotów,19:00,2D,original,regular,2026-03-20T08:46:15.644347
+2026-03-20,,warszawa,Projekt Hail Mary ukraiński dubbing,Warszawa - Mokotów,19:00,2D,dubbing,regular,2026-03-20T08:46:15.644358
+2026-03-20,,warszawa,Krzyk 7,Warszawa - Mokotów,19:10,2D,original,regular,2026-03-20T08:46:15.644368
+2026-03-20,,warszawa,Baw się dobrze i przeżyj,Warszawa - Mokotów,19:20,2D,original,regular,2026-03-20T08:46:15.644378
+2026-03-20,,warszawa,Król dopalaczy,Warszawa - Mokotów,20:00,2D,original,regular,2026-03-20T08:46:15.644388
+2026-03-20,,warszawa,Pojedynek,Warszawa - Mokotów,20:00,2D,original,regular,2026-03-20T08:46:15.644397
+2026-03-20,,warszawa,Dhurandhar The Revenge,Warszawa - Mokotów,20:10,2D,original,regular,2026-03-20T08:46:15.644407
+2026-03-20,,warszawa,"Miłość, która zostaje",Warszawa - Mokotów,20:10,2D,original,regular,2026-03-20T08:46:15.644418
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Mokotów,20:20,2D,original,regular,2026-03-20T08:46:15.644429
+2026-03-20,,warszawa,Dhurandhar The Revenge,Warszawa - Mokotów,20:40,2D,original,regular,2026-03-20T08:46:15.644438
+2026-03-20,,warszawa,Ostatnia sesja w Paryżu,Warszawa - Mokotów,21:00,2D,original,regular,2026-03-20T08:46:15.644448
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Mokotów,21:40,ScreenX,original,regular,2026-03-20T08:46:15.644457
+2026-03-20,,warszawa,Bez wyjścia,Warszawa - Mokotów,21:40,2D,original,regular,2026-03-20T08:46:15.644467
+2026-03-20,,warszawa,Dobry chłopiec,Warszawa - Mokotów,21:45,2D,original,regular,2026-03-20T08:46:15.644477
+2026-03-20,,warszawa,Wichrowe wzgórza,Warszawa - Mokotów,21:50,2D,original,regular,2026-03-20T08:46:15.644487
+2026-03-20,,warszawa,Krzyk 7,Warszawa - Mokotów,22:00,2D,original,regular,2026-03-20T08:46:15.644497
+2026-03-20,,warszawa,Baw się dobrze i przeżyj,Warszawa - Mokotów,22:10,2D,original,regular,2026-03-20T08:46:15.644506
+2026-03-20,,warszawa,"Reminders of Him. Cząstka Ciebie, którą znam",Warszawa - Mokotów,22:20,2D,original,regular,2026-03-20T08:46:15.644516
+2026-03-20,,warszawa,Król dopalaczy,Warszawa - Mokotów,22:30,2D,original,regular,2026-03-20T08:46:15.644525
+2026-03-20,,warszawa,Wartość sentymentalna,Warszawa - Mokotów,22:30,2D,original,regular,2026-03-20T08:46:15.644535
+2026-03-20,,warszawa,Krzyk 7,Warszawa - Mokotów,22:30,2D,original,regular,2026-03-20T08:46:15.644544
+2026-03-20,,warszawa,Fleak. Futrzak i ja,Warszawa - Promenada,10:00,2D,,regular,2026-03-20T08:46:17.307617
+2026-03-20,,warszawa,Kicia Kocia w podróży,Warszawa - Promenada,10:00,2D,,regular,2026-03-20T08:46:17.307644
+2026-03-20,,warszawa,Za duży na bajki 3,Warszawa - Promenada,10:00,2D,original,regular,2026-03-20T08:46:17.307655
+2026-03-20,,warszawa,Pan Ryba,Warszawa - Promenada,10:10,2D,,regular,2026-03-20T08:46:17.307666
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Promenada,10:20,2D,original,regular,2026-03-20T08:46:17.307678
+2026-03-20,,warszawa,Wielka mała koza,Warszawa - Promenada,10:30,2D,,regular,2026-03-20T08:46:17.307689
+2026-03-20,,warszawa,Hopnięci,Warszawa - Promenada,10:40,2D,original,regular,2026-03-20T08:46:17.307700
+2026-03-20,,warszawa,Za duży na bajki 3,Warszawa - Promenada,10:45,2D,original,regular,2026-03-20T08:46:17.307709
+2026-03-20,,warszawa,Najświętsze serce,Warszawa - Promenada,11:00,2D,original,regular,2026-03-20T08:46:17.307720
+2026-03-20,,warszawa,Zmiennokształtni 2,Warszawa - Promenada,11:10,2D,,regular,2026-03-20T08:46:17.307731
+2026-03-20,,warszawa,Kicia Kocia w podróży,Warszawa - Promenada,11:30,2D,,regular,2026-03-20T08:46:17.307741
+2026-03-20,,warszawa,Fleak. Futrzak i ja,Warszawa - Promenada,11:40,2D,,regular,2026-03-20T08:46:17.307750
+2026-03-20,,warszawa,Zwierzogród 2,Warszawa - Promenada,12:00,2D,original,regular,2026-03-20T08:46:17.307762
+2026-03-20,,warszawa,Piep*zyć Mickiewicza 3,Warszawa - Promenada,12:00,2D,original,regular,2026-03-20T08:46:17.307772
+2026-03-20,,warszawa,Testament Ann Lee,Warszawa - Promenada,12:10,2D,original,regular,2026-03-20T08:46:17.307783
+2026-03-20,,warszawa,Hopnięci,Warszawa - Promenada,12:10,2D,original,regular,2026-03-20T08:46:17.307793
+2026-03-20,,warszawa,Pan Ryba,Warszawa - Promenada,12:20,2D,,regular,2026-03-20T08:46:17.307803
+2026-03-20,,warszawa,Ostatnia wieczerza,Warszawa - Promenada,12:45,2D,original,regular,2026-03-20T08:46:17.307812
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Promenada,12:50,2D,original,regular,2026-03-20T08:46:17.307822
+2026-03-20,,warszawa,Kicia Kocia w podróży,Warszawa - Promenada,13:00,2D,,regular,2026-03-20T08:46:17.307832
+2026-03-20,,warszawa,Hopnięci,Warszawa - Promenada,13:10,2D,original,regular,2026-03-20T08:46:17.307857
+2026-03-20,,warszawa,Wielka mała koza,Warszawa - Promenada,13:15,2D,,regular,2026-03-20T08:46:17.307867
+2026-03-20,,warszawa,Za duży na bajki 3,Warszawa - Promenada,13:30,2D,original,regular,2026-03-20T08:46:17.307876
+2026-03-20,,warszawa,Fleak. Futrzak i ja,Warszawa - Promenada,13:50,2D,,regular,2026-03-20T08:46:17.307885
+2026-03-20,,warszawa,Król dopalaczy,Warszawa - Promenada,14:00,2D,original,regular,2026-03-20T08:46:17.307895
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Promenada,14:20,2D,original,regular,2026-03-20T08:46:17.307905
+2026-03-20,,warszawa,Pan Ryba,Warszawa - Promenada,14:30,2D,,regular,2026-03-20T08:46:17.307914
+2026-03-20,,warszawa,Pojedynek,Warszawa - Promenada,14:30,2D,original,regular,2026-03-20T08:46:17.307924
+2026-03-20,,warszawa,Piep*zyć Mickiewicza 3,Warszawa - Promenada,14:40,2D,original,regular,2026-03-20T08:46:17.307933
+2026-03-20,,warszawa,Hopnięci,Warszawa - Promenada,14:40,2D,original,regular,2026-03-20T08:46:17.307943
+2026-03-20,,warszawa,Krzyk 7,Warszawa - Promenada,15:00,2D,original,regular,2026-03-20T08:46:17.307953
+2026-03-20,,warszawa,Nie ma duchów w mieszkaniu na Dobrej,Warszawa - Promenada,15:10,2D,original,regular,2026-03-20T08:46:17.307963
+2026-03-20,,warszawa,Baw się dobrze i przeżyj,Warszawa - Promenada,15:30,2D,original,regular,2026-03-20T08:46:17.307974
+2026-03-20,,warszawa,Hopnięci,Warszawa - Promenada,15:40,2D,original,regular,2026-03-20T08:46:17.307985
+2026-03-20,,warszawa,Za duży na bajki 3,Warszawa - Promenada,15:50,2D,original,regular,2026-03-20T08:46:17.307994
+2026-03-20,,warszawa,Ostatnia sesja w Paryżu,Warszawa - Promenada,16:00,2D,original,regular,2026-03-20T08:46:17.308004
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Promenada,16:10,2D,original,regular,2026-03-20T08:46:17.308014
+2026-03-20,,warszawa,Król dopalaczy,Warszawa - Promenada,16:30,2D,original,regular,2026-03-20T08:46:17.308023
+2026-03-20,,warszawa,Pan Ryba,Warszawa - Promenada,16:40,2D,,regular,2026-03-20T08:46:17.308032
+2026-03-20,,warszawa,Piep*zyć Mickiewicza 3,Warszawa - Promenada,16:50,2D,original,regular,2026-03-20T08:46:17.308041
+2026-03-20,,warszawa,Wartość sentymentalna,Warszawa - Promenada,17:00,2D,original,regular,2026-03-20T08:46:17.308052
+2026-03-20,,warszawa,Hopnięci,Warszawa - Promenada,17:10,2D,original,regular,2026-03-20T08:46:17.308062
+2026-03-20,,warszawa,Angel's Egg,Warszawa - Promenada,17:20,2D,original,regular,2026-03-20T08:46:17.308072
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Promenada,17:40,2D,original,regular,2026-03-20T08:46:17.308082
+2026-03-20,,warszawa,Bez wyjścia,Warszawa - Promenada,17:40,2D,original,regular,2026-03-20T08:46:17.308093
+2026-03-20,,warszawa,Hopnięci,Warszawa - Promenada,18:00,2D,original,regular,2026-03-20T08:46:17.308103
+2026-03-20,,warszawa,Za duży na bajki 3,Warszawa - Promenada,18:10,2D,original,regular,2026-03-20T08:46:17.308112
+2026-03-20,,warszawa,Baw się dobrze i przeżyj,Warszawa - Promenada,18:20,2D,original,regular,2026-03-20T08:46:17.308122
+2026-03-20,,warszawa,Ostatnia sesja w Paryżu,Warszawa - Promenada,18:30,2D,original,regular,2026-03-20T08:46:17.308131
+2026-03-20,,warszawa,Dobry chłopiec,Warszawa - Promenada,18:50,2D,original,regular,2026-03-20T08:46:17.308141
+2026-03-20,,warszawa,Grzesznicy,Warszawa - Promenada,19:00,2D,original,regular,2026-03-20T08:46:17.308150
+2026-03-20,,warszawa,Król dopalaczy,Warszawa - Promenada,19:00,2D,original,regular,2026-03-20T08:46:17.308159
+2026-03-20,,warszawa,Nie ma duchów w mieszkaniu na Dobrej,Warszawa - Promenada,19:10,2D,original,regular,2026-03-20T08:46:17.308169
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Promenada,19:30,2D,original,regular,2026-03-20T08:46:17.308178
+2026-03-20,,warszawa,Krzyk 7,Warszawa - Promenada,19:40,2D,original,regular,2026-03-20T08:46:17.308188
+2026-03-20,,warszawa,Wartość sentymentalna,Warszawa - Promenada,20:00,2D,original,regular,2026-03-20T08:46:17.308198
+2026-03-20,,warszawa,Tajny agent,Warszawa - Promenada,20:20,2D,original,regular,2026-03-20T08:46:17.308208
+2026-03-20,,warszawa,"Reminders of Him. Cząstka Ciebie, którą znam",Warszawa - Promenada,20:30,2D,original,regular,2026-03-20T08:46:17.308218
+2026-03-20,,warszawa,Bez wyjścia,Warszawa - Promenada,20:40,2D,original,regular,2026-03-20T08:46:17.308228
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Promenada,21:00,2D,original,regular,2026-03-20T08:46:17.308238
+2026-03-20,,warszawa,Ostatnia sesja w Paryżu,Warszawa - Promenada,21:00,2D,original,regular,2026-03-20T08:46:17.308247
+2026-03-20,,warszawa,Dobry chłopiec,Warszawa - Promenada,21:20,2D,original,regular,2026-03-20T08:46:17.308257
+2026-03-20,,warszawa,Wichrowe wzgórza,Warszawa - Promenada,21:20,2D,original,regular,2026-03-20T08:46:17.308267
+2026-03-20,,warszawa,Dźwięk śmierci,Warszawa - Promenada,21:20,2D,original,regular,2026-03-20T08:46:17.308277
+2026-03-20,,warszawa,Król dopalaczy,Warszawa - Promenada,21:30,2D,original,regular,2026-03-20T08:46:17.308285
+2026-03-20,,warszawa,Panna młoda!,Warszawa - Promenada,21:50,2D,original,regular,2026-03-20T08:46:17.308296
+2026-03-20,,warszawa,Krzyk 7,Warszawa - Promenada,22:15,2D,original,regular,2026-03-20T08:46:17.308304
+2026-03-20,,warszawa,Hopnięci,Warszawa - Sadyba,09:50,2D,original,regular,2026-03-20T08:46:18.996773
+2026-03-20,,warszawa,Hopnięci,Warszawa - Sadyba,10:00,2D,original,regular,2026-03-20T08:46:18.996798
+2026-03-20,,warszawa,Król dopalaczy,Warszawa - Sadyba,10:45,2D,original,regular,2026-03-20T08:46:18.996810
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Sadyba,11:00,2D,original,regular,2026-03-20T08:46:18.996822
+2026-03-20,,warszawa,Kicia Kocia w podróży,Warszawa - Sadyba,11:00,2D,,regular,2026-03-20T08:46:18.996833
+2026-03-20,,warszawa,Pan Ryba,Warszawa - Sadyba,11:00,2D,,regular,2026-03-20T08:46:18.996860
+2026-03-20,,warszawa,Wielka mała koza,Warszawa - Sadyba,11:00,2D,,regular,2026-03-20T08:46:18.996871
+2026-03-20,,warszawa,Fleak. Futrzak i ja,Warszawa - Sadyba,11:15,2D,,regular,2026-03-20T08:46:18.996880
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Sadyba,11:30,IMAX,original,regular,2026-03-20T08:46:18.996888
+2026-03-20,,warszawa,Hopnięci,Warszawa - Sadyba,11:40,2D,original,regular,2026-03-20T08:46:18.996898
+2026-03-20,,warszawa,Fleak. Futrzak i ja,Warszawa - Sadyba,12:00,2D,,regular,2026-03-20T08:46:18.996906
+2026-03-20,,warszawa,Kicia Kocia w podróży,Warszawa - Sadyba,12:30,2D,,regular,2026-03-20T08:46:18.996916
+2026-03-20,,warszawa,Za duży na bajki 3,Warszawa - Sadyba,12:30,2D,original,regular,2026-03-20T08:46:18.996925
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Sadyba,12:40,2D,original,regular,2026-03-20T08:46:18.996936
+2026-03-20,,warszawa,Pan Ryba,Warszawa - Sadyba,12:45,2D,,regular,2026-03-20T08:46:18.996944
+2026-03-20,,warszawa,Hopnięci,Warszawa - Sadyba,13:00,2D,original,regular,2026-03-20T08:46:18.996954
+2026-03-20,,warszawa,Piep*zyć Mickiewicza 3,Warszawa - Sadyba,13:10,2D,original,regular,2026-03-20T08:46:18.996963
+2026-03-20,,warszawa,Król dopalaczy,Warszawa - Sadyba,13:15,2D,original,regular,2026-03-20T08:46:18.996972
+2026-03-20,,warszawa,Wielka mała koza,Warszawa - Sadyba,13:15,2D,,regular,2026-03-20T08:46:18.996981
+2026-03-20,,warszawa,Wartość sentymentalna,Warszawa - Sadyba,13:30,2D,original,regular,2026-03-20T08:46:18.996992
+2026-03-20,,warszawa,Pojedynek,Warszawa - Sadyba,14:00,2D,original,regular,2026-03-20T08:46:18.997001
+2026-03-20,,warszawa,Fleak. Futrzak i ja,Warszawa - Sadyba,14:10,2D,,regular,2026-03-20T08:46:18.997009
+2026-03-20,,warszawa,Hopnięci,Warszawa - Sadyba,14:10,2D,original,regular,2026-03-20T08:46:18.997020
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Sadyba,14:15,2D,original,regular,2026-03-20T08:46:18.997030
+2026-03-20,,warszawa,Ostatnia wieczerza,Warszawa - Sadyba,14:40,2D,original,regular,2026-03-20T08:46:18.997039
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Sadyba,14:50,IMAX,original,regular,2026-03-20T08:46:18.997046
+2026-03-20,,warszawa,Pan Ryba,Warszawa - Sadyba,15:00,2D,,regular,2026-03-20T08:46:18.997054
+2026-03-20,,warszawa,Nie ma duchów w mieszkaniu na Dobrej,Warszawa - Sadyba,15:15,2D,original,regular,2026-03-20T08:46:18.997064
+2026-03-20,,warszawa,Bez wyjścia,Warszawa - Sadyba,15:30,2D,original,regular,2026-03-20T08:46:18.997074
+2026-03-20,,warszawa,Hopnięci,Warszawa - Sadyba,15:30,2D,original,regular,2026-03-20T08:46:18.997084
+2026-03-20,,warszawa,Król dopalaczy,Warszawa - Sadyba,15:45,2D,original,regular,2026-03-20T08:46:18.997093
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Sadyba,16:00,2D,original,regular,2026-03-20T08:46:18.997103
+2026-03-20,,warszawa,Testament Ann Lee,Warszawa - Sadyba,16:10,2D,original,regular,2026-03-20T08:46:18.997114
+2026-03-20,,warszawa,Dobry chłopiec,Warszawa - Sadyba,16:30,2D,original,regular,2026-03-20T08:46:18.997124
+2026-03-20,,warszawa,Ostatnia sesja w Paryżu,Warszawa - Sadyba,16:30,2D,original,regular,2026-03-20T08:46:18.997134
+2026-03-20,,warszawa,Hopnięci,Warszawa - Sadyba,16:40,2D,original,regular,2026-03-20T08:46:18.997144
+2026-03-20,,warszawa,Za duży na bajki 3,Warszawa - Sadyba,17:00,2D,original,regular,2026-03-20T08:46:18.997152
+2026-03-20,,warszawa,"Reminders of Him. Cząstka Ciebie, którą znam",Warszawa - Sadyba,17:15,2D,original,regular,2026-03-20T08:46:18.997162
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Sadyba,17:30,2D,original,regular,2026-03-20T08:46:18.997172
+2026-03-20,,warszawa,Nie ma duchów w mieszkaniu na Dobrej,Warszawa - Sadyba,17:30,2D,original,regular,2026-03-20T08:46:18.997181
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Sadyba,18:10,IMAX,original,regular,2026-03-20T08:46:18.997188
+2026-03-20,,warszawa,Król dopalaczy,Warszawa - Sadyba,18:15,2D,original,regular,2026-03-20T08:46:18.997196
+2026-03-20,,warszawa,Wartość sentymentalna,Warszawa - Sadyba,18:30,2D,original,regular,2026-03-20T08:46:18.997206
+2026-03-20,,warszawa,Grzesznicy,Warszawa - Sadyba,19:00,2D,original,regular,2026-03-20T08:46:18.997215
+2026-03-20,,warszawa,Pojedynek,Warszawa - Sadyba,19:00,2D,original,regular,2026-03-20T08:46:18.997224
+2026-03-20,,warszawa,Ostatnia sesja w Paryżu,Warszawa - Sadyba,19:00,2D,original,regular,2026-03-20T08:46:18.997232
+2026-03-20,,warszawa,Krzyk 7,Warszawa - Sadyba,19:10,2D,original,regular,2026-03-20T08:46:18.997241
+2026-03-20,,warszawa,Panna młoda!,Warszawa - Sadyba,19:15,2D,original,regular,2026-03-20T08:46:18.997251
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Sadyba,19:20,2D,original,regular,2026-03-20T08:46:18.997261
+2026-03-20,,warszawa,Bez wyjścia,Warszawa - Sadyba,19:40,2D,original,regular,2026-03-20T08:46:18.997271
+2026-03-20,,warszawa,Tajny agent,Warszawa - Sadyba,19:50,2D,original,regular,2026-03-20T08:46:18.997280
+2026-03-20,,warszawa,Baw się dobrze i przeżyj,Warszawa - Sadyba,20:40,2D,original,regular,2026-03-20T08:46:18.997290
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Sadyba,20:50,2D,original,regular,2026-03-20T08:46:18.997300
+2026-03-20,,warszawa,Król dopalaczy,Warszawa - Sadyba,20:50,2D,original,regular,2026-03-20T08:46:18.997308
+2026-03-20,,warszawa,Wartość sentymentalna,Warszawa - Sadyba,21:20,2D,original,regular,2026-03-20T08:46:18.997317
+2026-03-20,,warszawa,Projekt Hail Mary,Warszawa - Sadyba,21:30,IMAX,original,regular,2026-03-20T08:46:18.997324
+2026-03-20,,warszawa,Ostatnia sesja w Paryżu,Warszawa - Sadyba,21:30,2D,original,regular,2026-03-20T08:46:18.997333
+2026-03-20,,warszawa,Dobry chłopiec,Warszawa - Sadyba,21:40,2D,original,regular,2026-03-20T08:46:18.997342
+2026-03-20,,warszawa,Krzyk 7,Warszawa - Sadyba,21:50,2D,original,regular,2026-03-20T08:46:18.997350
+2026-03-20,,warszawa,Panna młoda!,Warszawa - Sadyba,22:00,2D,original,regular,2026-03-20T08:46:18.997360
+2026-03-20,,warszawa,Baw się dobrze i przeżyj,Warszawa - Sadyba,22:00,2D,original,regular,2026-03-20T08:46:18.997369
+2026-03-20,,wrocław,Za duży na bajki 3,Wrocław - Korona,10:00,2D,original,regular,2026-03-20T08:46:20.360238
+2026-03-20,,wrocław,Projekt Hail Mary,Wrocław - Korona,11:00,Dolby Atmos,original,regular,2026-03-20T08:46:20.360271
+2026-03-20,,wrocław,Fleak. Futrzak i ja,Wrocław - Korona,11:00,2D,,regular,2026-03-20T08:46:20.360285
+2026-03-20,,wrocław,Pojedynek,Wrocław - Korona,11:00,2D,original,regular,2026-03-20T08:46:20.360296
+2026-03-20,,wrocław,Pan Ryba,Wrocław - Korona,11:10,2D,,regular,2026-03-20T08:46:20.360305
+2026-03-20,,wrocław,Kicia Kocia w podróży,Wrocław - Korona,11:30,2D,,regular,2026-03-20T08:46:20.360314
+2026-03-20,,wrocław,Hopnięci,Wrocław - Korona,11:40,2D,original,regular,2026-03-20T08:46:20.360325
+2026-03-20,,wrocław,Projekt Hail Mary,Wrocław - Korona,11:45,ScreenX,original,regular,2026-03-20T08:46:20.360334
+2026-03-20,,wrocław,Krzyk 7,Wrocław - Korona,12:00,2D,original,regular,2026-03-20T08:46:20.360344
+2026-03-20,,wrocław,Fleak. Futrzak i ja,Wrocław - Korona,12:30,2D,,regular,2026-03-20T08:46:20.360352
+2026-03-20,,wrocław,Hopnięci,Wrocław - Korona,13:00,2D,original,regular,2026-03-20T08:46:20.360363
+2026-03-20,,wrocław,Kicia Kocia w podróży,Wrocław - Korona,13:10,2D,,regular,2026-03-20T08:46:20.360372
+2026-03-20,,wrocław,Testament Ann Lee,Wrocław - Korona,13:20,2D,original,regular,2026-03-20T08:46:20.360382
+2026-03-20,,wrocław,Piep*zyć Mickiewicza 3,Wrocław - Korona,13:50,2D,original,regular,2026-03-20T08:46:20.360392
+2026-03-20,,wrocław,Hopnięci,Wrocław - Korona,14:10,2D,original,regular,2026-03-20T08:46:20.360402
+2026-03-20,,wrocław,Projekt Hail Mary,Wrocław - Korona,14:15,Dolby Atmos,original,regular,2026-03-20T08:46:20.360413
+2026-03-20,,wrocław,Krzyk 7,Wrocław - Korona,14:30,2D,original,regular,2026-03-20T08:46:20.360422
+2026-03-20,,wrocław,Za duży na bajki 3,Wrocław - Korona,14:40,2D,original,regular,2026-03-20T08:46:20.360431
+2026-03-20,,wrocław,Pan Ryba,Wrocław - Korona,14:45,2D,,regular,2026-03-20T08:46:20.360440
+2026-03-20,,wrocław,Projekt Hail Mary,Wrocław - Korona,15:00,ScreenX,original,regular,2026-03-20T08:46:20.360449
+2026-03-20,,wrocław,Hopnięci,Wrocław - Korona,15:30,2D,original,regular,2026-03-20T08:46:20.360459
+2026-03-20,,wrocław,Król dopalaczy,Wrocław - Korona,16:10,2D,original,regular,2026-03-20T08:46:20.360468
+2026-03-20,,wrocław,Projekt Hail Mary,Wrocław - Korona,16:15,2D,original,regular,2026-03-20T08:46:20.360478
+2026-03-20,,wrocław,Hopnięci,Wrocław - Korona,16:30,2D,original,regular,2026-03-20T08:46:20.360488
+2026-03-20,,wrocław,Za duży na bajki 3,Wrocław - Korona,16:50,2D,original,regular,2026-03-20T08:46:20.360497
+2026-03-20,,wrocław,Bez wyjścia,Wrocław - Korona,17:00,2D,original,regular,2026-03-20T08:46:20.360507
+2026-03-20,,wrocław,Wartość sentymentalna,Wrocław - Korona,17:15,2D,original,regular,2026-03-20T08:46:20.360517
+2026-03-20,,wrocław,Projekt Hail Mary,Wrocław - Korona,17:30,Dolby Atmos,original,regular,2026-03-20T08:46:20.360528
+2026-03-20,,wrocław,Hopnięci,Wrocław - Korona,18:00,2D,original,regular,2026-03-20T08:46:20.360537
+2026-03-20,,wrocław,Projekt Hail Mary,Wrocław - Korona,18:20,ScreenX,original,regular,2026-03-20T08:46:20.360546
+2026-03-20,,wrocław,Król dopalaczy,Wrocław - Korona,18:45,2D,original,regular,2026-03-20T08:46:20.360554
+2026-03-20,,wrocław,Grzesznicy,Wrocław - Korona,19:00,2D,original,regular,2026-03-20T08:46:20.360563
+2026-03-20,,wrocław,Za duży na bajki 3,Wrocław - Korona,19:00,2D,original,regular,2026-03-20T08:46:20.360572
+2026-03-20,,wrocław,Projekt Hail Mary,Wrocław - Korona,19:30,2D,original,regular,2026-03-20T08:46:20.360582
+2026-03-20,,wrocław,Ostatnia sesja w Paryżu,Wrocław - Korona,20:00,2D,original,regular,2026-03-20T08:46:20.360592
+2026-03-20,,wrocław,Baw się dobrze i przeżyj,Wrocław - Korona,20:10,2D,original,regular,2026-03-20T08:46:20.360602
+2026-03-20,,wrocław,"Reminders of Him. Cząstka Ciebie, którą znam",Wrocław - Korona,20:30,2D,original,regular,2026-03-20T08:46:20.360612
+2026-03-20,,wrocław,Projekt Hail Mary,Wrocław - Korona,20:50,Dolby Atmos,original,regular,2026-03-20T08:46:20.360622
+2026-03-20,,wrocław,Panna młoda!,Wrocław - Korona,21:10,2D,original,regular,2026-03-20T08:46:20.360632
+2026-03-20,,wrocław,Król dopalaczy,Wrocław - Korona,21:20,2D,original,regular,2026-03-20T08:46:20.360641
+2026-03-20,,wrocław,Projekt Hail Mary,Wrocław - Korona,21:40,ScreenX,original,regular,2026-03-20T08:46:20.360649
+2026-03-20,,wrocław,Dobry chłopiec,Wrocław - Korona,21:50,2D,original,regular,2026-03-20T08:46:20.360659
+2026-03-20,,wrocław,Ostatnia sesja w Paryżu,Wrocław - Korona,22:30,2D,original,regular,2026-03-20T08:46:20.360667
+2026-03-20,,wrocław,Pan Ryba,Wrocław - Wroclavia,10:00,2D,,regular,2026-03-20T08:46:22.115481
+2026-03-20,,wrocław,Za duży na bajki 3,Wrocław - Wroclavia,10:00,2D,original,regular,2026-03-20T08:46:22.115508
+2026-03-20,,wrocław,Piep*zyć Mickiewicza 3,Wrocław - Wroclavia,10:00,2D,original,regular,2026-03-20T08:46:22.115521
+2026-03-20,,wrocław,Wielka mała koza,Wrocław - Wroclavia,10:15,2D,,regular,2026-03-20T08:46:22.115533
+2026-03-20,,wrocław,Projekt Hail Mary,Wrocław - Wroclavia,10:20,Dolby Atmos,original,regular,2026-03-20T08:46:22.115546
+2026-03-20,,wrocław,Kicia Kocia w podróży,Wrocław - Wroclavia,10:20,2D,,regular,2026-03-20T08:46:22.115557
+2026-03-20,,wrocław,Hopnięci,Wrocław - Wroclavia,10:20,4DX,original,regular,2026-03-20T08:46:22.115566
+2026-03-20,,wrocław,Król dopalaczy,Wrocław - Wroclavia,10:40,2D,original,regular,2026-03-20T08:46:22.115577
+2026-03-20,,wrocław,Pan Ryba,Wrocław - Wroclavia,11:10,2D,,regular,2026-03-20T08:46:22.115586
+2026-03-20,,wrocław,Zmiennokształtni 2,Wrocław - Wroclavia,11:10,2D,,regular,2026-03-20T08:46:22.115597
+2026-03-20,,wrocław,Projekt Hail Mary,Wrocław - Wroclavia,11:30,IMAX,original,regular,2026-03-20T08:46:22.115604
+2026-03-20,,wrocław,Zwierzogród 2,Wrocław - Wroclavia,11:30,2D,original,regular,2026-03-20T08:46:22.115617
+2026-03-20,,wrocław,Za duży na bajki 3,Wrocław - Wroclavia,11:30,2D,original,regular,2026-03-20T08:46:22.115626
+2026-03-20,,wrocław,Hopnięci,Wrocław - Wroclavia,11:50,2D,original,regular,2026-03-20T08:46:22.115638
+2026-03-20,,wrocław,Kicia Kocia w podróży,Wrocław - Wroclavia,11:50,2D,,regular,2026-03-20T08:46:22.115648
+2026-03-20,,wrocław,Wielka mała koza,Wrocław - Wroclavia,11:50,2D,,regular,2026-03-20T08:46:22.115658
+2026-03-20,,wrocław,Kicia Kocia w podróży,Wrocław - Wroclavia,12:10,2D,,regular,2026-03-20T08:46:22.115668
+2026-03-20,,wrocław,Testament Ann Lee,Wrocław - Wroclavia,12:20,2D,original,regular,2026-03-20T08:46:22.115679
+2026-03-20,,wrocław,Bez wyjścia,Wrocław - Wroclavia,12:35,2D,original,regular,2026-03-20T08:46:22.115691
+2026-03-20,,wrocław,Piep*zyć Mickiewicza 3,Wrocław - Wroclavia,12:40,2D,original,regular,2026-03-20T08:46:22.115701
+2026-03-20,,wrocław,Za duży na bajki 3,Wrocław - Wroclavia,12:45,2D,original,regular,2026-03-20T08:46:22.115710
+2026-03-20,,wrocław,Hopnięci,Wrocław - Wroclavia,12:50,4DX,original,regular,2026-03-20T08:46:22.115719
+2026-03-20,,wrocław,Kicia Kocia w podróży,Wrocław - Wroclavia,13:15,2D,,regular,2026-03-20T08:46:22.115729
+2026-03-20,,wrocław,Pan Ryba,Wrocław - Wroclavia,13:20,2D,,regular,2026-03-20T08:46:22.115738
+2026-03-20,,wrocław,Król dopalaczy,Wrocław - Wroclavia,13:20,2D,original,regular,2026-03-20T08:46:22.115748
+2026-03-20,,wrocław,Hopnięci,Wrocław - Wroclavia,13:30,Dolby Atmos,original,regular,2026-03-20T08:46:22.115760
+2026-03-20,,wrocław,Projekt Hail Mary,Wrocław - Wroclavia,13:40,Dolby Atmos,original,regular,2026-03-20T08:46:22.115771
+2026-03-20,,wrocław,Hopnięci ukraiński dubbing,Wrocław - Wroclavia,13:50,2D,dubbing,regular,2026-03-20T08:46:22.115782
+2026-03-20,,wrocław,Projekt Hail Mary,Wrocław - Wroclavia,14:00,2D,original,regular,2026-03-20T08:46:22.115793
+2026-03-20,,wrocław,Hopnięci,Wrocław - Wroclavia,14:00,2D,original,regular,2026-03-20T08:46:22.115804
+2026-03-20,,wrocław,Hopnięci,Wrocław - Wroclavia,14:10,2D,original,regular,2026-03-20T08:46:22.115814
+2026-03-20,,wrocław,Wielka mała koza,Wrocław - Wroclavia,14:10,2D,,regular,2026-03-20T08:46:22.115824
+2026-03-20,,wrocław,Hopnięci,Wrocław - Wroclavia,14:20,2D,original,regular,2026-03-20T08:46:22.115836
+2026-03-20,,wrocław,Fleak. Futrzak i ja,Wrocław - Wroclavia,14:20,2D,,regular,2026-03-20T08:46:22.115860
+2026-03-20,,wrocław,Projekt Hail Mary,Wrocław - Wroclavia,14:50,IMAX,original,regular,2026-03-20T08:46:22.115867
+2026-03-20,,wrocław,Piep*zyć Mickiewicza 3,Wrocław - Wroclavia,14:50,2D,original,regular,2026-03-20T08:46:22.115877
+2026-03-20,,wrocław,Za duży na bajki 3,Wrocław - Wroclavia,15:00,2D,original,regular,2026-03-20T08:46:22.115887
+2026-03-20,,wrocław,Wichrowe wzgórza,Wrocław - Wroclavia,15:00,2D,original,regular,2026-03-20T08:46:22.115898
+2026-03-20,,wrocław,Projekt Hail Mary,Wrocław - Wroclavia,15:20,4DX,original,regular,2026-03-20T08:46:22.115907
+2026-03-20,,wrocław,Nie ma duchów w mieszkaniu na Dobrej,Wrocław - Wroclavia,15:20,2D,original,regular,2026-03-20T08:46:22.115917
+2026-03-20,,wrocław,Pan Ryba,Wrocław - Wroclavia,15:30,2D,,regular,2026-03-20T08:46:22.115927
+2026-03-20,,wrocław,Baw się dobrze i przeżyj,Wrocław - Wroclavia,15:30,2D,original,regular,2026-03-20T08:46:22.115939
+2026-03-20,,wrocław,Hopnięci,Wrocław - Wroclavia,15:50,Dolby Atmos,original,regular,2026-03-20T08:46:22.115951
+2026-03-20,,wrocław,Król dopalaczy,Wrocław - Wroclavia,16:00,2D,original,regular,2026-03-20T08:46:22.115961
+2026-03-20,,wrocław,"Miłość, która zostaje",Wrocław - Wroclavia,16:10,2D,original,regular,2026-03-20T08:46:22.115972
+2026-03-20,,wrocław,Najświętsze serce,Wrocław - Wroclavia,16:10,2D,original,regular,2026-03-20T08:46:22.115983
+2026-03-20,,wrocław,Ostatnia sesja w Paryżu,Wrocław - Wroclavia,16:30,2D,original,regular,2026-03-20T08:46:22.115994
+2026-03-20,,wrocław,Dobry chłopiec,Wrocław - Wroclavia,16:30,2D,original,regular,2026-03-20T08:46:22.116004
+2026-03-20,,wrocław,Wielka mała koza,Wrocław - Wroclavia,16:30,2D,,regular,2026-03-20T08:46:22.116015
+2026-03-20,,wrocław,Hopnięci,Wrocław - Wroclavia,16:30,2D,original,regular,2026-03-20T08:46:22.116027
+2026-03-20,,wrocław,Hopnięci,Wrocław - Wroclavia,16:50,2D,original,regular,2026-03-20T08:46:22.116037
+2026-03-20,,wrocław,Projekt Hail Mary,Wrocław - Wroclavia,17:00,Dolby Atmos,original,regular,2026-03-20T08:46:22.116047
+2026-03-20,,wrocław,"Reminders of Him. Cząstka Ciebie, którą znam",Wrocław - Wroclavia,17:10,2D,original,regular,2026-03-20T08:46:22.116057
+2026-03-20,,wrocław,Projekt Hail Mary,Wrocław - Wroclavia,17:20,2D,original,regular,2026-03-20T08:46:22.116067
+2026-03-20,,wrocław,Za duży na bajki 3,Wrocław - Wroclavia,17:20,2D,original,regular,2026-03-20T08:46:22.116076
+2026-03-20,,wrocław,Ostatnia wieczerza,Wrocław - Wroclavia,17:30,2D,original,regular,2026-03-20T08:46:22.116084
+2026-03-20,,wrocław,Wichrowe wzgórza,Wrocław - Wroclavia,17:45,2D,original,regular,2026-03-20T08:46:22.116094
+2026-03-20,,wrocław,Król dopalaczy,Wrocław - Wroclavia,18:00,2D,original,regular,2026-03-20T08:46:22.116103
+2026-03-20,,wrocław,Projekt Hail Mary,Wrocław - Wroclavia,18:10,IMAX,original,regular,2026-03-20T08:46:22.116110
+2026-03-20,,wrocław,Hopnięci,Wrocław - Wroclavia,18:10,Dolby Atmos,original,regular,2026-03-20T08:46:22.116120
+2026-03-20,,wrocław,Baw się dobrze i przeżyj,Wrocław - Wroclavia,18:20,2D,original,regular,2026-03-20T08:46:22.116130
+2026-03-20,,wrocław,Pojedynek,Wrocław - Wroclavia,18:30,2D,original,regular,2026-03-20T08:46:22.116139
+2026-03-20,,wrocław,Projekt Hail Mary,Wrocław - Wroclavia,18:40,4DX,original,regular,2026-03-20T08:46:22.116146
+2026-03-20,,wrocław,Angel's Egg,Wrocław - Wroclavia,18:40,2D,original,regular,2026-03-20T08:46:22.116156
+2026-03-20,,wrocław,Król dopalaczy,Wrocław - Wroclavia,18:40,2D,original,regular,2026-03-20T08:46:22.116164
+2026-03-20,,wrocław,Wartość sentymentalna,Wrocław - Wroclavia,18:50,2D,original,regular,2026-03-20T08:46:22.116175
+2026-03-20,,wrocław,Grzesznicy,Wrocław - Wroclavia,19:00,2D,original,regular,2026-03-20T08:46:22.116183
+2026-03-20,,wrocław,Ostatnia sesja w Paryżu,Wrocław - Wroclavia,19:00,2D,original,regular,2026-03-20T08:46:22.116192
+2026-03-20,,wrocław,Bez wyjścia,Wrocław - Wroclavia,19:00,2D,original,regular,2026-03-20T08:46:22.116202
+2026-03-20,,wrocław,Projekt Hail Mary,Wrocław - Wroclavia,19:05,2D,original,regular,2026-03-20T08:46:22.116212
+2026-03-20,,wrocław,Projekt Hail Mary ukraiński dubbing,Wrocław - Wroclavia,19:30,2D,dubbing,regular,2026-03-20T08:46:22.116222
+2026-03-20,,wrocław,"Reminders of Him. Cząstka Ciebie, którą znam",Wrocław - Wroclavia,19:50,2D,original,regular,2026-03-20T08:46:22.116231
+2026-03-20,,wrocław,Dhurandhar The Revenge,Wrocław - Wroclavia,19:50,2D,original,regular,2026-03-20T08:46:22.116241
+2026-03-20,,wrocław,Projekt Hail Mary,Wrocław - Wroclavia,20:10,Dolby Atmos,original,regular,2026-03-20T08:46:22.116251
+2026-03-20,,wrocław,Hopnięci,Wrocław - Wroclavia,20:30,2D,original,regular,2026-03-20T08:46:22.116261
+2026-03-20,,wrocław,Król dopalaczy,Wrocław - Wroclavia,20:30,2D,original,regular,2026-03-20T08:46:22.116270
+2026-03-20,,wrocław,Alpha,Wrocław - Wroclavia,20:30,2D,original,regular,2026-03-20T08:46:22.116280
+2026-03-20,,wrocław,Tajny agent,Wrocław - Wroclavia,20:45,2D,original,regular,2026-03-20T08:46:22.116290
+2026-03-20,,wrocław,Projekt Hail Mary,Wrocław - Wroclavia,20:50,2D,original,regular,2026-03-20T08:46:22.116299
+2026-03-20,,wrocław,Dhurandhar The Revenge,Wrocław - Wroclavia,21:05,2D,original,regular,2026-03-20T08:46:22.116309
+2026-03-20,,wrocław,Baw się dobrze i przeżyj,Wrocław - Wroclavia,21:10,2D,original,regular,2026-03-20T08:46:22.116318
+2026-03-20,,wrocław,Pojedynek,Wrocław - Wroclavia,21:10,2D,original,regular,2026-03-20T08:46:22.116327
+2026-03-20,,wrocław,Projekt Hail Mary,Wrocław - Wroclavia,21:30,IMAX,original,regular,2026-03-20T08:46:22.116333
+2026-03-20,,wrocław,Ostatnia sesja w Paryżu,Wrocław - Wroclavia,21:30,2D,original,regular,2026-03-20T08:46:22.116342
+2026-03-20,,wrocław,Wartość sentymentalna,Wrocław - Wroclavia,21:40,2D,original,regular,2026-03-20T08:46:22.116352
+2026-03-20,,wrocław,Projekt Hail Mary,Wrocław - Wroclavia,22:00,4DX,original,regular,2026-03-20T08:46:22.116359
+2026-03-20,,wrocław,Bez wyjścia,Wrocław - Wroclavia,22:00,2D,original,regular,2026-03-20T08:46:22.116369
+2026-03-20,,wrocław,Król dopalaczy,Wrocław - Wroclavia,22:10,2D,original,regular,2026-03-20T08:46:22.116378
+2026-03-20,,wrocław,Dobry chłopiec,Wrocław - Wroclavia,22:15,2D,original,regular,2026-03-20T08:46:22.116387
+2026-03-20,,wrocław,"Reminders of Him. Cząstka Ciebie, którą znam",Wrocław - Wroclavia,22:30,2D,original,regular,2026-03-20T08:46:22.116396
+2026-03-20,,zielona-góra,Za duży na bajki 3,Zielona Góra,10:00,2D,original,regular,2026-03-20T08:46:23.987641
+2026-03-20,,zielona-góra,Piep*zyć Mickiewicza 3,Zielona Góra,10:00,2D,original,regular,2026-03-20T08:46:23.987665
+2026-03-20,,zielona-góra,Projekt Hail Mary,Zielona Góra,10:20,2D,original,regular,2026-03-20T08:46:23.987679
+2026-03-20,,zielona-góra,Hopnięci,Zielona Góra,10:30,2D,original,regular,2026-03-20T08:46:23.987690
+2026-03-20,,zielona-góra,Kicia Kocia w podróży,Zielona Góra,11:00,2D,,regular,2026-03-20T08:46:23.987701
+2026-03-20,,zielona-góra,Za duży na bajki 3,Zielona Góra,11:00,2D,original,regular,2026-03-20T08:46:23.987710
+2026-03-20,,zielona-góra,Pan Ryba,Zielona Góra,11:10,2D,,regular,2026-03-20T08:46:23.987718
+2026-03-20,,zielona-góra,Fleak. Futrzak i ja,Zielona Góra,11:40,2D,,regular,2026-03-20T08:46:23.987727
+2026-03-20,,zielona-góra,Hopnięci,Zielona Góra,11:40,2D,original,regular,2026-03-20T08:46:23.987737
+2026-03-20,,zielona-góra,Ostatnia wieczerza,Zielona Góra,12:25,2D,original,regular,2026-03-20T08:46:23.987746
+2026-03-20,,zielona-góra,Hopnięci,Zielona Góra,12:30,2D,original,regular,2026-03-20T08:46:23.987756
+2026-03-20,,zielona-góra,Fleak. Futrzak i ja,Zielona Góra,12:50,2D,,regular,2026-03-20T08:46:23.987764
+2026-03-20,,zielona-góra,Hopnięci,Zielona Góra,13:10,2D,original,regular,2026-03-20T08:46:23.987774
+2026-03-20,,zielona-góra,Pan Ryba,Zielona Góra,13:30,2D,,regular,2026-03-20T08:46:23.987783
+2026-03-20,,zielona-góra,Projekt Hail Mary,Zielona Góra,13:40,2D,original,regular,2026-03-20T08:46:23.987793
+2026-03-20,,zielona-góra,Król dopalaczy,Zielona Góra,13:40,2D,original,regular,2026-03-20T08:46:23.987802
+2026-03-20,,zielona-góra,Kicia Kocia w podróży,Zielona Góra,13:50,2D,,regular,2026-03-20T08:46:23.987811
+2026-03-20,,zielona-góra,Hopnięci,Zielona Góra,14:05,2D,original,regular,2026-03-20T08:46:23.987821
+2026-03-20,,zielona-góra,"Reminders of Him. Cząstka Ciebie, którą znam",Zielona Góra,14:40,2D,original,regular,2026-03-20T08:46:23.987831
+2026-03-20,,zielona-góra,Za duży na bajki 3,Zielona Góra,14:55,2D,original,regular,2026-03-20T08:46:23.987855
+2026-03-20,,zielona-góra,Wielka mała koza,Zielona Góra,15:20,2D,,regular,2026-03-20T08:46:23.987867
+2026-03-20,,zielona-góra,Hopnięci,Zielona Góra,15:35,2D,original,regular,2026-03-20T08:46:23.987877
+2026-03-20,,zielona-góra,Pojedynek,Zielona Góra,15:45,2D,original,regular,2026-03-20T08:46:23.987886
+2026-03-20,,zielona-góra,Za duży na bajki 3,Zielona Góra,16:00,2D,original,regular,2026-03-20T08:46:23.987894
+2026-03-20,,zielona-góra,Król dopalaczy,Zielona Góra,16:15,2D,original,regular,2026-03-20T08:46:23.987903
+2026-03-20,,zielona-góra,Hopnięci,Zielona Góra,16:30,2D,original,regular,2026-03-20T08:46:23.987913
+2026-03-20,,zielona-góra,Projekt Hail Mary,Zielona Góra,17:00,2D,original,regular,2026-03-20T08:46:23.987923
+2026-03-20,,zielona-góra,Piep*zyć Mickiewicza 3,Zielona Góra,17:10,2D,original,regular,2026-03-20T08:46:23.987932
+2026-03-20,,zielona-góra,"Reminders of Him. Cząstka Ciebie, którą znam",Zielona Góra,17:15,2D,original,regular,2026-03-20T08:46:23.987941
+2026-03-20,,zielona-góra,Baw się dobrze i przeżyj,Zielona Góra,17:45,2D,original,regular,2026-03-20T08:46:23.987951
+2026-03-20,,zielona-góra,Ostatnia sesja w Paryżu,Zielona Góra,18:00,2D,original,regular,2026-03-20T08:46:23.987960
+2026-03-20,,zielona-góra,Nie ma duchów w mieszkaniu na Dobrej,Zielona Góra,18:20,2D,original,regular,2026-03-20T08:46:23.987970
+2026-03-20,,zielona-góra,Król dopalaczy,Zielona Góra,18:50,2D,original,regular,2026-03-20T08:46:23.987979
+2026-03-20,,zielona-góra,Grzesznicy,Zielona Góra,19:00,2D,original,regular,2026-03-20T08:46:23.987989
+2026-03-20,,zielona-góra,Dobry chłopiec,Zielona Góra,19:00,2D,original,regular,2026-03-20T08:46:23.987998
+2026-03-20,,zielona-góra,Za duży na bajki 3,Zielona Góra,19:20,2D,original,regular,2026-03-20T08:46:23.988007
+2026-03-20,,zielona-góra,Testament Ann Lee,Zielona Góra,19:50,2D,original,regular,2026-03-20T08:46:23.988017
+2026-03-20,,zielona-góra,Projekt Hail Mary,Zielona Góra,20:20,2D,original,regular,2026-03-20T08:46:23.988027
+2026-03-20,,zielona-góra,Ostatnia sesja w Paryżu,Zielona Góra,20:30,2D,original,regular,2026-03-20T08:46:23.988035
+2026-03-20,,zielona-góra,Bez wyjścia,Zielona Góra,20:30,2D,original,regular,2026-03-20T08:46:23.988045
+2026-03-20,,zielona-góra,Baw się dobrze i przeżyj,Zielona Góra,20:40,2D,original,regular,2026-03-20T08:46:23.988055
+2026-03-20,,zielona-góra,Król dopalaczy,Zielona Góra,21:20,2D,original,regular,2026-03-20T08:46:23.988063
+2026-03-20,,zielona-góra,Wichrowe wzgórza,Zielona Góra,21:30,2D,original,regular,2026-03-20T08:46:23.988073
+2026-03-20,,zielona-góra,Panna młoda!,Zielona Góra,21:40,2D,original,regular,2026-03-20T08:46:23.988083
+2026-03-20,,zielona-góra,Krzyk 7,Zielona Góra,22:00,2D,original,regular,2026-03-20T08:46:23.988092
