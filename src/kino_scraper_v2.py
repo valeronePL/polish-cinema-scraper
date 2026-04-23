@@ -530,6 +530,72 @@ class BulkCinemaScraper(KinoCoigdzieScraper):
 # MAIN EXECUTION
 # =============================================================================
 
+def _write_health_manifest(date: str, stats: dict, schedules: List[DailySchedule]) -> None:
+    """
+    Write a per-run health manifest so downstream steps can detect incomplete
+    scrapes (kino.coigdzie.pl returning HTTP 500s or empty HTML).
+
+    - Always writes data/daily/kino_manifest_<date>.json (fresh each run).
+    - On incomplete runs (screenings==0), also appends to data/daily/INCOMPLETE_DAYS.json
+      so the registry of bad days stays up to date automatically.
+    """
+    manifest_dir = Path("./data/daily")
+    manifest_dir.mkdir(parents=True, exist_ok=True)
+
+    empty_cities = sum(1 for s in schedules if s.screening_count == 0)
+    total_screenings = sum(s.screening_count for s in schedules)
+    errors = stats.get("errors", 0)
+    status = "ok" if total_screenings > 0 else "incomplete"
+    now_iso = datetime.now().isoformat(timespec="seconds")
+
+    manifest = {
+        "date": date,
+        "source": "kino.coigdzie.pl",
+        "status": status,
+        "requests": stats.get("requests", 0),
+        "errors": errors,
+        "movies": stats.get("movies", 0),
+        "screenings": total_screenings,
+        "cities_scraped": len(schedules),
+        "cities_empty": empty_cities,
+        "generated_at": now_iso,
+    }
+    manifest_path = manifest_dir / f"kino_manifest_{date}.json"
+    with open(manifest_path, "w", encoding="utf-8") as f:
+        json.dump(manifest, f, ensure_ascii=False, indent=2)
+    logger.info(f"🩺 Wrote health manifest: {manifest_path} (status={status})")
+
+    if status == "ok":
+        return
+
+    # Auto-update the incomplete-days registry so bad days are self-documenting.
+    registry_path = manifest_dir / "INCOMPLETE_DAYS.json"
+    try:
+        with open(registry_path, encoding="utf-8") as f:
+            registry = json.load(f)
+    except FileNotFoundError:
+        registry = {"incomplete_days": []}
+    registry.setdefault("incomplete_days", [])
+    if any(e.get("date") == date for e in registry["incomplete_days"]):
+        return
+    if errors >= len(CITIES):
+        reason = f"kino.coigdzie.pl request failures for all {len(CITIES)} cities (likely HTTP 5xx)"
+    else:
+        reason = f"kino.coigdzie.pl returned 0 div.movie containers for {empty_cities}/{len(CITIES)} cities"
+    registry["incomplete_days"].append({
+        "date": date,
+        "reason": reason,
+        "kino_coigdzie_screenings": 0,
+        "kino_coigdzie_errors": errors,
+        "kino_coigdzie_empty_cities": empty_cities,
+        "sources_present": ["cinema_city_api", "helios_static"],
+        "detected_at": now_iso,
+    })
+    with open(registry_path, "w", encoding="utf-8") as f:
+        json.dump(registry, f, ensure_ascii=False, indent=2)
+    logger.warning(f"⚠️  Marked {date} as incomplete in {registry_path}")
+
+
 def main():
     """Main entry point for daily scraping"""
     print("""
@@ -537,9 +603,9 @@ def main():
     ║     🎬 Polish Cinema Scraper - kino.coigdzie.pl 🎬    ║
     ╚═══════════════════════════════════════════════════════╝
     """)
-    
+
     scraper = KinoCoigdzieScraper()
-    
+
     # -------------------------------------------------------------------------
     # OPTION 1: Scrape today for all cities (most common use case)
     # -------------------------------------------------------------------------
@@ -564,15 +630,19 @@ def main():
         # Save as both JSON (full structure) and CSV (flat, query-friendly)
         json_path = scraper.to_json(schedules)
         csv_path = scraper.to_csv_flat(schedules)
-        
+
         scraper.print_stats()
-        
+
         print(f"✅ Successfully scraped {len(schedules)} city schedules")
         print(f"   JSON: {json_path}")
         print(f"   CSV:  {csv_path}")
     else:
         print("❌ No data collected. Check logs for errors.")
         scraper.print_stats()
+
+    # Always emit a health manifest so downstream steps / the incomplete-days
+    # registry can catch silent failures (zero div.movie containers, 500s, etc).
+    _write_health_manifest(today, scraper.stats, schedules or [])
 
 
 if __name__ == "__main__":

@@ -1,0 +1,40 @@
+{
+  "_comment": "Registry of scrape days where the kino.coigdzie.pl aggregator returned zero screenings, so the merged cinema_YYYY-MM-DD.csv only contains Cinema City API + static Helios events. Downstream consumers should treat these days as incomplete.",
+  "_schema": {
+    "date": "YYYY-MM-DD",
+    "reason": "human-readable cause",
+    "kino_coigdzie_screenings": "int (0 = total failure)",
+    "kino_coigdzie_errors": "int (count of request failures)",
+    "kino_coigdzie_empty_cities": "int (count of 200-OK-but-no-div.movie responses)",
+    "sources_present": "list of data sources that DID contribute to the merged CSV",
+    "detected_at": "ISO timestamp when entry was added"
+  },
+  "incomplete_days": [
+    {
+      "date": "2026-04-10",
+      "reason": "kino.coigdzie.pl returned HTTP 200 but zero div.movie containers for all 20 cities (site rendered empty schedule)",
+      "kino_coigdzie_screenings": 0,
+      "kino_coigdzie_errors": 0,
+      "kino_coigdzie_empty_cities": 20,
+      "sources_present": [
+        "cinema_city_api",
+        "helios_static"
+      ],
+      "detected_at": "2026-04-23T00:00:00Z",
+      "gha_run_id": 24235659505
+    },
+    {
+      "date": "2026-04-14",
+      "reason": "kino.coigdzie.pl returned HTTP 500 Internal Server Error for all 20 cities",
+      "kino_coigdzie_screenings": 0,
+      "kino_coigdzie_errors": 20,
+      "kino_coigdzie_empty_cities": 0,
+      "sources_present": [
+        "cinema_city_api",
+        "helios_static"
+      ],
+      "detected_at": "2026-04-23T00:00:00Z",
+      "gha_run_id": 24391198564
+    }
+  ]
+}
