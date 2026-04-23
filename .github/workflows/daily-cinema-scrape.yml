@@ -227,3 +227,22 @@ jobs:
           name: cinema-data-${{ steps.date.outputs.scrape_date }}
           path: data/daily/
           retention-days: 90
+
+      # Runs last so Cinema City + Helios data still lands when kino.coigdzie.pl is down.
+      - name: Check scrape health (fail on incomplete)
+        if: steps.mode.outputs.is_evening != 'true'
+        env:
+          SCRAPE_DATE: ${{ steps.date.outputs.scrape_date }}
+        run: |
+          MANIFEST="data/daily/kino_manifest_${SCRAPE_DATE}.json"
+          if [ ! -f "$MANIFEST" ]; then
+            echo "::error::Missing health manifest $MANIFEST — kino scraper didn't run"
+            exit 1
+          fi
+          STATUS=$(jq -r '.status // "missing"' "$MANIFEST")
+          echo "kino.coigdzie.pl status: $STATUS"
+          if [ "$STATUS" != "ok" ]; then
+            echo "::error::kino.coigdzie.pl scrape was incomplete — check data/daily/INCOMPLETE_DAYS.json"
+            cat "$MANIFEST"
+            exit 1
+          fi

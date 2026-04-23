@@ -26,9 +26,8 @@ import re
 import logging
 from datetime import datetime, timedelta
 from pathlib import Path
-from typing import Optional, List, Dict, Any
+from typing import Optional, List, Dict
 from dataclasses import dataclass, asdict, field
-from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # =============================================================================
 # LOGGING SETUP
@@ -77,6 +76,14 @@ HEADERS = {
 REQUEST_TIMEOUT = 15
 DELAY_MIN = 1.5  # Minimum seconds between requests
 DELAY_MAX = 3.5  # Maximum seconds between requests
+
+# Retry settings for transient 5xx / timeout failures on kino.coigdzie.pl
+RETRY_MAX_ATTEMPTS = 3
+RETRY_BACKOFF_BASE = 2.0  # backoff seconds = base ** attempt → 2s, 4s
+
+# Early-bail: if the first N cities return zero screenings, abort the rest
+# (site is likely serving empty HTML or 5xx-ing across the board — seen 2026-04-10/14)
+EARLY_BAIL_CHECK_CITIES = 2
 
 # Output
 OUTPUT_DIR = Path("./cinema_data")
@@ -153,30 +160,48 @@ class KinoCoigdzieScraper:
         """
         return f"{BASE_URL}/miasto/{city}/dzien/{date_or_day}"
     
+    def _backoff(self, url: str, attempt: int, reason: str) -> None:
+        wait = RETRY_BACKOFF_BASE ** attempt
+        logger.warning(
+            f"{reason} for {url} (attempt {attempt}/{RETRY_MAX_ATTEMPTS}), "
+            f"retrying in {wait:.0f}s"
+        )
+        time.sleep(wait)
+
     def _fetch_page(self, url: str) -> Optional[BeautifulSoup]:
-        """Fetch and parse a page with error handling"""
-        try:
-            self.stats["requests"] += 1
-            logger.debug(f"Fetching: {url}")
-            
-            response = self.session.get(url, timeout=REQUEST_TIMEOUT)
-            response.encoding = 'utf-8'  # Handle Polish characters
-            
-            if response.status_code == 404:
-                logger.warning(f"Page not found (404): {url}")
+        """Fetch and parse a page, retrying 5xx/timeout with exponential backoff."""
+        self.stats["requests"] += 1
+        logger.debug(f"Fetching: {url}")
+
+        for attempt in range(1, RETRY_MAX_ATTEMPTS + 1):
+            try:
+                response = self.session.get(url, timeout=REQUEST_TIMEOUT)
+                response.encoding = 'utf-8'  # Handle Polish characters
+
+                if response.status_code == 404:
+                    logger.warning(f"Page not found (404): {url}")
+                    return None
+
+                if response.status_code >= 500 and attempt < RETRY_MAX_ATTEMPTS:
+                    self._backoff(url, attempt, f"HTTP {response.status_code}")
+                    continue
+
+                response.raise_for_status()
+                return BeautifulSoup(response.text, 'html.parser')
+
+            except requests.exceptions.Timeout:
+                if attempt < RETRY_MAX_ATTEMPTS:
+                    self._backoff(url, attempt, "Timeout")
+                    continue
+                logger.error(f"Timeout fetching {url} after {RETRY_MAX_ATTEMPTS} attempts")
+                self.stats["errors"] += 1
                 return None
-            
-            response.raise_for_status()
-            return BeautifulSoup(response.text, 'html.parser')
-            
-        except requests.exceptions.Timeout:
-            logger.error(f"Timeout fetching {url}")
-            self.stats["errors"] += 1
-            return None
-        except requests.RequestException as e:
-            logger.error(f"Request failed for {url}: {e}")
-            self.stats["errors"] += 1
-            return None
+            except requests.RequestException as e:
+                logger.error(f"Request failed for {url}: {e}")
+                self.stats["errors"] += 1
+                return None
+
+        return None  # exhausted retries on 5xx (errors already counted above)
     
     def _extract_times(self, text: str) -> List[str]:
         """Extract HH:MM time patterns from text"""
@@ -379,18 +404,32 @@ class KinoCoigdzieScraper:
         """
         logger.info(f"🚀 Starting scrape for {date} across {len(CITIES)} cities")
         results = []
-        
+
         for i, city in enumerate(CITIES, 1):
             logger.info(f"[{i}/{len(CITIES)}] Scraping {city}...")
-            
+
             schedule = self.scrape_city_date(city, date)
             if schedule:
                 results.append(schedule)
-            
+
+            # Early-bail: after the first N cities, if we got zero screenings total,
+            # the site is serving empty HTML or 5xx-ing across the board. Abort
+            # the remaining ~60s of wasted requests — the manifest will mark the
+            # day incomplete. (Failure modes observed 2026-04-10 and 2026-04-14.)
+            if i == EARLY_BAIL_CHECK_CITIES:
+                total_screenings = sum(s.screening_count for s in results)
+                if total_screenings == 0:
+                    logger.error(
+                        f"⛔ Early bail: 0 screenings after {i} cities — "
+                        f"kino.coigdzie.pl likely broken. Skipping remaining "
+                        f"{len(CITIES) - i} cities."
+                    )
+                    return results
+
             # Don't delay after the last request
             if i < len(CITIES):
                 self._delay()
-        
+
         return results
     
     def scrape_week(self, city: str, start_date: Optional[str] = None) -> List[DailySchedule]:
