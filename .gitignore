@@ -40,3 +40,6 @@ htmlcov/
 dist/
 build/
 *.egg-info/
+
+# Superseded v1 scraper (kept locally, not tracked)
+archival_version/
