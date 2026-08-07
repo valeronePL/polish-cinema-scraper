@@ -35,6 +35,18 @@
       ],
       "detected_at": "2026-04-23T00:00:00Z",
       "gha_run_id": 24391198564
+    },
+    {
+      "date": "2026-08-07",
+      "reason": "kino.coigdzie.pl returned 0 div.movie containers for 2/20 cities",
+      "kino_coigdzie_screenings": 0,
+      "kino_coigdzie_errors": 0,
+      "kino_coigdzie_empty_cities": 2,
+      "sources_present": [
+        "cinema_city_api",
+        "helios_static"
+      ],
+      "detected_at": "2026-08-07T00:53:59"
     }
   ]
 }
