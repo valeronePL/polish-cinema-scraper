@@ -1,0 +1,20 @@
+[
+  {
+    "city": "warszawa",
+    "date": "2026-10-09",
+    "day_name": "piatek",
+    "scraped_at": "2026-10-09T00:13:21.901342",
+    "movies": [],
+    "cinema_count": 0,
+    "screening_count": 0
+  },
+  {
+    "city": "kraków",
+    "date": "2026-10-09",
+    "day_name": "piatek",
+    "scraped_at": "2026-10-09T00:13:24.663814",
+    "movies": [],
+    "cinema_count": 0,
+    "screening_count": 0
+  }
+]

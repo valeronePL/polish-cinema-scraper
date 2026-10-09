@@ -59,6 +59,18 @@
         "helios_static"
       ],
       "detected_at": "2026-08-28T04:08:49"
+    },
+    {
+      "date": "2026-10-09",
+      "reason": "kino.coigdzie.pl returned 0 div.movie containers for 2/20 cities",
+      "kino_coigdzie_screenings": 0,
+      "kino_coigdzie_errors": 0,
+      "kino_coigdzie_empty_cities": 2,
+      "sources_present": [
+        "cinema_city_api",
+        "helios_static"
+      ],
+      "detected_at": "2026-10-09T00:13:24"
     }
   ]
 }
