@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-21",
+  "source": "kino.coigdzie.pl",
+  "status": "ok",
+  "requests": 20,
+  "errors": 0,
+  "movies": 647,
+  "screenings": 3087,
+  "cities_scraped": 20,
+  "cities_empty": 0,
+  "generated_at": "2026-10-21T13:33:21"
+}
