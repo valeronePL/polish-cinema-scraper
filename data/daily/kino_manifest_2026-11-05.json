@@ -4,9 +4,9 @@
   "status": "ok",
   "requests": 20,
   "errors": 0,
-  "movies": 740,
-  "screenings": 3097,
+  "movies": 715,
+  "screenings": 2735,
   "cities_scraped": 20,
   "cities_empty": 0,
-  "generated_at": "2026-11-05T00:49:44"
+  "generated_at": "2026-11-05T16:15:39"
 }
