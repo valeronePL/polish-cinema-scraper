@@ -1,0 +1,1783 @@
+date,day_name,city,movie_title,cinema_name,time,format,language,event_type,scraped_at
+2026-11-13,,podlaska,Niesamowite przygody skarpetek 4: Do roboty!,Biała Podlaska,10:00,2D,,regular,2026-11-13T00:58:30.121765
+2026-11-13,,podlaska,Przepis na święta,Biała Podlaska,10:00,2D,original,regular,2026-11-13T00:58:30.121803
+2026-11-13,,podlaska,GEORGE MICHAEL: THE FAITH TOUR,Biała Podlaska,10:10,2D,,regular,2026-11-13T00:58:30.121819
+2026-11-13,,podlaska,Kot Prot,Biała Podlaska,10:30,2D,,regular,2026-11-13T00:58:30.121831
+2026-11-13,,podlaska,Lalka,Biała Podlaska,11:40,2D,original,regular,2026-11-13T00:58:30.121840
+2026-11-13,,podlaska,Godzilla Minus Zero,Biała Podlaska,12:45,2D,,regular,2026-11-13T00:58:30.121850
+2026-11-13,,podlaska,Przepis na święta,Biała Podlaska,13:00,2D,original,regular,2026-11-13T00:58:30.121858
+2026-11-13,,podlaska,Kot Prot,Biała Podlaska,13:40,2D,,regular,2026-11-13T00:58:30.121873
+2026-11-13,,podlaska,Inna mamusia,Biała Podlaska,15:05,2D,,regular,2026-11-13T00:58:30.121885
+2026-11-13,,podlaska,Przepis na święta,Biała Podlaska,15:30,2D,original,regular,2026-11-13T00:58:30.121893
+2026-11-13,,podlaska,Nasza rewolucja,Biała Podlaska,15:40,2D,original,regular,2026-11-13T00:58:30.121902
+2026-11-13,,podlaska,Jak obrabować bank,Biała Podlaska,16:10,2D,,regular,2026-11-13T00:58:30.121912
+2026-11-13,,podlaska,Ebenezer Scrooge. Opowieść wigilijna,Biała Podlaska,17:20,2D,,regular,2026-11-13T00:58:30.121920
+2026-11-13,,podlaska,Maraton Igrzysk śmierci,Biała Podlaska,18:00,2D,,regular,2026-11-13T00:58:30.121930
+2026-11-13,,podlaska,Nasza rewolucja,Biała Podlaska,18:30,2D,original,regular,2026-11-13T00:58:30.121937
+2026-11-13,,podlaska,Dziki koń dziewięć,Biała Podlaska,19:00,2D,,regular,2026-11-13T00:58:30.121945
+2026-11-13,,podlaska,Ebenezer Scrooge. Opowieść wigilijna,Biała Podlaska,20:00,2D,,regular,2026-11-13T00:58:30.121952
+2026-11-13,,podlaska,Zobaczysz wszystko,Biała Podlaska,21:20,2D,,regular,2026-11-13T00:58:30.121960
+2026-11-13,,podlaska,Nasza rewolucja,Biała Podlaska,21:40,2D,original,regular,2026-11-13T00:58:30.121967
+2026-11-13,,bielsko-biała,Kot Prot,Bielsko-Biała,10:30,2D,,regular,2026-11-13T00:58:31.907164
+2026-11-13,,bielsko-biała,Dziki koń dziewięć,Bielsko-Biała,10:30,2D,,regular,2026-11-13T00:58:31.907195
+2026-11-13,,bielsko-biała,Nasza rewolucja,Bielsko-Biała,10:30,2D,original,regular,2026-11-13T00:58:31.907203
+2026-11-13,,bielsko-biała,Niesamowite przygody skarpetek 4: Do roboty!,Bielsko-Biała,10:30,2D,,regular,2026-11-13T00:58:31.907211
+2026-11-13,,bielsko-biała,Zobaczysz wszystko,Bielsko-Biała,11:00,2D,,regular,2026-11-13T00:58:31.907220
+2026-11-13,,bielsko-biała,Legendarni,Bielsko-Biała,11:10,2D,,regular,2026-11-13T00:58:31.907228
+2026-11-13,,bielsko-biała,Kot Prot,Bielsko-Biała,11:30,3D,,regular,2026-11-13T00:58:31.907235
+2026-11-13,,bielsko-biała,Kot Prot,Bielsko-Biała,11:50,2D,,regular,2026-11-13T00:58:31.907241
+2026-11-13,,bielsko-biała,Niesamowite przygody skarpetek 4: Do roboty!,Bielsko-Biała,12:00,2D,,regular,2026-11-13T00:58:31.907248
+2026-11-13,,bielsko-biała,Ebenezer Scrooge. Opowieść wigilijna,Bielsko-Biała,12:40,2D,,regular,2026-11-13T00:58:31.907256
+2026-11-13,,bielsko-biała,Lalka,Bielsko-Biała,12:50,2D,original,regular,2026-11-13T00:58:31.907276
+2026-11-13,,bielsko-biała,Kot Prot,Bielsko-Biała,13:00,2D,,regular,2026-11-13T00:58:31.907284
+2026-11-13,,bielsko-biała,Dziki koń dziewięć,Bielsko-Biała,13:10,2D,,regular,2026-11-13T00:58:31.907291
+2026-11-13,,bielsko-biała,Nasza rewolucja,Bielsko-Biała,13:20,2D,original,regular,2026-11-13T00:58:31.907298
+2026-11-13,,bielsko-biała,Baranek Shaun i kudłata bestia,Bielsko-Biała,13:30,2D,,regular,2026-11-13T00:58:31.907307
+2026-11-13,,bielsko-biała,Niesamowite przygody skarpetek 4: Do roboty!,Bielsko-Biała,13:40,2D,,regular,2026-11-13T00:58:31.907314
+2026-11-13,,bielsko-biała,Przepis na święta,Bielsko-Biała,14:00,2D,original,regular,2026-11-13T00:58:31.907321
+2026-11-13,,bielsko-biała,Kot Prot,Bielsko-Biała,14:20,2D,,regular,2026-11-13T00:58:31.907328
+2026-11-13,,bielsko-biała,Zobaczysz wszystko,Bielsko-Biała,14:30,2D,,regular,2026-11-13T00:58:31.907335
+2026-11-13,,bielsko-biała,Victorian Psycho,Bielsko-Biała,15:10,2D,,regular,2026-11-13T00:58:31.907342
+2026-11-13,,bielsko-biała,Ebenezer Scrooge. Opowieść wigilijna,Bielsko-Biała,15:20,2D,,regular,2026-11-13T00:58:31.907348
+2026-11-13,,bielsko-biała,Godzilla Minus Zero,Bielsko-Biała,15:30,2D,,regular,2026-11-13T00:58:31.907356
+2026-11-13,,bielsko-biała,Struś Pędziwiatr i zemsta Kojota,Bielsko-Biała,15:40,2D,,regular,2026-11-13T00:58:31.907364
+2026-11-13,,bielsko-biała,Dziki koń dziewięć,Bielsko-Biała,15:50,2D,,regular,2026-11-13T00:58:31.907371
+2026-11-13,,bielsko-biała,Nasza rewolucja,Bielsko-Biała,16:10,2D,original,regular,2026-11-13T00:58:31.907377
+2026-11-13,,bielsko-biała,Lalka,Bielsko-Biała,16:20,2D,original,regular,2026-11-13T00:58:31.907384
+2026-11-13,,bielsko-biała,Przepis na święta,Bielsko-Biała,16:30,2D,original,regular,2026-11-13T00:58:31.907390
+2026-11-13,,bielsko-biała,Kot Prot,Bielsko-Biała,16:50,2D,,regular,2026-11-13T00:58:31.907396
+2026-11-13,,bielsko-biała,GEORGE MICHAEL: THE FAITH TOUR,Bielsko-Biała,17:30,2D,,regular,2026-11-13T00:58:31.907404
+2026-11-13,,bielsko-biała,Maraton Igrzysk śmierci,Bielsko-Biała,18:00,2D,,regular,2026-11-13T00:58:31.907414
+2026-11-13,,bielsko-biała,Clayface,Bielsko-Biała,18:00,2D,,regular,2026-11-13T00:58:31.907422
+2026-11-13,,bielsko-biała,Ebenezer Scrooge. Opowieść wigilijna,Bielsko-Biała,18:10,2D,,regular,2026-11-13T00:58:31.907429
+2026-11-13,,bielsko-biała,Dziki koń dziewięć,Bielsko-Biała,18:30,2D,,regular,2026-11-13T00:58:31.907435
+2026-11-13,,bielsko-biała,Victorian Psycho,Bielsko-Biała,18:30,2D,,regular,2026-11-13T00:58:31.907441
+2026-11-13,,bielsko-biała,Nasza rewolucja,Bielsko-Biała,19:00,2D,original,regular,2026-11-13T00:58:31.907448
+2026-11-13,,bielsko-biała,Przepis na święta,Bielsko-Biała,19:00,2D,original,regular,2026-11-13T00:58:31.907455
+2026-11-13,,bielsko-biała,Jak obrabować bank,Bielsko-Biała,19:20,2D,,regular,2026-11-13T00:58:31.907463
+2026-11-13,,bielsko-biała,Zobaczysz wszystko,Bielsko-Biała,19:50,2D,,regular,2026-11-13T00:58:31.907470
+2026-11-13,,bielsko-biała,Inna mamusia,Bielsko-Biała,20:00,2D,,regular,2026-11-13T00:58:31.907477
+2026-11-13,,bielsko-biała,Clayface,Bielsko-Biała,20:30,2D,,regular,2026-11-13T00:58:31.907483
+2026-11-13,,bielsko-biała,Victorian Psycho,Bielsko-Biała,20:40,2D,,regular,2026-11-13T00:58:31.907490
+2026-11-13,,bielsko-biała,Ebenezer Scrooge. Opowieść wigilijna,Bielsko-Biała,20:50,2D,,regular,2026-11-13T00:58:31.907497
+2026-11-13,,bielsko-biała,Dziki koń dziewięć,Bielsko-Biała,21:10,2D,,regular,2026-11-13T00:58:31.907503
+2026-11-13,,bielsko-biała,Clayface,Bielsko-Biała,21:30,2D,,regular,2026-11-13T00:58:31.907509
+2026-11-13,,bielsko-biała,Nasza rewolucja,Bielsko-Biała,21:50,2D,original,regular,2026-11-13T00:58:31.907516
+2026-11-13,,bielsko-biała,Jak obrabować bank,Bielsko-Biała,22:00,2D,,regular,2026-11-13T00:58:31.907523
+2026-11-13,,bielsko-biała,Inna mamusia,Bielsko-Biała,22:15,2D,,regular,2026-11-13T00:58:31.907530
+2026-11-13,,bielsko-biała,Clayface,Bielsko-Biała,23:00,2D,,regular,2026-11-13T00:58:31.907537
+2026-11-13,,bielsko-biała,Zobaczysz wszystko,Bielsko-Biała,23:15,2D,,regular,2026-11-13T00:58:31.907544
+2026-11-13,,bydgoszcz,Supermocni,Bydgoszcz,10:00,2D,,regular,2026-11-13T00:58:33.166609
+2026-11-13,,bydgoszcz,Kot Prot,Bydgoszcz,10:00,2D,,regular,2026-11-13T00:58:33.166636
+2026-11-13,,bydgoszcz,Przepis na święta,Bydgoszcz,10:00,2D,original,regular,2026-11-13T00:58:33.166648
+2026-11-13,,bydgoszcz,Dziki koń dziewięć,Bydgoszcz,10:10,2D,,regular,2026-11-13T00:58:33.166656
+2026-11-13,,bydgoszcz,Lalka,Bydgoszcz,10:10,2D,original,regular,2026-11-13T00:58:33.166663
+2026-11-13,,bydgoszcz,Kot Prot,Bydgoszcz,10:30,4DX,,regular,2026-11-13T00:58:33.166669
+2026-11-13,,bydgoszcz,Nasza rewolucja,Bydgoszcz,10:30,2D,original,regular,2026-11-13T00:58:33.166677
+2026-11-13,,bydgoszcz,Upadek wieloryba,Bydgoszcz,10:30,2D,,regular,2026-11-13T00:58:33.166685
+2026-11-13,,bydgoszcz,Niesamowite przygody skarpetek 4: Do roboty!,Bydgoszcz,10:50,2D,,regular,2026-11-13T00:58:33.166693
+2026-11-13,,bydgoszcz,Zobaczysz wszystko,Bydgoszcz,11:00,2D,,regular,2026-11-13T00:58:33.166703
+2026-11-13,,bydgoszcz,Kot Prot,Bydgoszcz,11:00,3D,,regular,2026-11-13T00:58:33.166709
+2026-11-13,,bydgoszcz,Ebenezer Scrooge. Opowieść wigilijna,Bydgoszcz,11:20,2D,,regular,2026-11-13T00:58:33.166717
+2026-11-13,,bydgoszcz,Legendarni,Bydgoszcz,11:45,2D,,regular,2026-11-13T00:58:33.166724
+2026-11-13,,bydgoszcz,La perra,Bydgoszcz,12:20,2D,,regular,2026-11-13T00:58:33.166732
+2026-11-13,,bydgoszcz,Niesamowite przygody skarpetek 4: Do roboty!,Bydgoszcz,12:30,2D,,regular,2026-11-13T00:58:33.166739
+2026-11-13,,bydgoszcz,Kot Prot,Bydgoszcz,12:40,2D,,regular,2026-11-13T00:58:33.166746
+2026-11-13,,bydgoszcz,Dziki koń dziewięć,Bydgoszcz,12:50,2D,,regular,2026-11-13T00:58:33.166753
+2026-11-13,,bydgoszcz,Kot Prot,Bydgoszcz,13:00,4DX,,regular,2026-11-13T00:58:33.166758
+2026-11-13,,bydgoszcz,Nasza rewolucja,Bydgoszcz,13:20,2D,original,regular,2026-11-13T00:58:33.166764
+2026-11-13,,bydgoszcz,Baranek Shaun i kudłata bestia,Bydgoszcz,13:30,2D,,regular,2026-11-13T00:58:33.166773
+2026-11-13,,bydgoszcz,Clayface,Bydgoszcz,13:30,2D,,regular,2026-11-13T00:58:33.166781
+2026-11-13,,bydgoszcz,Struś Pędziwiatr i zemsta Kojota,Bydgoszcz,13:30,2D,,regular,2026-11-13T00:58:33.166790
+2026-11-13,,bydgoszcz,Ebenezer Scrooge. Opowieść wigilijna,Bydgoszcz,14:00,2D,,regular,2026-11-13T00:58:33.166797
+2026-11-13,,bydgoszcz,Przepis na święta,Bydgoszcz,14:00,2D,original,regular,2026-11-13T00:58:33.166804
+2026-11-13,,bydgoszcz,Everest: Druga strona,Bydgoszcz,14:10,2D,,regular,2026-11-13T00:58:33.166812
+2026-11-13,,bydgoszcz,Niesamowite przygody skarpetek 4: Do roboty!,Bydgoszcz,14:10,2D,,regular,2026-11-13T00:58:33.166819
+2026-11-13,,bydgoszcz,Zobaczysz wszystko,Bydgoszcz,14:40,2D,,regular,2026-11-13T00:58:33.166826
+2026-11-13,,bydgoszcz,Victorian Psycho,Bydgoszcz,15:00,2D,,regular,2026-11-13T00:58:33.166833
+2026-11-13,,bydgoszcz,Kot Prot,Bydgoszcz,15:10,2D,,regular,2026-11-13T00:58:33.166840
+2026-11-13,,bydgoszcz,Ebenezer Scrooge. Opowieść wigilijna,Bydgoszcz,15:30,4DX,,regular,2026-11-13T00:58:33.166845
+2026-11-13,,bydgoszcz,Lalka,Bydgoszcz,15:30,2D,original,regular,2026-11-13T00:58:33.166852
+2026-11-13,,bydgoszcz,Dziki koń dziewięć,Bydgoszcz,15:30,2D,,regular,2026-11-13T00:58:33.166858
+2026-11-13,,bydgoszcz,Lachtara. Tęsknota,Bydgoszcz,15:45,2D,original,regular,2026-11-13T00:58:33.166866
+2026-11-13,,bydgoszcz,Jak obrabować bank,Bydgoszcz,16:00,2D,,regular,2026-11-13T00:58:33.166875
+2026-11-13,,bydgoszcz,Godzilla Minus Zero,Bydgoszcz,16:00,2D,,regular,2026-11-13T00:58:33.166883
+2026-11-13,,bydgoszcz,Nasza rewolucja,Bydgoszcz,16:10,2D,original,regular,2026-11-13T00:58:33.166890
+2026-11-13,,bydgoszcz,Przepis na święta,Bydgoszcz,16:30,2D,original,regular,2026-11-13T00:58:33.166896
+2026-11-13,,bydgoszcz,Ebenezer Scrooge. Opowieść wigilijna,Bydgoszcz,16:40,2D,,regular,2026-11-13T00:58:33.166903
+2026-11-13,,bydgoszcz,GEORGE MICHAEL: THE FAITH TOUR,Bydgoszcz,16:50,2D,,regular,2026-11-13T00:58:33.166910
+2026-11-13,,bydgoszcz,Zobaczysz wszystko,Bydgoszcz,17:15,2D,,regular,2026-11-13T00:58:33.166917
+2026-11-13,,bydgoszcz,Kot Prot,Bydgoszcz,17:40,2D,,regular,2026-11-13T00:58:33.166923
+2026-11-13,,bydgoszcz,Maraton Igrzysk śmierci,Bydgoszcz,18:00,2D,,regular,2026-11-13T00:58:33.166933
+2026-11-13,,bydgoszcz,Maraton Igrzysk śmierci,Bydgoszcz,18:10,2D,,regular,2026-11-13T00:58:33.166942
+2026-11-13,,bydgoszcz,Jak obrabować bank,Bydgoszcz,18:10,4DX,,regular,2026-11-13T00:58:33.166948
+2026-11-13,,bydgoszcz,Victorian Psycho,Bydgoszcz,18:40,2D,,regular,2026-11-13T00:58:33.166954
+2026-11-13,,bydgoszcz,Jak obrabować bank,Bydgoszcz,18:50,2D,,regular,2026-11-13T00:58:33.166961
+2026-11-13,,bydgoszcz,Nasza rewolucja,Bydgoszcz,19:00,2D,original,regular,2026-11-13T00:58:33.166967
+2026-11-13,,bydgoszcz,Nikt nie wie,Bydgoszcz,19:00,2D,,regular,2026-11-13T00:58:33.166975
+2026-11-13,,bydgoszcz,Dziki koń dziewięć,Bydgoszcz,19:00,2D,,regular,2026-11-13T00:58:33.166981
+2026-11-13,,bydgoszcz,Przepis na święta,Bydgoszcz,19:00,2D,original,regular,2026-11-13T00:58:33.166988
+2026-11-13,,bydgoszcz,Ebenezer Scrooge. Opowieść wigilijna,Bydgoszcz,19:20,2D,,regular,2026-11-13T00:58:33.166995
+2026-11-13,,bydgoszcz,Lalka,Bydgoszcz,19:30,2D,original,regular,2026-11-13T00:58:33.167001
+2026-11-13,,bydgoszcz,Inna mamusia,Bydgoszcz,20:00,2D,,regular,2026-11-13T00:58:33.167008
+2026-11-13,,bydgoszcz,Godzilla Minus Zero,Bydgoszcz,20:50,4DX,,regular,2026-11-13T00:58:33.167014
+2026-11-13,,bydgoszcz,Zobaczysz wszystko,Bydgoszcz,20:50,2D,,regular,2026-11-13T00:58:33.167021
+2026-11-13,,bydgoszcz,Victorian Psycho,Bydgoszcz,21:00,2D,,regular,2026-11-13T00:58:33.167027
+2026-11-13,,bydgoszcz,Jak obrabować bank,Bydgoszcz,21:30,2D,,regular,2026-11-13T00:58:33.167034
+2026-11-13,,bydgoszcz,Przepis na święta,Bydgoszcz,21:30,2D,original,regular,2026-11-13T00:58:33.167040
+2026-11-13,,bydgoszcz,Dziki koń dziewięć,Bydgoszcz,21:40,2D,,regular,2026-11-13T00:58:33.167046
+2026-11-13,,bydgoszcz,Nasza rewolucja,Bydgoszcz,21:50,2D,original,regular,2026-11-13T00:58:33.167053
+2026-11-13,,bydgoszcz,Ebenezer Scrooge. Opowieść wigilijna,Bydgoszcz,22:00,2D,,regular,2026-11-13T00:58:33.167060
+2026-11-13,,bydgoszcz,Inni 25-lecie,Bydgoszcz,22:00,2D,,regular,2026-11-13T00:58:33.167066
+2026-11-13,,bydgoszcz,Inna mamusia,Bydgoszcz,22:10,2D,,regular,2026-11-13T00:58:33.167072
+2026-11-13,,bytom,Nasza rewolucja,Bytom,10:00,2D,original,regular,2026-11-13T00:58:34.784734
+2026-11-13,,bytom,Struś Pędziwiatr i zemsta Kojota,Bytom,10:00,2D,,regular,2026-11-13T00:58:34.784764
+2026-11-13,,bytom,Niesamowite przygody skarpetek 4: Do roboty!,Bytom,10:20,2D,,regular,2026-11-13T00:58:34.784773
+2026-11-13,,bytom,Lachtara. Tęsknota,Bytom,10:30,2D,original,regular,2026-11-13T00:58:34.784783
+2026-11-13,,bytom,Legendarni,Bytom,10:40,2D,,regular,2026-11-13T00:58:34.784791
+2026-11-13,,bytom,Baranek Shaun i kudłata bestia,Bytom,11:00,2D,,regular,2026-11-13T00:58:34.784799
+2026-11-13,,bytom,Kot Prot,Bytom,11:00,2D,,regular,2026-11-13T00:58:34.784807
+2026-11-13,,bytom,La perra,Bytom,12:00,2D,,regular,2026-11-13T00:58:34.784815
+2026-11-13,,bytom,Witajcie w Hope,Bytom,12:30,2D,,regular,2026-11-13T00:58:34.784823
+2026-11-13,,bytom,Nasza rewolucja,Bytom,12:50,2D,original,regular,2026-11-13T00:58:34.784829
+2026-11-13,,bytom,GEORGE MICHAEL: THE FAITH TOUR,Bytom,13:00,2D,,regular,2026-11-13T00:58:34.784838
+2026-11-13,,bytom,Baranek Shaun i kudłata bestia,Bytom,13:10,2D,,regular,2026-11-13T00:58:34.784845
+2026-11-13,,bytom,Ebenezer Scrooge. Opowieść wigilijna,Bytom,13:30,2D,,regular,2026-11-13T00:58:34.784854
+2026-11-13,,bytom,Godzilla Minus Zero,Bytom,13:30,2D,,regular,2026-11-13T00:58:34.784863
+2026-11-13,,bytom,Lalka,Bytom,14:40,2D,original,regular,2026-11-13T00:58:34.784870
+2026-11-13,,bytom,Dziki koń dziewięć,Bytom,15:15,2D,,regular,2026-11-13T00:58:34.784878
+2026-11-13,,bytom,Lalka,Bytom,15:30,2D,original,regular,2026-11-13T00:58:34.784884
+2026-11-13,,bytom,Nasza rewolucja,Bytom,15:40,2D,original,regular,2026-11-13T00:58:34.784891
+2026-11-13,,bytom,"Jak żyć, żeby nie zwariować",Bytom,15:50,2D,original,regular,2026-11-13T00:58:34.784901
+2026-11-13,,bytom,Ebenezer Scrooge. Opowieść wigilijna,Bytom,16:15,2D,,regular,2026-11-13T00:58:34.784908
+2026-11-13,,bytom,Kot Prot,Bytom,16:30,2D,,regular,2026-11-13T00:58:34.784915
+2026-11-13,,bytom,Maraton Igrzysk śmierci,Bytom,18:00,2D,,regular,2026-11-13T00:58:34.784924
+2026-11-13,,bytom,Zobaczysz wszystko,Bytom,18:10,2D,,regular,2026-11-13T00:58:34.784932
+2026-11-13,,bytom,Jak obrabować bank,Bytom,18:20,2D,,regular,2026-11-13T00:58:34.784941
+2026-11-13,,bytom,Nasza rewolucja,Bytom,18:30,2D,original,regular,2026-11-13T00:58:34.784947
+2026-11-13,,bytom,Dziki koń dziewięć,Bytom,18:50,2D,,regular,2026-11-13T00:58:34.784954
+2026-11-13,,bytom,Ebenezer Scrooge. Opowieść wigilijna,Bytom,19:00,2D,,regular,2026-11-13T00:58:34.784960
+2026-11-13,,bytom,Lalka,Bytom,20:10,2D,original,regular,2026-11-13T00:58:34.784967
+2026-11-13,,bytom,Jak obrabować bank,Bytom,21:10,2D,,regular,2026-11-13T00:58:34.784974
+2026-11-13,,bytom,Nasza rewolucja,Bytom,21:20,2D,original,regular,2026-11-13T00:58:34.784980
+2026-11-13,,bytom,Dziki koń dziewięć,Bytom,21:30,2D,,regular,2026-11-13T00:58:34.784986
+2026-11-13,,bytom,Victorian Psycho,Bytom,21:40,2D,,regular,2026-11-13T00:58:34.784994
+2026-11-13,,bytom,Clayface,Bytom,21:50,2D,,regular,2026-11-13T00:58:34.785002
+2026-11-13,,cieszyn,Przepis na święta,Cieszyn,10:10,2D,original,regular,2026-11-13T00:58:36.637103
+2026-11-13,,cieszyn,Baranek Shaun i kudłata bestia,Cieszyn,10:20,2D,,regular,2026-11-13T00:58:36.637132
+2026-11-13,,cieszyn,Kot Prot,Cieszyn,10:40,2D,,regular,2026-11-13T00:58:36.637142
+2026-11-13,,cieszyn,Baranek Shaun i kudłata bestia,Cieszyn,12:30,2D,,regular,2026-11-13T00:58:36.637151
+2026-11-13,,cieszyn,Nasza rewolucja,Cieszyn,12:50,2D,original,regular,2026-11-13T00:58:36.637160
+2026-11-13,,cieszyn,Kot Prot,Cieszyn,13:00,3D,,regular,2026-11-13T00:58:36.637168
+2026-11-13,,cieszyn,Niesamowite przygody skarpetek 4: Do roboty!,Cieszyn,13:15,2D,,regular,2026-11-13T00:58:36.637176
+2026-11-13,,cieszyn,Lalka,Cieszyn,14:30,2D,original,regular,2026-11-13T00:58:36.637185
+2026-11-13,,cieszyn,Przepis na święta,Cieszyn,14:50,2D,original,regular,2026-11-13T00:58:36.637192
+2026-11-13,,cieszyn,Kot Prot,Cieszyn,15:30,2D,,regular,2026-11-13T00:58:36.637200
+2026-11-13,,cieszyn,Nasza rewolucja,Cieszyn,15:40,2D,original,regular,2026-11-13T00:58:36.637207
+2026-11-13,,cieszyn,Ebenezer Scrooge. Opowieść wigilijna,Cieszyn,17:20,2D,,regular,2026-11-13T00:58:36.637217
+2026-11-13,,cieszyn,Maraton Igrzysk śmierci,Cieszyn,18:00,2D,,regular,2026-11-13T00:58:36.637228
+2026-11-13,,cieszyn,Dziki koń dziewięć,Cieszyn,18:00,2D,,regular,2026-11-13T00:58:36.637236
+2026-11-13,,cieszyn,Nasza rewolucja,Cieszyn,18:30,2D,original,regular,2026-11-13T00:58:36.637243
+2026-11-13,,cieszyn,Ebenezer Scrooge. Opowieść wigilijna,Cieszyn,20:00,2D,,regular,2026-11-13T00:58:36.637251
+2026-11-13,,cieszyn,Jak obrabować bank,Cieszyn,20:40,2D,,regular,2026-11-13T00:58:36.637260
+2026-11-13,,cieszyn,Zobaczysz wszystko,Cieszyn,21:10,2D,,regular,2026-11-13T00:58:36.637290
+2026-11-13,,częstochowa,Nasza rewolucja,Częstochowa - Galeria Jurajska,10:30,2D,original,regular,2026-11-13T00:58:38.260654
+2026-11-13,,częstochowa,Lalka,Częstochowa - Galeria Jurajska,10:30,2D,original,regular,2026-11-13T00:58:38.260682
+2026-11-13,,częstochowa,Supermocni,Częstochowa - Galeria Jurajska,10:30,2D,,regular,2026-11-13T00:58:38.260692
+2026-11-13,,częstochowa,Kot Prot,Częstochowa - Galeria Jurajska,10:30,2D,,regular,2026-11-13T00:58:38.260701
+2026-11-13,,częstochowa,"Jak żyć, żeby nie zwariować",Częstochowa - Galeria Jurajska,10:40,2D,original,regular,2026-11-13T00:58:38.260714
+2026-11-13,,częstochowa,Niesamowite przygody skarpetek 4: Do roboty!,Częstochowa - Galeria Jurajska,10:50,2D,,regular,2026-11-13T00:58:38.260722
+2026-11-13,,częstochowa,Clayface,Częstochowa - Galeria Jurajska,11:20,2D,,regular,2026-11-13T00:58:38.260732
+2026-11-13,,częstochowa,Lachtara. Tęsknota,Częstochowa - Galeria Jurajska,12:30,2D,original,regular,2026-11-13T00:58:38.260740
+2026-11-13,,częstochowa,Przepis na święta,Częstochowa - Galeria Jurajska,12:40,2D,original,regular,2026-11-13T00:58:38.260749
+2026-11-13,,częstochowa,Kot Prot,Częstochowa - Galeria Jurajska,12:45,2D,,regular,2026-11-13T00:58:38.260756
+2026-11-13,,częstochowa,Baranek Shaun i kudłata bestia,Częstochowa - Galeria Jurajska,13:00,2D,,regular,2026-11-13T00:58:38.260766
+2026-11-13,,częstochowa,Godzilla Minus Zero,Częstochowa - Galeria Jurajska,13:00,2D,,regular,2026-11-13T00:58:38.260775
+2026-11-13,,częstochowa,Nasza rewolucja,Częstochowa - Galeria Jurajska,13:20,2D,original,regular,2026-11-13T00:58:38.260782
+2026-11-13,,częstochowa,Kot Prot,Częstochowa - Galeria Jurajska,13:50,2D,,regular,2026-11-13T00:58:38.260788
+2026-11-13,,częstochowa,Struś Pędziwiatr i zemsta Kojota,Częstochowa - Galeria Jurajska,14:10,2D,,regular,2026-11-13T00:58:38.260797
+2026-11-13,,częstochowa,GEORGE MICHAEL: THE FAITH TOUR,Częstochowa - Galeria Jurajska,15:00,2D,,regular,2026-11-13T00:58:38.260805
+2026-11-13,,częstochowa,Ebenezer Scrooge. Opowieść wigilijna,Częstochowa - Galeria Jurajska,15:10,2D,,regular,2026-11-13T00:58:38.260814
+2026-11-13,,częstochowa,Inna mamusia,Częstochowa - Galeria Jurajska,15:15,2D,,regular,2026-11-13T00:58:38.260821
+2026-11-13,,częstochowa,Dziki koń dziewięć,Częstochowa - Galeria Jurajska,15:30,2D,,regular,2026-11-13T00:58:38.260829
+2026-11-13,,częstochowa,Zobaczysz wszystko,Częstochowa - Galeria Jurajska,16:00,2D,,regular,2026-11-13T00:58:38.260839
+2026-11-13,,częstochowa,Nasza rewolucja,Częstochowa - Galeria Jurajska,16:10,2D,original,regular,2026-11-13T00:58:38.260845
+2026-11-13,,częstochowa,Kot Prot,Częstochowa - Galeria Jurajska,16:20,2D,,regular,2026-11-13T00:58:38.260852
+2026-11-13,,częstochowa,Victorian Psycho,Częstochowa - Galeria Jurajska,17:00,2D,,regular,2026-11-13T00:58:38.260859
+2026-11-13,,częstochowa,Przepis na święta,Częstochowa - Galeria Jurajska,17:40,2D,original,regular,2026-11-13T00:58:38.260866
+2026-11-13,,częstochowa,Ebenezer Scrooge. Opowieść wigilijna,Częstochowa - Galeria Jurajska,17:50,2D,,regular,2026-11-13T00:58:38.260873
+2026-11-13,,częstochowa,Maraton Igrzysk śmierci,Częstochowa - Galeria Jurajska,18:00,2D,,regular,2026-11-13T00:58:38.260883
+2026-11-13,,częstochowa,Jak obrabować bank,Częstochowa - Galeria Jurajska,18:15,2D,,regular,2026-11-13T00:58:38.260892
+2026-11-13,,częstochowa,Dziki koń dziewięć,Częstochowa - Galeria Jurajska,18:50,2D,,regular,2026-11-13T00:58:38.260898
+2026-11-13,,częstochowa,Nasza rewolucja,Częstochowa - Galeria Jurajska,19:00,2D,original,regular,2026-11-13T00:58:38.260905
+2026-11-13,,częstochowa,Lalka,Częstochowa - Galeria Jurajska,19:15,2D,original,regular,2026-11-13T00:58:38.260912
+2026-11-13,,częstochowa,Zobaczysz wszystko,Częstochowa - Galeria Jurajska,19:40,2D,,regular,2026-11-13T00:58:38.260918
+2026-11-13,,częstochowa,Victorian Psycho,Częstochowa - Galeria Jurajska,20:15,2D,,regular,2026-11-13T00:58:38.260924
+2026-11-13,,częstochowa,Ebenezer Scrooge. Opowieść wigilijna,Częstochowa - Galeria Jurajska,20:30,2D,,regular,2026-11-13T00:58:38.260931
+2026-11-13,,częstochowa,Jak obrabować bank,Częstochowa - Galeria Jurajska,21:00,2D,,regular,2026-11-13T00:58:38.260938
+2026-11-13,,częstochowa,Dziki koń dziewięć,Częstochowa - Galeria Jurajska,21:30,2D,,regular,2026-11-13T00:58:38.260944
+2026-11-13,,częstochowa,Nasza rewolucja,Częstochowa - Galeria Jurajska,21:50,2D,original,regular,2026-11-13T00:58:38.260951
+2026-11-13,,częstochowa,Niesamowite przygody skarpetek 4: Do roboty!,Częstochowa - Wolność,10:00,2D,,regular,2026-11-13T00:58:39.516417
+2026-11-13,,częstochowa,Klara i słońce,Częstochowa - Wolność,10:00,2D,,regular,2026-11-13T00:58:39.516448
+2026-11-13,,częstochowa,Nasza rewolucja,Częstochowa - Wolność,10:00,2D,original,regular,2026-11-13T00:58:39.516456
+2026-11-13,,częstochowa,Struś Pędziwiatr i zemsta Kojota,Częstochowa - Wolność,10:30,2D,,regular,2026-11-13T00:58:39.516467
+2026-11-13,,częstochowa,Ebenezer Scrooge. Opowieść wigilijna,Częstochowa - Wolność,10:40,2D,,regular,2026-11-13T00:58:39.516476
+2026-11-13,,częstochowa,Kot Prot,Częstochowa - Wolność,10:50,2D,,regular,2026-11-13T00:58:39.516484
+2026-11-13,,częstochowa,Supermocni,Częstochowa - Wolność,11:30,2D,,regular,2026-11-13T00:58:39.516492
+2026-11-13,,częstochowa,Jak obrabować bank,Częstochowa - Wolność,11:40,2D,,regular,2026-11-13T00:58:39.516501
+2026-11-13,,częstochowa,Baranek Shaun i kudłata bestia,Częstochowa - Wolność,12:00,2D,,regular,2026-11-13T00:58:39.516510
+2026-11-13,,częstochowa,La perra,Częstochowa - Wolność,12:40,2D,,regular,2026-11-13T00:58:39.516517
+2026-11-13,,częstochowa,Nasza rewolucja,Częstochowa - Wolność,12:50,2D,original,regular,2026-11-13T00:58:39.516524
+2026-11-13,,częstochowa,GEORGE MICHAEL: THE FAITH TOUR,Częstochowa - Wolność,13:00,2D,,regular,2026-11-13T00:58:39.516532
+2026-11-13,,częstochowa,Ebenezer Scrooge. Opowieść wigilijna,Częstochowa - Wolność,13:30,2D,,regular,2026-11-13T00:58:39.516539
+2026-11-13,,częstochowa,Kot Prot,Częstochowa - Wolność,13:30,2D,,regular,2026-11-13T00:58:39.516545
+2026-11-13,,częstochowa,Lalka,Częstochowa - Wolność,13:50,2D,original,regular,2026-11-13T00:58:39.516553
+2026-11-13,,częstochowa,Witajcie w Hope,Częstochowa - Wolność,14:00,2D,,regular,2026-11-13T00:58:39.516561
+2026-11-13,,częstochowa,Zobaczysz wszystko,Częstochowa - Wolność,14:30,2D,,regular,2026-11-13T00:58:39.516570
+2026-11-13,,częstochowa,Dziki koń dziewięć,Częstochowa - Wolność,15:10,2D,,regular,2026-11-13T00:58:39.516577
+2026-11-13,,częstochowa,Nasza rewolucja,Częstochowa - Wolność,15:40,2D,original,regular,2026-11-13T00:58:39.516583
+2026-11-13,,częstochowa,Przepis na święta,Częstochowa - Wolność,15:45,2D,original,regular,2026-11-13T00:58:39.516591
+2026-11-13,,częstochowa,Kot Prot,Częstochowa - Wolność,16:10,2D,,regular,2026-11-13T00:58:39.516597
+2026-11-13,,częstochowa,Ebenezer Scrooge. Opowieść wigilijna,Częstochowa - Wolność,16:15,2D,,regular,2026-11-13T00:58:39.516604
+2026-11-13,,częstochowa,Lalka,Częstochowa - Wolność,17:20,2D,original,regular,2026-11-13T00:58:39.516610
+2026-11-13,,częstochowa,"Jak żyć, żeby nie zwariować",Częstochowa - Wolność,17:20,2D,original,regular,2026-11-13T00:58:39.516619
+2026-11-13,,częstochowa,Maraton Igrzysk śmierci,Częstochowa - Wolność,18:00,2D,,regular,2026-11-13T00:58:39.516628
+2026-11-13,,częstochowa,Dziki koń dziewięć,Częstochowa - Wolność,18:10,2D,,regular,2026-11-13T00:58:39.516634
+2026-11-13,,częstochowa,Przepis na święta,Częstochowa - Wolność,18:20,2D,original,regular,2026-11-13T00:58:39.516641
+2026-11-13,,częstochowa,Nasza rewolucja,Częstochowa - Wolność,18:30,2D,original,regular,2026-11-13T00:58:39.516648
+2026-11-13,,częstochowa,Jak obrabować bank,Częstochowa - Wolność,18:40,2D,,regular,2026-11-13T00:58:39.516654
+2026-11-13,,częstochowa,Ebenezer Scrooge. Opowieść wigilijna,Częstochowa - Wolność,19:00,2D,,regular,2026-11-13T00:58:39.516661
+2026-11-13,,częstochowa,Victorian Psycho,Częstochowa - Wolność,19:45,2D,,regular,2026-11-13T00:58:39.516668
+2026-11-13,,częstochowa,Godzilla Minus Zero,Częstochowa - Wolność,20:50,2D,,regular,2026-11-13T00:58:39.516677
+2026-11-13,,częstochowa,Dziki koń dziewięć,Częstochowa - Wolność,21:00,2D,,regular,2026-11-13T00:58:39.516683
+2026-11-13,,częstochowa,Przepis na święta,Częstochowa - Wolność,21:00,2D,original,regular,2026-11-13T00:58:39.516690
+2026-11-13,,częstochowa,Nasza rewolucja,Częstochowa - Wolność,21:20,2D,original,regular,2026-11-13T00:58:39.516696
+2026-11-13,,częstochowa,Jak obrabować bank,Częstochowa - Wolność,21:30,2D,,regular,2026-11-13T00:58:39.516703
+2026-11-13,,częstochowa,Inna mamusia,Częstochowa - Wolność,21:40,2D,,regular,2026-11-13T00:58:39.516710
+2026-11-13,,częstochowa,Victorian Psycho,Częstochowa - Wolność,22:00,2D,,regular,2026-11-13T00:58:39.516716
+2026-11-13,,elbląg,Niesamowite przygody skarpetek 4: Do roboty!,Elbląg,10:00,2D,,regular,2026-11-13T00:58:40.563885
+2026-11-13,,elbląg,Kot Prot,Elbląg,10:30,2D,,regular,2026-11-13T00:58:40.563912
+2026-11-13,,elbląg,Legendarni,Elbląg,10:40,2D,,regular,2026-11-13T00:58:40.563921
+2026-11-13,,elbląg,Nasza rewolucja,Elbląg,10:45,2D,original,regular,2026-11-13T00:58:40.563930
+2026-11-13,,elbląg,Niesamowite przygody skarpetek 4: Do roboty!,Elbląg,11:00,2D,,regular,2026-11-13T00:58:40.563937
+2026-11-13,,elbląg,"Jak żyć, żeby nie zwariować",Elbląg,11:30,2D,original,regular,2026-11-13T00:58:40.563949
+2026-11-13,,elbląg,Supermocni,Elbląg,11:45,2D,,regular,2026-11-13T00:58:40.563957
+2026-11-13,,elbląg,Niesamowite przygody skarpetek 4: Do roboty!,Elbląg,12:40,2D,,regular,2026-11-13T00:58:40.563964
+2026-11-13,,elbląg,Dziki koń dziewięć,Elbląg,12:50,2D,,regular,2026-11-13T00:58:40.563973
+2026-11-13,,elbląg,Kot Prot,Elbląg,13:00,2D,,regular,2026-11-13T00:58:40.563981
+2026-11-13,,elbląg,Nasza rewolucja,Elbląg,13:20,2D,original,regular,2026-11-13T00:58:40.563988
+2026-11-13,,elbląg,Clayface,Elbląg,13:55,2D,,regular,2026-11-13T00:58:40.563997
+2026-11-13,,elbląg,Ebenezer Scrooge. Opowieść wigilijna,Elbląg,14:00,2D,,regular,2026-11-13T00:58:40.564006
+2026-11-13,,elbląg,Lalka,Elbląg,14:10,2D,original,regular,2026-11-13T00:58:40.564014
+2026-11-13,,elbląg,Kot Prot,Elbląg,15:30,2D,,regular,2026-11-13T00:58:40.564021
+2026-11-13,,elbląg,Godzilla Minus Zero,Elbląg,15:40,2D,,regular,2026-11-13T00:58:40.564030
+2026-11-13,,elbląg,Nasza rewolucja,Elbląg,16:10,2D,original,regular,2026-11-13T00:58:40.564036
+2026-11-13,,elbląg,Ebenezer Scrooge. Opowieść wigilijna,Elbląg,16:15,2D,,regular,2026-11-13T00:58:40.564043
+2026-11-13,,elbląg,Przepis na święta,Elbląg,16:30,2D,original,regular,2026-11-13T00:58:40.564051
+2026-11-13,,elbląg,Ebenezer Scrooge. Opowieść wigilijna,Elbląg,17:30,2D,,regular,2026-11-13T00:58:40.564057
+2026-11-13,,elbląg,Maraton Igrzysk śmierci,Elbląg,18:00,2D,,regular,2026-11-13T00:58:40.564067
+2026-11-13,,elbląg,Dziki koń dziewięć,Elbląg,18:40,2D,,regular,2026-11-13T00:58:40.564074
+2026-11-13,,elbląg,Jak obrabować bank,Elbląg,18:40,2D,,regular,2026-11-13T00:58:40.564082
+2026-11-13,,elbląg,Nasza rewolucja,Elbląg,19:00,2D,original,regular,2026-11-13T00:58:40.564089
+2026-11-13,,elbląg,Przepis na święta,Elbląg,19:00,2D,original,regular,2026-11-13T00:58:40.564095
+2026-11-13,,elbląg,Ebenezer Scrooge. Opowieść wigilijna,Elbląg,20:10,2D,,regular,2026-11-13T00:58:40.564102
+2026-11-13,,elbląg,Dziki koń dziewięć,Elbląg,21:15,2D,,regular,2026-11-13T00:58:40.564109
+2026-11-13,,elbląg,Zobaczysz wszystko,Elbląg,21:20,2D,,regular,2026-11-13T00:58:40.564117
+2026-11-13,,elbląg,Inna mamusia,Elbląg,21:30,2D,,regular,2026-11-13T00:58:40.564125
+2026-11-13,,elbląg,GEORGE MICHAEL: THE FAITH TOUR,Elbląg,21:45,2D,,regular,2026-11-13T00:58:40.564133
+2026-11-13,,gliwice,Lalka,Gliwice,09:30,2D,original,regular,2026-11-13T00:58:42.420772
+2026-11-13,,gliwice,Niebo nad Normandią,Gliwice,09:30,2D,,regular,2026-11-13T00:58:42.420804
+2026-11-13,,gliwice,Kot Prot,Gliwice,10:00,2D,,regular,2026-11-13T00:58:42.420813
+2026-11-13,,gliwice,Baranek Shaun i kudłata bestia,Gliwice,10:00,2D,,regular,2026-11-13T00:58:42.420823
+2026-11-13,,gliwice,Odyseja,Gliwice,10:00,2D,,regular,2026-11-13T00:58:42.420830
+2026-11-13,,gliwice,Clayface,Gliwice,10:00,2D,,regular,2026-11-13T00:58:42.420838
+2026-11-13,,gliwice,Niesamowite przygody skarpetek 4: Do roboty!,Gliwice,10:20,2D,,regular,2026-11-13T00:58:42.420846
+2026-11-13,,gliwice,Nasza rewolucja,Gliwice,10:30,2D,original,regular,2026-11-13T00:58:42.420854
+2026-11-13,,gliwice,Dziki koń dziewięć,Gliwice,10:40,2D,,regular,2026-11-13T00:58:42.420861
+2026-11-13,,gliwice,Zobaczysz wszystko,Gliwice,10:45,2D,,regular,2026-11-13T00:58:42.420871
+2026-11-13,,gliwice,Piesek,Gliwice,11:10,2D,,regular,2026-11-13T00:58:42.420880
+2026-11-13,,gliwice,Niesamowite przygody skarpetek 4: Do roboty!,Gliwice,11:15,2D,,regular,2026-11-13T00:58:42.420886
+2026-11-13,,gliwice,Ebenezer Scrooge. Opowieść wigilijna,Gliwice,11:20,2D,,regular,2026-11-13T00:58:42.420894
+2026-11-13,,gliwice,Przepis na święta,Gliwice,11:40,2D,original,regular,2026-11-13T00:58:42.420902
+2026-11-13,,gliwice,Legendarni,Gliwice,11:45,2D,,regular,2026-11-13T00:58:42.420909
+2026-11-13,,gliwice,Ebenezer Scrooge. Opowieść wigilijna,Gliwice,12:00,2D,,regular,2026-11-13T00:58:42.420916
+2026-11-13,,gliwice,Kot Prot,Gliwice,12:30,2D,,regular,2026-11-13T00:58:42.420923
+2026-11-13,,gliwice,Kot Prot,Gliwice,12:50,3D,,regular,2026-11-13T00:58:42.420929
+2026-11-13,,gliwice,Nasza rewolucja,Gliwice,13:20,2D,original,regular,2026-11-13T00:58:42.420935
+2026-11-13,,gliwice,Dziki koń dziewięć,Gliwice,13:20,2D,,regular,2026-11-13T00:58:42.420942
+2026-11-13,,gliwice,Baranek Shaun i kudłata bestia,Gliwice,13:30,2D,,regular,2026-11-13T00:58:42.420949
+2026-11-13,,gliwice,Ebenezer Scrooge. Opowieść wigilijna,Gliwice,14:00,2D,,regular,2026-11-13T00:58:42.420955
+2026-11-13,,gliwice,Niesamowite przygody skarpetek 4: Do roboty!,Gliwice,14:00,2D,,regular,2026-11-13T00:58:42.420962
+2026-11-13,,gliwice,Przepis na święta,Gliwice,14:00,2D,original,regular,2026-11-13T00:58:42.420970
+2026-11-13,,gliwice,Niesamowite przygody skarpetek 4: Do roboty!,Gliwice,14:10,2D,,regular,2026-11-13T00:58:42.420977
+2026-11-13,,gliwice,Struś Pędziwiatr i zemsta Kojota,Gliwice,14:10,2D,,regular,2026-11-13T00:58:42.420985
+2026-11-13,,gliwice,Lalka,Gliwice,14:20,2D,original,regular,2026-11-13T00:58:42.420991
+2026-11-13,,gliwice,Zobaczysz wszystko,Gliwice,14:20,2D,,regular,2026-11-13T00:58:42.420999
+2026-11-13,,gliwice,Kot Prot,Gliwice,15:00,2D,,regular,2026-11-13T00:58:42.421005
+2026-11-13,,gliwice,Kot Prot,Gliwice,15:20,3D,,regular,2026-11-13T00:58:42.421011
+2026-11-13,,gliwice,Godzilla Minus Zero,Gliwice,15:30,2D,,regular,2026-11-13T00:58:42.421019
+2026-11-13,,gliwice,GEORGE MICHAEL: THE FAITH TOUR,Gliwice,15:30,2D,,regular,2026-11-13T00:58:42.421027
+2026-11-13,,gliwice,Dziki koń dziewięć,Gliwice,16:00,2D,,regular,2026-11-13T00:58:42.421033
+2026-11-13,,gliwice,Lachtara. Tęsknota,Gliwice,16:00,2D,original,regular,2026-11-13T00:58:42.421040
+2026-11-13,,gliwice,Nasza rewolucja,Gliwice,16:10,2D,original,regular,2026-11-13T00:58:42.421047
+2026-11-13,,gliwice,Lalka,Gliwice,16:20,2D,original,regular,2026-11-13T00:58:42.421053
+2026-11-13,,gliwice,Przepis na święta,Gliwice,16:30,2D,original,regular,2026-11-13T00:58:42.421059
+2026-11-13,,gliwice,Clayface,Gliwice,16:30,2D,,regular,2026-11-13T00:58:42.421067
+2026-11-13,,gliwice,Ebenezer Scrooge. Opowieść wigilijna,Gliwice,16:40,2D,,regular,2026-11-13T00:58:42.421073
+2026-11-13,,gliwice,Kot Prot,Gliwice,17:30,2D,,regular,2026-11-13T00:58:42.421079
+2026-11-13,,gliwice,Victorian Psycho,Gliwice,17:50,2D,,regular,2026-11-13T00:58:42.421086
+2026-11-13,,gliwice,Jak obrabować bank,Gliwice,17:50,2D,,regular,2026-11-13T00:58:42.421094
+2026-11-13,,gliwice,Maraton Igrzysk śmierci,Gliwice,18:00,2D,,regular,2026-11-13T00:58:42.421104
+2026-11-13,,gliwice,Zobaczysz wszystko,Gliwice,18:30,2D,,regular,2026-11-13T00:58:42.421119
+2026-11-13,,gliwice,Dziki koń dziewięć,Gliwice,18:40,2D,,regular,2026-11-13T00:58:42.421125
+2026-11-13,,gliwice,Nasza rewolucja,Gliwice,19:00,2D,original,regular,2026-11-13T00:58:42.421132
+2026-11-13,,gliwice,Nikt nie wie,Gliwice,19:00,2D,,regular,2026-11-13T00:58:42.421139
+2026-11-13,,gliwice,Przepis na święta,Gliwice,19:00,2D,original,regular,2026-11-13T00:58:42.421146
+2026-11-13,,gliwice,Clayface,Gliwice,19:00,2D,,regular,2026-11-13T00:58:42.421152
+2026-11-13,,gliwice,Ebenezer Scrooge. Opowieść wigilijna,Gliwice,19:20,2D,,regular,2026-11-13T00:58:42.421159
+2026-11-13,,gliwice,Lalka,Gliwice,19:45,2D,original,regular,2026-11-13T00:58:42.421165
+2026-11-13,,gliwice,Victorian Psycho,Gliwice,20:00,2D,,regular,2026-11-13T00:58:42.421171
+2026-11-13,,gliwice,Inna mamusia,Gliwice,20:00,2D,,regular,2026-11-13T00:58:42.421178
+2026-11-13,,gliwice,Jak obrabować bank,Gliwice,20:30,2D,,regular,2026-11-13T00:58:42.421185
+2026-11-13,,gliwice,Dziki koń dziewięć,Gliwice,21:20,2D,,regular,2026-11-13T00:58:42.421191
+2026-11-13,,gliwice,Przepis na święta,Gliwice,21:30,2D,original,regular,2026-11-13T00:58:42.421197
+2026-11-13,,gliwice,Witajcie w Hope,Gliwice,21:30,2D,,regular,2026-11-13T00:58:42.421205
+2026-11-13,,gliwice,Nasza rewolucja,Gliwice,21:50,2D,original,regular,2026-11-13T00:58:42.421211
+2026-11-13,,gliwice,Ebenezer Scrooge. Opowieść wigilijna,Gliwice,22:00,2D,,regular,2026-11-13T00:58:42.421218
+2026-11-13,,gliwice,Jak obrabować bank,Gliwice,22:00,2D,,regular,2026-11-13T00:58:42.421224
+2026-11-13,,gliwice,Victorian Psycho,Gliwice,22:10,2D,,regular,2026-11-13T00:58:42.421230
+2026-11-13,,gliwice,Clayface,Gliwice,22:10,2D,,regular,2026-11-13T00:58:42.421237
+2026-11-13,,gliwice,Inna mamusia,Gliwice,22:20,2D,,regular,2026-11-13T00:58:42.421243
+2026-11-13,,katowice,Dziki koń dziewięć,Katowice - Punkt 44,10:00,2D,,regular,2026-11-13T00:58:43.658841
+2026-11-13,,katowice,Dzikie z natury,Katowice - Punkt 44,10:00,IMAX,,regular,2026-11-13T00:58:43.658864
+2026-11-13,,katowice,Legendarni,Katowice - Punkt 44,10:10,2D,,regular,2026-11-13T00:58:43.658873
+2026-11-13,,katowice,Nasza rewolucja,Katowice - Punkt 44,10:30,2D,original,regular,2026-11-13T00:58:43.658882
+2026-11-13,,katowice,Przepis na święta,Katowice - Punkt 44,10:40,2D,original,regular,2026-11-13T00:58:43.658891
+2026-11-13,,katowice,Baranek Shaun i kudłata bestia,Katowice - Punkt 44,10:50,2D,,regular,2026-11-13T00:58:43.658899
+2026-11-13,,katowice,Lalka,Katowice - Punkt 44,11:00,2D,original,regular,2026-11-13T00:58:43.658907
+2026-11-13,,katowice,Zapomniana wyspa,Katowice - Punkt 44,11:00,2D,,regular,2026-11-13T00:58:43.658915
+2026-11-13,,katowice,Niesamowite przygody skarpetek 4: Do roboty!,Katowice - Punkt 44,11:00,2D,,regular,2026-11-13T00:58:43.658923
+2026-11-13,,katowice,Kot Prot,Katowice - Punkt 44,11:10,2D,,regular,2026-11-13T00:58:43.658931
+2026-11-13,,katowice,Runner,Katowice - Punkt 44,11:10,2D,,regular,2026-11-13T00:58:43.658938
+2026-11-13,,katowice,Godzilla Minus Zero,Katowice - Punkt 44,11:10,IMAX,,regular,2026-11-13T00:58:43.658945
+2026-11-13,,katowice,Supermocni,Katowice - Punkt 44,11:20,2D,,regular,2026-11-13T00:58:43.658953
+2026-11-13,,katowice,Ebenezer Scrooge. Opowieść wigilijna,Katowice - Punkt 44,11:20,2D,,regular,2026-11-13T00:58:43.658961
+2026-11-13,,katowice,Przepis na święta,Katowice - Punkt 44,11:30,2D,original,regular,2026-11-13T00:58:43.658968
+2026-11-13,,katowice,Odyseja,Katowice - Punkt 44,12:20,2D,,regular,2026-11-13T00:58:43.658975
+2026-11-13,,katowice,Dziki koń dziewięć,Katowice - Punkt 44,12:40,2D,,regular,2026-11-13T00:58:43.658982
+2026-11-13,,katowice,Niesamowite przygody skarpetek 4: Do roboty!,Katowice - Punkt 44,12:40,2D,,regular,2026-11-13T00:58:43.658989
+2026-11-13,,katowice,Baranek Shaun i kudłata bestia,Katowice - Punkt 44,12:50,2D,,regular,2026-11-13T00:58:43.658996
+2026-11-13,,katowice,Struś Pędziwiatr i zemsta Kojota,Katowice - Punkt 44,13:10,2D,,regular,2026-11-13T00:58:43.659004
+2026-11-13,,katowice,Nasza rewolucja,Katowice - Punkt 44,13:20,2D,original,regular,2026-11-13T00:58:43.659011
+2026-11-13,,katowice,Zobaczysz wszystko,Katowice - Punkt 44,13:30,2D,,regular,2026-11-13T00:58:43.659019
+2026-11-13,,katowice,Supermocni,Katowice - Punkt 44,13:40,2D,,regular,2026-11-13T00:58:43.659026
+2026-11-13,,katowice,Kot Prot,Katowice - Punkt 44,13:40,2D,,regular,2026-11-13T00:58:43.659032
+2026-11-13,,katowice,Clayface,Katowice - Punkt 44,13:40,2D,,regular,2026-11-13T00:58:43.659040
+2026-11-13,,katowice,Ebenezer Scrooge. Opowieść wigilijna,Katowice - Punkt 44,14:00,2D,,regular,2026-11-13T00:58:43.659047
+2026-11-13,,katowice,Przepis na święta,Katowice - Punkt 44,14:00,2D,original,regular,2026-11-13T00:58:43.659054
+2026-11-13,,katowice,Victorian Psycho,Katowice - Punkt 44,14:10,2D,,regular,2026-11-13T00:58:43.659062
+2026-11-13,,katowice,GEORGE MICHAEL: THE FAITH TOUR,Katowice - Punkt 44,14:10,IMAX,,regular,2026-11-13T00:58:43.659067
+2026-11-13,,katowice,Lalka,Katowice - Punkt 44,14:30,2D,original,regular,2026-11-13T00:58:43.659074
+2026-11-13,,katowice,Baranek Shaun i kudłata bestia,Katowice - Punkt 44,14:50,2D,,regular,2026-11-13T00:58:43.659081
+2026-11-13,,katowice,Dziki koń dziewięć,Katowice - Punkt 44,15:15,2D,,regular,2026-11-13T00:58:43.659088
+2026-11-13,,katowice,Klara i słońce,Katowice - Punkt 44,15:30,2D,,regular,2026-11-13T00:58:43.659096
+2026-11-13,,katowice,Witajcie w Hope,Katowice - Punkt 44,15:50,2D,,regular,2026-11-13T00:58:43.659104
+2026-11-13,,katowice,Kot Prot,Katowice - Punkt 44,16:00,3D,,regular,2026-11-13T00:58:43.659110
+2026-11-13,,katowice,Nasza rewolucja,Katowice - Punkt 44,16:10,2D,original,regular,2026-11-13T00:58:43.659117
+2026-11-13,,katowice,Legendarni,Katowice - Punkt 44,16:10,2D,,regular,2026-11-13T00:58:43.659124
+2026-11-13,,katowice,Jak obrabować bank,Katowice - Punkt 44,16:10,2D,,regular,2026-11-13T00:58:43.659132
+2026-11-13,,katowice,Niesamowite przygody skarpetek 4: Do roboty!,Katowice - Punkt 44,16:15,2D,,regular,2026-11-13T00:58:43.659139
+2026-11-13,,katowice,Przepis na święta,Katowice - Punkt 44,16:30,2D,original,regular,2026-11-13T00:58:43.659145
+2026-11-13,,katowice,Ebenezer Scrooge. Opowieść wigilijna,Katowice - Punkt 44,16:40,2D,,regular,2026-11-13T00:58:43.659152
+2026-11-13,,katowice,Godzilla Minus Zero,Katowice - Punkt 44,16:50,2D,,regular,2026-11-13T00:58:43.659160
+2026-11-13,,katowice,Ramajana. Narodziny legendy,Katowice - Punkt 44,16:50,IMAX,,regular,2026-11-13T00:58:43.659166
+2026-11-13,,katowice,Zobaczysz wszystko,Katowice - Punkt 44,17:10,2D,,regular,2026-11-13T00:58:43.659174
+2026-11-13,,katowice,Dziki koń dziewięć,Katowice - Punkt 44,17:50,2D,,regular,2026-11-13T00:58:43.659180
+2026-11-13,,katowice,Victorian Psycho,Katowice - Punkt 44,17:50,2D,,regular,2026-11-13T00:58:43.659186
+2026-11-13,,katowice,Maraton Igrzysk śmierci,Katowice - Punkt 44,18:00,2D,,regular,2026-11-13T00:58:43.659197
+2026-11-13,,katowice,Lalka,Katowice - Punkt 44,18:10,2D,original,regular,2026-11-13T00:58:43.659203
+2026-11-13,,katowice,"Jak żyć, żeby nie zwariować",Katowice - Punkt 44,18:30,2D,original,regular,2026-11-13T00:58:43.659212
+2026-11-13,,katowice,Kot Prot,Katowice - Punkt 44,18:30,2D,,regular,2026-11-13T00:58:43.659219
+2026-11-13,,katowice,Jak obrabować bank,Katowice - Punkt 44,18:50,2D,,regular,2026-11-13T00:58:43.659226
+2026-11-13,,katowice,Nasza rewolucja,Katowice - Punkt 44,19:00,2D,original,regular,2026-11-13T00:58:43.659233
+2026-11-13,,katowice,Przepis na święta,Katowice - Punkt 44,19:10,2D,original,regular,2026-11-13T00:58:43.659239
+2026-11-13,,katowice,Clayface,Katowice - Punkt 44,19:10,2D,,regular,2026-11-13T00:58:43.659247
+2026-11-13,,katowice,Ebenezer Scrooge. Opowieść wigilijna,Katowice - Punkt 44,19:20,2D,,regular,2026-11-13T00:58:43.659253
+2026-11-13,,katowice,GEORGE MICHAEL: THE FAITH TOUR,Katowice - Punkt 44,19:50,2D,,regular,2026-11-13T00:58:43.659260
+2026-11-13,,katowice,Victorian Psycho,Katowice - Punkt 44,20:00,2D,,regular,2026-11-13T00:58:43.659278
+2026-11-13,,katowice,Dziki koń dziewięć,Katowice - Punkt 44,20:30,2D,,regular,2026-11-13T00:58:43.659285
+2026-11-13,,katowice,Inna mamusia,Katowice - Punkt 44,20:50,2D,,regular,2026-11-13T00:58:43.659291
+2026-11-13,,katowice,Zobaczysz wszystko,Katowice - Punkt 44,20:50,2D,,regular,2026-11-13T00:58:43.659299
+2026-11-13,,katowice,Godzilla Minus Zero,Katowice - Punkt 44,20:50,IMAX,,regular,2026-11-13T00:58:43.659304
+2026-11-13,,katowice,Lalka,Katowice - Punkt 44,21:00,2D,original,regular,2026-11-13T00:58:43.659310
+2026-11-13,,katowice,Jak obrabować bank,Katowice - Punkt 44,21:30,2D,,regular,2026-11-13T00:58:43.659317
+2026-11-13,,katowice,Przepis na święta,Katowice - Punkt 44,21:40,2D,original,regular,2026-11-13T00:58:43.659324
+2026-11-13,,katowice,Lachtara. Tęsknota,Katowice - Punkt 44,21:40,2D,original,regular,2026-11-13T00:58:43.659331
+2026-11-13,,katowice,Clayface,Katowice - Punkt 44,21:40,2D,,regular,2026-11-13T00:58:43.659338
+2026-11-13,,katowice,Nasza rewolucja,Katowice - Punkt 44,21:50,2D,original,regular,2026-11-13T00:58:43.659345
+2026-11-13,,katowice,Ebenezer Scrooge. Opowieść wigilijna,Katowice - Punkt 44,22:00,2D,,regular,2026-11-13T00:58:43.659351
+2026-11-13,,katowice,Victorian Psycho,Katowice - Punkt 44,22:10,2D,,regular,2026-11-13T00:58:43.659357
+2026-11-13,,katowice,Resident Evil,Katowice - Punkt 44,22:20,2D,,regular,2026-11-13T00:58:43.659364
+2026-11-13,,katowice,Przepis na święta,Katowice - Silesia,10:00,2D,original,regular,2026-11-13T00:58:44.781792
+2026-11-13,,katowice,Zapomniana wyspa,Katowice - Silesia,10:00,2D,,regular,2026-11-13T00:58:44.781816
+2026-11-13,,katowice,Ebenezer Scrooge. Opowieść wigilijna,Katowice - Silesia,10:00,2D,,regular,2026-11-13T00:58:44.781825
+2026-11-13,,katowice,Supermocni,Katowice - Silesia,10:00,2D,,regular,2026-11-13T00:58:44.781833
+2026-11-13,,katowice,"Jak żyć, żeby nie zwariować",Katowice - Silesia,10:30,2D,original,regular,2026-11-13T00:58:44.781841
+2026-11-13,,katowice,Niesamowite przygody skarpetek 4: Do roboty!,Katowice - Silesia,10:40,2D,,regular,2026-11-13T00:58:44.781849
+2026-11-13,,katowice,Kot Prot,Katowice - Silesia,10:40,2D,,regular,2026-11-13T00:58:44.781856
+2026-11-13,,katowice,Baranek Shaun i kudłata bestia,Katowice - Silesia,10:50,2D,,regular,2026-11-13T00:58:44.781865
+2026-11-13,,katowice,Lalka,Katowice - Silesia,11:00,2D,original,regular,2026-11-13T00:58:44.781872
+2026-11-13,,katowice,Victorian Psycho,Katowice - Silesia,11:10,2D,,regular,2026-11-13T00:58:44.781879
+2026-11-13,,katowice,Niesamowite przygody skarpetek 4: Do roboty!,Katowice - Silesia,11:20,2D,,regular,2026-11-13T00:58:44.781886
+2026-11-13,,katowice,Clayface,Katowice - Silesia,11:30,2D,,regular,2026-11-13T00:58:44.781894
+2026-11-13,,katowice,Dziki koń dziewięć,Katowice - Silesia,11:50,2D,,regular,2026-11-13T00:58:44.781902
+2026-11-13,,katowice,Supermocni,Katowice - Silesia,12:15,2D,,regular,2026-11-13T00:58:44.781908
+2026-11-13,,katowice,Nasza rewolucja,Katowice - Silesia,12:20,2D,original,regular,2026-11-13T00:58:44.781916
+2026-11-13,,katowice,Przepis na święta,Katowice - Silesia,12:30,2D,original,regular,2026-11-13T00:58:44.781923
+2026-11-13,,katowice,Zobaczysz wszystko,Katowice - Silesia,12:30,2D,,regular,2026-11-13T00:58:44.781931
+2026-11-13,,katowice,La perra,Katowice - Silesia,12:50,2D,,regular,2026-11-13T00:58:44.781938
+2026-11-13,,katowice,Ebenezer Scrooge. Opowieść wigilijna,Katowice - Silesia,13:00,2D,,regular,2026-11-13T00:58:44.781944
+2026-11-13,,katowice,Baranek Shaun i kudłata bestia,Katowice - Silesia,13:00,2D,,regular,2026-11-13T00:58:44.781952
+2026-11-13,,katowice,Witajcie w Hope,Katowice - Silesia,13:00,2D,,regular,2026-11-13T00:58:44.781959
+2026-11-13,,katowice,Kot Prot,Katowice - Silesia,13:10,2D,,regular,2026-11-13T00:58:44.781966
+2026-11-13,,katowice,Legendarni,Katowice - Silesia,13:20,2D,,regular,2026-11-13T00:58:44.781973
+2026-11-13,,katowice,Camino dla opornych,Katowice - Silesia,14:00,2D,,regular,2026-11-13T00:58:44.781980
+2026-11-13,,katowice,Lalka,Katowice - Silesia,14:30,2D,original,regular,2026-11-13T00:58:44.781987
+2026-11-13,,katowice,Dziki koń dziewięć,Katowice - Silesia,14:30,2D,,regular,2026-11-13T00:58:44.781994
+2026-11-13,,katowice,Supermocni,Katowice - Silesia,14:30,2D,,regular,2026-11-13T00:58:44.782000
+2026-11-13,,katowice,Przepis na święta,Katowice - Silesia,15:00,2D,original,regular,2026-11-13T00:58:44.782007
+2026-11-13,,katowice,Nasza rewolucja,Katowice - Silesia,15:10,2D,original,regular,2026-11-13T00:58:44.782014
+2026-11-13,,katowice,Baranek Shaun i kudłata bestia,Katowice - Silesia,15:10,2D,,regular,2026-11-13T00:58:44.782021
+2026-11-13,,katowice,Jak obrabować bank,Katowice - Silesia,15:20,2D,,regular,2026-11-13T00:58:44.782028
+2026-11-13,,katowice,Godzilla Minus Zero,Katowice - Silesia,15:30,2D,,regular,2026-11-13T00:58:44.782036
+2026-11-13,,katowice,Ebenezer Scrooge. Opowieść wigilijna,Katowice - Silesia,15:40,2D,,regular,2026-11-13T00:58:44.782043
+2026-11-13,,katowice,Kot Prot,Katowice - Silesia,15:40,2D,,regular,2026-11-13T00:58:44.782049
+2026-11-13,,katowice,Ramajana. Narodziny legendy,Katowice - Silesia,16:10,2D,,regular,2026-11-13T00:58:44.782057
+2026-11-13,,katowice,GEORGE MICHAEL: THE FAITH TOUR,Katowice - Silesia,16:20,2D,,regular,2026-11-13T00:58:44.782064
+2026-11-13,,katowice,Clayface,Katowice - Silesia,16:30,2D,,regular,2026-11-13T00:58:44.782071
+2026-11-13,,katowice,Jak obrabować bank,Katowice - Silesia,16:50,2D,,regular,2026-11-13T00:58:44.782079
+2026-11-13,,katowice,Baranek Shaun i kudłata bestia,Katowice - Silesia,17:10,2D,,regular,2026-11-13T00:58:44.782085
+2026-11-13,,katowice,Dziki koń dziewięć,Katowice - Silesia,17:10,2D,,regular,2026-11-13T00:58:44.782092
+2026-11-13,,katowice,Przepis na święta,Katowice - Silesia,17:30,2D,original,regular,2026-11-13T00:58:44.782098
+2026-11-13,,katowice,Maraton Igrzysk śmierci,Katowice - Silesia,18:00,2D,,regular,2026-11-13T00:58:44.782108
+2026-11-13,,katowice,Nasza rewolucja,Katowice - Silesia,18:00,2D,original,regular,2026-11-13T00:58:44.782114
+2026-11-13,,katowice,Niesamowite przygody skarpetek 4: Do roboty!,Katowice - Silesia,18:00,2D,,regular,2026-11-13T00:58:44.782121
+2026-11-13,,katowice,Kot Prot,Katowice - Silesia,18:10,2D,,regular,2026-11-13T00:58:44.782127
+2026-11-13,,katowice,Ebenezer Scrooge. Opowieść wigilijna,Katowice - Silesia,18:20,2D,,regular,2026-11-13T00:58:44.782134
+2026-11-13,,katowice,Lalka,Katowice - Silesia,18:30,2D,original,regular,2026-11-13T00:58:44.782141
+2026-11-13,,katowice,Victorian Psycho,Katowice - Silesia,18:50,2D,,regular,2026-11-13T00:58:44.782147
+2026-11-13,,katowice,Nikt nie wie,Katowice - Silesia,19:00,2D,,regular,2026-11-13T00:58:44.782154
+2026-11-13,,katowice,Inna mamusia,Katowice - Silesia,19:10,2D,,regular,2026-11-13T00:58:44.782160
+2026-11-13,,katowice,Jak obrabować bank,Katowice - Silesia,19:30,2D,,regular,2026-11-13T00:58:44.782167
+2026-11-13,,katowice,"Jak żyć, żeby nie zwariować",Katowice - Silesia,19:40,2D,original,regular,2026-11-13T00:58:44.782174
+2026-11-13,,katowice,Dziki koń dziewięć,Katowice - Silesia,19:50,2D,,regular,2026-11-13T00:58:44.782181
+2026-11-13,,katowice,Przepis na święta,Katowice - Silesia,20:00,2D,original,regular,2026-11-13T00:58:44.782188
+2026-11-13,,katowice,Zobaczysz wszystko,Katowice - Silesia,20:10,2D,,regular,2026-11-13T00:58:44.782195
+2026-11-13,,katowice,Clayface,Katowice - Silesia,20:40,2D,,regular,2026-11-13T00:58:44.782202
+2026-11-13,,katowice,Nasza rewolucja,Katowice - Silesia,20:50,2D,original,regular,2026-11-13T00:58:44.782209
+2026-11-13,,katowice,Ebenezer Scrooge. Opowieść wigilijna,Katowice - Silesia,21:00,2D,,regular,2026-11-13T00:58:44.782216
+2026-11-13,,katowice,Victorian Psycho,Katowice - Silesia,21:00,2D,,regular,2026-11-13T00:58:44.782222
+2026-11-13,,katowice,Karaoke Murder,Katowice - Silesia,21:20,2D,,regular,2026-11-13T00:58:44.782228
+2026-11-13,,katowice,Inni 25-lecie,Katowice - Silesia,22:00,2D,,regular,2026-11-13T00:58:44.782235
+2026-11-13,,katowice,Labirynt Fauna,Katowice - Silesia,22:00,2D,,regular,2026-11-13T00:58:44.782243
+2026-11-13,,katowice,W sercu dziczy,Katowice - Silesia,22:10,2D,,regular,2026-11-13T00:58:44.782249
+2026-11-13,,katowice,Jak obrabować bank,Katowice - Silesia,22:10,2D,,regular,2026-11-13T00:58:44.782256
+2026-11-13,,katowice,Resident Evil,Katowice - Silesia,22:30,2D,,regular,2026-11-13T00:58:44.782276
+2026-11-13,,katowice,Dziki koń dziewięć,Katowice - Silesia,22:30,2D,,regular,2026-11-13T00:58:44.782286
+2026-11-13,,kraków,Lalka,Kraków - Bonarka,10:00,2D,original,regular,2026-11-13T00:58:46.754970
+2026-11-13,,kraków,Legendarni,Kraków - Bonarka,10:00,2D,,regular,2026-11-13T00:58:46.754997
+2026-11-13,,kraków,Kot Prot,Kraków - Bonarka,10:00,2D,,regular,2026-11-13T00:58:46.755006
+2026-11-13,,kraków,Przepis na święta,Kraków - Bonarka,10:00,2D,original,regular,2026-11-13T00:58:46.755019
+2026-11-13,,kraków,Dziki koń dziewięć,Kraków - Bonarka,10:10,2D,,regular,2026-11-13T00:58:46.755027
+2026-11-13,,kraków,Kot Prot,Kraków - Bonarka,10:30,4DX,,regular,2026-11-13T00:58:46.755033
+2026-11-13,,kraków,Supermocni,Kraków - Bonarka,10:30,2D,,regular,2026-11-13T00:58:46.755042
+2026-11-13,,kraków,Nasza rewolucja,Kraków - Bonarka,10:30,2D,original,regular,2026-11-13T00:58:46.755050
+2026-11-13,,kraków,Zobaczysz wszystko,Kraków - Bonarka,10:40,2D,,regular,2026-11-13T00:58:46.755059
+2026-11-13,,kraków,Witajcie w Hope,Kraków - Bonarka,10:40,2D,,regular,2026-11-13T00:58:46.755068
+2026-11-13,,kraków,"Jak żyć, żeby nie zwariować",Kraków - Bonarka,10:50,2D,original,regular,2026-11-13T00:58:46.755077
+2026-11-13,,kraków,Camino dla opornych,Kraków - Bonarka,11:10,2D,,regular,2026-11-13T00:58:46.755085
+2026-11-13,,kraków,Ebenezer Scrooge. Opowieść wigilijna,Kraków - Bonarka,11:20,2D,,regular,2026-11-13T00:58:46.755093
+2026-11-13,,kraków,W sercu dziczy,Kraków - Bonarka,11:20,2D,,regular,2026-11-13T00:58:46.755101
+2026-11-13,,kraków,Przepis na święta,Kraków - Bonarka,11:30,2D,original,regular,2026-11-13T00:58:46.755108
+2026-11-13,,kraków,Clayface,Kraków - Bonarka,11:30,2D,,regular,2026-11-13T00:58:46.755116
+2026-11-13,,kraków,Jak obrabować bank,Kraków - Bonarka,11:40,2D,,regular,2026-11-13T00:58:46.755125
+2026-11-13,,kraków,Niesamowite przygody skarpetek 4: Do roboty!,Kraków - Bonarka,12:10,2D,,regular,2026-11-13T00:58:46.755133
+2026-11-13,,kraków,Kot Prot,Kraków - Bonarka,12:30,2D,,regular,2026-11-13T00:58:46.755140
+2026-11-13,,kraków,Lalka,Kraków - Bonarka,12:30,2D,original,regular,2026-11-13T00:58:46.755147
+2026-11-13,,kraków,Dziki koń dziewięć,Kraków - Bonarka,12:50,2D,,regular,2026-11-13T00:58:46.755154
+2026-11-13,,kraków,Supermocni,Kraków - Bonarka,12:50,2D,,regular,2026-11-13T00:58:46.755161
+2026-11-13,,kraków,Kot Prot,Kraków - Bonarka,13:00,4DX,,regular,2026-11-13T00:58:46.755167
+2026-11-13,,kraków,Nasza rewolucja,Kraków - Bonarka,13:20,2D,original,regular,2026-11-13T00:58:46.755174
+2026-11-13,,kraków,Godzilla Minus Zero,Kraków - Bonarka,13:20,2D,,regular,2026-11-13T00:58:46.755184
+2026-11-13,,kraków,Baranek Shaun i kudłata bestia,Kraków - Bonarka,13:40,2D,,regular,2026-11-13T00:58:46.755193
+2026-11-13,,kraków,Niesamowite przygody skarpetek 4: Do roboty!,Kraków - Bonarka,13:45,2D,,regular,2026-11-13T00:58:46.755200
+2026-11-13,,kraków,Camino dla opornych,Kraków - Bonarka,13:50,2D,,regular,2026-11-13T00:58:46.755207
+2026-11-13,,kraków,Ebenezer Scrooge. Opowieść wigilijna,Kraków - Bonarka,14:00,2D,,regular,2026-11-13T00:58:46.755214
+2026-11-13,,kraków,Przepis na święta,Kraków - Bonarka,14:00,2D,original,regular,2026-11-13T00:58:46.755222
+2026-11-13,,kraków,GEORGE MICHAEL: THE FAITH TOUR,Kraków - Bonarka,14:00,2D,,regular,2026-11-13T00:58:46.755230
+2026-11-13,,kraków,Clayface,Kraków - Bonarka,14:00,2D,,regular,2026-11-13T00:58:46.755237
+2026-11-13,,kraków,Jak obrabować bank,Kraków - Bonarka,14:10,2D,,regular,2026-11-13T00:58:46.755246
+2026-11-13,,kraków,Zobaczysz wszystko,Kraków - Bonarka,14:20,2D,,regular,2026-11-13T00:58:46.755253
+2026-11-13,,kraków,Struś Pędziwiatr i zemsta Kojota,Kraków - Bonarka,14:20,2D,,regular,2026-11-13T00:58:46.755272
+2026-11-13,,kraków,Lalka,Kraków - Bonarka,14:30,2D,original,regular,2026-11-13T00:58:46.755283
+2026-11-13,,kraków,Lalka,Kraków - Bonarka,14:40,2D,original,regular,2026-11-13T00:58:46.755291
+2026-11-13,,kraków,Kot Prot,Kraków - Bonarka,15:00,2D,,regular,2026-11-13T00:58:46.755298
+2026-11-13,,kraków,La perra,Kraków - Bonarka,15:10,2D,,regular,2026-11-13T00:58:46.755305
+2026-11-13,,kraków,Verity. Coraz większy mrok,Kraków - Bonarka,15:20,2D,,regular,2026-11-13T00:58:46.755314
+2026-11-13,,kraków,Ebenezer Scrooge. Opowieść wigilijna,Kraków - Bonarka,15:30,4DX,,regular,2026-11-13T00:58:46.755320
+2026-11-13,,kraków,Dziki koń dziewięć,Kraków - Bonarka,15:30,2D,,regular,2026-11-13T00:58:46.755327
+2026-11-13,,kraków,Legendarni,Kraków - Bonarka,15:40,2D,,regular,2026-11-13T00:58:46.755334
+2026-11-13,,kraków,Dziki koń dziewięć,Kraków - Bonarka,15:40,2D,,regular,2026-11-13T00:58:46.755341
+2026-11-13,,kraków,Inna mamusia,Kraków - Bonarka,16:00,2D,,regular,2026-11-13T00:58:46.755349
+2026-11-13,,kraków,Nasza rewolucja,Kraków - Bonarka,16:10,2D,original,regular,2026-11-13T00:58:46.755356
+2026-11-13,,kraków,Victorian Psycho,Kraków - Bonarka,16:20,2D,,regular,2026-11-13T00:58:46.755363
+2026-11-13,,kraków,Inni 25-lecie,Kraków - Bonarka,16:30,2D,,regular,2026-11-13T00:58:46.755370
+2026-11-13,,kraków,"Jak żyć, żeby nie zwariować",Kraków - Bonarka,16:30,2D,original,regular,2026-11-13T00:58:46.755377
+2026-11-13,,kraków,Ebenezer Scrooge. Opowieść wigilijna,Kraków - Bonarka,16:40,2D,,regular,2026-11-13T00:58:46.755384
+2026-11-13,,kraków,GEORGE MICHAEL: THE FAITH TOUR,Kraków - Bonarka,16:40,2D,,regular,2026-11-13T00:58:46.755391
+2026-11-13,,kraków,Ebenezer Scrooge. Opowieść wigilijna,Kraków - Bonarka,16:50,2D,,regular,2026-11-13T00:58:46.755398
+2026-11-13,,kraków,Jak obrabować bank,Kraków - Bonarka,16:50,2D,,regular,2026-11-13T00:58:46.755406
+2026-11-13,,kraków,Kot Prot,Kraków - Bonarka,17:30,2D,,regular,2026-11-13T00:58:46.755413
+2026-11-13,,kraków,Maraton Igrzysk śmierci,Kraków - Bonarka,17:40,2D,,regular,2026-11-13T00:58:46.755423
+2026-11-13,,kraków,Baranek Shaun i kudłata bestia,Kraków - Bonarka,17:50,2D,,regular,2026-11-13T00:58:46.755431
+2026-11-13,,kraków,Maraton Igrzysk śmierci,Kraków - Bonarka,18:00,2D,,regular,2026-11-13T00:58:46.755439
+2026-11-13,,kraków,Lalka,Kraków - Bonarka,18:00,2D,original,regular,2026-11-13T00:58:46.755445
+2026-11-13,,kraków,Niesamowite przygody skarpetek 4: Do roboty!,Kraków - Bonarka,18:00,2D,,regular,2026-11-13T00:58:46.755453
+2026-11-13,,kraków,Maraton Igrzysk śmierci,Kraków - Bonarka,18:10,2D,,regular,2026-11-13T00:58:46.755461
+2026-11-13,,kraków,Jak obrabować bank,Kraków - Bonarka,18:10,4DX,,regular,2026-11-13T00:58:46.755467
+2026-11-13,,kraków,Maraton Igrzysk śmierci,Kraków - Bonarka,18:15,2D,,regular,2026-11-13T00:58:46.755475
+2026-11-13,,kraków,Maraton Igrzysk śmierci,Kraków - Bonarka,18:20,2D,,regular,2026-11-13T00:58:46.755483
+2026-11-13,,kraków,Victorian Psycho,Kraków - Bonarka,18:40,2D,,regular,2026-11-13T00:58:46.755497
+2026-11-13,,kraków,Clayface,Kraków - Bonarka,18:50,2D,,regular,2026-11-13T00:58:46.755505
+2026-11-13,,kraków,Nasza rewolucja,Kraków - Bonarka,19:00,2D,original,regular,2026-11-13T00:58:46.755512
+2026-11-13,,kraków,Przepis na święta,Kraków - Bonarka,19:00,2D,original,regular,2026-11-13T00:58:46.755519
+2026-11-13,,kraków,Nikt nie wie,Kraków - Bonarka,19:00,2D,,regular,2026-11-13T00:58:46.755526
+2026-11-13,,kraków,Everest: Druga strona,Kraków - Bonarka,19:10,2D,,regular,2026-11-13T00:58:46.755534
+2026-11-13,,kraków,Ebenezer Scrooge. Opowieść wigilijna,Kraków - Bonarka,19:20,2D,,regular,2026-11-13T00:58:46.755541
+2026-11-13,,kraków,Ebenezer Scrooge. Opowieść wigilijna,Kraków - Bonarka,19:30,2D,,regular,2026-11-13T00:58:46.755548
+2026-11-13,,kraków,Jak obrabować bank,Kraków - Bonarka,19:30,2D,,regular,2026-11-13T00:58:46.755555
+2026-11-13,,kraków,Zobaczysz wszystko,Kraków - Bonarka,19:40,2D,,regular,2026-11-13T00:58:46.755563
+2026-11-13,,kraków,Dziki koń dziewięć,Kraków - Bonarka,19:50,2D,,regular,2026-11-13T00:58:46.755570
+2026-11-13,,kraków,Ramajana. Narodziny legendy,Kraków - Bonarka,20:00,2D,,regular,2026-11-13T00:58:46.755579
+2026-11-13,,kraków,Godzilla Minus Zero,Kraków - Bonarka,20:50,4DX,,regular,2026-11-13T00:58:46.755585
+2026-11-13,,kraków,Victorian Psycho,Kraków - Bonarka,20:50,2D,,regular,2026-11-13T00:58:46.755593
+2026-11-13,,kraków,Witajcie w Hope,Kraków - Bonarka,21:20,2D,,regular,2026-11-13T00:58:46.755600
+2026-11-13,,kraków,Lalka,Kraków - Bonarka,21:30,2D,original,regular,2026-11-13T00:58:46.755607
+2026-11-13,,kraków,Przepis na święta,Kraków - Bonarka,21:30,2D,original,regular,2026-11-13T00:58:46.755613
+2026-11-13,,kraków,Karaoke Murder,Kraków - Bonarka,21:40,2D,,regular,2026-11-13T00:58:46.755620
+2026-11-13,,kraków,Nasza rewolucja,Kraków - Bonarka,21:50,2D,original,regular,2026-11-13T00:58:46.755627
+2026-11-13,,kraków,Ebenezer Scrooge. Opowieść wigilijna,Kraków - Bonarka,22:00,2D,,regular,2026-11-13T00:58:46.755634
+2026-11-13,,kraków,Resident Evil,Kraków - Bonarka,22:00,2D,,regular,2026-11-13T00:58:46.755641
+2026-11-13,,kraków,Ebenezer Scrooge. Opowieść wigilijna,Kraków - Bonarka,22:10,2D,,regular,2026-11-13T00:58:46.755648
+2026-11-13,,kraków,Jak obrabować bank,Kraków - Bonarka,22:10,2D,,regular,2026-11-13T00:58:46.755655
+2026-11-13,,kraków,Dziki koń dziewięć,Kraków - Bonarka,22:30,2D,,regular,2026-11-13T00:58:46.755662
+2026-11-13,,kraków,Victorian Psycho,Kraków - Bonarka,23:00,2D,,regular,2026-11-13T00:58:46.755669
+2026-11-13,,kraków,Godzilla Minus Zero,Kraków - Bonarka,23:45,4DX,,regular,2026-11-13T00:58:46.755675
+2026-11-13,,kraków,Przepis na święta,Kraków - Galeria Kazimierz,10:00,2D,original,regular,2026-11-13T00:58:48.700516
+2026-11-13,,kraków,"Jak żyć, żeby nie zwariować",Kraków - Galeria Kazimierz,10:10,2D,original,regular,2026-11-13T00:58:48.700545
+2026-11-13,,kraków,Baranek Shaun i kudłata bestia,Kraków - Galeria Kazimierz,10:20,2D,,regular,2026-11-13T00:58:48.700555
+2026-11-13,,kraków,Nasza rewolucja,Kraków - Galeria Kazimierz,10:30,2D,original,regular,2026-11-13T00:58:48.700564
+2026-11-13,,kraków,Kot Prot,Kraków - Galeria Kazimierz,10:40,2D,,regular,2026-11-13T00:58:48.700573
+2026-11-13,,kraków,Baranek Shaun i kudłata bestia,Kraków - Galeria Kazimierz,11:00,2D,,regular,2026-11-13T00:58:48.700581
+2026-11-13,,kraków,Struś Pędziwiatr i zemsta Kojota,Kraków - Galeria Kazimierz,11:15,2D,,regular,2026-11-13T00:58:48.700590
+2026-11-13,,kraków,Dziki koń dziewięć,Kraków - Galeria Kazimierz,11:20,2D,,regular,2026-11-13T00:58:48.700599
+2026-11-13,,kraków,GEORGE MICHAEL: THE FAITH TOUR,Kraków - Galeria Kazimierz,11:45,2D,,regular,2026-11-13T00:58:48.700609
+2026-11-13,,kraków,Niesamowite przygody skarpetek 4: Do roboty!,Kraków - Galeria Kazimierz,11:50,2D,,regular,2026-11-13T00:58:48.700617
+2026-11-13,,kraków,Przepis na święta,Kraków - Galeria Kazimierz,12:20,2D,original,regular,2026-11-13T00:58:48.700624
+2026-11-13,,kraków,Klara i słońce,Kraków - Galeria Kazimierz,12:30,2D,,regular,2026-11-13T00:58:48.700633
+2026-11-13,,kraków,La perra,Kraków - Galeria Kazimierz,12:30,2D,,regular,2026-11-13T00:58:48.700641
+2026-11-13,,kraków,Lalka,Kraków - Galeria Kazimierz,13:00,2D,original,regular,2026-11-13T00:58:48.700649
+2026-11-13,,kraków,Kot Prot,Kraków - Galeria Kazimierz,13:10,2D,,regular,2026-11-13T00:58:48.700656
+2026-11-13,,kraków,Nasza rewolucja,Kraków - Galeria Kazimierz,13:20,2D,original,regular,2026-11-13T00:58:48.700663
+2026-11-13,,kraków,Niesamowite przygody skarpetek 4: Do roboty!,Kraków - Galeria Kazimierz,13:30,2D,,regular,2026-11-13T00:58:48.700669
+2026-11-13,,kraków,Baranek Shaun i kudłata bestia,Kraków - Galeria Kazimierz,13:40,2D,,regular,2026-11-13T00:58:48.700678
+2026-11-13,,kraków,Dziki koń dziewięć,Kraków - Galeria Kazimierz,14:00,2D,,regular,2026-11-13T00:58:48.700685
+2026-11-13,,kraków,Zobaczysz wszystko,Kraków - Galeria Kazimierz,14:20,2D,,regular,2026-11-13T00:58:48.700695
+2026-11-13,,kraków,Przepis na święta,Kraków - Galeria Kazimierz,14:50,2D,original,regular,2026-11-13T00:58:48.700702
+2026-11-13,,kraków,Clayface,Kraków - Galeria Kazimierz,15:00,2D,,regular,2026-11-13T00:58:48.700711
+2026-11-13,,kraków,Lachtara. Tęsknota,Kraków - Galeria Kazimierz,15:10,2D,original,regular,2026-11-13T00:58:48.700719
+2026-11-13,,kraków,Kot Prot,Kraków - Galeria Kazimierz,15:10,3D,,regular,2026-11-13T00:58:48.700725
+2026-11-13,,kraków,Ebenezer Scrooge. Opowieść wigilijna,Kraków - Galeria Kazimierz,15:40,2D,,regular,2026-11-13T00:58:48.700734
+2026-11-13,,kraków,Godzilla Minus Zero,Kraków - Galeria Kazimierz,15:45,2D,,regular,2026-11-13T00:58:48.700743
+2026-11-13,,kraków,Nasza rewolucja,Kraków - Galeria Kazimierz,16:10,2D,original,regular,2026-11-13T00:58:48.700750
+2026-11-13,,kraków,Lalka,Kraków - Galeria Kazimierz,16:30,2D,original,regular,2026-11-13T00:58:48.700756
+2026-11-13,,kraków,Dziki koń dziewięć,Kraków - Galeria Kazimierz,16:40,2D,,regular,2026-11-13T00:58:48.700763
+2026-11-13,,kraków,Przepis na święta,Kraków - Galeria Kazimierz,17:20,2D,original,regular,2026-11-13T00:58:48.700770
+2026-11-13,,kraków,Zobaczysz wszystko,Kraków - Galeria Kazimierz,17:30,2D,,regular,2026-11-13T00:58:48.700778
+2026-11-13,,kraków,Maraton Igrzysk śmierci,Kraków - Galeria Kazimierz,17:45,2D,,regular,2026-11-13T00:58:48.700788
+2026-11-13,,kraków,Maraton Igrzysk śmierci,Kraków - Galeria Kazimierz,18:00,2D,,regular,2026-11-13T00:58:48.700797
+2026-11-13,,kraków,Victorian Psycho,Kraków - Galeria Kazimierz,18:00,2D,,regular,2026-11-13T00:58:48.700805
+2026-11-13,,kraków,Ebenezer Scrooge. Opowieść wigilijna,Kraków - Galeria Kazimierz,18:20,2D,,regular,2026-11-13T00:58:48.700812
+2026-11-13,,kraków,Jak obrabować bank,Kraków - Galeria Kazimierz,18:40,2D,,regular,2026-11-13T00:58:48.700821
+2026-11-13,,kraków,Nasza rewolucja,Kraków - Galeria Kazimierz,19:00,2D,original,regular,2026-11-13T00:58:48.700827
+2026-11-13,,kraków,Dziki koń dziewięć,Kraków - Galeria Kazimierz,19:20,2D,,regular,2026-11-13T00:58:48.700835
+2026-11-13,,kraków,Przepis na święta,Kraków - Galeria Kazimierz,19:50,2D,original,regular,2026-11-13T00:58:48.700841
+2026-11-13,,kraków,Zobaczysz wszystko,Kraków - Galeria Kazimierz,20:00,2D,,regular,2026-11-13T00:58:48.700849
+2026-11-13,,kraków,Victorian Psycho,Kraków - Galeria Kazimierz,20:10,2D,,regular,2026-11-13T00:58:48.700855
+2026-11-13,,kraków,Ebenezer Scrooge. Opowieść wigilijna,Kraków - Galeria Kazimierz,21:00,2D,,regular,2026-11-13T00:58:48.700861
+2026-11-13,,kraków,Jak obrabować bank,Kraków - Galeria Kazimierz,21:00,2D,,regular,2026-11-13T00:58:48.700868
+2026-11-13,,kraków,Witajcie w Hope,Kraków - Galeria Kazimierz,21:30,2D,,regular,2026-11-13T00:58:48.700876
+2026-11-13,,kraków,Nasza rewolucja,Kraków - Galeria Kazimierz,21:50,2D,original,regular,2026-11-13T00:58:48.700883
+2026-11-13,,kraków,Dziki koń dziewięć,Kraków - Galeria Kazimierz,22:00,2D,,regular,2026-11-13T00:58:48.700890
+2026-11-13,,kraków,Inna mamusia,Kraków - Galeria Kazimierz,22:20,2D,,regular,2026-11-13T00:58:48.700896
+2026-11-13,,kraków,Victorian Psycho,Kraków - Galeria Kazimierz,22:20,2D,,regular,2026-11-13T00:58:48.700903
+2026-11-13,,kraków,Nasza rewolucja,Kraków - Zakopianka,10:00,2D,original,regular,2026-11-13T00:58:49.819491
+2026-11-13,,kraków,Baranek Shaun i kudłata bestia,Kraków - Zakopianka,10:10,2D,,regular,2026-11-13T00:58:49.819522
+2026-11-13,,kraków,Przepis na święta,Kraków - Zakopianka,10:10,2D,original,regular,2026-11-13T00:58:49.819533
+2026-11-13,,kraków,Legendarni,Kraków - Zakopianka,10:30,2D,,regular,2026-11-13T00:58:49.819541
+2026-11-13,,kraków,Niesamowite przygody skarpetek 4: Do roboty!,Kraków - Zakopianka,10:45,2D,,regular,2026-11-13T00:58:49.819549
+2026-11-13,,kraków,Lalka,Kraków - Zakopianka,11:00,2D,original,regular,2026-11-13T00:58:49.819557
+2026-11-13,,kraków,Struś Pędziwiatr i zemsta Kojota,Kraków - Zakopianka,11:00,2D,,regular,2026-11-13T00:58:49.819567
+2026-11-13,,kraków,Supermocni,Kraków - Zakopianka,11:10,2D,,regular,2026-11-13T00:58:49.819575
+2026-11-13,,kraków,Godzilla Minus Zero,Kraków - Zakopianka,11:10,IMAX,,regular,2026-11-13T00:58:49.819583
+2026-11-13,,kraków,Kot Prot,Kraków - Zakopianka,11:15,2D,,regular,2026-11-13T00:58:49.819591
+2026-11-13,,kraków,Baranek Shaun i kudłata bestia,Kraków - Zakopianka,12:10,2D,,regular,2026-11-13T00:58:49.819598
+2026-11-13,,kraków,GEORGE MICHAEL: THE FAITH TOUR,Kraków - Zakopianka,12:20,2D,,regular,2026-11-13T00:58:49.819607
+2026-11-13,,kraków,Dziki koń dziewięć,Kraków - Zakopianka,12:40,2D,,regular,2026-11-13T00:58:49.819616
+2026-11-13,,kraków,Nasza rewolucja,Kraków - Zakopianka,12:50,2D,original,regular,2026-11-13T00:58:49.819623
+2026-11-13,,kraków,"Jak żyć, żeby nie zwariować",Kraków - Zakopianka,12:50,2D,original,regular,2026-11-13T00:58:49.819632
+2026-11-13,,kraków,Lalka,Kraków - Zakopianka,13:30,2D,original,regular,2026-11-13T00:58:49.819639
+2026-11-13,,kraków,Lachtara. Tęsknota,Kraków - Zakopianka,13:30,2D,original,regular,2026-11-13T00:58:49.819647
+2026-11-13,,kraków,Kot Prot,Kraków - Zakopianka,13:45,2D,,regular,2026-11-13T00:58:49.819654
+2026-11-13,,kraków,Baranek Shaun i kudłata bestia,Kraków - Zakopianka,14:10,2D,,regular,2026-11-13T00:58:49.819661
+2026-11-13,,kraków,GEORGE MICHAEL: THE FAITH TOUR,Kraków - Zakopianka,14:10,IMAX,,regular,2026-11-13T00:58:49.819667
+2026-11-13,,kraków,Zobaczysz wszystko,Kraków - Zakopianka,14:20,2D,,regular,2026-11-13T00:58:49.819676
+2026-11-13,,kraków,Niesamowite przygody skarpetek 4: Do roboty!,Kraków - Zakopianka,15:00,2D,,regular,2026-11-13T00:58:49.819683
+2026-11-13,,kraków,Ebenezer Scrooge. Opowieść wigilijna,Kraków - Zakopianka,15:10,2D,,regular,2026-11-13T00:58:49.819691
+2026-11-13,,kraków,Godzilla Minus Zero,Kraków - Zakopianka,15:15,2D,,regular,2026-11-13T00:58:49.819700
+2026-11-13,,kraków,Nasza rewolucja,Kraków - Zakopianka,15:40,2D,original,regular,2026-11-13T00:58:49.819707
+2026-11-13,,kraków,Lalka,Kraków - Zakopianka,16:15,2D,original,regular,2026-11-13T00:58:49.819713
+2026-11-13,,kraków,Kot Prot,Kraków - Zakopianka,16:20,2D,,regular,2026-11-13T00:58:49.819720
+2026-11-13,,kraków,Dziki koń dziewięć,Kraków - Zakopianka,16:20,2D,,regular,2026-11-13T00:58:49.819727
+2026-11-13,,kraków,Clayface,Kraków - Zakopianka,16:40,2D,,regular,2026-11-13T00:58:49.819735
+2026-11-13,,kraków,Ramajana. Narodziny legendy,Kraków - Zakopianka,16:50,IMAX,,regular,2026-11-13T00:58:49.819740
+2026-11-13,,kraków,Przepis na święta,Kraków - Zakopianka,17:00,2D,original,regular,2026-11-13T00:58:49.819747
+2026-11-13,,kraków,Ebenezer Scrooge. Opowieść wigilijna,Kraków - Zakopianka,17:50,2D,,regular,2026-11-13T00:58:49.819755
+2026-11-13,,kraków,Maraton Igrzysk śmierci,Kraków - Zakopianka,18:00,2D,,regular,2026-11-13T00:58:49.819765
+2026-11-13,,kraków,Maraton Igrzysk śmierci,Kraków - Zakopianka,18:15,2D,,regular,2026-11-13T00:58:49.819772
+2026-11-13,,kraków,Nasza rewolucja,Kraków - Zakopianka,18:30,2D,original,regular,2026-11-13T00:58:49.819779
+2026-11-13,,kraków,Jak obrabować bank,Kraków - Zakopianka,18:50,2D,,regular,2026-11-13T00:58:49.819788
+2026-11-13,,kraków,Dziki koń dziewięć,Kraków - Zakopianka,19:00,2D,,regular,2026-11-13T00:58:49.819794
+2026-11-13,,kraków,Zobaczysz wszystko,Kraków - Zakopianka,19:10,2D,,regular,2026-11-13T00:58:49.819801
+2026-11-13,,kraków,Przepis na święta,Kraków - Zakopianka,19:30,2D,original,regular,2026-11-13T00:58:49.819808
+2026-11-13,,kraków,Victorian Psycho,Kraków - Zakopianka,19:40,2D,,regular,2026-11-13T00:58:49.819815
+2026-11-13,,kraków,Ebenezer Scrooge. Opowieść wigilijna,Kraków - Zakopianka,20:30,2D,,regular,2026-11-13T00:58:49.819822
+2026-11-13,,kraków,Godzilla Minus Zero,Kraków - Zakopianka,20:50,IMAX,,regular,2026-11-13T00:58:49.819827
+2026-11-13,,kraków,Nasza rewolucja,Kraków - Zakopianka,21:20,2D,original,regular,2026-11-13T00:58:49.819834
+2026-11-13,,kraków,Jak obrabować bank,Kraków - Zakopianka,21:30,2D,,regular,2026-11-13T00:58:49.819841
+2026-11-13,,kraków,Dziki koń dziewięć,Kraków - Zakopianka,21:40,2D,,regular,2026-11-13T00:58:49.819848
+2026-11-13,,kraków,Victorian Psycho,Kraków - Zakopianka,21:50,2D,,regular,2026-11-13T00:58:49.819854
+2026-11-13,,kraków,Inna mamusia,Kraków - Zakopianka,22:00,2D,,regular,2026-11-13T00:58:49.819862
+2026-11-13,,lublin,Supermocni,Lublin - Felicity,09:05,2D,,regular,2026-11-13T00:58:51.456088
+2026-11-13,,lublin,Dziki koń dziewięć,Lublin - Felicity,10:00,2D,,regular,2026-11-13T00:58:51.456117
+2026-11-13,,lublin,Kot Prot,Lublin - Felicity,10:00,2D,,regular,2026-11-13T00:58:51.456127
+2026-11-13,,lublin,Struś Pędziwiatr i zemsta Kojota,Lublin - Felicity,10:10,2D,,regular,2026-11-13T00:58:51.456138
+2026-11-13,,lublin,Niesamowite przygody skarpetek 4: Do roboty!,Lublin - Felicity,10:20,2D,,regular,2026-11-13T00:58:51.456146
+2026-11-13,,lublin,Kot Prot,Lublin - Felicity,10:30,4DX,,regular,2026-11-13T00:58:51.456152
+2026-11-13,,lublin,Legendarni,Lublin - Felicity,10:50,2D,,regular,2026-11-13T00:58:51.456160
+2026-11-13,,lublin,Lalka,Lublin - Felicity,11:00,2D,original,regular,2026-11-13T00:58:51.456168
+2026-11-13,,lublin,Baranek Shaun i kudłata bestia,Lublin - Felicity,11:20,2D,,regular,2026-11-13T00:58:51.456177
+2026-11-13,,lublin,Przepis na święta,Lublin - Felicity,11:50,2D,original,regular,2026-11-13T00:58:51.456185
+2026-11-13,,lublin,GEORGE MICHAEL: THE FAITH TOUR,Lublin - Felicity,12:00,2D,,regular,2026-11-13T00:58:51.456194
+2026-11-13,,lublin,Ebenezer Scrooge. Opowieść wigilijna,Lublin - Felicity,12:30,2D,,regular,2026-11-13T00:58:51.456202
+2026-11-13,,lublin,Kot Prot,Lublin - Felicity,12:30,2D,,regular,2026-11-13T00:58:51.456209
+2026-11-13,,lublin,Dziki koń dziewięć,Lublin - Felicity,12:40,2D,,regular,2026-11-13T00:58:51.456216
+2026-11-13,,lublin,Kot Prot,Lublin - Felicity,13:00,4DX,,regular,2026-11-13T00:58:51.456221
+2026-11-13,,lublin,Niesamowite przygody skarpetek 4: Do roboty!,Lublin - Felicity,13:10,2D,,regular,2026-11-13T00:58:51.456228
+2026-11-13,,lublin,Nasza rewolucja,Lublin - Felicity,13:20,2D,original,regular,2026-11-13T00:58:51.456235
+2026-11-13,,lublin,Godzilla Minus Zero,Lublin - Felicity,14:20,2D,,regular,2026-11-13T00:58:51.456244
+2026-11-13,,lublin,Przepis na święta,Lublin - Felicity,14:30,2D,original,regular,2026-11-13T00:58:51.456251
+2026-11-13,,lublin,Lalka,Lublin - Felicity,14:30,2D,original,regular,2026-11-13T00:58:51.456258
+2026-11-13,,lublin,Niesamowite przygody skarpetek 4: Do roboty!,Lublin - Felicity,14:50,2D,,regular,2026-11-13T00:58:51.456278
+2026-11-13,,lublin,Kot Prot,Lublin - Felicity,15:00,2D,,regular,2026-11-13T00:58:51.456286
+2026-11-13,,lublin,Ebenezer Scrooge. Opowieść wigilijna,Lublin - Felicity,15:15,2D,,regular,2026-11-13T00:58:51.456293
+2026-11-13,,lublin,Jak obrabować bank,Lublin - Felicity,15:20,2D,,regular,2026-11-13T00:58:51.456302
+2026-11-13,,lublin,Ebenezer Scrooge. Opowieść wigilijna,Lublin - Felicity,15:30,4DX,,regular,2026-11-13T00:58:51.456308
+2026-11-13,,lublin,Nasza rewolucja,Lublin - Felicity,16:10,2D,original,regular,2026-11-13T00:58:51.456314
+2026-11-13,,lublin,Lachtara. Tęsknota,Lublin - Felicity,16:20,2D,original,regular,2026-11-13T00:58:51.456322
+2026-11-13,,lublin,Przepis na święta,Lublin - Felicity,17:00,2D,original,regular,2026-11-13T00:58:51.456329
+2026-11-13,,lublin,Victorian Psycho,Lublin - Felicity,17:20,2D,,regular,2026-11-13T00:58:51.456336
+2026-11-13,,lublin,Kot Prot,Lublin - Felicity,17:30,2D,,regular,2026-11-13T00:58:51.456342
+2026-11-13,,lublin,Ebenezer Scrooge. Opowieść wigilijna,Lublin - Felicity,17:50,2D,,regular,2026-11-13T00:58:51.456349
+2026-11-13,,lublin,Maraton Igrzysk śmierci,Lublin - Felicity,18:00,2D,,regular,2026-11-13T00:58:51.456359
+2026-11-13,,lublin,Dziki koń dziewięć,Lublin - Felicity,18:00,2D,,regular,2026-11-13T00:58:51.456366
+2026-11-13,,lublin,Jak obrabować bank,Lublin - Felicity,18:10,4DX,,regular,2026-11-13T00:58:51.456372
+2026-11-13,,lublin,Nasza rewolucja,Lublin - Felicity,19:00,2D,original,regular,2026-11-13T00:58:51.456378
+2026-11-13,,lublin,Clayface,Lublin - Felicity,19:10,2D,,regular,2026-11-13T00:58:51.456387
+2026-11-13,,lublin,Victorian Psycho,Lublin - Felicity,19:30,2D,,regular,2026-11-13T00:58:51.456393
+2026-11-13,,lublin,Przepis na święta,Lublin - Felicity,19:30,2D,original,regular,2026-11-13T00:58:51.456400
+2026-11-13,,lublin,Zobaczysz wszystko,Lublin - Felicity,20:00,2D,,regular,2026-11-13T00:58:51.456408
+2026-11-13,,lublin,Ebenezer Scrooge. Opowieść wigilijna,Lublin - Felicity,20:30,2D,,regular,2026-11-13T00:58:51.456415
+2026-11-13,,lublin,Jak obrabować bank,Lublin - Felicity,20:40,2D,,regular,2026-11-13T00:58:51.456422
+2026-11-13,,lublin,Godzilla Minus Zero,Lublin - Felicity,20:50,4DX,,regular,2026-11-13T00:58:51.456428
+2026-11-13,,lublin,Witajcie w Hope,Lublin - Felicity,21:40,2D,,regular,2026-11-13T00:58:51.456436
+2026-11-13,,lublin,Nasza rewolucja,Lublin - Felicity,21:50,2D,original,regular,2026-11-13T00:58:51.456442
+2026-11-13,,lublin,Inna mamusia,Lublin - Felicity,21:50,2D,,regular,2026-11-13T00:58:51.456449
+2026-11-13,,lublin,Dziki koń dziewięć,Lublin - Felicity,22:00,2D,,regular,2026-11-13T00:58:51.456455
+2026-11-13,,lublin,Niesamowite przygody skarpetek 4: Do roboty!,Lublin - Plaza,10:00,2D,,regular,2026-11-13T00:58:53.433057
+2026-11-13,,lublin,Nasza rewolucja,Lublin - Plaza,10:00,2D,original,regular,2026-11-13T00:58:53.433084
+2026-11-13,,lublin,Ebenezer Scrooge. Opowieść wigilijna,Lublin - Plaza,10:00,2D,,regular,2026-11-13T00:58:53.433096
+2026-11-13,,lublin,Struś Pędziwiatr i zemsta Kojota,Lublin - Plaza,10:20,2D,,regular,2026-11-13T00:58:53.433107
+2026-11-13,,lublin,Kot Prot,Lublin - Plaza,10:40,2D,,regular,2026-11-13T00:58:53.433115
+2026-11-13,,lublin,Klara i słońce,Lublin - Plaza,10:50,2D,,regular,2026-11-13T00:58:53.433125
+2026-11-13,,lublin,Lachtara. Tęsknota,Lublin - Plaza,11:00,2D,original,regular,2026-11-13T00:58:53.433133
+2026-11-13,,lublin,Baranek Shaun i kudłata bestia,Lublin - Plaza,11:20,2D,,regular,2026-11-13T00:58:53.433142
+2026-11-13,,lublin,La perra,Lublin - Plaza,11:40,2D,,regular,2026-11-13T00:58:53.433150
+2026-11-13,,lublin,Dziki koń dziewięć,Lublin - Plaza,12:45,2D,,regular,2026-11-13T00:58:53.433157
+2026-11-13,,lublin,Nasza rewolucja,Lublin - Plaza,12:50,2D,original,regular,2026-11-13T00:58:53.433164
+2026-11-13,,lublin,Przepis na święta,Lublin - Plaza,13:00,2D,original,regular,2026-11-13T00:58:53.433172
+2026-11-13,,lublin,Kot Prot,Lublin - Plaza,13:20,2D,,regular,2026-11-13T00:58:53.433178
+2026-11-13,,lublin,Ebenezer Scrooge. Opowieść wigilijna,Lublin - Plaza,13:30,2D,,regular,2026-11-13T00:58:53.433185
+2026-11-13,,lublin,Witajcie w Hope,Lublin - Plaza,13:50,2D,,regular,2026-11-13T00:58:53.433194
+2026-11-13,,lublin,Ebenezer Scrooge. Opowieść wigilijna,Lublin - Plaza,14:00,2D,,regular,2026-11-13T00:58:53.433200
+2026-11-13,,lublin,Zobaczysz wszystko,Lublin - Plaza,14:20,2D,,regular,2026-11-13T00:58:53.433209
+2026-11-13,,lublin,Inna mamusia,Lublin - Plaza,15:30,2D,,regular,2026-11-13T00:58:53.433216
+2026-11-13,,lublin,Nasza rewolucja,Lublin - Plaza,15:40,2D,original,regular,2026-11-13T00:58:53.433223
+2026-11-13,,lublin,"Jak żyć, żeby nie zwariować",Lublin - Plaza,15:40,2D,original,regular,2026-11-13T00:58:53.433231
+2026-11-13,,lublin,Godzilla Minus Zero,Lublin - Plaza,15:50,2D,,regular,2026-11-13T00:58:53.433240
+2026-11-13,,lublin,Ebenezer Scrooge. Opowieść wigilijna,Lublin - Plaza,16:15,2D,,regular,2026-11-13T00:58:53.433247
+2026-11-13,,lublin,Lalka,Lublin - Plaza,17:00,2D,original,regular,2026-11-13T00:58:53.433254
+2026-11-13,,lublin,Victorian Psycho,Lublin - Plaza,17:20,2D,,regular,2026-11-13T00:58:53.433261
+2026-11-13,,lublin,Maraton Igrzysk śmierci,Lublin - Plaza,18:00,2D,,regular,2026-11-13T00:58:53.433291
+2026-11-13,,lublin,Dziki koń dziewięć,Lublin - Plaza,18:00,2D,,regular,2026-11-13T00:58:53.433298
+2026-11-13,,lublin,Maraton Igrzysk śmierci,Lublin - Plaza,18:10,2D,,regular,2026-11-13T00:58:53.433305
+2026-11-13,,lublin,Nasza rewolucja,Lublin - Plaza,18:30,2D,original,regular,2026-11-13T00:58:53.433311
+2026-11-13,,lublin,Jak obrabować bank,Lublin - Plaza,18:50,2D,,regular,2026-11-13T00:58:53.433320
+2026-11-13,,lublin,Ebenezer Scrooge. Opowieść wigilijna,Lublin - Plaza,19:00,2D,,regular,2026-11-13T00:58:53.433327
+2026-11-13,,lublin,Przepis na święta,Lublin - Plaza,19:30,2D,original,regular,2026-11-13T00:58:53.433333
+2026-11-13,,lublin,Zobaczysz wszystko,Lublin - Plaza,20:30,2D,,regular,2026-11-13T00:58:53.433340
+2026-11-13,,lublin,Clayface,Lublin - Plaza,20:45,2D,,regular,2026-11-13T00:58:53.433348
+2026-11-13,,lublin,Nasza rewolucja,Lublin - Plaza,21:20,2D,original,regular,2026-11-13T00:58:53.433354
+2026-11-13,,lublin,Dziki koń dziewięć,Lublin - Plaza,21:40,2D,,regular,2026-11-13T00:58:53.433360
+2026-11-13,,lublin,Jak obrabować bank,Lublin - Plaza,21:40,2D,,regular,2026-11-13T00:58:53.433367
+2026-11-13,,lublin,Victorian Psycho,Lublin - Plaza,22:00,2D,,regular,2026-11-13T00:58:53.433373
+2026-11-13,,łódź,Lalka,Łódź Manufaktura,09:00,2D,original,regular,2026-11-13T00:58:55.307108
+2026-11-13,,łódź,Nasza rewolucja,Łódź Manufaktura,10:00,2D,original,regular,2026-11-13T00:58:55.307134
+2026-11-13,,łódź,Baranek Shaun i kudłata bestia,Łódź Manufaktura,10:00,2D,,regular,2026-11-13T00:58:55.307148
+2026-11-13,,łódź,Struś Pędziwiatr i zemsta Kojota,Łódź Manufaktura,10:00,2D,,regular,2026-11-13T00:58:55.307159
+2026-11-13,,łódź,Ebenezer Scrooge. Opowieść wigilijna,Łódź Manufaktura,10:00,2D,,regular,2026-11-13T00:58:55.307168
+2026-11-13,,łódź,Kot Prot,Łódź Manufaktura,10:10,3D,,regular,2026-11-13T00:58:55.307176
+2026-11-13,,łódź,Przepis na święta,Łódź Manufaktura,10:10,2D,original,regular,2026-11-13T00:58:55.307185
+2026-11-13,,łódź,Kot Prot,Łódź Manufaktura,10:20,4DX,,regular,2026-11-13T00:58:55.307192
+2026-11-13,,łódź,Zobaczysz wszystko,Łódź Manufaktura,10:40,2D,,regular,2026-11-13T00:58:55.307201
+2026-11-13,,łódź,Kot Prot,Łódź Manufaktura,10:50,2D,,regular,2026-11-13T00:58:55.307209
+2026-11-13,,łódź,Dziki koń dziewięć,Łódź Manufaktura,10:50,2D,,regular,2026-11-13T00:58:55.307217
+2026-11-13,,łódź,Piesek,Łódź Manufaktura,11:00,2D,,regular,2026-11-13T00:58:55.307226
+2026-11-13,,łódź,Ebenezer Scrooge. Opowieść wigilijna,Łódź Manufaktura,11:00,2D,,regular,2026-11-13T00:58:55.307233
+2026-11-13,,łódź,Godzilla Minus Zero,Łódź Manufaktura,11:10,IMAX,,regular,2026-11-13T00:58:55.307239
+2026-11-13,,łódź,Kot Prot,Łódź Manufaktura,11:40,2D,,regular,2026-11-13T00:58:55.307246
+2026-11-13,,łódź,La perra,Łódź Manufaktura,12:10,2D,,regular,2026-11-13T00:58:55.307254
+2026-11-13,,łódź,Dziki koń dziewięć,Łódź Manufaktura,12:20,2D,,regular,2026-11-13T00:58:55.307261
+2026-11-13,,łódź,Lachtara. Tęsknota,Łódź Manufaktura,12:25,2D,original,regular,2026-11-13T00:58:55.307280
+2026-11-13,,łódź,Ebenezer Scrooge. Opowieść wigilijna,Łódź Manufaktura,12:30,2D,,regular,2026-11-13T00:58:55.307287
+2026-11-13,,łódź,Kot Prot,Łódź Manufaktura,12:30,2D,,regular,2026-11-13T00:58:55.307294
+2026-11-13,,łódź,Niesamowite przygody skarpetek 4: Do roboty!,Łódź Manufaktura,12:45,2D,,regular,2026-11-13T00:58:55.307302
+2026-11-13,,łódź,Nasza rewolucja,Łódź Manufaktura,12:50,2D,original,regular,2026-11-13T00:58:55.307309
+2026-11-13,,łódź,Kot Prot,Łódź Manufaktura,12:50,4DX,,regular,2026-11-13T00:58:55.307315
+2026-11-13,,łódź,Ebenezer Scrooge. Opowieść wigilijna,Łódź Manufaktura,13:30,2D,,regular,2026-11-13T00:58:55.307322
+2026-11-13,,łódź,Kot Prot,Łódź Manufaktura,13:30,2D,,regular,2026-11-13T00:58:55.307329
+2026-11-13,,łódź,Jak obrabować bank,Łódź Manufaktura,13:30,2D,,regular,2026-11-13T00:58:55.307339
+2026-11-13,,łódź,Witajcie w Hope,Łódź Manufaktura,14:00,2D,,regular,2026-11-13T00:58:55.307347
+2026-11-13,,łódź,Kot Prot,Łódź Manufaktura,14:10,2D,,regular,2026-11-13T00:58:55.307354
+2026-11-13,,łódź,GEORGE MICHAEL: THE FAITH TOUR,Łódź Manufaktura,14:10,IMAX,,regular,2026-11-13T00:58:55.307360
+2026-11-13,,łódź,Zobaczysz wszystko,Łódź Manufaktura,14:20,2D,,regular,2026-11-13T00:58:55.307368
+2026-11-13,,łódź,Niesamowite przygody skarpetek 4: Do roboty!,Łódź Manufaktura,14:30,2D,,regular,2026-11-13T00:58:55.307375
+2026-11-13,,łódź,Baranek Shaun i kudłata bestia,Łódź Manufaktura,14:40,2D,,regular,2026-11-13T00:58:55.307383
+2026-11-13,,łódź,Dziki koń dziewięć,Łódź Manufaktura,15:00,2D,,regular,2026-11-13T00:58:55.307390
+2026-11-13,,łódź,Przepis na święta,Łódź Manufaktura,15:15,2D,original,regular,2026-11-13T00:58:55.307397
+2026-11-13,,łódź,GEORGE MICHAEL: THE FAITH TOUR,Łódź Manufaktura,15:20,2D,,regular,2026-11-13T00:58:55.307404
+2026-11-13,,łódź,Ebenezer Scrooge. Opowieść wigilijna,Łódź Manufaktura,15:30,4DX,,regular,2026-11-13T00:58:55.307410
+2026-11-13,,łódź,Clayface,Łódź Manufaktura,15:30,2D,,regular,2026-11-13T00:58:55.307419
+2026-11-13,,łódź,Nasza rewolucja,Łódź Manufaktura,15:40,2D,original,regular,2026-11-13T00:58:55.307426
+2026-11-13,,łódź,Kot Prot,Łódź Manufaktura,16:00,2D,,regular,2026-11-13T00:58:55.307433
+2026-11-13,,łódź,Ebenezer Scrooge. Opowieść wigilijna,Łódź Manufaktura,16:10,2D,,regular,2026-11-13T00:58:55.307440
+2026-11-13,,łódź,Victorian Psycho,Łódź Manufaktura,16:20,2D,,regular,2026-11-13T00:58:55.307447
+2026-11-13,,łódź,Lalka,Łódź Manufaktura,16:20,2D,original,regular,2026-11-13T00:58:55.307454
+2026-11-13,,łódź,Kot Prot,Łódź Manufaktura,16:40,2D,,regular,2026-11-13T00:58:55.307460
+2026-11-13,,łódź,Inna mamusia,Łódź Manufaktura,16:45,2D,,regular,2026-11-13T00:58:55.307467
+2026-11-13,,łódź,Godzilla Minus Zero,Łódź Manufaktura,16:50,IMAX,,regular,2026-11-13T00:58:55.307473
+2026-11-13,,łódź,Zobaczysz wszystko,Łódź Manufaktura,17:30,2D,,regular,2026-11-13T00:58:55.307480
+2026-11-13,,łódź,Dziki koń dziewięć,Łódź Manufaktura,17:40,2D,,regular,2026-11-13T00:58:55.307487
+2026-11-13,,łódź,Maraton Igrzysk śmierci,Łódź Manufaktura,18:00,2D,,regular,2026-11-13T00:58:55.307497
+2026-11-13,,łódź,Przepis na święta,Łódź Manufaktura,18:00,2D,original,regular,2026-11-13T00:58:55.307520
+2026-11-13,,łódź,Jak obrabować bank,Łódź Manufaktura,18:00,4DX,,regular,2026-11-13T00:58:55.307526
+2026-11-13,,łódź,Nasza rewolucja,Łódź Manufaktura,18:30,2D,original,regular,2026-11-13T00:58:55.307533
+2026-11-13,,łódź,Jak obrabować bank,Łódź Manufaktura,18:30,2D,,regular,2026-11-13T00:58:55.307540
+2026-11-13,,łódź,Victorian Psycho,Łódź Manufaktura,18:40,2D,,regular,2026-11-13T00:58:55.307547
+2026-11-13,,łódź,Ebenezer Scrooge. Opowieść wigilijna,Łódź Manufaktura,18:50,2D,,regular,2026-11-13T00:58:55.307554
+2026-11-13,,łódź,Nikt nie wie,Łódź Manufaktura,19:00,2D,,regular,2026-11-13T00:58:55.307561
+2026-11-13,,łódź,Clayface,Łódź Manufaktura,19:10,2D,,regular,2026-11-13T00:58:55.307569
+2026-11-13,,łódź,Godzilla Minus Zero,Łódź Manufaktura,19:45,2D,,regular,2026-11-13T00:58:55.307577
+2026-11-13,,łódź,Ramajana. Narodziny legendy,Łódź Manufaktura,19:50,IMAX,,regular,2026-11-13T00:58:55.307582
+2026-11-13,,łódź,Dziki koń dziewięć,Łódź Manufaktura,20:20,2D,,regular,2026-11-13T00:58:55.307589
+2026-11-13,,łódź,Przepis na święta,Łódź Manufaktura,20:40,2D,original,regular,2026-11-13T00:58:55.307596
+2026-11-13,,łódź,Godzilla Minus Zero,Łódź Manufaktura,20:50,4DX,,regular,2026-11-13T00:58:55.307602
+2026-11-13,,łódź,Victorian Psycho,Łódź Manufaktura,21:00,2D,,regular,2026-11-13T00:58:55.307609
+2026-11-13,,łódź,Zobaczysz wszystko,Łódź Manufaktura,21:10,2D,,regular,2026-11-13T00:58:55.307616
+2026-11-13,,łódź,Nasza rewolucja,Łódź Manufaktura,21:20,2D,original,regular,2026-11-13T00:58:55.307623
+2026-11-13,,łódź,Jak obrabować bank,Łódź Manufaktura,21:20,2D,,regular,2026-11-13T00:58:55.307631
+2026-11-13,,łódź,Ebenezer Scrooge. Opowieść wigilijna,Łódź Manufaktura,21:30,2D,,regular,2026-11-13T00:58:55.307637
+2026-11-13,,łódź,Witajcie w Hope,Łódź Manufaktura,21:40,2D,,regular,2026-11-13T00:58:55.307645
+2026-11-13,,łódź,Inna mamusia,Łódź Manufaktura,22:00,2D,,regular,2026-11-13T00:58:55.307651
+2026-11-13,,poznań,Mój pies Barry,Poznań - Kinepolis,09:30,2D,,regular,2026-11-13T00:58:56.848642
+2026-11-13,,poznań,Nasza rewolucja,Poznań - Kinepolis,10:00,2D,original,regular,2026-11-13T00:58:56.848668
+2026-11-13,,poznań,Minionki i straszydła,Poznań - Kinepolis,10:00,2D,,regular,2026-11-13T00:58:56.848679
+2026-11-13,,poznań,Supermocni,Poznań - Kinepolis,10:10,2D,,regular,2026-11-13T00:58:56.848688
+2026-11-13,,poznań,Kot Prot,Poznań - Kinepolis,10:10,2D,,regular,2026-11-13T00:58:56.848696
+2026-11-13,,poznań,Przepis na święta,Poznań - Kinepolis,10:10,2D,original,regular,2026-11-13T00:58:56.848706
+2026-11-13,,poznań,Niesamowite przygody skarpetek 4: Do roboty!,Poznań - Kinepolis,10:40,2D,,regular,2026-11-13T00:58:56.848714
+2026-11-13,,poznań,Ebenezer Scrooge. Opowieść wigilijna,Poznań - Kinepolis,11:20,2D,,regular,2026-11-13T00:58:56.848723
+2026-11-13,,poznań,Baranek Shaun i kudłata bestia,Poznań - Kinepolis,11:50,2D,,regular,2026-11-13T00:58:56.848733
+2026-11-13,,poznań,Dziki koń dziewięć,Poznań - Kinepolis,12:00,2D,,regular,2026-11-13T00:58:56.848741
+2026-11-13,,poznań,Marsupilami,Poznań - Kinepolis,12:00,2D,,regular,2026-11-13T00:58:56.848750
+2026-11-13,,poznań,Odyseja,Poznań - Kinepolis,12:10,2D,,regular,2026-11-13T00:58:56.848758
+2026-11-13,,poznań,Supermocni,Poznań - Kinepolis,12:20,2D,,regular,2026-11-13T00:58:56.848766
+2026-11-13,,poznań,Lalka,Poznań - Kinepolis,12:30,2D,original,regular,2026-11-13T00:58:56.848774
+2026-11-13,,poznań,Kot Prot,Poznań - Kinepolis,12:40,2D,,regular,2026-11-13T00:58:56.848782
+2026-11-13,,poznań,Nasza rewolucja,Poznań - Kinepolis,12:50,2D,original,regular,2026-11-13T00:58:56.848789
+2026-11-13,,poznań,Struś Pędziwiatr i zemsta Kojota,Poznań - Kinepolis,12:50,2D,,regular,2026-11-13T00:58:56.848799
+2026-11-13,,poznań,Baranek Shaun i kudłata bestia,Poznań - Kinepolis,13:50,2D,,regular,2026-11-13T00:58:56.848807
+2026-11-13,,poznań,Ebenezer Scrooge. Opowieść wigilijna,Poznań - Kinepolis,14:00,2D,,regular,2026-11-13T00:58:56.848814
+2026-11-13,,poznań,Dziki koń dziewięć,Poznań - Kinepolis,14:40,2D,,regular,2026-11-13T00:58:56.848821
+2026-11-13,,poznań,Lalka,Poznań - Kinepolis,14:40,2D,original,regular,2026-11-13T00:58:56.848829
+2026-11-13,,poznań,Godzilla Minus Zero,Poznań - Kinepolis,15:10,2D,,regular,2026-11-13T00:58:56.848839
+2026-11-13,,poznań,Nasza rewolucja,Poznań - Kinepolis,15:15,2D,original,regular,2026-11-13T00:58:56.848846
+2026-11-13,,poznań,Nasza rewolucja,Poznań - Kinepolis,15:40,2D,original,regular,2026-11-13T00:58:56.848854
+2026-11-13,,poznań,W sercu dziczy,Poznań - Kinepolis,15:50,2D,,regular,2026-11-13T00:58:56.848862
+2026-11-13,,poznań,"Jak żyć, żeby nie zwariować",Poznań - Kinepolis,15:50,2D,original,regular,2026-11-13T00:58:56.848872
+2026-11-13,,poznań,GEORGE MICHAEL: THE FAITH TOUR,Poznań - Kinepolis,16:00,2D,,regular,2026-11-13T00:58:56.848880
+2026-11-13,,poznań,Niesamowite przygody skarpetek 4: Do roboty!,Poznań - Kinepolis,16:00,2D,,regular,2026-11-13T00:58:56.848887
+2026-11-13,,poznań,Lalka,Poznań - Kinepolis,16:00,2D,original,regular,2026-11-13T00:58:56.848894
+2026-11-13,,poznań,Ebenezer Scrooge. Opowieść wigilijna,Poznań - Kinepolis,16:40,2D,,regular,2026-11-13T00:58:56.848902
+2026-11-13,,poznań,Jak obrabować bank,Poznań - Kinepolis,16:40,2D,,regular,2026-11-13T00:58:56.848910
+2026-11-13,,poznań,Witajcie w Hope,Poznań - Kinepolis,16:50,2D,,regular,2026-11-13T00:58:56.848918
+2026-11-13,,poznań,Kot Prot,Poznań - Kinepolis,17:10,2D,,regular,2026-11-13T00:58:56.848925
+2026-11-13,,poznań,Dziki koń dziewięć,Poznań - Kinepolis,17:20,2D,,regular,2026-11-13T00:58:56.848932
+2026-11-13,,poznań,Victorian Psycho,Poznań - Kinepolis,17:30,2D,,regular,2026-11-13T00:58:56.848939
+2026-11-13,,poznań,La perra,Poznań - Kinepolis,17:30,2D,,regular,2026-11-13T00:58:56.848946
+2026-11-13,,poznań,Clayface,Poznań - Kinepolis,17:40,2D,,regular,2026-11-13T00:58:56.848955
+2026-11-13,,poznań,Przepis na święta,Poznań - Kinepolis,17:40,2D,original,regular,2026-11-13T00:58:56.848963
+2026-11-13,,poznań,Maraton Igrzysk śmierci,Poznań - Kinepolis,18:00,2D,,regular,2026-11-13T00:58:56.848973
+2026-11-13,,poznań,Przepis na święta,Poznań - Kinepolis,18:00,2D,original,regular,2026-11-13T00:58:56.848980
+2026-11-13,,poznań,Maraton Igrzysk śmierci,Poznań - Kinepolis,18:10,2D,,regular,2026-11-13T00:58:56.848989
+2026-11-13,,poznań,Zobaczysz wszystko,Poznań - Kinepolis,18:10,2D,,regular,2026-11-13T00:58:56.848998
+2026-11-13,,poznań,Maraton Igrzysk śmierci,Poznań - Kinepolis,18:15,2D,,regular,2026-11-13T00:58:56.849006
+2026-11-13,,poznań,Maraton Igrzysk śmierci,Poznań - Kinepolis,18:20,2D,,regular,2026-11-13T00:58:56.849014
+2026-11-13,,poznań,Nasza rewolucja,Poznań - Kinepolis,18:30,2D,original,regular,2026-11-13T00:58:56.849021
+2026-11-13,,poznań,Lalka,Poznań - Kinepolis,18:30,2D,original,regular,2026-11-13T00:58:56.849028
+2026-11-13,,poznań,Ebenezer Scrooge. Opowieść wigilijna,Poznań - Kinepolis,19:20,2D,,regular,2026-11-13T00:58:56.849035
+2026-11-13,,poznań,Jak obrabować bank,Poznań - Kinepolis,19:20,2D,,regular,2026-11-13T00:58:56.849042
+2026-11-13,,poznań,Lalka,Poznań - Kinepolis,19:30,2D,original,regular,2026-11-13T00:58:56.849049
+2026-11-13,,poznań,Victorian Psycho,Poznań - Kinepolis,19:40,2D,,regular,2026-11-13T00:58:56.849055
+2026-11-13,,poznań,Zobaczysz wszystko,Poznań - Kinepolis,19:40,2D,,regular,2026-11-13T00:58:56.849063
+2026-11-13,,poznań,Dziki koń dziewięć,Poznań - Kinepolis,20:00,2D,,regular,2026-11-13T00:58:56.849070
+2026-11-13,,poznań,Nikt nie wie,Poznań - Kinepolis,20:00,2D,,regular,2026-11-13T00:58:56.849077
+2026-11-13,,poznań,Clayface,Poznań - Kinepolis,20:10,2D,,regular,2026-11-13T00:58:56.849084
+2026-11-13,,poznań,Przepis na święta,Poznań - Kinepolis,20:10,2D,original,regular,2026-11-13T00:58:56.849091
+2026-11-13,,poznań,Ramajana. Narodziny legendy,Poznań - Kinepolis,20:20,2D,,regular,2026-11-13T00:58:56.849098
+2026-11-13,,poznań,Przepis na święta,Poznań - Kinepolis,20:30,2D,original,regular,2026-11-13T00:58:56.849106
+2026-11-13,,poznań,Nasza rewolucja,Poznań - Kinepolis,21:20,2D,original,regular,2026-11-13T00:58:56.849113
+2026-11-13,,poznań,Zobaczysz wszystko,Poznań - Kinepolis,21:40,2D,,regular,2026-11-13T00:58:56.849120
+2026-11-13,,poznań,Victorian Psycho,Poznań - Kinepolis,21:50,2D,,regular,2026-11-13T00:58:56.849127
+2026-11-13,,poznań,Lachtara. Tęsknota,Poznań - Kinepolis,21:50,2D,original,regular,2026-11-13T00:58:56.849135
+2026-11-13,,poznań,Ebenezer Scrooge. Opowieść wigilijna,Poznań - Kinepolis,22:00,2D,,regular,2026-11-13T00:58:56.849142
+2026-11-13,,poznań,Jak obrabować bank,Poznań - Kinepolis,22:00,2D,,regular,2026-11-13T00:58:56.849149
+2026-11-13,,poznań,Klara i słońce,Poznań - Plaza,10:00,2D,,regular,2026-11-13T00:58:58.753434
+2026-11-13,,poznań,Zobaczysz wszystko,Poznań - Plaza,10:00,2D,,regular,2026-11-13T00:58:58.753462
+2026-11-13,,poznań,Niesamowite przygody skarpetek 4: Do roboty!,Poznań - Plaza,10:20,2D,,regular,2026-11-13T00:58:58.753471
+2026-11-13,,poznań,Ebenezer Scrooge. Opowieść wigilijna,Poznań - Plaza,10:20,2D,,regular,2026-11-13T00:58:58.753481
+2026-11-13,,poznań,Baranek Shaun i kudłata bestia,Poznań - Plaza,10:30,2D,,regular,2026-11-13T00:58:58.753491
+2026-11-13,,poznań,Nasza rewolucja,Poznań - Plaza,10:30,2D,original,regular,2026-11-13T00:58:58.753500
+2026-11-13,,poznań,Supermocni,Poznań - Plaza,10:40,2D,,regular,2026-11-13T00:58:58.753509
+2026-11-13,,poznań,Kot Prot,Poznań - Plaza,10:40,2D,,regular,2026-11-13T00:58:58.753517
+2026-11-13,,poznań,Ebenezer Scrooge. Opowieść wigilijna,Poznań - Plaza,11:00,2D,,regular,2026-11-13T00:58:58.753524
+2026-11-13,,poznań,Godzilla Minus Zero,Poznań - Plaza,11:10,IMAX,,regular,2026-11-13T00:58:58.753531
+2026-11-13,,poznań,Lalka,Poznań - Plaza,12:00,2D,original,regular,2026-11-13T00:58:58.753539
+2026-11-13,,poznań,Lachtara. Tęsknota,Poznań - Plaza,12:30,2D,original,regular,2026-11-13T00:58:58.753548
+2026-11-13,,poznań,Struś Pędziwiatr i zemsta Kojota,Poznań - Plaza,12:40,2D,,regular,2026-11-13T00:58:58.753557
+2026-11-13,,poznań,Niesamowite przygody skarpetek 4: Do roboty!,Poznań - Plaza,13:00,2D,,regular,2026-11-13T00:58:58.753564
+2026-11-13,,poznań,Ebenezer Scrooge. Opowieść wigilijna,Poznań - Plaza,13:00,2D,,regular,2026-11-13T00:58:58.753572
+2026-11-13,,poznań,Kot Prot,Poznań - Plaza,13:10,2D,,regular,2026-11-13T00:58:58.753579
+2026-11-13,,poznań,Nasza rewolucja,Poznań - Plaza,13:20,2D,original,regular,2026-11-13T00:58:58.753586
+2026-11-13,,poznań,Zobaczysz wszystko,Poznań - Plaza,13:40,2D,,regular,2026-11-13T00:58:58.753593
+2026-11-13,,poznań,Przepis na święta,Poznań - Plaza,14:00,2D,original,regular,2026-11-13T00:58:58.753602
+2026-11-13,,poznań,GEORGE MICHAEL: THE FAITH TOUR,Poznań - Plaza,14:10,IMAX,,regular,2026-11-13T00:58:58.753608
+2026-11-13,,poznań,Niesamowite przygody skarpetek 4: Do roboty!,Poznań - Plaza,14:40,2D,,regular,2026-11-13T00:58:58.753614
+2026-11-13,,poznań,GEORGE MICHAEL: THE FAITH TOUR,Poznań - Plaza,14:50,2D,,regular,2026-11-13T00:58:58.753622
+2026-11-13,,poznań,Victorian Psycho,Poznań - Plaza,15:20,2D,,regular,2026-11-13T00:58:58.753630
+2026-11-13,,poznań,Clayface,Poznań - Plaza,15:30,2D,,regular,2026-11-13T00:58:58.753638
+2026-11-13,,poznań,Ebenezer Scrooge. Opowieść wigilijna,Poznań - Plaza,15:40,2D,,regular,2026-11-13T00:58:58.753645
+2026-11-13,,poznań,Kot Prot,Poznań - Plaza,15:40,2D,,regular,2026-11-13T00:58:58.753652
+2026-11-13,,poznań,Nasza rewolucja,Poznań - Plaza,16:10,2D,original,regular,2026-11-13T00:58:58.753660
+2026-11-13,,poznań,Dziki koń dziewięć,Poznań - Plaza,16:20,2D,,regular,2026-11-13T00:58:58.753668
+2026-11-13,,poznań,Przepis na święta,Poznań - Plaza,16:30,2D,original,regular,2026-11-13T00:58:58.753675
+2026-11-13,,poznań,Ramajana. Narodziny legendy,Poznań - Plaza,16:50,IMAX,,regular,2026-11-13T00:58:58.753682
+2026-11-13,,poznań,Lalka,Poznań - Plaza,17:20,2D,original,regular,2026-11-13T00:58:58.753689
+2026-11-13,,poznań,"Jak żyć, żeby nie zwariować",Poznań - Plaza,17:30,2D,original,regular,2026-11-13T00:58:58.753698
+2026-11-13,,poznań,Jak obrabować bank,Poznań - Plaza,17:40,2D,,regular,2026-11-13T00:58:58.753707
+2026-11-13,,poznań,Maraton Igrzysk śmierci,Poznań - Plaza,18:00,2D,,regular,2026-11-13T00:58:58.753717
+2026-11-13,,poznań,Maraton Igrzysk śmierci,Poznań - Plaza,18:10,2D,,regular,2026-11-13T00:58:58.753725
+2026-11-13,,poznań,Ebenezer Scrooge. Opowieść wigilijna,Poznań - Plaza,18:20,2D,,regular,2026-11-13T00:58:58.753732
+2026-11-13,,poznań,Nasza rewolucja,Poznań - Plaza,19:00,2D,original,regular,2026-11-13T00:58:58.753738
+2026-11-13,,poznań,Przepis na święta,Poznań - Plaza,19:00,2D,original,regular,2026-11-13T00:58:58.753745
+2026-11-13,,poznań,Dziki koń dziewięć,Poznań - Plaza,19:10,2D,,regular,2026-11-13T00:58:58.753752
+2026-11-13,,poznań,Victorian Psycho,Poznań - Plaza,19:50,2D,,regular,2026-11-13T00:58:58.753759
+2026-11-13,,poznań,Jak obrabować bank,Poznań - Plaza,20:20,2D,,regular,2026-11-13T00:58:58.753766
+2026-11-13,,poznań,Zobaczysz wszystko,Poznań - Plaza,20:50,2D,,regular,2026-11-13T00:58:58.753774
+2026-11-13,,poznań,Godzilla Minus Zero,Poznań - Plaza,20:50,IMAX,,regular,2026-11-13T00:58:58.753779
+2026-11-13,,poznań,Ebenezer Scrooge. Opowieść wigilijna,Poznań - Plaza,21:00,2D,,regular,2026-11-13T00:58:58.753786
+2026-11-13,,poznań,Witajcie w Hope,Poznań - Plaza,21:30,2D,,regular,2026-11-13T00:58:58.753794
+2026-11-13,,poznań,Nasza rewolucja,Poznań - Plaza,21:50,2D,original,regular,2026-11-13T00:58:58.753801
+2026-11-13,,poznań,Dziki koń dziewięć,Poznań - Plaza,21:50,2D,,regular,2026-11-13T00:58:58.753808
+2026-11-13,,poznań,Inna mamusia,Poznań - Plaza,22:00,2D,,regular,2026-11-13T00:58:58.753815
+2026-11-13,,ruda-śląska,Lachtara. Tęsknota,Ruda Śląska,12:00,2D,original,regular,2026-11-13T00:59:00.440800
+2026-11-13,,ruda-śląska,Nasza rewolucja,Ruda Śląska,12:20,2D,original,regular,2026-11-13T00:59:00.440828
+2026-11-13,,ruda-śląska,GEORGE MICHAEL: THE FAITH TOUR,Ruda Śląska,12:20,2D,,regular,2026-11-13T00:59:00.440839
+2026-11-13,,ruda-śląska,Niesamowite przygody skarpetek 4: Do roboty!,Ruda Śląska,13:00,2D,,regular,2026-11-13T00:59:00.440849
+2026-11-13,,ruda-śląska,Baranek Shaun i kudłata bestia,Ruda Śląska,13:20,2D,,regular,2026-11-13T00:59:00.440859
+2026-11-13,,ruda-śląska,Kot Prot,Ruda Śląska,13:30,3D,,regular,2026-11-13T00:59:00.440867
+2026-11-13,,ruda-śląska,Witajcie w Hope,Ruda Śląska,13:50,2D,,regular,2026-11-13T00:59:00.440877
+2026-11-13,,ruda-śląska,Ebenezer Scrooge. Opowieść wigilijna,Ruda Śląska,14:10,2D,,regular,2026-11-13T00:59:00.440886
+2026-11-13,,ruda-śląska,"Jak żyć, żeby nie zwariować",Ruda Śląska,14:40,2D,original,regular,2026-11-13T00:59:00.440896
+2026-11-13,,ruda-śląska,Dziki koń dziewięć,Ruda Śląska,14:50,2D,,regular,2026-11-13T00:59:00.440905
+2026-11-13,,ruda-śląska,Przepis na święta,Ruda Śląska,15:00,2D,original,regular,2026-11-13T00:59:00.440915
+2026-11-13,,ruda-śląska,Nasza rewolucja,Ruda Śląska,15:10,2D,original,regular,2026-11-13T00:59:00.440923
+2026-11-13,,ruda-śląska,Inna mamusia,Ruda Śląska,15:30,2D,,regular,2026-11-13T00:59:00.440932
+2026-11-13,,ruda-śląska,Kot Prot,Ruda Śląska,16:10,2D,,regular,2026-11-13T00:59:00.440940
+2026-11-13,,ruda-śląska,Ebenezer Scrooge. Opowieść wigilijna,Ruda Śląska,16:50,2D,,regular,2026-11-13T00:59:00.440948
+2026-11-13,,ruda-śląska,Lalka,Ruda Śląska,17:00,2D,original,regular,2026-11-13T00:59:00.440957
+2026-11-13,,ruda-śląska,Jak obrabować bank,Ruda Śląska,17:20,2D,,regular,2026-11-13T00:59:00.440967
+2026-11-13,,ruda-śląska,Przepis na święta,Ruda Śląska,17:30,2D,original,regular,2026-11-13T00:59:00.440975
+2026-11-13,,ruda-śląska,Dziki koń dziewięć,Ruda Śląska,17:40,2D,,regular,2026-11-13T00:59:00.440982
+2026-11-13,,ruda-śląska,Maraton Igrzysk śmierci,Ruda Śląska,18:00,2D,,regular,2026-11-13T00:59:00.440993
+2026-11-13,,ruda-śląska,Nasza rewolucja,Ruda Śląska,18:00,2D,original,regular,2026-11-13T00:59:00.441001
+2026-11-13,,ruda-śląska,Victorian Psycho,Ruda Śląska,18:45,2D,,regular,2026-11-13T00:59:00.441010
+2026-11-13,,ruda-śląska,Ebenezer Scrooge. Opowieść wigilijna,Ruda Śląska,19:30,2D,,regular,2026-11-13T00:59:00.441017
+2026-11-13,,ruda-śląska,Zobaczysz wszystko,Ruda Śląska,20:00,2D,,regular,2026-11-13T00:59:00.441027
+2026-11-13,,ruda-śląska,Jak obrabować bank,Ruda Śląska,20:10,2D,,regular,2026-11-13T00:59:00.441035
+2026-11-13,,ruda-śląska,Dziki koń dziewięć,Ruda Śląska,20:20,2D,,regular,2026-11-13T00:59:00.441042
+2026-11-13,,ruda-śląska,Godzilla Minus Zero,Ruda Śląska,20:30,2D,,regular,2026-11-13T00:59:00.441052
+2026-11-13,,ruda-śląska,Nasza rewolucja,Ruda Śląska,20:50,2D,original,regular,2026-11-13T00:59:00.441060
+2026-11-13,,ruda-śląska,Victorian Psycho,Ruda Śląska,21:00,2D,,regular,2026-11-13T00:59:00.441067
+2026-11-13,,rybnik,Klara i słońce,Rybnik,10:00,2D,,regular,2026-11-13T00:59:02.115606
+2026-11-13,,rybnik,Nasza rewolucja,Rybnik,10:00,2D,original,regular,2026-11-13T00:59:02.115635
+2026-11-13,,rybnik,Legendarni,Rybnik,10:00,2D,,regular,2026-11-13T00:59:02.115646
+2026-11-13,,rybnik,Baranek Shaun i kudłata bestia,Rybnik,10:10,2D,,regular,2026-11-13T00:59:02.115657
+2026-11-13,,rybnik,Niesamowite przygody skarpetek 4: Do roboty!,Rybnik,10:20,2D,,regular,2026-11-13T00:59:02.115668
+2026-11-13,,rybnik,Kot Prot,Rybnik,10:30,2D,,regular,2026-11-13T00:59:02.115678
+2026-11-13,,rybnik,Supermocni,Rybnik,10:30,2D,,regular,2026-11-13T00:59:02.115687
+2026-11-13,,rybnik,La perra,Rybnik,10:50,2D,,regular,2026-11-13T00:59:02.115695
+2026-11-13,,rybnik,Baranek Shaun i kudłata bestia,Rybnik,12:00,2D,,regular,2026-11-13T00:59:02.115703
+2026-11-13,,rybnik,Struś Pędziwiatr i zemsta Kojota,Rybnik,12:10,2D,,regular,2026-11-13T00:59:02.115713
+2026-11-13,,rybnik,Niesamowite przygody skarpetek 4: Do roboty!,Rybnik,12:20,2D,,regular,2026-11-13T00:59:02.115721
+2026-11-13,,rybnik,Lachtara. Tęsknota,Rybnik,12:40,2D,original,regular,2026-11-13T00:59:02.115730
+2026-11-13,,rybnik,Nasza rewolucja,Rybnik,12:50,2D,original,regular,2026-11-13T00:59:02.115737
+2026-11-13,,rybnik,GEORGE MICHAEL: THE FAITH TOUR,Rybnik,12:50,2D,,regular,2026-11-13T00:59:02.115747
+2026-11-13,,rybnik,Kot Prot,Rybnik,13:00,3D,,regular,2026-11-13T00:59:02.115754
+2026-11-13,,rybnik,Witajcie w Hope,Rybnik,13:20,2D,,regular,2026-11-13T00:59:02.115764
+2026-11-13,,rybnik,Przepis na święta,Rybnik,14:00,2D,original,regular,2026-11-13T00:59:02.115773
+2026-11-13,,rybnik,Baranek Shaun i kudłata bestia,Rybnik,14:10,2D,,regular,2026-11-13T00:59:02.115781
+2026-11-13,,rybnik,Ebenezer Scrooge. Opowieść wigilijna,Rybnik,14:40,2D,,regular,2026-11-13T00:59:02.115790
+2026-11-13,,rybnik,Lalka,Rybnik,15:30,2D,original,regular,2026-11-13T00:59:02.115799
+2026-11-13,,rybnik,Kot Prot,Rybnik,15:30,2D,,regular,2026-11-13T00:59:02.115806
+2026-11-13,,rybnik,Victorian Psycho,Rybnik,15:30,2D,,regular,2026-11-13T00:59:02.115814
+2026-11-13,,rybnik,Nasza rewolucja,Rybnik,15:40,2D,original,regular,2026-11-13T00:59:02.115822
+2026-11-13,,rybnik,Clayface,Rybnik,16:20,2D,,regular,2026-11-13T00:59:02.115831
+2026-11-13,,rybnik,Dziki koń dziewięć,Rybnik,16:40,2D,,regular,2026-11-13T00:59:02.115840
+2026-11-13,,rybnik,Przepis na święta,Rybnik,16:40,2D,original,regular,2026-11-13T00:59:02.115848
+2026-11-13,,rybnik,Ebenezer Scrooge. Opowieść wigilijna,Rybnik,17:20,2D,,regular,2026-11-13T00:59:02.115855
+2026-11-13,,rybnik,Zobaczysz wszystko,Rybnik,17:50,2D,,regular,2026-11-13T00:59:02.115864
+2026-11-13,,rybnik,Maraton Igrzysk śmierci,Rybnik,18:00,2D,,regular,2026-11-13T00:59:02.115875
+2026-11-13,,rybnik,Nasza rewolucja,Rybnik,18:30,2D,original,regular,2026-11-13T00:59:02.115883
+2026-11-13,,rybnik,Jak obrabować bank,Rybnik,18:50,2D,,regular,2026-11-13T00:59:02.115892
+2026-11-13,,rybnik,Godzilla Minus Zero,Rybnik,19:00,2D,,regular,2026-11-13T00:59:02.115902
+2026-11-13,,rybnik,Przepis na święta,Rybnik,19:15,2D,original,regular,2026-11-13T00:59:02.115910
+2026-11-13,,rybnik,Dziki koń dziewięć,Rybnik,19:20,2D,,regular,2026-11-13T00:59:02.115917
+2026-11-13,,rybnik,Ebenezer Scrooge. Opowieść wigilijna,Rybnik,20:00,2D,,regular,2026-11-13T00:59:02.115925
+2026-11-13,,rybnik,Nasza rewolucja,Rybnik,21:20,2D,original,regular,2026-11-13T00:59:02.115932
+2026-11-13,,rybnik,"Jak żyć, żeby nie zwariować",Rybnik,21:20,2D,original,regular,2026-11-13T00:59:02.115941
+2026-11-13,,rybnik,Jak obrabować bank,Rybnik,21:40,2D,,regular,2026-11-13T00:59:02.115949
+2026-11-13,,rybnik,Inna mamusia,Rybnik,21:50,2D,,regular,2026-11-13T00:59:02.115957
+2026-11-13,,rybnik,Dziki koń dziewięć,Rybnik,22:00,2D,,regular,2026-11-13T00:59:02.115964
+2026-11-13,,rybnik,Victorian Psycho,Rybnik,22:00,2D,,regular,2026-11-13T00:59:02.115971
+2026-11-13,,sosnowiec,Kot Prot,Sosnowiec,10:30,2D,,regular,2026-11-13T00:59:03.821876
+2026-11-13,,sosnowiec,Nasza rewolucja,Sosnowiec,10:30,2D,original,regular,2026-11-13T00:59:03.821903
+2026-11-13,,sosnowiec,Legendarni,Sosnowiec,10:40,2D,,regular,2026-11-13T00:59:03.821912
+2026-11-13,,sosnowiec,Niesamowite przygody skarpetek 4: Do roboty!,Sosnowiec,10:50,2D,,regular,2026-11-13T00:59:03.821920
+2026-11-13,,sosnowiec,"Jak żyć, żeby nie zwariować",Sosnowiec,11:30,2D,original,regular,2026-11-13T00:59:03.821931
+2026-11-13,,sosnowiec,Supermocni,Sosnowiec,11:45,2D,,regular,2026-11-13T00:59:03.821940
+2026-11-13,,sosnowiec,Niesamowite przygody skarpetek 4: Do roboty!,Sosnowiec,12:30,2D,,regular,2026-11-13T00:59:03.821946
+2026-11-13,,sosnowiec,Dziki koń dziewięć,Sosnowiec,12:50,2D,,regular,2026-11-13T00:59:03.821954
+2026-11-13,,sosnowiec,Kot Prot,Sosnowiec,13:00,2D,,regular,2026-11-13T00:59:03.821962
+2026-11-13,,sosnowiec,Nasza rewolucja,Sosnowiec,13:20,2D,original,regular,2026-11-13T00:59:03.821969
+2026-11-13,,sosnowiec,Kot Prot,Sosnowiec,14:00,3D,,regular,2026-11-13T00:59:03.821975
+2026-11-13,,sosnowiec,Przepis na święta,Sosnowiec,14:00,2D,original,regular,2026-11-13T00:59:03.821984
+2026-11-13,,sosnowiec,Lalka,Sosnowiec,14:10,2D,original,regular,2026-11-13T00:59:03.821992
+2026-11-13,,sosnowiec,Kot Prot,Sosnowiec,15:30,2D,,regular,2026-11-13T00:59:03.821999
+2026-11-13,,sosnowiec,Godzilla Minus Zero,Sosnowiec,15:40,2D,,regular,2026-11-13T00:59:03.822009
+2026-11-13,,sosnowiec,Nasza rewolucja,Sosnowiec,16:10,2D,original,regular,2026-11-13T00:59:03.822016
+2026-11-13,,sosnowiec,Inna mamusia,Sosnowiec,16:30,2D,,regular,2026-11-13T00:59:03.822023
+2026-11-13,,sosnowiec,Przepis na święta,Sosnowiec,16:30,2D,original,regular,2026-11-13T00:59:03.822030
+2026-11-13,,sosnowiec,Ebenezer Scrooge. Opowieść wigilijna,Sosnowiec,17:30,2D,,regular,2026-11-13T00:59:03.822038
+2026-11-13,,sosnowiec,Maraton Igrzysk śmierci,Sosnowiec,18:00,2D,,regular,2026-11-13T00:59:03.822048
+2026-11-13,,sosnowiec,Dziki koń dziewięć,Sosnowiec,18:40,2D,,regular,2026-11-13T00:59:03.822054
+2026-11-13,,sosnowiec,Zobaczysz wszystko,Sosnowiec,18:50,2D,,regular,2026-11-13T00:59:03.822063
+2026-11-13,,sosnowiec,Nasza rewolucja,Sosnowiec,19:00,2D,original,regular,2026-11-13T00:59:03.822069
+2026-11-13,,sosnowiec,Jak obrabować bank,Sosnowiec,19:10,2D,,regular,2026-11-13T00:59:03.822078
+2026-11-13,,sosnowiec,Ebenezer Scrooge. Opowieść wigilijna,Sosnowiec,20:10,2D,,regular,2026-11-13T00:59:03.822085
+2026-11-13,,sosnowiec,Dziki koń dziewięć,Sosnowiec,21:30,2D,,regular,2026-11-13T00:59:03.822091
+2026-11-13,,sosnowiec,GEORGE MICHAEL: THE FAITH TOUR,Sosnowiec,21:45,2D,,regular,2026-11-13T00:59:03.822099
+2026-11-13,,sosnowiec,Inna mamusia,Sosnowiec,22:00,2D,,regular,2026-11-13T00:59:03.822105
+2026-11-13,,gdańsk,Kot Prot,Starogard Gdański,09:30,2D,,regular,2026-11-13T00:59:05.577421
+2026-11-13,,gdańsk,Kot Prot,Starogard Gdański,10:00,2D,,regular,2026-11-13T00:59:05.577446
+2026-11-13,,gdańsk,Przepis na święta,Starogard Gdański,10:00,2D,original,regular,2026-11-13T00:59:05.577458
+2026-11-13,,gdańsk,Jak obrabować bank,Starogard Gdański,10:30,2D,,regular,2026-11-13T00:59:05.577469
+2026-11-13,,gdańsk,Baranek Shaun i kudłata bestia,Starogard Gdański,11:10,2D,,regular,2026-11-13T00:59:05.577478
+2026-11-13,,gdańsk,Kot Prot,Starogard Gdański,12:15,2D,,regular,2026-11-13T00:59:05.577486
+2026-11-13,,gdańsk,Przepis na święta,Starogard Gdański,12:40,2D,original,regular,2026-11-13T00:59:05.577492
+2026-11-13,,gdańsk,Godzilla Minus Zero,Starogard Gdański,12:40,2D,,regular,2026-11-13T00:59:05.577502
+2026-11-13,,gdańsk,GEORGE MICHAEL: THE FAITH TOUR,Starogard Gdański,12:45,2D,,regular,2026-11-13T00:59:05.577511
+2026-11-13,,gdańsk,Niesamowite przygody skarpetek 4: Do roboty!,Starogard Gdański,13:10,2D,,regular,2026-11-13T00:59:05.577519
+2026-11-13,,gdańsk,Nasza rewolucja,Starogard Gdański,13:20,2D,original,regular,2026-11-13T00:59:05.577527
+2026-11-13,,gdańsk,Kot Prot,Starogard Gdański,14:45,2D,,regular,2026-11-13T00:59:05.577534
+2026-11-13,,gdańsk,Inna mamusia,Starogard Gdański,14:45,2D,,regular,2026-11-13T00:59:05.577542
+2026-11-13,,gdańsk,Przepis na święta,Starogard Gdański,15:20,2D,original,regular,2026-11-13T00:59:05.577549
+2026-11-13,,gdańsk,Lalka,Starogard Gdański,15:20,2D,original,regular,2026-11-13T00:59:05.577556
+2026-11-13,,gdańsk,Zobaczysz wszystko,Starogard Gdański,15:40,2D,,regular,2026-11-13T00:59:05.577565
+2026-11-13,,gdańsk,Nasza rewolucja,Starogard Gdański,16:10,2D,original,regular,2026-11-13T00:59:05.577571
+2026-11-13,,gdańsk,Dziki koń dziewięć,Starogard Gdański,17:00,2D,,regular,2026-11-13T00:59:05.577579
+2026-11-13,,gdańsk,Ebenezer Scrooge. Opowieść wigilijna,Starogard Gdański,17:15,2D,,regular,2026-11-13T00:59:05.577587
+2026-11-13,,gdańsk,Maraton Igrzysk śmierci,Starogard Gdański,18:00,2D,,regular,2026-11-13T00:59:05.577597
+2026-11-13,,gdańsk,Jak obrabować bank,Starogard Gdański,18:50,2D,,regular,2026-11-13T00:59:05.577604
+2026-11-13,,gdańsk,Nasza rewolucja,Starogard Gdański,19:00,2D,original,regular,2026-11-13T00:59:05.577611
+2026-11-13,,gdańsk,Przepis na święta,Starogard Gdański,19:20,2D,original,regular,2026-11-13T00:59:05.577617
+2026-11-13,,gdańsk,Dziki koń dziewięć,Starogard Gdański,19:40,2D,,regular,2026-11-13T00:59:05.577624
+2026-11-13,,gdańsk,Ebenezer Scrooge. Opowieść wigilijna,Starogard Gdański,20:00,2D,,regular,2026-11-13T00:59:05.577630
+2026-11-13,,gdańsk,Clayface,Starogard Gdański,21:30,2D,,regular,2026-11-13T00:59:05.577638
+2026-11-13,,gdańsk,Przepis na święta,Starogard Gdański,21:50,2D,original,regular,2026-11-13T00:59:05.577644
+2026-11-13,,gdańsk,Nasza rewolucja,Starogard Gdański,21:50,2D,original,regular,2026-11-13T00:59:05.577651
+2026-11-13,,toruń,Kot Prot,Toruń - Czerwona Droga,10:00,2D,,regular,2026-11-13T00:59:06.753252
+2026-11-13,,toruń,Nasza rewolucja,Toruń - Czerwona Droga,10:00,2D,original,regular,2026-11-13T00:59:06.753299
+2026-11-13,,toruń,Spider-Man: Całkiem nowy dzień,Toruń - Czerwona Droga,10:00,2D,,regular,2026-11-13T00:59:06.753311
+2026-11-13,,toruń,Baranek Shaun i kudłata bestia,Toruń - Czerwona Droga,10:20,2D,,regular,2026-11-13T00:59:06.753320
+2026-11-13,,toruń,Niesamowite przygody skarpetek 4: Do roboty!,Toruń - Czerwona Droga,10:30,2D,,regular,2026-11-13T00:59:06.753328
+2026-11-13,,toruń,Legendarni,Toruń - Czerwona Droga,10:30,2D,,regular,2026-11-13T00:59:06.753336
+2026-11-13,,toruń,Przepis na święta,Toruń - Czerwona Droga,10:30,2D,original,regular,2026-11-13T00:59:06.753345
+2026-11-13,,toruń,Dziki koń dziewięć,Toruń - Czerwona Droga,10:30,2D,,regular,2026-11-13T00:59:06.753354
+2026-11-13,,toruń,Pucio kocha zwierzaki,Toruń - Czerwona Droga,10:50,2D,,regular,2026-11-13T00:59:06.753363
+2026-11-13,,toruń,Kot Prot,Toruń - Czerwona Droga,11:30,3D,,regular,2026-11-13T00:59:06.753369
+2026-11-13,,toruń,Niesamowite przygody skarpetek 4: Do roboty!,Toruń - Czerwona Droga,12:10,2D,,regular,2026-11-13T00:59:06.753375
+2026-11-13,,toruń,Struś Pędziwiatr i zemsta Kojota,Toruń - Czerwona Droga,12:20,2D,,regular,2026-11-13T00:59:06.753383
+2026-11-13,,toruń,Camino dla opornych,Toruń - Czerwona Droga,12:30,2D,,regular,2026-11-13T00:59:06.753391
+2026-11-13,,toruń,Kot Prot,Toruń - Czerwona Droga,12:30,2D,,regular,2026-11-13T00:59:06.753397
+2026-11-13,,toruń,Lalka,Toruń - Czerwona Droga,12:45,2D,original,regular,2026-11-13T00:59:06.753405
+2026-11-13,,toruń,Nasza rewolucja,Toruń - Czerwona Droga,12:50,2D,original,regular,2026-11-13T00:59:06.753412
+2026-11-13,,toruń,Przepis na święta,Toruń - Czerwona Droga,13:00,2D,original,regular,2026-11-13T00:59:06.753420
+2026-11-13,,toruń,Dziki koń dziewięć,Toruń - Czerwona Droga,13:10,2D,,regular,2026-11-13T00:59:06.753427
+2026-11-13,,toruń,Ebenezer Scrooge. Opowieść wigilijna,Toruń - Czerwona Droga,14:00,2D,,regular,2026-11-13T00:59:06.753436
+2026-11-13,,toruń,Niesamowite przygody skarpetek 4: Do roboty!,Toruń - Czerwona Droga,14:00,2D,,regular,2026-11-13T00:59:06.753442
+2026-11-13,,toruń,Baranek Shaun i kudłata bestia,Toruń - Czerwona Droga,14:00,2D,,regular,2026-11-13T00:59:06.753449
+2026-11-13,,toruń,La perra,Toruń - Czerwona Droga,14:45,2D,,regular,2026-11-13T00:59:06.753457
+2026-11-13,,toruń,Kot Prot,Toruń - Czerwona Droga,15:00,2D,,regular,2026-11-13T00:59:06.753464
+2026-11-13,,toruń,GEORGE MICHAEL: THE FAITH TOUR,Toruń - Czerwona Droga,15:10,2D,,regular,2026-11-13T00:59:06.753472
+2026-11-13,,toruń,Przepis na święta,Toruń - Czerwona Droga,15:30,2D,original,regular,2026-11-13T00:59:06.753479
+2026-11-13,,toruń,Nasza rewolucja,Toruń - Czerwona Droga,15:40,2D,original,regular,2026-11-13T00:59:06.753485
+2026-11-13,,toruń,Dziki koń dziewięć,Toruń - Czerwona Droga,15:40,2D,,regular,2026-11-13T00:59:06.753492
+2026-11-13,,toruń,Zobaczysz wszystko,Toruń - Czerwona Droga,16:00,2D,,regular,2026-11-13T00:59:06.753500
+2026-11-13,,toruń,Lachtara. Tęsknota,Toruń - Czerwona Droga,16:10,2D,original,regular,2026-11-13T00:59:06.753508
+2026-11-13,,toruń,Lalka,Toruń - Czerwona Droga,16:15,2D,original,regular,2026-11-13T00:59:06.753515
+2026-11-13,,toruń,Ebenezer Scrooge. Opowieść wigilijna,Toruń - Czerwona Droga,16:40,2D,,regular,2026-11-13T00:59:06.753521
+2026-11-13,,toruń,Jak obrabować bank,Toruń - Czerwona Droga,17:20,2D,,regular,2026-11-13T00:59:06.753530
+2026-11-13,,toruń,Kot Prot,Toruń - Czerwona Droga,17:30,2D,,regular,2026-11-13T00:59:06.753536
+2026-11-13,,toruń,Maraton Igrzysk śmierci,Toruń - Czerwona Droga,18:00,2D,,regular,2026-11-13T00:59:06.753546
+2026-11-13,,toruń,Godzilla Minus Zero,Toruń - Czerwona Droga,18:20,2D,,regular,2026-11-13T00:59:06.753554
+2026-11-13,,toruń,Nasza rewolucja,Toruń - Czerwona Droga,18:30,2D,original,regular,2026-11-13T00:59:06.753561
+2026-11-13,,toruń,Nikt nie wie,Toruń - Czerwona Droga,19:00,2D,,regular,2026-11-13T00:59:06.753568
+2026-11-13,,toruń,Ebenezer Scrooge. Opowieść wigilijna,Toruń - Czerwona Droga,19:20,2D,,regular,2026-11-13T00:59:06.753575
+2026-11-13,,toruń,Przepis na święta,Toruń - Czerwona Droga,19:40,2D,original,regular,2026-11-13T00:59:06.753582
+2026-11-13,,toruń,Zobaczysz wszystko,Toruń - Czerwona Droga,19:45,2D,,regular,2026-11-13T00:59:06.753589
+2026-11-13,,toruń,Victorian Psycho,Toruń - Czerwona Droga,20:00,2D,,regular,2026-11-13T00:59:06.753598
+2026-11-13,,toruń,Dziki koń dziewięć,Toruń - Czerwona Droga,20:00,2D,,regular,2026-11-13T00:59:06.753605
+2026-11-13,,toruń,Jak obrabować bank,Toruń - Czerwona Droga,20:10,2D,,regular,2026-11-13T00:59:06.753612
+2026-11-13,,toruń,Clayface,Toruń - Czerwona Droga,21:15,2D,,regular,2026-11-13T00:59:06.753620
+2026-11-13,,toruń,Nasza rewolucja,Toruń - Czerwona Droga,21:20,2D,original,regular,2026-11-13T00:59:06.753626
+2026-11-13,,toruń,Ebenezer Scrooge. Opowieść wigilijna,Toruń - Czerwona Droga,22:00,2D,,regular,2026-11-13T00:59:06.753632
+2026-11-13,,toruń,Inna mamusia,Toruń - Czerwona Droga,22:00,2D,,regular,2026-11-13T00:59:06.753639
+2026-11-13,,toruń,Przepis na święta,Toruń - Czerwona Droga,22:10,2D,original,regular,2026-11-13T00:59:06.753646
+2026-11-13,,toruń,Victorian Psycho,Toruń - Czerwona Droga,22:15,2D,,regular,2026-11-13T00:59:06.753652
+2026-11-13,,toruń,Dziki koń dziewięć,Toruń - Czerwona Droga,22:40,2D,,regular,2026-11-13T00:59:06.753658
+2026-11-13,,toruń,Niesamowite przygody skarpetek 4: Do roboty!,Toruń - Plaza,10:00,2D,,regular,2026-11-13T00:59:08.100095
+2026-11-13,,toruń,Supermocni,Toruń - Plaza,10:00,2D,,regular,2026-11-13T00:59:08.100121
+2026-11-13,,toruń,Baranek Shaun i kudłata bestia,Toruń - Plaza,10:10,2D,,regular,2026-11-13T00:59:08.100134
+2026-11-13,,toruń,Kot Prot,Toruń - Plaza,10:30,2D,,regular,2026-11-13T00:59:08.100143
+2026-11-13,,toruń,Legendarni,Toruń - Plaza,10:30,2D,,regular,2026-11-13T00:59:08.100151
+2026-11-13,,toruń,Nasza rewolucja,Toruń - Plaza,10:30,2D,original,regular,2026-11-13T00:59:08.100159
+2026-11-13,,toruń,Przepis na święta,Toruń - Plaza,10:50,2D,original,regular,2026-11-13T00:59:08.100168
+2026-11-13,,toruń,Lalka,Toruń - Plaza,11:10,2D,original,regular,2026-11-13T00:59:08.100176
+2026-11-13,,toruń,Niesamowite przygody skarpetek 4: Do roboty!,Toruń - Plaza,11:40,2D,,regular,2026-11-13T00:59:08.100183
+2026-11-13,,toruń,Niesamowite przygody skarpetek 4: Do roboty!,Toruń - Plaza,12:15,2D,,regular,2026-11-13T00:59:08.100189
+2026-11-13,,toruń,Godzilla Minus Zero,Toruń - Plaza,12:45,2D,,regular,2026-11-13T00:59:08.100199
+2026-11-13,,toruń,Kot Prot,Toruń - Plaza,13:00,2D,,regular,2026-11-13T00:59:08.100206
+2026-11-13,,toruń,Ebenezer Scrooge. Opowieść wigilijna,Toruń - Plaza,13:00,2D,,regular,2026-11-13T00:59:08.100214
+2026-11-13,,toruń,Struś Pędziwiatr i zemsta Kojota,Toruń - Plaza,13:15,2D,,regular,2026-11-13T00:59:08.100222
+2026-11-13,,toruń,Nasza rewolucja,Toruń - Plaza,13:20,2D,original,regular,2026-11-13T00:59:08.100229
+2026-11-13,,toruń,Baranek Shaun i kudłata bestia,Toruń - Plaza,13:20,2D,,regular,2026-11-13T00:59:08.100237
+2026-11-13,,toruń,Dziki koń dziewięć,Toruń - Plaza,13:50,2D,,regular,2026-11-13T00:59:08.100244
+2026-11-13,,toruń,GEORGE MICHAEL: THE FAITH TOUR,Toruń - Plaza,14:40,2D,,regular,2026-11-13T00:59:08.100252
+2026-11-13,,toruń,Inna mamusia,Toruń - Plaza,15:20,2D,,regular,2026-11-13T00:59:08.100258
+2026-11-13,,toruń,Przepis na święta,Toruń - Plaza,15:30,2D,original,regular,2026-11-13T00:59:08.100275
+2026-11-13,,toruń,Ebenezer Scrooge. Opowieść wigilijna,Toruń - Plaza,15:40,2D,,regular,2026-11-13T00:59:08.100283
+2026-11-13,,toruń,Kot Prot,Toruń - Plaza,15:40,2D,,regular,2026-11-13T00:59:08.100290
+2026-11-13,,toruń,Zobaczysz wszystko,Toruń - Plaza,16:00,2D,,regular,2026-11-13T00:59:08.100299
+2026-11-13,,toruń,Nasza rewolucja,Toruń - Plaza,16:10,2D,original,regular,2026-11-13T00:59:08.100306
+2026-11-13,,toruń,Jak obrabować bank,Toruń - Plaza,16:30,2D,,regular,2026-11-13T00:59:08.100314
+2026-11-13,,toruń,Victorian Psycho,Toruń - Plaza,17:20,2D,,regular,2026-11-13T00:59:08.100321
+2026-11-13,,toruń,Clayface,Toruń - Plaza,17:40,2D,,regular,2026-11-13T00:59:08.100329
+2026-11-13,,toruń,Maraton Igrzysk śmierci,Toruń - Plaza,18:00,2D,,regular,2026-11-13T00:59:08.100339
+2026-11-13,,toruń,Dziki koń dziewięć,Toruń - Plaza,18:10,2D,,regular,2026-11-13T00:59:08.100346
+2026-11-13,,toruń,Ebenezer Scrooge. Opowieść wigilijna,Toruń - Plaza,18:20,2D,,regular,2026-11-13T00:59:08.100353
+2026-11-13,,toruń,Nasza rewolucja,Toruń - Plaza,19:00,2D,original,regular,2026-11-13T00:59:08.100360
+2026-11-13,,toruń,Przepis na święta,Toruń - Plaza,19:15,2D,original,regular,2026-11-13T00:59:08.100366
+2026-11-13,,toruń,Jak obrabować bank,Toruń - Plaza,19:30,2D,,regular,2026-11-13T00:59:08.100373
+2026-11-13,,toruń,Zobaczysz wszystko,Toruń - Plaza,19:40,2D,,regular,2026-11-13T00:59:08.100380
+2026-11-13,,toruń,Lalka,Toruń - Plaza,20:10,2D,original,regular,2026-11-13T00:59:08.100387
+2026-11-13,,toruń,Victorian Psycho,Toruń - Plaza,20:50,2D,,regular,2026-11-13T00:59:08.100393
+2026-11-13,,toruń,Ebenezer Scrooge. Opowieść wigilijna,Toruń - Plaza,21:00,2D,,regular,2026-11-13T00:59:08.100400
+2026-11-13,,toruń,Dziki koń dziewięć,Toruń - Plaza,21:40,2D,,regular,2026-11-13T00:59:08.100406
+2026-11-13,,toruń,Nasza rewolucja,Toruń - Plaza,21:50,2D,original,regular,2026-11-13T00:59:08.100413
+2026-11-13,,toruń,Clayface,Toruń - Plaza,22:10,2D,,regular,2026-11-13T00:59:08.100420
+2026-11-13,,wałbrzych,Supermocni,Wałbrzych,10:00,2D,,regular,2026-11-13T00:59:09.744698
+2026-11-13,,wałbrzych,Baranek Shaun i kudłata bestia,Wałbrzych,10:00,2D,,regular,2026-11-13T00:59:09.744734
+2026-11-13,,wałbrzych,Lachtara. Tęsknota,Wałbrzych,10:00,2D,original,regular,2026-11-13T00:59:09.744745
+2026-11-13,,wałbrzych,Nasza rewolucja,Wałbrzych,10:30,2D,original,regular,2026-11-13T00:59:09.744753
+2026-11-13,,wałbrzych,Niesamowite przygody skarpetek 4: Do roboty!,Wałbrzych,10:40,2D,,regular,2026-11-13T00:59:09.744761
+2026-11-13,,wałbrzych,Przepis na święta,Wałbrzych,11:20,2D,original,regular,2026-11-13T00:59:09.744770
+2026-11-13,,wałbrzych,Kot Prot,Wałbrzych,11:20,2D,,regular,2026-11-13T00:59:09.744777
+2026-11-13,,wałbrzych,Kot Prot,Wałbrzych,12:00,3D,,regular,2026-11-13T00:59:09.744783
+2026-11-13,,wałbrzych,Struś Pędziwiatr i zemsta Kojota,Wałbrzych,12:15,2D,,regular,2026-11-13T00:59:09.744793
+2026-11-13,,wałbrzych,Niesamowite przygody skarpetek 4: Do roboty!,Wałbrzych,12:20,2D,,regular,2026-11-13T00:59:09.744799
+2026-11-13,,wałbrzych,GEORGE MICHAEL: THE FAITH TOUR,Wałbrzych,12:45,2D,,regular,2026-11-13T00:59:09.744807
+2026-11-13,,wałbrzych,Nasza rewolucja,Wałbrzych,13:20,2D,original,regular,2026-11-13T00:59:09.744814
+2026-11-13,,wałbrzych,Przepis na święta,Wałbrzych,13:50,2D,original,regular,2026-11-13T00:59:09.744821
+2026-11-13,,wałbrzych,Kot Prot,Wałbrzych,13:50,2D,,regular,2026-11-13T00:59:09.744827
+2026-11-13,,wałbrzych,Lalka,Wałbrzych,14:00,2D,original,regular,2026-11-13T00:59:09.744835
+2026-11-13,,wałbrzych,Zobaczysz wszystko,Wałbrzych,14:25,2D,,regular,2026-11-13T00:59:09.744844
+2026-11-13,,wałbrzych,Ebenezer Scrooge. Opowieść wigilijna,Wałbrzych,14:40,2D,,regular,2026-11-13T00:59:09.744853
+2026-11-13,,wałbrzych,Lachtara. Tęsknota,Wałbrzych,15:25,2D,original,regular,2026-11-13T00:59:09.744859
+2026-11-13,,wałbrzych,Nasza rewolucja,Wałbrzych,16:10,2D,original,regular,2026-11-13T00:59:09.744866
+2026-11-13,,wałbrzych,Przepis na święta,Wałbrzych,16:20,2D,original,regular,2026-11-13T00:59:09.744872
+2026-11-13,,wałbrzych,Kot Prot,Wałbrzych,16:20,2D,,regular,2026-11-13T00:59:09.744879
+2026-11-13,,wałbrzych,Ebenezer Scrooge. Opowieść wigilijna,Wałbrzych,17:20,2D,,regular,2026-11-13T00:59:09.744885
+2026-11-13,,wałbrzych,Victorian Psycho,Wałbrzych,17:30,2D,,regular,2026-11-13T00:59:09.744893
+2026-11-13,,wałbrzych,Maraton Igrzysk śmierci,Wałbrzych,18:00,2D,,regular,2026-11-13T00:59:09.744902
+2026-11-13,,wałbrzych,Lachtara. Tęsknota,Wałbrzych,18:10,2D,original,regular,2026-11-13T00:59:09.744909
+2026-11-13,,wałbrzych,Dziki koń dziewięć,Wałbrzych,18:40,2D,,regular,2026-11-13T00:59:09.744917
+2026-11-13,,wałbrzych,Przepis na święta,Wałbrzych,18:50,2D,original,regular,2026-11-13T00:59:09.744923
+2026-11-13,,wałbrzych,Nasza rewolucja,Wałbrzych,19:00,2D,original,regular,2026-11-13T00:59:09.744930
+2026-11-13,,wałbrzych,Jak obrabować bank,Wałbrzych,19:50,2D,,regular,2026-11-13T00:59:09.744938
+2026-11-13,,wałbrzych,Ebenezer Scrooge. Opowieść wigilijna,Wałbrzych,20:00,2D,,regular,2026-11-13T00:59:09.744945
+2026-11-13,,wałbrzych,Godzilla Minus Zero,Wałbrzych,21:00,2D,,regular,2026-11-13T00:59:09.744954
+2026-11-13,,wałbrzych,Inna mamusia,Wałbrzych,21:20,2D,,regular,2026-11-13T00:59:09.744961
+2026-11-13,,wałbrzych,Dziki koń dziewięć,Wałbrzych,21:20,2D,,regular,2026-11-13T00:59:09.744968
+2026-11-13,,wałbrzych,Jak obrabować bank,Wałbrzych,21:50,2D,,regular,2026-11-13T00:59:09.744975
+2026-11-13,,warszawa,Lalka,Warszawa -  Arkadia,09:30,2D,original,regular,2026-11-13T00:59:11.491674
+2026-11-13,,warszawa,Zobaczysz wszystko,Warszawa -  Arkadia,10:00,2D,,regular,2026-11-13T00:59:11.491701
+2026-11-13,,warszawa,Odyseja,Warszawa -  Arkadia,10:00,2D,,regular,2026-11-13T00:59:11.491709
+2026-11-13,,warszawa,Ebenezer Scrooge. Opowieść wigilijna,Warszawa -  Arkadia,10:00,2D,,regular,2026-11-13T00:59:11.491721
+2026-11-13,,warszawa,Lalka,Warszawa -  Arkadia,10:00,2D,original,regular,2026-11-13T00:59:11.491729
+2026-11-13,,warszawa,Kot Prot,Warszawa -  Arkadia,10:10,2D,,regular,2026-11-13T00:59:11.491737
+2026-11-13,,warszawa,Niesamowite przygody skarpetek 4: Do roboty!,Warszawa -  Arkadia,10:20,2D,,regular,2026-11-13T00:59:11.491746
+2026-11-13,,warszawa,Baranek Shaun i kudłata bestia,Warszawa -  Arkadia,10:30,2D,,regular,2026-11-13T00:59:11.491755
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa -  Arkadia,10:30,2D,original,regular,2026-11-13T00:59:11.491763
+2026-11-13,,warszawa,Kot Prot,Warszawa -  Arkadia,10:30,4DX,,regular,2026-11-13T00:59:11.491769
+2026-11-13,,warszawa,Lalka,Warszawa -  Arkadia,10:30,2D,original,regular,2026-11-13T00:59:11.491775
+2026-11-13,,warszawa,"Jak żyć, żeby nie zwariować",Warszawa -  Arkadia,10:50,2D,original,regular,2026-11-13T00:59:11.491785
+2026-11-13,,warszawa,Struś Pędziwiatr i zemsta Kojota,Warszawa -  Arkadia,11:30,2D,,regular,2026-11-13T00:59:11.491793
+2026-11-13,,warszawa,Camino dla opornych,Warszawa -  Arkadia,11:30,2D,,regular,2026-11-13T00:59:11.491800
+2026-11-13,,warszawa,Jak obrabować bank,Warszawa -  Arkadia,11:30,2D,,regular,2026-11-13T00:59:11.491808
+2026-11-13,,warszawa,Dziki koń dziewięć,Warszawa -  Arkadia,12:00,2D,,regular,2026-11-13T00:59:11.491816
+2026-11-13,,warszawa,Baranek Shaun i kudłata bestia,Warszawa -  Arkadia,12:30,2D,,regular,2026-11-13T00:59:11.491823
+2026-11-13,,warszawa,Kot Prot,Warszawa -  Arkadia,12:40,2D,,regular,2026-11-13T00:59:11.491830
+2026-11-13,,warszawa,Lalka,Warszawa -  Arkadia,12:50,2D,original,regular,2026-11-13T00:59:11.491836
+2026-11-13,,warszawa,Kot Prot,Warszawa -  Arkadia,13:00,4DX,,regular,2026-11-13T00:59:11.491841
+2026-11-13,,warszawa,Zobaczysz wszystko,Warszawa -  Arkadia,13:10,2D,,regular,2026-11-13T00:59:11.491849
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa -  Arkadia,13:20,2D,original,regular,2026-11-13T00:59:11.491856
+2026-11-13,,warszawa,Inna mamusia,Warszawa -  Arkadia,13:30,2D,,regular,2026-11-13T00:59:11.491863
+2026-11-13,,warszawa,Klara i słońce,Warszawa -  Arkadia,13:30,2D,,regular,2026-11-13T00:59:11.491870
+2026-11-13,,warszawa,La perra,Warszawa -  Arkadia,13:50,2D,,regular,2026-11-13T00:59:11.491877
+2026-11-13,,warszawa,Ebenezer Scrooge. Opowieść wigilijna,Warszawa -  Arkadia,14:00,2D,,regular,2026-11-13T00:59:11.491884
+2026-11-13,,warszawa,Przepis na święta,Warszawa -  Arkadia,14:00,2D,original,regular,2026-11-13T00:59:11.491892
+2026-11-13,,warszawa,Jak obrabować bank,Warszawa -  Arkadia,14:20,2D,,regular,2026-11-13T00:59:11.491899
+2026-11-13,,warszawa,Baranek Shaun i kudłata bestia,Warszawa -  Arkadia,14:30,2D,,regular,2026-11-13T00:59:11.491906
+2026-11-13,,warszawa,Lalka,Warszawa -  Arkadia,14:30,2D,original,regular,2026-11-13T00:59:11.491913
+2026-11-13,,warszawa,Dziki koń dziewięć,Warszawa -  Arkadia,14:40,2D,,regular,2026-11-13T00:59:11.491921
+2026-11-13,,warszawa,Kot Prot,Warszawa -  Arkadia,15:10,2D,,regular,2026-11-13T00:59:11.491927
+2026-11-13,,warszawa,Ebenezer Scrooge. Opowieść wigilijna,Warszawa -  Arkadia,15:30,4DX,,regular,2026-11-13T00:59:11.491933
+2026-11-13,,warszawa,Inna mamusia,Warszawa -  Arkadia,15:40,2D,,regular,2026-11-13T00:59:11.491939
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa -  Arkadia,16:10,2D,original,regular,2026-11-13T00:59:11.491946
+2026-11-13,,warszawa,Niesamowite przygody skarpetek 4: Do roboty!,Warszawa -  Arkadia,16:10,2D,,regular,2026-11-13T00:59:11.491953
+2026-11-13,,warszawa,GEORGE MICHAEL: THE FAITH TOUR,Warszawa -  Arkadia,16:20,2D,,regular,2026-11-13T00:59:11.491960
+2026-11-13,,warszawa,Clayface,Warszawa -  Arkadia,16:20,2D,,regular,2026-11-13T00:59:11.491968
+2026-11-13,,warszawa,Victorian Psycho,Warszawa -  Arkadia,16:20,2D,,regular,2026-11-13T00:59:11.491975
+2026-11-13,,warszawa,Baranek Shaun i kudłata bestia,Warszawa -  Arkadia,16:30,2D,,regular,2026-11-13T00:59:11.491983
+2026-11-13,,warszawa,Przepis na święta,Warszawa -  Arkadia,16:30,2D,original,regular,2026-11-13T00:59:11.491989
+2026-11-13,,warszawa,Ebenezer Scrooge. Opowieść wigilijna,Warszawa -  Arkadia,16:40,2D,,regular,2026-11-13T00:59:11.491996
+2026-11-13,,warszawa,Zobaczysz wszystko,Warszawa -  Arkadia,16:50,2D,,regular,2026-11-13T00:59:11.492004
+2026-11-13,,warszawa,"Czas, który nie nadszedł",Warszawa -  Arkadia,17:10,2D,original,regular,2026-11-13T00:59:11.492013
+2026-11-13,,warszawa,Dziki koń dziewięć,Warszawa -  Arkadia,17:20,2D,,regular,2026-11-13T00:59:11.492019
+2026-11-13,,warszawa,Maraton Igrzysk śmierci,Warszawa -  Arkadia,17:50,2D,,regular,2026-11-13T00:59:11.492028
+2026-11-13,,warszawa,Niesamowite przygody skarpetek 4: Do roboty!,Warszawa -  Arkadia,17:50,2D,,regular,2026-11-13T00:59:11.492035
+2026-11-13,,warszawa,Maraton Igrzysk śmierci,Warszawa -  Arkadia,18:00,2D,,regular,2026-11-13T00:59:11.492043
+2026-11-13,,warszawa,Jak obrabować bank,Warszawa -  Arkadia,18:00,4DX,,regular,2026-11-13T00:59:11.492050
+2026-11-13,,warszawa,Maraton Igrzysk śmierci,Warszawa -  Arkadia,18:10,2D,,regular,2026-11-13T00:59:11.492057
+2026-11-13,,warszawa,Lachtara. Tęsknota,Warszawa -  Arkadia,18:30,2D,original,regular,2026-11-13T00:59:11.492065
+2026-11-13,,warszawa,Victorian Psycho,Warszawa -  Arkadia,18:30,2D,,regular,2026-11-13T00:59:11.492071
+2026-11-13,,warszawa,Lalka,Warszawa -  Arkadia,18:50,2D,original,regular,2026-11-13T00:59:11.492078
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa -  Arkadia,19:00,2D,original,regular,2026-11-13T00:59:11.492084
+2026-11-13,,warszawa,Nikt nie wie,Warszawa -  Arkadia,19:00,2D,,regular,2026-11-13T00:59:11.492091
+2026-11-13,,warszawa,Przepis na święta,Warszawa -  Arkadia,19:00,2D,original,regular,2026-11-13T00:59:11.492098
+2026-11-13,,warszawa,Ebenezer Scrooge. Opowieść wigilijna,Warszawa -  Arkadia,19:20,2D,,regular,2026-11-13T00:59:11.492105
+2026-11-13,,warszawa,Karaoke Murder,Warszawa -  Arkadia,19:30,2D,,regular,2026-11-13T00:59:11.492112
+2026-11-13,,warszawa,Jak obrabować bank,Warszawa -  Arkadia,19:40,2D,,regular,2026-11-13T00:59:11.492118
+2026-11-13,,warszawa,Dziki koń dziewięć,Warszawa -  Arkadia,20:00,2D,,regular,2026-11-13T00:59:11.492125
+2026-11-13,,warszawa,Zobaczysz wszystko,Warszawa -  Arkadia,20:30,2D,,regular,2026-11-13T00:59:11.492134
+2026-11-13,,warszawa,Godzilla Minus Zero,Warszawa -  Arkadia,20:40,4DX,,regular,2026-11-13T00:59:11.492141
+2026-11-13,,warszawa,Ramajana. Narodziny legendy,Warszawa -  Arkadia,20:40,2D,,regular,2026-11-13T00:59:11.492148
+2026-11-13,,warszawa,Godzilla Minus Zero,Warszawa -  Arkadia,21:20,2D,,regular,2026-11-13T00:59:11.492156
+2026-11-13,,warszawa,Przepis na święta,Warszawa -  Arkadia,21:30,2D,original,regular,2026-11-13T00:59:11.492163
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa -  Arkadia,21:50,2D,original,regular,2026-11-13T00:59:11.492169
+2026-11-13,,warszawa,Witajcie w Hope,Warszawa -  Arkadia,21:50,2D,,regular,2026-11-13T00:59:11.492176
+2026-11-13,,warszawa,Ebenezer Scrooge. Opowieść wigilijna,Warszawa -  Arkadia,22:00,2D,,regular,2026-11-13T00:59:11.492183
+2026-11-13,,warszawa,Inna mamusia,Warszawa -  Arkadia,22:00,2D,,regular,2026-11-13T00:59:11.492190
+2026-11-13,,warszawa,"Jak żyć, żeby nie zwariować",Warszawa -  Arkadia,22:20,2D,original,regular,2026-11-13T00:59:11.492197
+2026-11-13,,warszawa,Jak obrabować bank,Warszawa -  Arkadia,22:20,2D,,regular,2026-11-13T00:59:11.492204
+2026-11-13,,warszawa,Legendarni,Warszawa - Bemowo,10:00,2D,,regular,2026-11-13T00:59:12.689932
+2026-11-13,,warszawa,Supermocni,Warszawa - Bemowo,10:20,2D,,regular,2026-11-13T00:59:12.689960
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa - Bemowo,10:30,2D,original,regular,2026-11-13T00:59:12.689970
+2026-11-13,,warszawa,Przepis na święta,Warszawa - Bemowo,10:30,2D,original,regular,2026-11-13T00:59:12.689982
+2026-11-13,,warszawa,Kot Prot,Warszawa - Bemowo,10:30,2D,,regular,2026-11-13T00:59:12.689991
+2026-11-13,,warszawa,Pucio kocha zwierzaki,Warszawa - Bemowo,10:50,2D,,regular,2026-11-13T00:59:12.690001
+2026-11-13,,warszawa,Niesamowite przygody skarpetek 4: Do roboty!,Warszawa - Bemowo,11:10,2D,,regular,2026-11-13T00:59:12.690009
+2026-11-13,,warszawa,Supermocni,Warszawa - Bemowo,11:10,2D,,regular,2026-11-13T00:59:12.690017
+2026-11-13,,warszawa,Baranek Shaun i kudłata bestia,Warszawa - Bemowo,11:20,2D,,regular,2026-11-13T00:59:12.690026
+2026-11-13,,warszawa,Dziki koń dziewięć,Warszawa - Bemowo,11:30,2D,,regular,2026-11-13T00:59:12.690035
+2026-11-13,,warszawa,Struś Pędziwiatr i zemsta Kojota,Warszawa - Bemowo,11:50,2D,,regular,2026-11-13T00:59:12.690044
+2026-11-13,,warszawa,Legendarni,Warszawa - Bemowo,12:10,2D,,regular,2026-11-13T00:59:12.690052
+2026-11-13,,warszawa,Witajcie w Hope,Warszawa - Bemowo,12:20,2D,,regular,2026-11-13T00:59:12.690061
+2026-11-13,,warszawa,Kot Prot,Warszawa - Bemowo,12:45,2D,,regular,2026-11-13T00:59:12.690069
+2026-11-13,,warszawa,"Jak żyć, żeby nie zwariować",Warszawa - Bemowo,12:50,2D,original,regular,2026-11-13T00:59:12.690078
+2026-11-13,,warszawa,Ebenezer Scrooge. Opowieść wigilijna,Warszawa - Bemowo,13:00,2D,,regular,2026-11-13T00:59:12.690086
+2026-11-13,,warszawa,Przepis na święta,Warszawa - Bemowo,13:00,2D,original,regular,2026-11-13T00:59:12.690094
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa - Bemowo,13:20,2D,original,regular,2026-11-13T00:59:12.690101
+2026-11-13,,warszawa,Niesamowite przygody skarpetek 4: Do roboty!,Warszawa - Bemowo,13:20,2D,,regular,2026-11-13T00:59:12.690108
+2026-11-13,,warszawa,Kot Prot,Warszawa - Bemowo,13:30,3D,,regular,2026-11-13T00:59:12.690115
+2026-11-13,,warszawa,Dziki koń dziewięć,Warszawa - Bemowo,14:10,2D,,regular,2026-11-13T00:59:12.690121
+2026-11-13,,warszawa,Baranek Shaun i kudłata bestia,Warszawa - Bemowo,14:15,2D,,regular,2026-11-13T00:59:12.690129
+2026-11-13,,warszawa,Zobaczysz wszystko,Warszawa - Bemowo,14:20,2D,,regular,2026-11-13T00:59:12.690139
+2026-11-13,,warszawa,Legendarni,Warszawa - Bemowo,15:00,2D,,regular,2026-11-13T00:59:12.690147
+2026-11-13,,warszawa,Lachtara. Tęsknota,Warszawa - Bemowo,15:10,2D,original,regular,2026-11-13T00:59:12.690155
+2026-11-13,,warszawa,Kot Prot,Warszawa - Bemowo,15:15,2D,,regular,2026-11-13T00:59:12.690162
+2026-11-13,,warszawa,Przepis na święta,Warszawa - Bemowo,15:30,2D,original,regular,2026-11-13T00:59:12.690169
+2026-11-13,,warszawa,Ebenezer Scrooge. Opowieść wigilijna,Warszawa - Bemowo,15:40,2D,,regular,2026-11-13T00:59:12.690176
+2026-11-13,,warszawa,Lalka,Warszawa - Bemowo,15:45,2D,original,regular,2026-11-13T00:59:12.690184
+2026-11-13,,warszawa,Clayface,Warszawa - Bemowo,16:00,2D,,regular,2026-11-13T00:59:12.690193
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa - Bemowo,16:10,2D,original,regular,2026-11-13T00:59:12.690200
+2026-11-13,,warszawa,GEORGE MICHAEL: THE FAITH TOUR,Warszawa - Bemowo,16:20,2D,,regular,2026-11-13T00:59:12.690209
+2026-11-13,,warszawa,Dziki koń dziewięć,Warszawa - Bemowo,16:50,2D,,regular,2026-11-13T00:59:12.690215
+2026-11-13,,warszawa,Jak obrabować bank,Warszawa - Bemowo,17:15,2D,,regular,2026-11-13T00:59:12.690224
+2026-11-13,,warszawa,Kot Prot,Warszawa - Bemowo,17:45,2D,,regular,2026-11-13T00:59:12.690231
+2026-11-13,,warszawa,Maraton Igrzysk śmierci,Warszawa - Bemowo,18:00,2D,,regular,2026-11-13T00:59:12.690241
+2026-11-13,,warszawa,Victorian Psycho,Warszawa - Bemowo,18:00,2D,,regular,2026-11-13T00:59:12.690249
+2026-11-13,,warszawa,Przepis na święta,Warszawa - Bemowo,18:10,2D,original,regular,2026-11-13T00:59:12.690256
+2026-11-13,,warszawa,Ebenezer Scrooge. Opowieść wigilijna,Warszawa - Bemowo,18:20,2D,,regular,2026-11-13T00:59:12.690272
+2026-11-13,,warszawa,Lalka,Warszawa - Bemowo,18:30,2D,original,regular,2026-11-13T00:59:12.690282
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa - Bemowo,19:00,2D,original,regular,2026-11-13T00:59:12.690289
+2026-11-13,,warszawa,Nikt nie wie,Warszawa - Bemowo,19:00,2D,,regular,2026-11-13T00:59:12.690297
+2026-11-13,,warszawa,Zobaczysz wszystko,Warszawa - Bemowo,19:15,2D,,regular,2026-11-13T00:59:12.690304
+2026-11-13,,warszawa,Dziki koń dziewięć,Warszawa - Bemowo,19:30,2D,,regular,2026-11-13T00:59:12.690311
+2026-11-13,,warszawa,Jak obrabować bank,Warszawa - Bemowo,20:00,2D,,regular,2026-11-13T00:59:12.690319
+2026-11-13,,warszawa,Victorian Psycho,Warszawa - Bemowo,20:10,2D,,regular,2026-11-13T00:59:12.690325
+2026-11-13,,warszawa,Godzilla Minus Zero,Warszawa - Bemowo,20:20,2D,,regular,2026-11-13T00:59:12.690334
+2026-11-13,,warszawa,Przepis na święta,Warszawa - Bemowo,20:40,2D,original,regular,2026-11-13T00:59:12.690342
+2026-11-13,,warszawa,Ebenezer Scrooge. Opowieść wigilijna,Warszawa - Bemowo,21:00,2D,,regular,2026-11-13T00:59:12.690349
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa - Bemowo,21:50,2D,original,regular,2026-11-13T00:59:12.690355
+2026-11-13,,warszawa,Inna mamusia,Warszawa - Bemowo,22:00,2D,,regular,2026-11-13T00:59:12.690363
+2026-11-13,,warszawa,Clayface,Warszawa - Bemowo,22:00,2D,,regular,2026-11-13T00:59:12.690371
+2026-11-13,,warszawa,Dziki koń dziewięć,Warszawa - Bemowo,22:10,2D,,regular,2026-11-13T00:59:12.690377
+2026-11-13,,warszawa,Victorian Psycho,Warszawa - Bemowo,22:20,2D,,regular,2026-11-13T00:59:12.690384
+2026-11-13,,warszawa,Zobaczysz wszystko,Warszawa - Białołęka Galeria Północna,10:00,2D,,regular,2026-11-13T00:59:14.839245
+2026-11-13,,warszawa,"Jak żyć, żeby nie zwariować",Warszawa - Białołęka Galeria Północna,10:10,2D,original,regular,2026-11-13T00:59:14.839296
+2026-11-13,,warszawa,Niesamowite przygody skarpetek 4: Do roboty!,Warszawa - Białołęka Galeria Północna,10:20,2D,,regular,2026-11-13T00:59:14.839309
+2026-11-13,,warszawa,Kot Prot,Warszawa - Białołęka Galeria Północna,10:30,2D,,regular,2026-11-13T00:59:14.839319
+2026-11-13,,warszawa,Legendarni,Warszawa - Białołęka Galeria Północna,10:50,2D,,regular,2026-11-13T00:59:14.839328
+2026-11-13,,warszawa,Lalka,Warszawa - Białołęka Galeria Północna,11:00,2D,original,regular,2026-11-13T00:59:14.839338
+2026-11-13,,warszawa,Klara i słońce,Warszawa - Białołęka Galeria Północna,11:00,2D,,regular,2026-11-13T00:59:14.839349
+2026-11-13,,warszawa,Legendarni,Warszawa - Białołęka Galeria Północna,11:10,2D,,regular,2026-11-13T00:59:14.839357
+2026-11-13,,warszawa,Supermocni,Warszawa - Białołęka Galeria Północna,11:15,2D,,regular,2026-11-13T00:59:14.839368
+2026-11-13,,warszawa,Baranek Shaun i kudłata bestia,Warszawa - Białołęka Galeria Północna,11:20,2D,,regular,2026-11-13T00:59:14.839380
+2026-11-13,,warszawa,Przepis na święta,Warszawa - Białołęka Galeria Północna,12:00,2D,original,regular,2026-11-13T00:59:14.839391
+2026-11-13,,warszawa,Dziki koń dziewięć,Warszawa - Białołęka Galeria Północna,12:00,2D,,regular,2026-11-13T00:59:14.839400
+2026-11-13,,warszawa,Ebenezer Scrooge. Opowieść wigilijna,Warszawa - Białołęka Galeria Północna,12:30,2D,,regular,2026-11-13T00:59:14.839410
+2026-11-13,,warszawa,Kot Prot,Warszawa - Białołęka Galeria Północna,13:00,2D,,regular,2026-11-13T00:59:14.839419
+2026-11-13,,warszawa,Niesamowite przygody skarpetek 4: Do roboty!,Warszawa - Białołęka Galeria Północna,13:00,2D,,regular,2026-11-13T00:59:14.839428
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa - Białołęka Galeria Północna,13:20,2D,original,regular,2026-11-13T00:59:14.839438
+2026-11-13,,warszawa,Struś Pędziwiatr i zemsta Kojota,Warszawa - Białołęka Galeria Północna,13:20,2D,,regular,2026-11-13T00:59:14.839448
+2026-11-13,,warszawa,Witajcie w Hope,Warszawa - Białołęka Galeria Północna,13:30,2D,,regular,2026-11-13T00:59:14.839458
+2026-11-13,,warszawa,Zobaczysz wszystko,Warszawa - Białołęka Galeria Północna,13:40,2D,,regular,2026-11-13T00:59:14.839468
+2026-11-13,,warszawa,Lachtara. Tęsknota,Warszawa - Białołęka Galeria Północna,13:40,2D,original,regular,2026-11-13T00:59:14.839478
+2026-11-13,,warszawa,Lalka,Warszawa - Białołęka Galeria Północna,14:30,2D,original,regular,2026-11-13T00:59:14.839486
+2026-11-13,,warszawa,Przepis na święta,Warszawa - Białołęka Galeria Północna,14:30,2D,original,regular,2026-11-13T00:59:14.839494
+2026-11-13,,warszawa,Niesamowite przygody skarpetek 4: Do roboty!,Warszawa - Białołęka Galeria Północna,14:40,2D,,regular,2026-11-13T00:59:14.839501
+2026-11-13,,warszawa,Dziki koń dziewięć,Warszawa - Białołęka Galeria Północna,14:40,2D,,regular,2026-11-13T00:59:14.839510
+2026-11-13,,warszawa,Ebenezer Scrooge. Opowieść wigilijna,Warszawa - Białołęka Galeria Północna,15:10,2D,,regular,2026-11-13T00:59:14.839518
+2026-11-13,,warszawa,Kot Prot,Warszawa - Białołęka Galeria Północna,15:30,2D,,regular,2026-11-13T00:59:14.839527
+2026-11-13,,warszawa,Baranek Shaun i kudłata bestia,Warszawa - Białołęka Galeria Północna,15:40,2D,,regular,2026-11-13T00:59:14.839535
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa - Białołęka Galeria Północna,16:10,2D,original,regular,2026-11-13T00:59:14.839544
+2026-11-13,,warszawa,Jak obrabować bank,Warszawa - Białołęka Galeria Północna,16:20,2D,,regular,2026-11-13T00:59:14.839554
+2026-11-13,,warszawa,GEORGE MICHAEL: THE FAITH TOUR,Warszawa - Białołęka Galeria Północna,16:30,2D,,regular,2026-11-13T00:59:14.839564
+2026-11-13,,warszawa,Kot Prot,Warszawa - Białołęka Galeria Północna,16:50,2D,,regular,2026-11-13T00:59:14.839572
+2026-11-13,,warszawa,Przepis na święta,Warszawa - Białołęka Galeria Północna,17:00,2D,original,regular,2026-11-13T00:59:14.839580
+2026-11-13,,warszawa,Zobaczysz wszystko,Warszawa - Białołęka Galeria Północna,17:20,2D,,regular,2026-11-13T00:59:14.839589
+2026-11-13,,warszawa,Dziki koń dziewięć,Warszawa - Białołęka Galeria Północna,17:20,2D,,regular,2026-11-13T00:59:14.839597
+2026-11-13,,warszawa,Victorian Psycho,Warszawa - Białołęka Galeria Północna,17:40,2D,,regular,2026-11-13T00:59:14.839606
+2026-11-13,,warszawa,Ebenezer Scrooge. Opowieść wigilijna,Warszawa - Białołęka Galeria Północna,17:50,2D,,regular,2026-11-13T00:59:14.839615
+2026-11-13,,warszawa,Maraton Igrzysk śmierci,Warszawa - Białołęka Galeria Północna,18:00,2D,,regular,2026-11-13T00:59:14.839626
+2026-11-13,,warszawa,Maraton Igrzysk śmierci,Warszawa - Białołęka Galeria Północna,18:10,2D,,regular,2026-11-13T00:59:14.839635
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa - Białołęka Galeria Północna,19:00,2D,original,regular,2026-11-13T00:59:14.839644
+2026-11-13,,warszawa,Jak obrabować bank,Warszawa - Białołęka Galeria Północna,19:00,2D,,regular,2026-11-13T00:59:14.839652
+2026-11-13,,warszawa,Lalka,Warszawa - Białołęka Galeria Północna,19:00,2D,original,regular,2026-11-13T00:59:14.839660
+2026-11-13,,warszawa,Clayface,Warszawa - Białołęka Galeria Północna,19:20,2D,,regular,2026-11-13T00:59:14.839670
+2026-11-13,,warszawa,Przepis na święta,Warszawa - Białołęka Galeria Północna,19:30,2D,original,regular,2026-11-13T00:59:14.839678
+2026-11-13,,warszawa,Victorian Psycho,Warszawa - Białołęka Galeria Północna,19:50,2D,,regular,2026-11-13T00:59:14.839686
+2026-11-13,,warszawa,Dziki koń dziewięć,Warszawa - Białołęka Galeria Północna,20:00,2D,,regular,2026-11-13T00:59:14.839694
+2026-11-13,,warszawa,Ebenezer Scrooge. Opowieść wigilijna,Warszawa - Białołęka Galeria Północna,20:30,2D,,regular,2026-11-13T00:59:14.839702
+2026-11-13,,warszawa,Zobaczysz wszystko,Warszawa - Białołęka Galeria Północna,21:00,2D,,regular,2026-11-13T00:59:14.839711
+2026-11-13,,warszawa,Jak obrabować bank,Warszawa - Białołęka Galeria Północna,21:40,2D,,regular,2026-11-13T00:59:14.839720
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa - Białołęka Galeria Północna,21:50,2D,original,regular,2026-11-13T00:59:14.839728
+2026-11-13,,warszawa,Inna mamusia,Warszawa - Białołęka Galeria Północna,21:50,2D,,regular,2026-11-13T00:59:14.839736
+2026-11-13,,warszawa,Przepis na święta,Warszawa - Białołęka Galeria Północna,22:00,2D,original,regular,2026-11-13T00:59:14.839745
+2026-11-13,,warszawa,Victorian Psycho,Warszawa - Białołęka Galeria Północna,22:00,2D,,regular,2026-11-13T00:59:14.839752
+2026-11-13,,warszawa,Godzilla Minus Zero,Warszawa - Białołęka Galeria Północna,22:30,2D,,regular,2026-11-13T00:59:14.839762
+2026-11-13,,warszawa,Dziki koń dziewięć,Warszawa - Białołęka Galeria Północna,22:30,2D,,regular,2026-11-13T00:59:14.839771
+2026-11-13,,warszawa,Kot Prot,Warszawa - Janki,10:10,2D,,regular,2026-11-13T00:59:16.521448
+2026-11-13,,warszawa,Baranek Shaun i kudłata bestia,Warszawa - Janki,10:20,2D,,regular,2026-11-13T00:59:16.521479
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa - Janki,10:30,2D,original,regular,2026-11-13T00:59:16.521488
+2026-11-13,,warszawa,Przepis na święta,Warszawa - Janki,10:40,2D,original,regular,2026-11-13T00:59:16.521498
+2026-11-13,,warszawa,Legendarni,Warszawa - Janki,10:40,2D,,regular,2026-11-13T00:59:16.521505
+2026-11-13,,warszawa,Niesamowite przygody skarpetek 4: Do roboty!,Warszawa - Janki,10:50,2D,,regular,2026-11-13T00:59:16.521514
+2026-11-13,,warszawa,Lalka,Warszawa - Janki,11:00,2D,original,regular,2026-11-13T00:59:16.521523
+2026-11-13,,warszawa,Supermocni,Warszawa - Janki,11:10,2D,,regular,2026-11-13T00:59:16.521531
+2026-11-13,,warszawa,Dziki koń dziewięć,Warszawa - Janki,11:10,2D,,regular,2026-11-13T00:59:16.521538
+2026-11-13,,warszawa,GEORGE MICHAEL: THE FAITH TOUR,Warszawa - Janki,11:45,2D,,regular,2026-11-13T00:59:16.521546
+2026-11-13,,warszawa,Witajcie w Hope,Warszawa - Janki,12:20,2D,,regular,2026-11-13T00:59:16.521555
+2026-11-13,,warszawa,Niesamowite przygody skarpetek 4: Do roboty!,Warszawa - Janki,12:30,2D,,regular,2026-11-13T00:59:16.521561
+2026-11-13,,warszawa,Kot Prot,Warszawa - Janki,12:40,3D,,regular,2026-11-13T00:59:16.521568
+2026-11-13,,warszawa,Baranek Shaun i kudłata bestia,Warszawa - Janki,12:50,2D,,regular,2026-11-13T00:59:16.521575
+2026-11-13,,warszawa,Przepis na święta,Warszawa - Janki,13:10,2D,original,regular,2026-11-13T00:59:16.521582
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa - Janki,13:20,2D,original,regular,2026-11-13T00:59:16.521589
+2026-11-13,,warszawa,Struś Pędziwiatr i zemsta Kojota,Warszawa - Janki,13:30,2D,,regular,2026-11-13T00:59:16.521597
+2026-11-13,,warszawa,Dziki koń dziewięć,Warszawa - Janki,13:50,2D,,regular,2026-11-13T00:59:16.521604
+2026-11-13,,warszawa,Niesamowite przygody skarpetek 4: Do roboty!,Warszawa - Janki,14:10,2D,,regular,2026-11-13T00:59:16.521610
+2026-11-13,,warszawa,"Jak żyć, żeby nie zwariować",Warszawa - Janki,14:20,2D,original,regular,2026-11-13T00:59:16.521619
+2026-11-13,,warszawa,Lalka,Warszawa - Janki,14:30,2D,original,regular,2026-11-13T00:59:16.521626
+2026-11-13,,warszawa,La perra,Warszawa - Janki,14:50,2D,,regular,2026-11-13T00:59:16.521633
+2026-11-13,,warszawa,Ebenezer Scrooge. Opowieść wigilijna,Warszawa - Janki,15:10,2D,,regular,2026-11-13T00:59:16.521642
+2026-11-13,,warszawa,Clayface,Warszawa - Janki,15:40,2D,,regular,2026-11-13T00:59:16.521650
+2026-11-13,,warszawa,Zobaczysz wszystko,Warszawa - Janki,15:50,2D,,regular,2026-11-13T00:59:16.521658
+2026-11-13,,warszawa,Kot Prot,Warszawa - Janki,15:50,2D,,regular,2026-11-13T00:59:16.521665
+2026-11-13,,warszawa,Lachtara. Tęsknota,Warszawa - Janki,16:00,2D,original,regular,2026-11-13T00:59:16.521673
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa - Janki,16:10,2D,original,regular,2026-11-13T00:59:16.521679
+2026-11-13,,warszawa,Dziki koń dziewięć,Warszawa - Janki,16:30,2D,,regular,2026-11-13T00:59:16.521686
+2026-11-13,,warszawa,Victorian Psycho,Warszawa - Janki,16:40,2D,,regular,2026-11-13T00:59:16.521693
+2026-11-13,,warszawa,Jak obrabować bank,Warszawa - Janki,17:30,2D,,regular,2026-11-13T00:59:16.521702
+2026-11-13,,warszawa,Ebenezer Scrooge. Opowieść wigilijna,Warszawa - Janki,17:50,2D,,regular,2026-11-13T00:59:16.521709
+2026-11-13,,warszawa,Maraton Igrzysk śmierci,Warszawa - Janki,18:00,2D,,regular,2026-11-13T00:59:16.521719
+2026-11-13,,warszawa,Przepis na święta,Warszawa - Janki,18:10,2D,original,regular,2026-11-13T00:59:16.521726
+2026-11-13,,warszawa,Kot Prot,Warszawa - Janki,18:20,2D,,regular,2026-11-13T00:59:16.521733
+2026-11-13,,warszawa,Godzilla Minus Zero,Warszawa - Janki,18:45,2D,,regular,2026-11-13T00:59:16.521741
+2026-11-13,,warszawa,Victorian Psycho,Warszawa - Janki,18:50,2D,,regular,2026-11-13T00:59:16.521748
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa - Janki,19:00,2D,original,regular,2026-11-13T00:59:16.521754
+2026-11-13,,warszawa,Dziki koń dziewięć,Warszawa - Janki,19:10,2D,,regular,2026-11-13T00:59:16.521761
+2026-11-13,,warszawa,Zobaczysz wszystko,Warszawa - Janki,19:30,2D,,regular,2026-11-13T00:59:16.521768
+2026-11-13,,warszawa,Jak obrabować bank,Warszawa - Janki,20:15,2D,,regular,2026-11-13T00:59:16.521775
+2026-11-13,,warszawa,Ebenezer Scrooge. Opowieść wigilijna,Warszawa - Janki,20:30,2D,,regular,2026-11-13T00:59:16.521782
+2026-11-13,,warszawa,Przepis na święta,Warszawa - Janki,20:40,2D,original,regular,2026-11-13T00:59:16.521789
+2026-11-13,,warszawa,Karaoke Murder,Warszawa - Janki,20:50,2D,,regular,2026-11-13T00:59:16.521796
+2026-11-13,,warszawa,Clayface,Warszawa - Janki,21:00,2D,,regular,2026-11-13T00:59:16.521804
+2026-11-13,,warszawa,Inna mamusia,Warszawa - Janki,21:40,2D,,regular,2026-11-13T00:59:16.521810
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa - Janki,21:50,2D,original,regular,2026-11-13T00:59:16.521816
+2026-11-13,,warszawa,Dziki koń dziewięć,Warszawa - Janki,21:50,2D,,regular,2026-11-13T00:59:16.521823
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa - Mokotów,10:00,2D,original,regular,2026-11-13T00:59:17.725301
+2026-11-13,,warszawa,Dziki koń dziewięć,Warszawa - Mokotów,10:00,2D,,regular,2026-11-13T00:59:17.725330
+2026-11-13,,warszawa,Odyseja,Warszawa - Mokotów,10:00,2D,,regular,2026-11-13T00:59:17.725338
+2026-11-13,,warszawa,Lalka,Warszawa - Mokotów,10:00,2D,original,regular,2026-11-13T00:59:17.725346
+2026-11-13,,warszawa,Baranek Shaun i kudłata bestia,Warszawa - Mokotów,10:00,2D,,regular,2026-11-13T00:59:17.725356
+2026-11-13,,warszawa,Przepis na święta,Warszawa - Mokotów,10:00,2D,original,regular,2026-11-13T00:59:17.725365
+2026-11-13,,warszawa,Niesamowite przygody skarpetek 4: Do roboty!,Warszawa - Mokotów,10:20,2D,,regular,2026-11-13T00:59:17.725374
+2026-11-13,,warszawa,Camino dla opornych,Warszawa - Mokotów,10:20,2D,,regular,2026-11-13T00:59:17.725381
+2026-11-13,,warszawa,Struś Pędziwiatr i zemsta Kojota,Warszawa - Mokotów,10:30,2D,,regular,2026-11-13T00:59:17.725391
+2026-11-13,,warszawa,Zapomniana wyspa,Warszawa - Mokotów,10:30,ScreenX,,regular,2026-11-13T00:59:17.725399
+2026-11-13,,warszawa,Zobaczysz wszystko,Warszawa - Mokotów,10:40,2D,,regular,2026-11-13T00:59:17.725408
+2026-11-13,,warszawa,Legendarni,Warszawa - Mokotów,10:45,2D,,regular,2026-11-13T00:59:17.725416
+2026-11-13,,warszawa,Ebenezer Scrooge. Opowieść wigilijna,Warszawa - Mokotów,11:20,2D,,regular,2026-11-13T00:59:17.725424
+2026-11-13,,warszawa,Kot Prot,Warszawa - Mokotów,11:45,2D,,regular,2026-11-13T00:59:17.725433
+2026-11-13,,warszawa,Niesamowite przygody skarpetek 4: Do roboty!,Warszawa - Mokotów,12:00,2D,,regular,2026-11-13T00:59:17.725440
+2026-11-13,,warszawa,Baranek Shaun i kudłata bestia,Warszawa - Mokotów,12:00,2D,,regular,2026-11-13T00:59:17.725447
+2026-11-13,,warszawa,Przepis na święta,Warszawa - Mokotów,12:30,2D,original,regular,2026-11-13T00:59:17.725455
+2026-11-13,,warszawa,Dziki koń dziewięć,Warszawa - Mokotów,12:40,2D,,regular,2026-11-13T00:59:17.725462
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa - Mokotów,12:50,2D,original,regular,2026-11-13T00:59:17.725470
+2026-11-13,,warszawa,Niesamowite przygody skarpetek 4: Do roboty!,Warszawa - Mokotów,12:50,2D,,regular,2026-11-13T00:59:17.725476
+2026-11-13,,warszawa,Lachtara. Tęsknota,Warszawa - Mokotów,13:00,2D,original,regular,2026-11-13T00:59:17.725484
+2026-11-13,,warszawa,Witajcie w Hope,Warszawa - Mokotów,13:10,2D,,regular,2026-11-13T00:59:17.725492
+2026-11-13,,warszawa,Zapomniana wyspa,Warszawa - Mokotów,13:10,ScreenX,,regular,2026-11-13T00:59:17.725498
+2026-11-13,,warszawa,Lalka,Warszawa - Mokotów,13:30,2D,original,regular,2026-11-13T00:59:17.725506
+2026-11-13,,warszawa,Jak obrabować bank,Warszawa - Mokotów,13:40,2D,,regular,2026-11-13T00:59:17.725514
+2026-11-13,,warszawa,Everest: Druga strona,Warszawa - Mokotów,13:40,2D,,regular,2026-11-13T00:59:17.725523
+2026-11-13,,warszawa,Ebenezer Scrooge. Opowieść wigilijna,Warszawa - Mokotów,14:00,2D,,regular,2026-11-13T00:59:17.725530
+2026-11-13,,warszawa,Baranek Shaun i kudłata bestia,Warszawa - Mokotów,14:00,2D,,regular,2026-11-13T00:59:17.725538
+2026-11-13,,warszawa,Kot Prot,Warszawa - Mokotów,14:15,2D,,regular,2026-11-13T00:59:17.725545
+2026-11-13,,warszawa,Zobaczysz wszystko,Warszawa - Mokotów,14:20,2D,,regular,2026-11-13T00:59:17.725552
+2026-11-13,,warszawa,La perra,Warszawa - Mokotów,14:30,2D,,regular,2026-11-13T00:59:17.725559
+2026-11-13,,warszawa,Przepis na święta,Warszawa - Mokotów,15:00,2D,original,regular,2026-11-13T00:59:17.725566
+2026-11-13,,warszawa,Dziki koń dziewięć,Warszawa - Mokotów,15:20,2D,,regular,2026-11-13T00:59:17.725573
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa - Mokotów,15:40,2D,original,regular,2026-11-13T00:59:17.725580
+2026-11-13,,warszawa,"Jak żyć, żeby nie zwariować",Warszawa - Mokotów,15:50,2D,original,regular,2026-11-13T00:59:17.725588
+2026-11-13,,warszawa,Clayface,Warszawa - Mokotów,15:50,ScreenX,,regular,2026-11-13T00:59:17.725596
+2026-11-13,,warszawa,Victorian Psycho,Warszawa - Mokotów,16:10,2D,,regular,2026-11-13T00:59:17.725603
+2026-11-13,,warszawa,Lalka,Warszawa - Mokotów,16:20,2D,original,regular,2026-11-13T00:59:17.725610
+2026-11-13,,warszawa,Jak obrabować bank,Warszawa - Mokotów,16:30,2D,,regular,2026-11-13T00:59:17.725617
+2026-11-13,,warszawa,Ebenezer Scrooge. Opowieść wigilijna,Warszawa - Mokotów,16:40,2D,,regular,2026-11-13T00:59:17.725624
+2026-11-13,,warszawa,Inna mamusia,Warszawa - Mokotów,16:40,2D,,regular,2026-11-13T00:59:17.725631
+2026-11-13,,warszawa,Kot Prot,Warszawa - Mokotów,16:50,2D,,regular,2026-11-13T00:59:17.725638
+2026-11-13,,warszawa,Clayface,Warszawa - Mokotów,17:00,2D,,regular,2026-11-13T00:59:17.725646
+2026-11-13,,warszawa,GEORGE MICHAEL: THE FAITH TOUR,Warszawa - Mokotów,17:15,2D,,regular,2026-11-13T00:59:17.725654
+2026-11-13,,warszawa,Przepis na święta,Warszawa - Mokotów,17:30,2D,original,regular,2026-11-13T00:59:17.725661
+2026-11-13,,warszawa,Maraton Igrzysk śmierci,Warszawa - Mokotów,18:00,2D,,regular,2026-11-13T00:59:17.725670
+2026-11-13,,warszawa,Dziki koń dziewięć,Warszawa - Mokotów,18:00,2D,,regular,2026-11-13T00:59:17.725677
+2026-11-13,,warszawa,Maraton Igrzysk śmierci,Warszawa - Mokotów,18:10,2D,,regular,2026-11-13T00:59:17.725685
+2026-11-13,,warszawa,Clayface,Warszawa - Mokotów,18:20,ScreenX,,regular,2026-11-13T00:59:17.725691
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa - Mokotów,18:30,2D,original,regular,2026-11-13T00:59:17.725698
+2026-11-13,,warszawa,Victorian Psycho,Warszawa - Mokotów,18:30,2D,,regular,2026-11-13T00:59:17.725704
+2026-11-13,,warszawa,Nikt nie wie,Warszawa - Mokotów,19:00,2D,,regular,2026-11-13T00:59:17.725711
+2026-11-13,,warszawa,Jak obrabować bank,Warszawa - Mokotów,19:10,2D,,regular,2026-11-13T00:59:17.725719
+2026-11-13,,warszawa,Ebenezer Scrooge. Opowieść wigilijna,Warszawa - Mokotów,19:20,2D,,regular,2026-11-13T00:59:17.725726
+2026-11-13,,warszawa,Inna mamusia,Warszawa - Mokotów,19:20,2D,,regular,2026-11-13T00:59:17.725732
+2026-11-13,,warszawa,Clayface,Warszawa - Mokotów,19:40,2D,,regular,2026-11-13T00:59:17.725739
+2026-11-13,,warszawa,Zobaczysz wszystko,Warszawa - Mokotów,19:50,2D,,regular,2026-11-13T00:59:17.725747
+2026-11-13,,warszawa,Ramajana. Narodziny legendy,Warszawa - Mokotów,20:00,2D,,regular,2026-11-13T00:59:17.725754
+2026-11-13,,warszawa,Przepis na święta,Warszawa - Mokotów,20:10,2D,original,regular,2026-11-13T00:59:17.725761
+2026-11-13,,warszawa,Dziki koń dziewięć,Warszawa - Mokotów,20:40,2D,,regular,2026-11-13T00:59:17.725768
+2026-11-13,,warszawa,Victorian Psycho,Warszawa - Mokotów,20:40,2D,,regular,2026-11-13T00:59:17.725774
+2026-11-13,,warszawa,Witajcie w Hope,Warszawa - Mokotów,20:50,ScreenX,,regular,2026-11-13T00:59:17.725781
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa - Mokotów,21:20,2D,original,regular,2026-11-13T00:59:17.725787
+2026-11-13,,warszawa,Karaoke Murder,Warszawa - Mokotów,21:30,2D,,regular,2026-11-13T00:59:17.725795
+2026-11-13,,warszawa,Jak obrabować bank,Warszawa - Mokotów,21:50,2D,,regular,2026-11-13T00:59:17.725802
+2026-11-13,,warszawa,Ebenezer Scrooge. Opowieść wigilijna,Warszawa - Mokotów,22:00,2D,,regular,2026-11-13T00:59:17.725809
+2026-11-13,,warszawa,Inna mamusia,Warszawa - Mokotów,22:00,2D,,regular,2026-11-13T00:59:17.725815
+2026-11-13,,warszawa,Clayface,Warszawa - Mokotów,22:10,2D,,regular,2026-11-13T00:59:17.725823
+2026-11-13,,warszawa,Lalka,Warszawa - Promenada,09:00,2D,original,regular,2026-11-13T00:59:19.586883
+2026-11-13,,warszawa,Niesamowite przygody skarpetek 4: Do roboty!,Warszawa - Promenada,10:00,2D,,regular,2026-11-13T00:59:19.586910
+2026-11-13,,warszawa,Baranek Shaun i kudłata bestia,Warszawa - Promenada,10:00,2D,,regular,2026-11-13T00:59:19.586923
+2026-11-13,,warszawa,Legendarni,Warszawa - Promenada,10:00,2D,,regular,2026-11-13T00:59:19.586931
+2026-11-13,,warszawa,Kot Prot,Warszawa - Promenada,10:00,2D,,regular,2026-11-13T00:59:19.586940
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa - Promenada,10:30,2D,original,regular,2026-11-13T00:59:19.586948
+2026-11-13,,warszawa,Mój pies Barry,Warszawa - Promenada,10:30,2D,,regular,2026-11-13T00:59:19.586957
+2026-11-13,,warszawa,Baranek Shaun i kudłata bestia,Warszawa - Promenada,10:40,2D,,regular,2026-11-13T00:59:19.586965
+2026-11-13,,warszawa,Pucio kocha zwierzaki,Warszawa - Promenada,10:45,2D,,regular,2026-11-13T00:59:19.586974
+2026-11-13,,warszawa,Lalka,Warszawa - Promenada,11:00,2D,original,regular,2026-11-13T00:59:19.586981
+2026-11-13,,warszawa,Dziki koń dziewięć,Warszawa - Promenada,11:20,2D,,regular,2026-11-13T00:59:19.586989
+2026-11-13,,warszawa,Inna mamusia,Warszawa - Promenada,11:30,2D,,regular,2026-11-13T00:59:19.586997
+2026-11-13,,warszawa,Niesamowite przygody skarpetek 4: Do roboty!,Warszawa - Promenada,11:40,2D,,regular,2026-11-13T00:59:19.587004
+2026-11-13,,warszawa,Kot Prot,Warszawa - Promenada,12:00,2D,,regular,2026-11-13T00:59:19.587011
+2026-11-13,,warszawa,Struś Pędziwiatr i zemsta Kojota,Warszawa - Promenada,12:10,2D,,regular,2026-11-13T00:59:19.587019
+2026-11-13,,warszawa,Legendarni,Warszawa - Promenada,12:15,2D,,regular,2026-11-13T00:59:19.587027
+2026-11-13,,warszawa,Zobaczysz wszystko,Warszawa - Promenada,12:30,2D,,regular,2026-11-13T00:59:19.587036
+2026-11-13,,warszawa,W sercu dziczy,Warszawa - Promenada,12:30,2D,,regular,2026-11-13T00:59:19.587044
+2026-11-13,,warszawa,Baranek Shaun i kudłata bestia,Warszawa - Promenada,12:40,2D,,regular,2026-11-13T00:59:19.587051
+2026-11-13,,warszawa,Ebenezer Scrooge. Opowieść wigilijna,Warszawa - Promenada,13:00,2D,,regular,2026-11-13T00:59:19.587059
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa - Promenada,13:20,2D,original,regular,2026-11-13T00:59:19.587066
+2026-11-13,,warszawa,Niesamowite przygody skarpetek 4: Do roboty!,Warszawa - Promenada,13:20,2D,,regular,2026-11-13T00:59:19.587073
+2026-11-13,,warszawa,Przepis na święta,Warszawa - Promenada,14:30,2D,original,regular,2026-11-13T00:59:19.587081
+2026-11-13,,warszawa,Kot Prot,Warszawa - Promenada,14:30,2D,,regular,2026-11-13T00:59:19.587088
+2026-11-13,,warszawa,Zobaczysz wszystko,Warszawa - Promenada,14:30,2D,,regular,2026-11-13T00:59:19.587095
+2026-11-13,,warszawa,Witajcie w Hope,Warszawa - Promenada,14:40,2D,,regular,2026-11-13T00:59:19.587103
+2026-11-13,,warszawa,Baranek Shaun i kudłata bestia,Warszawa - Promenada,14:40,2D,,regular,2026-11-13T00:59:19.587111
+2026-11-13,,warszawa,Camino dla opornych,Warszawa - Promenada,14:50,2D,,regular,2026-11-13T00:59:19.587118
+2026-11-13,,warszawa,Przepis na święta,Warszawa - Promenada,15:00,2D,original,regular,2026-11-13T00:59:19.587125
+2026-11-13,,warszawa,Kot Prot,Warszawa - Promenada,15:00,3D,,regular,2026-11-13T00:59:19.587132
+2026-11-13,,warszawa,Inna mamusia,Warszawa - Promenada,15:00,2D,,regular,2026-11-13T00:59:19.587138
+2026-11-13,,warszawa,Ebenezer Scrooge. Opowieść wigilijna,Warszawa - Promenada,15:40,2D,,regular,2026-11-13T00:59:19.587145
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa - Promenada,16:10,2D,original,regular,2026-11-13T00:59:19.587152
+2026-11-13,,warszawa,Lalka,Warszawa - Promenada,16:10,2D,original,regular,2026-11-13T00:59:19.587159
+2026-11-13,,warszawa,Dziki koń dziewięć,Warszawa - Promenada,16:40,2D,,regular,2026-11-13T00:59:19.587167
+2026-11-13,,warszawa,"Jak żyć, żeby nie zwariować",Warszawa - Promenada,16:40,2D,original,regular,2026-11-13T00:59:19.587176
+2026-11-13,,warszawa,Przepis na święta,Warszawa - Promenada,17:00,2D,original,regular,2026-11-13T00:59:19.587183
+2026-11-13,,warszawa,Kot Prot,Warszawa - Promenada,17:00,2D,,regular,2026-11-13T00:59:19.587189
+2026-11-13,,warszawa,Clayface,Warszawa - Promenada,17:15,2D,,regular,2026-11-13T00:59:19.587198
+2026-11-13,,warszawa,Victorian Psycho,Warszawa - Promenada,17:30,2D,,regular,2026-11-13T00:59:19.587205
+2026-11-13,,warszawa,Jak obrabować bank,Warszawa - Promenada,17:30,2D,,regular,2026-11-13T00:59:19.587214
+2026-11-13,,warszawa,Maraton Igrzysk śmierci,Warszawa - Promenada,18:00,2D,,regular,2026-11-13T00:59:19.587224
+2026-11-13,,warszawa,GEORGE MICHAEL: THE FAITH TOUR,Warszawa - Promenada,18:00,2D,,regular,2026-11-13T00:59:19.587233
+2026-11-13,,warszawa,Zobaczysz wszystko,Warszawa - Promenada,18:10,2D,,regular,2026-11-13T00:59:19.587240
+2026-11-13,,warszawa,Ebenezer Scrooge. Opowieść wigilijna,Warszawa - Promenada,18:20,2D,,regular,2026-11-13T00:59:19.587247
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa - Promenada,19:00,2D,original,regular,2026-11-13T00:59:19.587254
+2026-11-13,,warszawa,Nikt nie wie,Warszawa - Promenada,19:00,2D,,regular,2026-11-13T00:59:19.587262
+2026-11-13,,warszawa,Dziki koń dziewięć,Warszawa - Promenada,19:20,2D,,regular,2026-11-13T00:59:19.587283
+2026-11-13,,warszawa,Przepis na święta,Warszawa - Promenada,19:30,2D,original,regular,2026-11-13T00:59:19.587290
+2026-11-13,,warszawa,Godzilla Minus Zero,Warszawa - Promenada,19:30,2D,,regular,2026-11-13T00:59:19.587299
+2026-11-13,,warszawa,Lalka,Warszawa - Promenada,19:40,2D,original,regular,2026-11-13T00:59:19.587307
+2026-11-13,,warszawa,Victorian Psycho,Warszawa - Promenada,19:45,2D,,regular,2026-11-13T00:59:19.587314
+2026-11-13,,warszawa,Zobaczysz wszystko,Warszawa - Promenada,20:00,2D,,regular,2026-11-13T00:59:19.587321
+2026-11-13,,warszawa,Jak obrabować bank,Warszawa - Promenada,20:15,2D,,regular,2026-11-13T00:59:19.587329
+2026-11-13,,warszawa,Lachtara. Tęsknota,Warszawa - Promenada,20:40,2D,original,regular,2026-11-13T00:59:19.587337
+2026-11-13,,warszawa,Ebenezer Scrooge. Opowieść wigilijna,Warszawa - Promenada,21:00,2D,,regular,2026-11-13T00:59:19.587344
+2026-11-13,,warszawa,Zobaczysz wszystko,Warszawa - Promenada,21:45,2D,,regular,2026-11-13T00:59:19.587351
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa - Promenada,21:50,2D,original,regular,2026-11-13T00:59:19.587358
+2026-11-13,,warszawa,Victorian Psycho,Warszawa - Promenada,22:00,2D,,regular,2026-11-13T00:59:19.587364
+2026-11-13,,warszawa,Przepis na święta,Warszawa - Promenada,22:00,2D,original,regular,2026-11-13T00:59:19.587372
+2026-11-13,,warszawa,Dziki koń dziewięć,Warszawa - Promenada,22:00,2D,,regular,2026-11-13T00:59:19.587378
+2026-11-13,,warszawa,Jak obrabować bank,Warszawa - Promenada,22:10,2D,,regular,2026-11-13T00:59:19.587386
+2026-11-13,,warszawa,Resident Evil,Warszawa - Promenada,22:30,2D,,regular,2026-11-13T00:59:19.587393
+2026-11-13,,warszawa,Godzilla Minus Zero,Warszawa - Sadyba,09:00,IMAX,,regular,2026-11-13T00:59:21.410318
+2026-11-13,,warszawa,Lalka,Warszawa - Sadyba,09:30,2D,original,regular,2026-11-13T00:59:21.410347
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa - Sadyba,10:00,2D,original,regular,2026-11-13T00:59:21.410356
+2026-11-13,,warszawa,Zobaczysz wszystko,Warszawa - Sadyba,10:00,2D,,regular,2026-11-13T00:59:21.410365
+2026-11-13,,warszawa,Lalka,Warszawa - Sadyba,10:00,2D,original,regular,2026-11-13T00:59:21.410371
+2026-11-13,,warszawa,Camino dla opornych,Warszawa - Sadyba,10:15,2D,,regular,2026-11-13T00:59:21.410378
+2026-11-13,,warszawa,Kot Prot,Warszawa - Sadyba,10:20,2D,,regular,2026-11-13T00:59:21.410387
+2026-11-13,,warszawa,Przepis na święta,Warszawa - Sadyba,10:30,2D,original,regular,2026-11-13T00:59:21.410398
+2026-11-13,,warszawa,Niesamowite przygody skarpetek 4: Do roboty!,Warszawa - Sadyba,10:40,2D,,regular,2026-11-13T00:59:21.410406
+2026-11-13,,warszawa,Ebenezer Scrooge. Opowieść wigilijna,Warszawa - Sadyba,11:00,2D,,regular,2026-11-13T00:59:21.410415
+2026-11-13,,warszawa,Kot Prot,Warszawa - Sadyba,11:20,2D,,regular,2026-11-13T00:59:21.410421
+2026-11-13,,warszawa,Witajcie w Hope,Warszawa - Sadyba,11:50,2D,,regular,2026-11-13T00:59:21.410429
+2026-11-13,,warszawa,Piesek,Warszawa - Sadyba,11:50,2D,,regular,2026-11-13T00:59:21.410438
+2026-11-13,,warszawa,Struś Pędziwiatr i zemsta Kojota,Warszawa - Sadyba,12:20,2D,,regular,2026-11-13T00:59:21.410446
+2026-11-13,,warszawa,Dziki koń dziewięć,Warszawa - Sadyba,12:45,2D,,regular,2026-11-13T00:59:21.410454
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa - Sadyba,12:50,2D,original,regular,2026-11-13T00:59:21.410461
+2026-11-13,,warszawa,Niesamowite przygody skarpetek 4: Do roboty!,Warszawa - Sadyba,12:50,2D,,regular,2026-11-13T00:59:21.410468
+2026-11-13,,warszawa,Przepis na święta,Warszawa - Sadyba,13:00,2D,original,regular,2026-11-13T00:59:21.410475
+2026-11-13,,warszawa,Baranek Shaun i kudłata bestia,Warszawa - Sadyba,13:10,2D,,regular,2026-11-13T00:59:21.410484
+2026-11-13,,warszawa,Lalka,Warszawa - Sadyba,13:20,2D,original,regular,2026-11-13T00:59:21.410490
+2026-11-13,,warszawa,Ebenezer Scrooge. Opowieść wigilijna,Warszawa - Sadyba,13:40,2D,,regular,2026-11-13T00:59:21.410497
+2026-11-13,,warszawa,Zobaczysz wszystko,Warszawa - Sadyba,13:40,2D,,regular,2026-11-13T00:59:21.410504
+2026-11-13,,warszawa,Kot Prot,Warszawa - Sadyba,13:50,2D,,regular,2026-11-13T00:59:21.410510
+2026-11-13,,warszawa,GEORGE MICHAEL: THE FAITH TOUR,Warszawa - Sadyba,14:10,IMAX,,regular,2026-11-13T00:59:21.410516
+2026-11-13,,warszawa,Lachtara. Tęsknota,Warszawa - Sadyba,14:30,2D,original,regular,2026-11-13T00:59:21.410523
+2026-11-13,,warszawa,Victorian Psycho,Warszawa - Sadyba,14:40,2D,,regular,2026-11-13T00:59:21.410531
+2026-11-13,,warszawa,Godzilla Minus Zero,Warszawa - Sadyba,15:00,2D,,regular,2026-11-13T00:59:21.410539
+2026-11-13,,warszawa,Baranek Shaun i kudłata bestia,Warszawa - Sadyba,15:10,2D,,regular,2026-11-13T00:59:21.410546
+2026-11-13,,warszawa,Witajcie w Hope,Warszawa - Sadyba,15:10,2D,,regular,2026-11-13T00:59:21.410553
+2026-11-13,,warszawa,Dziki koń dziewięć,Warszawa - Sadyba,15:20,2D,,regular,2026-11-13T00:59:21.410560
+2026-11-13,,warszawa,Przepis na święta,Warszawa - Sadyba,15:30,2D,original,regular,2026-11-13T00:59:21.410566
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa - Sadyba,15:40,2D,original,regular,2026-11-13T00:59:21.410573
+2026-11-13,,warszawa,Kot Prot,Warszawa - Sadyba,16:15,2D,,regular,2026-11-13T00:59:21.410579
+2026-11-13,,warszawa,Ebenezer Scrooge. Opowieść wigilijna,Warszawa - Sadyba,16:20,2D,,regular,2026-11-13T00:59:21.410586
+2026-11-13,,warszawa,Jak obrabować bank,Warszawa - Sadyba,16:40,2D,,regular,2026-11-13T00:59:21.410595
+2026-11-13,,warszawa,Ramajana. Narodziny legendy,Warszawa - Sadyba,16:50,IMAX,,regular,2026-11-13T00:59:21.410601
+2026-11-13,,warszawa,Clayface,Warszawa - Sadyba,17:00,2D,,regular,2026-11-13T00:59:21.410609
+2026-11-13,,warszawa,Lalka,Warszawa - Sadyba,17:10,2D,original,regular,2026-11-13T00:59:21.410616
+2026-11-13,,warszawa,Zobaczysz wszystko,Warszawa - Sadyba,17:15,2D,,regular,2026-11-13T00:59:21.410623
+2026-11-13,,warszawa,GEORGE MICHAEL: THE FAITH TOUR,Warszawa - Sadyba,17:20,2D,,regular,2026-11-13T00:59:21.410630
+2026-11-13,,warszawa,Maraton Igrzysk śmierci,Warszawa - Sadyba,18:00,2D,,regular,2026-11-13T00:59:21.410639
+2026-11-13,,warszawa,Przepis na święta,Warszawa - Sadyba,18:00,2D,original,regular,2026-11-13T00:59:21.410646
+2026-11-13,,warszawa,Dziki koń dziewięć,Warszawa - Sadyba,18:10,2D,,regular,2026-11-13T00:59:21.410653
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa - Sadyba,18:30,2D,original,regular,2026-11-13T00:59:21.410660
+2026-11-13,,warszawa,Victorian Psycho,Warszawa - Sadyba,18:30,2D,,regular,2026-11-13T00:59:21.410667
+2026-11-13,,warszawa,Kot Prot,Warszawa - Sadyba,18:50,2D,,regular,2026-11-13T00:59:21.410673
+2026-11-13,,warszawa,Ebenezer Scrooge. Opowieść wigilijna,Warszawa - Sadyba,19:00,2D,,regular,2026-11-13T00:59:21.410681
+2026-11-13,,warszawa,Jak obrabować bank,Warszawa - Sadyba,19:20,2D,,regular,2026-11-13T00:59:21.410688
+2026-11-13,,warszawa,Clayface,Warszawa - Sadyba,19:30,2D,,regular,2026-11-13T00:59:21.410695
+2026-11-13,,warszawa,Inna mamusia,Warszawa - Sadyba,19:50,2D,,regular,2026-11-13T00:59:21.410702
+2026-11-13,,warszawa,Przepis na święta,Warszawa - Sadyba,20:30,2D,original,regular,2026-11-13T00:59:21.410708
+2026-11-13,,warszawa,Victorian Psycho,Warszawa - Sadyba,20:40,2D,,regular,2026-11-13T00:59:21.410715
+2026-11-13,,warszawa,Lalka,Warszawa - Sadyba,20:45,2D,original,regular,2026-11-13T00:59:21.410721
+2026-11-13,,warszawa,Zobaczysz wszystko,Warszawa - Sadyba,20:45,2D,,regular,2026-11-13T00:59:21.410728
+2026-11-13,,warszawa,Dziki koń dziewięć,Warszawa - Sadyba,20:50,2D,,regular,2026-11-13T00:59:21.410735
+2026-11-13,,warszawa,Godzilla Minus Zero,Warszawa - Sadyba,20:50,IMAX,,regular,2026-11-13T00:59:21.410740
+2026-11-13,,warszawa,Nasza rewolucja,Warszawa - Sadyba,21:20,2D,original,regular,2026-11-13T00:59:21.410747
+2026-11-13,,warszawa,Witajcie w Hope,Warszawa - Sadyba,21:20,2D,,regular,2026-11-13T00:59:21.410753
+2026-11-13,,warszawa,Ebenezer Scrooge. Opowieść wigilijna,Warszawa - Sadyba,21:40,2D,,regular,2026-11-13T00:59:21.410760
+2026-11-13,,warszawa,Clayface,Warszawa - Sadyba,22:00,2D,,regular,2026-11-13T00:59:21.410767
+2026-11-13,,warszawa,Inna mamusia,Warszawa - Sadyba,22:00,2D,,regular,2026-11-13T00:59:21.410773
+2026-11-13,,warszawa,Jak obrabować bank,Warszawa - Sadyba,22:00,2D,,regular,2026-11-13T00:59:21.410780
+2026-11-13,,wrocław,Niesamowite przygody skarpetek 4: Do roboty!,Wrocław - Korona,10:00,2D,,regular,2026-11-13T00:59:23.085091
+2026-11-13,,wrocław,Jak obrabować bank,Wrocław - Korona,10:00,2D,,regular,2026-11-13T00:59:23.085122
+2026-11-13,,wrocław,Baranek Shaun i kudłata bestia,Wrocław - Korona,10:10,2D,,regular,2026-11-13T00:59:23.085133
+2026-11-13,,wrocław,Struś Pędziwiatr i zemsta Kojota,Wrocław - Korona,10:20,2D,,regular,2026-11-13T00:59:23.085143
+2026-11-13,,wrocław,Nasza rewolucja,Wrocław - Korona,10:30,2D,original,regular,2026-11-13T00:59:23.085152
+2026-11-13,,wrocław,Kot Prot,Wrocław - Korona,10:40,2D,,regular,2026-11-13T00:59:23.085160
+2026-11-13,,wrocław,Przepis na święta,Wrocław - Korona,11:00,2D,original,regular,2026-11-13T00:59:23.085169
+2026-11-13,,wrocław,Supermocni,Wrocław - Korona,11:10,2D,,regular,2026-11-13T00:59:23.085177
+2026-11-13,,wrocław,Niesamowite przygody skarpetek 4: Do roboty!,Wrocław - Korona,11:20,2D,,regular,2026-11-13T00:59:23.085184
+2026-11-13,,wrocław,Baranek Shaun i kudłata bestia,Wrocław - Korona,12:10,2D,,regular,2026-11-13T00:59:23.085191
+2026-11-13,,wrocław,GEORGE MICHAEL: THE FAITH TOUR,Wrocław - Korona,12:40,2D,,regular,2026-11-13T00:59:23.085200
+2026-11-13,,wrocław,Lachtara. Tęsknota,Wrocław - Korona,12:45,2D,original,regular,2026-11-13T00:59:23.085208
+2026-11-13,,wrocław,Kot Prot,Wrocław - Korona,12:50,2D,,regular,2026-11-13T00:59:23.085216
+2026-11-13,,wrocław,Dziki koń dziewięć,Wrocław - Korona,13:10,2D,,regular,2026-11-13T00:59:23.085224
+2026-11-13,,wrocław,Nasza rewolucja,Wrocław - Korona,13:20,2D,original,regular,2026-11-13T00:59:23.085231
+2026-11-13,,wrocław,Godzilla Minus Zero,Wrocław - Korona,13:30,2D,,regular,2026-11-13T00:59:23.085240
+2026-11-13,,wrocław,Przepis na święta,Wrocław - Korona,14:10,2D,original,regular,2026-11-13T00:59:23.085247
+2026-11-13,,wrocław,Zobaczysz wszystko,Wrocław - Korona,14:20,2D,,regular,2026-11-13T00:59:23.085256
+2026-11-13,,wrocław,Lalka,Wrocław - Korona,15:10,2D,original,regular,2026-11-13T00:59:23.085291
+2026-11-13,,wrocław,Kot Prot,Wrocław - Korona,15:30,2D,,regular,2026-11-13T00:59:23.085300
+2026-11-13,,wrocław,Ebenezer Scrooge. Opowieść wigilijna,Wrocław - Korona,15:40,2D,,regular,2026-11-13T00:59:23.085308
+2026-11-13,,wrocław,Dziki koń dziewięć,Wrocław - Korona,15:50,2D,,regular,2026-11-13T00:59:23.085315
+2026-11-13,,wrocław,Nasza rewolucja,Wrocław - Korona,16:10,2D,original,regular,2026-11-13T00:59:23.085321
+2026-11-13,,wrocław,Victorian Psycho,Wrocław - Korona,16:30,2D,,regular,2026-11-13T00:59:23.085329
+2026-11-13,,wrocław,Przepis na święta,Wrocław - Korona,16:40,2D,original,regular,2026-11-13T00:59:23.085336
+2026-11-13,,wrocław,Maraton Igrzysk śmierci,Wrocław - Korona,18:00,2D,,regular,2026-11-13T00:59:23.085346
+2026-11-13,,wrocław,Maraton Igrzysk śmierci,Wrocław - Korona,18:10,2D,,regular,2026-11-13T00:59:23.085353
+2026-11-13,,wrocław,Ebenezer Scrooge. Opowieść wigilijna,Wrocław - Korona,18:20,2D,,regular,2026-11-13T00:59:23.085360
+2026-11-13,,wrocław,Victorian Psycho,Wrocław - Korona,18:30,2D,,regular,2026-11-13T00:59:23.085366
+2026-11-13,,wrocław,Dziki koń dziewięć,Wrocław - Korona,18:30,2D,,regular,2026-11-13T00:59:23.085373
+2026-11-13,,wrocław,Jak obrabować bank,Wrocław - Korona,18:45,2D,,regular,2026-11-13T00:59:23.085380
+2026-11-13,,wrocław,Nasza rewolucja,Wrocław - Korona,19:00,2D,original,regular,2026-11-13T00:59:23.085387
+2026-11-13,,wrocław,Przepis na święta,Wrocław - Korona,19:10,2D,original,regular,2026-11-13T00:59:23.085394
+2026-11-13,,wrocław,Inna mamusia,Wrocław - Korona,20:45,2D,,regular,2026-11-13T00:59:23.085400
+2026-11-13,,wrocław,Ebenezer Scrooge. Opowieść wigilijna,Wrocław - Korona,21:00,2D,,regular,2026-11-13T00:59:23.085407
+2026-11-13,,wrocław,Dziki koń dziewięć,Wrocław - Korona,21:10,2D,,regular,2026-11-13T00:59:23.085414
+2026-11-13,,wrocław,Zobaczysz wszystko,Wrocław - Korona,21:30,2D,,regular,2026-11-13T00:59:23.085421
+2026-11-13,,wrocław,Clayface,Wrocław - Korona,21:40,2D,,regular,2026-11-13T00:59:23.085429
+2026-11-13,,wrocław,Nasza rewolucja,Wrocław - Korona,21:50,2D,original,regular,2026-11-13T00:59:23.085435
+2026-11-13,,wrocław,Clayface,Wrocław - Korona,23:00,2D,,regular,2026-11-13T00:59:23.085442
+2026-11-13,,wrocław,Ebenezer Scrooge. Opowieść wigilijna,Wrocław - Wroclavia,09:15,2D,,regular,2026-11-13T00:59:25.087301
+2026-11-13,,wrocław,Legendarni,Wrocław - Wroclavia,10:00,2D,,regular,2026-11-13T00:59:25.087329
+2026-11-13,,wrocław,Kot Prot,Wrocław - Wroclavia,10:00,3D,,regular,2026-11-13T00:59:25.087337
+2026-11-13,,wrocław,Struś Pędziwiatr i zemsta Kojota,Wrocław - Wroclavia,10:00,2D,,regular,2026-11-13T00:59:25.087347
+2026-11-13,,wrocław,Nasza rewolucja,Wrocław - Wroclavia,10:00,2D,original,regular,2026-11-13T00:59:25.087356
+2026-11-13,,wrocław,Dziki koń dziewięć,Wrocław - Wroclavia,10:00,2D,,regular,2026-11-13T00:59:25.087364
+2026-11-13,,wrocław,Przepis na święta,Wrocław - Wroclavia,10:00,2D,original,regular,2026-11-13T00:59:25.087373
+2026-11-13,,wrocław,Kot Prot,Wrocław - Wroclavia,10:05,4DX,,regular,2026-11-13T00:59:25.087379
+2026-11-13,,wrocław,Supermocni,Wrocław - Wroclavia,10:20,2D,,regular,2026-11-13T00:59:25.087388
+2026-11-13,,wrocław,Niesamowite przygody skarpetek 4: Do roboty!,Wrocław - Wroclavia,10:20,2D,,regular,2026-11-13T00:59:25.087397
+2026-11-13,,wrocław,Lalka,Wrocław - Wroclavia,10:20,2D,original,regular,2026-11-13T00:59:25.087405
+2026-11-13,,wrocław,Zobaczysz wszystko,Wrocław - Wroclavia,10:25,2D,,regular,2026-11-13T00:59:25.087414
+2026-11-13,,wrocław,Witajcie w Hope,Wrocław - Wroclavia,10:30,2D,,regular,2026-11-13T00:59:25.087422
+2026-11-13,,wrocław,Baranek Shaun i kudłata bestia,Wrocław - Wroclavia,10:30,2D,,regular,2026-11-13T00:59:25.087431
+2026-11-13,,wrocław,Zobaczysz wszystko,Wrocław - Wroclavia,10:40,2D,,regular,2026-11-13T00:59:25.087439
+2026-11-13,,wrocław,Godzilla Minus Zero,Wrocław - Wroclavia,11:10,IMAX,,regular,2026-11-13T00:59:25.087445
+2026-11-13,,wrocław,Ebenezer Scrooge. Opowieść wigilijna,Wrocław - Wroclavia,11:20,2D,,regular,2026-11-13T00:59:25.087453
+2026-11-13,,wrocław,Klara i słońce,Wrocław - Wroclavia,11:20,2D,,regular,2026-11-13T00:59:25.087462
+2026-11-13,,wrocław,"Jak żyć, żeby nie zwariować",Wrocław - Wroclavia,11:50,2D,original,regular,2026-11-13T00:59:25.087470
+2026-11-13,,wrocław,Camino dla opornych,Wrocław - Wroclavia,11:55,2D,,regular,2026-11-13T00:59:25.087478
+2026-11-13,,wrocław,Niesamowite przygody skarpetek 4: Do roboty!,Wrocław - Wroclavia,12:00,2D,,regular,2026-11-13T00:59:25.087485
+2026-11-13,,wrocław,Kot Prot,Wrocław - Wroclavia,12:20,2D,,regular,2026-11-13T00:59:25.087492
+2026-11-13,,wrocław,Lalka,Wrocław - Wroclavia,12:25,2D,original,regular,2026-11-13T00:59:25.087499
+2026-11-13,,wrocław,Baranek Shaun i kudłata bestia,Wrocław - Wroclavia,12:30,2D,,regular,2026-11-13T00:59:25.087507
+2026-11-13,,wrocław,Przepis na święta,Wrocław - Wroclavia,12:30,2D,original,regular,2026-11-13T00:59:25.087514
+2026-11-13,,wrocław,Supermocni,Wrocław - Wroclavia,12:40,2D,,regular,2026-11-13T00:59:25.087521
+2026-11-13,,wrocław,Dziki koń dziewięć,Wrocław - Wroclavia,12:40,2D,,regular,2026-11-13T00:59:25.087528
+2026-11-13,,wrocław,Nasza rewolucja,Wrocław - Wroclavia,12:50,2D,original,regular,2026-11-13T00:59:25.087536
+2026-11-13,,wrocław,Zobaczysz wszystko,Wrocław - Wroclavia,12:50,2D,,regular,2026-11-13T00:59:25.087543
+2026-11-13,,wrocław,Przepis na święta,Wrocław - Wroclavia,13:00,2D,original,regular,2026-11-13T00:59:25.087551
+2026-11-13,,wrocław,Kot Prot,Wrocław - Wroclavia,13:00,4DX,,regular,2026-11-13T00:59:25.087556
+2026-11-13,,wrocław,Niesamowite przygody skarpetek 4: Do roboty!,Wrocław - Wroclavia,13:40,2D,,regular,2026-11-13T00:59:25.087563
+2026-11-13,,wrocław,Ebenezer Scrooge. Opowieść wigilijna,Wrocław - Wroclavia,14:00,2D,,regular,2026-11-13T00:59:25.087570
+2026-11-13,,wrocław,Zobaczysz wszystko,Wrocław - Wroclavia,14:00,2D,,regular,2026-11-13T00:59:25.087577
+2026-11-13,,wrocław,Lalka,Wrocław - Wroclavia,14:00,2D,original,regular,2026-11-13T00:59:25.087584
+2026-11-13,,wrocław,Witajcie w Hope,Wrocław - Wroclavia,14:00,2D,,regular,2026-11-13T00:59:25.087592
+2026-11-13,,wrocław,Everest: Druga strona,Wrocław - Wroclavia,14:00,2D,,regular,2026-11-13T00:59:25.087600
+2026-11-13,,wrocław,"Jak żyć, żeby nie zwariować",Wrocław - Wroclavia,14:10,2D,original,regular,2026-11-13T00:59:25.087607
+2026-11-13,,wrocław,Ebenezer Scrooge. Opowieść wigilijna,Wrocław - Wroclavia,14:10,2D,,regular,2026-11-13T00:59:25.087614
+2026-11-13,,wrocław,GEORGE MICHAEL: THE FAITH TOUR,Wrocław - Wroclavia,14:10,IMAX,,regular,2026-11-13T00:59:25.087619
+2026-11-13,,wrocław,Camino dla opornych,Wrocław - Wroclavia,14:20,2D,,regular,2026-11-13T00:59:25.087626
+2026-11-13,,wrocław,Godzilla Minus Zero,Wrocław - Wroclavia,14:30,2D,,regular,2026-11-13T00:59:25.087634
+2026-11-13,,wrocław,Clayface,Wrocław - Wroclavia,15:00,2D,,regular,2026-11-13T00:59:25.087643
+2026-11-13,,wrocław,Kot Prot,Wrocław - Wroclavia,15:00,2D,,regular,2026-11-13T00:59:25.087650
+2026-11-13,,wrocław,Przepis na święta,Wrocław - Wroclavia,15:00,2D,original,regular,2026-11-13T00:59:25.087657
+2026-11-13,,wrocław,Victorian Psycho,Wrocław - Wroclavia,15:15,2D,,regular,2026-11-13T00:59:25.087664
+2026-11-13,,wrocław,Dziki koń dziewięć,Wrocław - Wroclavia,15:20,2D,,regular,2026-11-13T00:59:25.087671
+2026-11-13,,wrocław,Ebenezer Scrooge. Opowieść wigilijna,Wrocław - Wroclavia,15:30,4DX,,regular,2026-11-13T00:59:25.087677
+2026-11-13,,wrocław,Dziki koń dziewięć,Wrocław - Wroclavia,15:30,2D,,regular,2026-11-13T00:59:25.087685
+2026-11-13,,wrocław,Nasza rewolucja,Wrocław - Wroclavia,15:40,2D,original,regular,2026-11-13T00:59:25.087692
+2026-11-13,,wrocław,Primetime,Wrocław - Wroclavia,15:45,2D,,regular,2026-11-13T00:59:25.087700
+2026-11-13,,wrocław,Jak obrabować bank,Wrocław - Wroclavia,16:20,2D,,regular,2026-11-13T00:59:25.087709
+2026-11-13,,wrocław,Lalka,Wrocław - Wroclavia,16:30,2D,original,regular,2026-11-13T00:59:25.087716
+2026-11-13,,wrocław,Ebenezer Scrooge. Opowieść wigilijna,Wrocław - Wroclavia,16:40,2D,,regular,2026-11-13T00:59:25.087722
+2026-11-13,,wrocław,"Jak żyć, żeby nie zwariować",Wrocław - Wroclavia,16:40,2D,original,regular,2026-11-13T00:59:25.087729
+2026-11-13,,wrocław,Resident Evil,Wrocław - Wroclavia,16:45,2D,,regular,2026-11-13T00:59:25.087737
+2026-11-13,,wrocław,Ebenezer Scrooge. Opowieść wigilijna,Wrocław - Wroclavia,16:50,2D,,regular,2026-11-13T00:59:25.087743
+2026-11-13,,wrocław,Godzilla Minus Zero,Wrocław - Wroclavia,16:50,IMAX,,regular,2026-11-13T00:59:25.087748
+2026-11-13,,wrocław,Maraton Igrzysk śmierci,Wrocław - Wroclavia,17:30,2D,,regular,2026-11-13T00:59:25.087758
+2026-11-13,,wrocław,Clayface,Wrocław - Wroclavia,17:30,2D,,regular,2026-11-13T00:59:25.087766
+2026-11-13,,wrocław,Zobaczysz wszystko,Wrocław - Wroclavia,17:30,2D,,regular,2026-11-13T00:59:25.087773
+2026-11-13,,wrocław,Baranek Shaun i kudłata bestia,Wrocław - Wroclavia,17:30,2D,,regular,2026-11-13T00:59:25.087781
+2026-11-13,,wrocław,Kot Prot,Wrocław - Wroclavia,17:30,2D,,regular,2026-11-13T00:59:25.087787
+2026-11-13,,wrocław,Przepis na święta,Wrocław - Wroclavia,17:30,2D,original,regular,2026-11-13T00:59:25.087794
+2026-11-13,,wrocław,Maraton Igrzysk śmierci,Wrocław - Wroclavia,17:40,2D,,regular,2026-11-13T00:59:25.087803
+2026-11-13,,wrocław,Inna mamusia,Wrocław - Wroclavia,17:45,2D,,regular,2026-11-13T00:59:25.087810
+2026-11-13,,wrocław,Maraton Igrzysk śmierci,Wrocław - Wroclavia,18:00,2D,,regular,2026-11-13T00:59:25.087818
+2026-11-13,,wrocław,Maraton Igrzysk śmierci,Wrocław - Wroclavia,18:10,2D,,regular,2026-11-13T00:59:25.087825
+2026-11-13,,wrocław,Jak obrabować bank,Wrocław - Wroclavia,18:10,4DX,,regular,2026-11-13T00:59:25.087832
+2026-11-13,,wrocław,GEORGE MICHAEL: THE FAITH TOUR,Wrocław - Wroclavia,18:25,2D,,regular,2026-11-13T00:59:25.087839
+2026-11-13,,wrocław,Nasza rewolucja,Wrocław - Wroclavia,18:30,2D,original,regular,2026-11-13T00:59:25.087846
+2026-11-13,,wrocław,Nikt nie wie,Wrocław - Wroclavia,19:00,2D,,regular,2026-11-13T00:59:25.087853
+2026-11-13,,wrocław,Jak obrabować bank,Wrocław - Wroclavia,19:10,2D,,regular,2026-11-13T00:59:25.087861
+2026-11-13,,wrocław,Godzilla Minus Zero,Wrocław - Wroclavia,19:10,2D,,regular,2026-11-13T00:59:25.087868
+2026-11-13,,wrocław,Ebenezer Scrooge. Opowieść wigilijna,Wrocław - Wroclavia,19:20,2D,,regular,2026-11-13T00:59:25.087875
+2026-11-13,,wrocław,Ebenezer Scrooge. Opowieść wigilijna,Wrocław - Wroclavia,19:30,2D,,regular,2026-11-13T00:59:25.087882
+2026-11-13,,wrocław,Dziki koń dziewięć,Wrocław - Wroclavia,19:30,2D,,regular,2026-11-13T00:59:25.087889
+2026-11-13,,wrocław,Ramajana. Narodziny legendy,Wrocław - Wroclavia,19:50,IMAX,,regular,2026-11-13T00:59:25.087895
+2026-11-13,,wrocław,Clayface,Wrocław - Wroclavia,20:00,2D,,regular,2026-11-13T00:59:25.087902
+2026-11-13,,wrocław,Lalka,Wrocław - Wroclavia,20:00,2D,original,regular,2026-11-13T00:59:25.087909
+2026-11-13,,wrocław,Resident Evil,Wrocław - Wroclavia,20:00,2D,,regular,2026-11-13T00:59:25.087915
+2026-11-13,,wrocław,Przepis na święta,Wrocław - Wroclavia,20:00,2D,original,regular,2026-11-13T00:59:25.087922
+2026-11-13,,wrocław,Victorian Psycho,Wrocław - Wroclavia,20:15,2D,,regular,2026-11-13T00:59:25.087928
+2026-11-13,,wrocław,Godzilla Minus Zero,Wrocław - Wroclavia,20:50,4DX,,regular,2026-11-13T00:59:25.087935
+2026-11-13,,wrocław,Karaoke Murder,Wrocław - Wroclavia,21:00,2D,,regular,2026-11-13T00:59:25.087941
+2026-11-13,,wrocław,Zobaczysz wszystko,Wrocław - Wroclavia,21:00,2D,,regular,2026-11-13T00:59:25.087948
+2026-11-13,,wrocław,Nasza rewolucja,Wrocław - Wroclavia,21:20,2D,original,regular,2026-11-13T00:59:25.087955
+2026-11-13,,wrocław,Ebenezer Scrooge. Opowieść wigilijna,Wrocław - Wroclavia,22:00,2D,,regular,2026-11-13T00:59:25.087962
+2026-11-13,,wrocław,Jak obrabować bank,Wrocław - Wroclavia,22:00,2D,,regular,2026-11-13T00:59:25.087969
+2026-11-13,,wrocław,Godzilla Minus Zero,Wrocław - Wroclavia,22:05,2D,,regular,2026-11-13T00:59:25.087977
+2026-11-13,,wrocław,Ebenezer Scrooge. Opowieść wigilijna,Wrocław - Wroclavia,22:10,2D,,regular,2026-11-13T00:59:25.087984
+2026-11-13,,wrocław,Inna mamusia,Wrocław - Wroclavia,22:10,2D,,regular,2026-11-13T00:59:25.087990
+2026-11-13,,wrocław,Lachtara. Tęsknota,Wrocław - Wroclavia,22:10,2D,original,regular,2026-11-13T00:59:25.087998
+2026-11-13,,wrocław,Dziki koń dziewięć,Wrocław - Wroclavia,22:15,2D,,regular,2026-11-13T00:59:25.088005
+2026-11-13,,wrocław,Clayface,Wrocław - Wroclavia,22:30,2D,,regular,2026-11-13T00:59:25.088012
+2026-11-13,,wrocław,Victorian Psycho,Wrocław - Wroclavia,22:30,2D,,regular,2026-11-13T00:59:25.088019
+2026-11-13,,wrocław,Przepis na święta,Wrocław - Wroclavia,22:30,2D,original,regular,2026-11-13T00:59:25.088026
+2026-11-13,,zielona-góra,Kot Prot,Zielona Góra,10:00,2D,,regular,2026-11-13T00:59:26.249995
+2026-11-13,,zielona-góra,Baranek Shaun i kudłata bestia,Zielona Góra,10:00,2D,,regular,2026-11-13T00:59:26.250025
+2026-11-13,,zielona-góra,Niesamowite przygody skarpetek 4: Do roboty!,Zielona Góra,10:20,2D,,regular,2026-11-13T00:59:26.250034
+2026-11-13,,zielona-góra,Nasza rewolucja,Zielona Góra,10:30,2D,original,regular,2026-11-13T00:59:26.250043
+2026-11-13,,zielona-góra,Kot Prot,Zielona Góra,10:40,2D,,regular,2026-11-13T00:59:26.250050
+2026-11-13,,zielona-góra,Baranek Shaun i kudłata bestia,Zielona Góra,11:10,2D,,regular,2026-11-13T00:59:26.250058
+2026-11-13,,zielona-góra,Przepis na święta,Zielona Góra,11:30,2D,original,regular,2026-11-13T00:59:26.250067
+2026-11-13,,zielona-góra,Kot Prot,Zielona Góra,11:35,2D,,regular,2026-11-13T00:59:26.250073
+2026-11-13,,zielona-góra,Niesamowite przygody skarpetek 4: Do roboty!,Zielona Góra,12:00,2D,,regular,2026-11-13T00:59:26.250080
+2026-11-13,,zielona-góra,Baranek Shaun i kudłata bestia,Zielona Góra,12:00,2D,,regular,2026-11-13T00:59:26.250087
+2026-11-13,,zielona-góra,Kot Prot,Zielona Góra,12:40,3D,,regular,2026-11-13T00:59:26.250093
+2026-11-13,,zielona-góra,Kot Prot,Zielona Góra,13:10,2D,,regular,2026-11-13T00:59:26.250100
+2026-11-13,,zielona-góra,Dziki koń dziewięć,Zielona Góra,13:10,2D,,regular,2026-11-13T00:59:26.250108
+2026-11-13,,zielona-góra,Nasza rewolucja,Zielona Góra,13:20,2D,original,regular,2026-11-13T00:59:26.250115
+2026-11-13,,zielona-góra,Lalka,Zielona Góra,13:40,2D,original,regular,2026-11-13T00:59:26.250123
+2026-11-13,,zielona-góra,Przepis na święta,Zielona Góra,14:00,2D,original,regular,2026-11-13T00:59:26.250129
+2026-11-13,,zielona-góra,Baranek Shaun i kudłata bestia,Zielona Góra,14:00,2D,,regular,2026-11-13T00:59:26.250136
+2026-11-13,,zielona-góra,Ebenezer Scrooge. Opowieść wigilijna,Zielona Góra,14:10,2D,,regular,2026-11-13T00:59:26.250144
+2026-11-13,,zielona-góra,Struś Pędziwiatr i zemsta Kojota,Zielona Góra,14:10,2D,,regular,2026-11-13T00:59:26.250154
+2026-11-13,,zielona-góra,Godzilla Minus Zero,Zielona Góra,15:15,2D,,regular,2026-11-13T00:59:26.250163
+2026-11-13,,zielona-góra,Kot Prot,Zielona Góra,15:40,2D,,regular,2026-11-13T00:59:26.250169
+2026-11-13,,zielona-góra,Dziki koń dziewięć,Zielona Góra,15:50,2D,,regular,2026-11-13T00:59:26.250177
+2026-11-13,,zielona-góra,Victorian Psycho,Zielona Góra,16:00,2D,,regular,2026-11-13T00:59:26.250184
+2026-11-13,,zielona-góra,Nasza rewolucja,Zielona Góra,16:10,2D,original,regular,2026-11-13T00:59:26.250191
+2026-11-13,,zielona-góra,Przepis na święta,Zielona Góra,16:30,2D,original,regular,2026-11-13T00:59:26.250198
+2026-11-13,,zielona-góra,Kot Prot,Zielona Góra,16:30,2D,,regular,2026-11-13T00:59:26.250205
+2026-11-13,,zielona-góra,Ebenezer Scrooge. Opowieść wigilijna,Zielona Góra,16:50,2D,,regular,2026-11-13T00:59:26.250212
+2026-11-13,,zielona-góra,Zobaczysz wszystko,Zielona Góra,17:10,2D,,regular,2026-11-13T00:59:26.250220
+2026-11-13,,zielona-góra,Maraton Igrzysk śmierci,Zielona Góra,18:00,2D,,regular,2026-11-13T00:59:26.250230
+2026-11-13,,zielona-góra,Jak obrabować bank,Zielona Góra,18:10,2D,,regular,2026-11-13T00:59:26.250239
+2026-11-13,,zielona-góra,Victorian Psycho,Zielona Góra,18:10,2D,,regular,2026-11-13T00:59:26.250245
+2026-11-13,,zielona-góra,Dziki koń dziewięć,Zielona Góra,18:30,2D,,regular,2026-11-13T00:59:26.250252
+2026-11-13,,zielona-góra,Nasza rewolucja,Zielona Góra,19:00,2D,original,regular,2026-11-13T00:59:26.250258
+2026-11-13,,zielona-góra,Przepis na święta,Zielona Góra,19:00,2D,original,regular,2026-11-13T00:59:26.250274
+2026-11-13,,zielona-góra,Clayface,Zielona Góra,19:00,2D,,regular,2026-11-13T00:59:26.250284
+2026-11-13,,zielona-góra,Ebenezer Scrooge. Opowieść wigilijna,Zielona Góra,19:30,2D,,regular,2026-11-13T00:59:26.250291
+2026-11-13,,zielona-góra,GEORGE MICHAEL: THE FAITH TOUR,Zielona Góra,20:20,2D,,regular,2026-11-13T00:59:26.250299
+2026-11-13,,zielona-góra,Zobaczysz wszystko,Zielona Góra,20:45,2D,,regular,2026-11-13T00:59:26.250306
+2026-11-13,,zielona-góra,Jak obrabować bank,Zielona Góra,21:00,2D,,regular,2026-11-13T00:59:26.250313
+2026-11-13,,zielona-góra,Dziki koń dziewięć,Zielona Góra,21:10,2D,,regular,2026-11-13T00:59:26.250319
+2026-11-13,,zielona-góra,Przepis na święta,Zielona Góra,21:30,2D,original,regular,2026-11-13T00:59:26.250325
+2026-11-13,,zielona-góra,Clayface,Zielona Góra,21:30,2D,,regular,2026-11-13T00:59:26.250332
+2026-11-13,,zielona-góra,Nasza rewolucja,Zielona Góra,21:50,2D,original,regular,2026-11-13T00:59:26.250339
+2026-11-13,,zielona-góra,Ebenezer Scrooge. Opowieść wigilijna,Zielona Góra,22:10,2D,,regular,2026-11-13T00:59:26.250345
